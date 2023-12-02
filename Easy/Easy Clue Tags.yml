@@ -35,7 +35,7 @@ VARR: court crate,	2709
 DIA 1: up	,	2710
 ARDY: church,	2711
 ROW 3: house w,	2712
-COMBAT 2: w,	2713
+COMB 2: w,	2713
 SENN: mine	,	2716
 SKULL: stones right,	2719
 GAME 1: house,	3490
@@ -106,7 +106,7 @@ GLORY 1: Doris,	12173
 GLORY 1: coffin,	12174
 SENN: bush	,	12175
 VARR: w,		12176
-COMBAT 3: bookshelf,	12177
+COMB 3: bookshelf,	12177
 SKIL 2: n	,	12178
 ROTE 4: dig	,	12179
 FALLY: Cassie,	12181
@@ -157,5 +157,5 @@ SKIL 3: chainmain talk,	23163
 SENN: leaflet,	23164
 GAME 1: Turael,	23165
 DIA D: Cook	,	23166
-XER 4: molch,	25788
+XER 4: cata giant,	25788
 XER 2: ne crate,	25789
