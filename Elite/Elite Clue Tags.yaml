@@ -2,7 +2,7 @@ E CLUES	,	000000
 W ARDY: church,	12073
 LYRE 3: runite,	12074
 REV: nw	,	12075
-SKIL 1: visibility,	12076
+SKIL 1: vis ring,	12076
 WARR: stash	,	12077
 COMB 3: up	,	12078
 QPC: platform,	12079
@@ -14,9 +14,9 @@ ECTO: dtooth ne,	12085
 MOS LE: island	,	12086
 DKS: n	,	12087
 HARM: e	,	12088
-LLETYA: se	,	12089
+CRYS: se	,	12089
 HILT: ice path,	12090
-DRAK 1: sw	,	12091
+LEGS: meiyer	,	12091
 LUNAR: w	,	12092
 OBEL 6: volcano,	12093
 LYRE 3: e	,	12094
@@ -37,30 +37,30 @@ ALQ: ship	,	12108
 HUNT 2: ne	,	12109
 TAI BWO: ne	,	12110
 IORW: nw	,	12111
-12113	,	12113
-12114	,	12114
-12115	,	12115
+HEAD: Sherlock	,	12113
+HEAD: Sherlock	,	12114
+HEAD: Sherlock	,	12115
 HEAD: Sherlock	,	12116
-12117	,	12117
-12118	,	12118
-12119	,	12119
-12120	,	12120
-12121	,	12121
-HEAD:	,	12122
-12123	,	12123
-12124	,	12124
-12125	,	12125
-12126	,	12126
+HEAD: Sherlock	,	12117
+HEAD: Sherlock	,	12118
+HEAD: Sherlock	,	12119
+HEAD: Sherlock	,	12120
+HEAD: Sherlock	,	12121
+HEAD: Sherlock	,	12122
+HEAD: Sherlock	,	12123
+HEAD: Sherlock	,	12124
+HEAD: Sherlock	,	12125
+HEAD: Sherlock	,	12126
 HEAD: Sherlock	,	12127
 CIQ: w	,	12130
 LUNAR: se	,	12132
 DORG: ne	,	12133
 RESP: Mandrith,	12134
-LLETYA: Oronwen,	12135
+CRYS: Oronwen,	12135
 DUEL 1: Cam	,	12136
 BOOT: Sigli	,	12137
 FENKEN: ne	,	12138
-LLETYA: Mawrth,	12140
+CRYS: Mawrth,	12140
 HILT: sled dig	,	12141
 WATER: w	,	12142
 BANN: furnace	,	12143
@@ -83,7 +83,7 @@ ROW 3: Wyson	,	12159
 KHAZ: dive	,	19782
 ZUL: dig	,	19783
 DIA E: soul altar,	19784
-LEG: se	,	19785
+LEGS: se	,	19785
 NEX APE: w crate	,	19786
 HILT: sled stash	,	19787
 DJR: se stash	,	19788
@@ -112,7 +112,7 @@ LEG: batta	,	19810
 PEST: Veteran	,	19811
 CON 5: e	,	19813
 DIGS 1: e	,	21524
-DIGS 2: VM	,	21525
+DIGS 2: vm	,	21525
 DIGS 3: up	,	22000
 RESP: Resource,	23144
 DLR: dig	,	23145
@@ -126,7 +126,7 @@ GLORY 1: portal w,	25498
 BJP: e	,	25499
 CON 5: sw	,	25786
 XER 5: GUIDE 1,	25787
-26943	,	26943
+ROW 3: song	,	26943
 PHAR 4: s	,	26944
 E CHALLENGE,	000000
 ALQ: skullball,	12128
