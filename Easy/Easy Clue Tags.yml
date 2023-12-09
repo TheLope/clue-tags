@@ -5,21 +5,21 @@ DIA B: goblin,	2679
 GLORY 4: up	,	2680
 LUMBY: Hans	,	2681
 DUEL 1: sw	,	2682
-GLORY 4: Zeke,	2683
-GLORY 4: tanner,	2684
+GLORY 4: n Zeke,	2683
+GLORY 4: n Ellis,	2684
 VARR: s	,	2685
-DIA D: bartender,	2686
+DIA D: Bartender,	2686
 VARR: e	,	2687
 VARR: armor,	2688
 SKIL 4: Gertrude,	2689
 SKULL: left	,	2690
 FALLY: Cassie up,	2691
 FALLY: n crate,	2692
-DIA 3: squire,	2693
-SKIL 3: chainmail left,	2694
-CON 2: fishy	,	2695
-EXPL: rusty	,	2696
-GLORY 3: ned,	2697
+DIA 3: Squire,	2693
+SKIL 3: chains l,	2694
+CON 2: e fish,	2695
+EXPL: Bartender,	2696
+GLORY 3: Ned,	2697
 CON 3: Doric	,	2698
 CON 3: Gaius	,	2699
 CATH: archer,	2700
@@ -30,14 +30,14 @@ ARDY: nw crate,	2704
 ARDY: crate	,	2705
 ARDY: church s,	2706
 SKIL 1: s	,	2707
-VARR: cloths,	2708
-VARR: court crate,	2709
+VARR: clothes up,	2708
+VARR: n crate,	2709
 DIA 1: up	,	2710
 ARDY: church,	2711
 ROW 3: house w,	2712
-COMB 2: w,	2713
+COMB 2: w	,	2713
 SENN: mine	,	2716
-SKULL: stones right,	2719
+SKULL: stones r,	2719
 GAME 1: house,	3490
 WATCH: piano,	3491
 WATCH: hunter,	3492
@@ -64,17 +64,17 @@ MUSIC: house,	3513
 DUEL 1: e	,	3514
 VARR: castle crate,	3515
 COMB 4: nw far,	3516
-PASS 1: fairy ring,	3518
+PASS 1: s dig,	3518
 FALLY: n dig	,	7236
 DIA C: e	,	7238
-ROTE 2: stash,	10180
-PASS 1: stash,	10182
+ROTE 2: shack,	10180
+PASS 1: n stash,	10182
 GLORY 3: w stash,	10184
-ROTE 3: limestone stash,	10186
+ROTE 3: e mine stash,	10186
 BLR: stash	,	10188
 AIQ: stash	,	10190
-TREE 7: stash,	10192
-ROTE 4: stash,	10194
+TREE 7: s stash,	10192
+ROTE 4: nw stash,	10194
 MANOR: stash,	10196
 GLORY 3: ne stash,	10198
 GLORY 3: n stash,	10200
@@ -84,13 +84,13 @@ SKIL 1: windmill stash,	10206
 SKIL 2: party stash,	10208
 CON 3: circle stash,	10210
 GAME 1: naked,	10212
-DIA 5: stash	,	10214
+DIA 5: e stash,	10214
 ARDY: zoo stash,	10216
 ROTE 1: stash,	10218
 SKIL 1: stash,	10220
-HEAD: stash	,	10222
+HEAD: e stash,	10222
 KHAZ: naked,	10224
-MUSIC: stash,	10226
+MUSIC: e stash,	10226
 SENN: exam stash,	10228
 ROTE 3: lumber stash,	10230
 DUEL 1: stash,	10232
@@ -100,7 +100,7 @@ ROTE 2: father left,	12166
 PASS 1: bookshelf,	12167
 GLORY 3: witch,	12168
 SKIL 2: party up,	12169
-SKULL: rocks left,	12170
+SKULL: stones l,	12170
 SKULL: right	,	12172
 GLORY 1: Doris,	12173
 GLORY 1: coffin,	12174
@@ -116,11 +116,11 @@ CON 3: Jatix	,	12184
 GAME 1: pub	,	12185
 EXPL: Sarah	,	12186
 FALLY: Rusty,	12187
-EXPL: mage	,	12188
+EXPL: sw water,	12188
 CON 2: mine crate,	12189
 SKIL 3: balloon,	12190
 CON 3: climb	,	12191
-DIA 2: piss off shanty,	12192
+DIA 2: Shanty jail,	12192
 LUMBY: dig	,	19814
 PADD: ne	,	19816
 VARR: Apothecary,	19817
@@ -130,7 +130,7 @@ XER 2: church,	19820
 BOOK 2: North,	19821
 CON 2: Chemist,	19822
 MANOR: Lepruchan,	19823
-ROTE 1: face	,	19824
+ROTE 1: Face	,	19824
 SKIL 5: salt	,	19825
 XER 4: dig	,	19826
 DIA F: s	,	19828
@@ -153,7 +153,7 @@ ROW 3: song,	23159
 ROW 3: song,	23160
 TREE 7: pisc	,	23161
 GLORY 3: Morgan,	23162
-SKIL 3: chainmain talk,	23163
+SKIL 3: chains talk,	23163
 SENN: leaflet,	23164
 GAME 1: Turael,	23165
 DIA D: Cook	,	23166
