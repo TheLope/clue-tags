@@ -11,7 +11,7 @@ TROL: stash	,	12081
 GAME 1: hero,	12082
 GAME 2: stash,	12083
 ECTO: dtooth ne,	12085
-MOS LE: island	,	12086
+MOS LE: island,	12086
 DKS: n	,	12087
 HARM: e	,	12088
 CRYS: se	,	12089
@@ -21,7 +21,7 @@ LUNAR: w	,	12092
 OBEL 6: volcano,	12093
 LYRE 3: e	,	12094
 RESP: resource,	12095
-NEX APE: w dig	,	12096
+NEX APE: w dig,	12096
 ICE: agi	,	12097
 GLIDE Leman: w,	12098
 PHAR 3: s	,	12099
@@ -37,21 +37,21 @@ ALQ: ship	,	12108
 HUNT 2: ne	,	12109
 TAI BWO: ne	,	12110
 IORW: nw	,	12111
-HEAD: Sherlock	,	12113
-HEAD: Sherlock	,	12114
-HEAD: Sherlock	,	12115
-HEAD: Sherlock	,	12116
-HEAD: Sherlock	,	12117
-HEAD: Sherlock	,	12118
-HEAD: Sherlock	,	12119
-HEAD: Sherlock	,	12120
-HEAD: Sherlock	,	12121
-HEAD: Sherlock	,	12122
-HEAD: Sherlock	,	12123
-HEAD: Sherlock	,	12124
-HEAD: Sherlock	,	12125
-HEAD: Sherlock	,	12126
-HEAD: Sherlock	,	12127
+HEAD: Sherlock,	12113
+HEAD: Sherlock,	12114
+HEAD: Sherlock,	12115
+HEAD: Sherlock,	12116
+HEAD: Sherlock,	12117
+HEAD: Sherlock,	12118
+HEAD: Sherlock,	12119
+HEAD: Sherlock,	12120
+HEAD: Sherlock,	12121
+HEAD: Sherlock,	12122
+HEAD: Sherlock,	12123
+HEAD: Sherlock,	12124
+HEAD: Sherlock,	12125
+HEAD: Sherlock,	12126
+HEAD: Sherlock,	12127
 CIQ: w	,	12130
 LUNAR: se	,	12132
 DORG: ne	,	12133
@@ -63,7 +63,7 @@ FENKEN: ne	,	12138
 CRYS: Mawrth,	12140
 HILT: sled dig	,	12141
 WATER: w	,	12142
-BANN: furnace	,	12143
+BANN: furnace,	12143
 WARR: up	,	12144
 SEER: agi	,	12145
 BIP: dig	,	12146
@@ -79,37 +79,37 @@ DIA C: Barker	,	12155
 CON 3: stones,	12156
 WATCH: nmz	,	12157
 D AMU Cave: in,	12158
-ROW 3: Wyson	,	12159
+ROW 3: Wyson,	12159
 KHAZ: dive	,	19782
 ZUL: dig	,	19783
 DIA E: soul altar,	19784
 LEGS: se	,	19785
-NEX APE: w crate	,	19786
-HILT: sled stash	,	19787
-DJR: se stash	,	19788
+NEX APE: w crate,	19786
+HILT: sled stash,	19787
+DJR: se stash,	19788
 QPC: stash	,	19789
 ARDY: stash	,	19790
-WATCH: n pub	,	19791
+WATCH: n pub,	19791
 SLAY 1: Venmeldo,	19792
 BOOK 5: se	,	19793
-DJR: se talk,	19794
+DJR: se talk	,	19794
 LYRE 3: Lisse,	19795
 DKS: crab	,	19796
 XER 4: hellhound,	19797
 GAME 2: waterfiend,	19798
 GAME 3: green dragon,	19799
 SLAY 3: basilisk,	19800
-SLAY 1: bloodveld	,	19801
-SLAY 1: spectre	,	19802
-HILT: aviansie	,	19803
+SLAY 1: bloodveld,	19801
+SLAY 1: spectre,	19802
+HILT: aviansie,	19803
 NARDAH: croc,	19804
 XER 4: ankou,	19805
-GAME 1: cavern	,	19806
+GAME 1: cavern,	19806
 BURN 3: KBD	,	19807
-NEX MARIM: Daga	,	19808
+NEX MARIM: Daga,	19808
 WATER: dks	,	19809
 LEG: batta	,	19810
-PEST: Veteran	,	19811
+PEST: Veteran,	19811
 CON 5: e	,	19813
 DIGS 1: e	,	21524
 DIGS 2: vm	,	21525
@@ -129,5 +129,5 @@ XER 5: GUIDE 1,	25787
 ROW 3: song	,	26943
 PHAR 4: s	,	26944
 E CHALLENGE,	000000
-ALQ: skullball,	12128
--12139	,	12139
+Challenge	,	12128
+Challenge	,	12139
