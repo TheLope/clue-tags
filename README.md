@@ -1,20 +1,25 @@
 # Clue Tags
 
-All clue tiers except beginner and master have unique item IDs for each clue step.
+All clue tiers except beginner and master have unique item IDs for each clue step
 
-This allows us to provide hints on the clue item without requiring players to open the clue.
+This allows us to provide hints on the clue item without requiring players to open the clue
 
-## How To
+## Item Tags
 
-Paste the contents of the tag files into the *Custom Tags* section of [Custom Item Tags - Plugin Hub - RuneLite](https://runelite.net/plugin-hub/show/custom-item-tags)
+### How To
 
+Requires the [Custom Item Tags](https://runelite.net/plugin-hub/show/custom-item-tags) RuneLite plugin
+
+Paste the contents of the tag files into the *Custom Tags* section of of the plugin configuration
 - Multiple sets of tags can be used at once, simply paste the next set of tags on a new line
+
+![Item Tag Config](Docs/Item%20Tag%20Config.png)
 
 You should now see a tag on your current clue
 
-![Example](Docs/Example.png)
+![Item Tag Example](Docs/Item%20Tag%20Example.png)
 
-## Item Tags
+### Links
 
 [Easy Clue Tags](Easy/Easy%20Clue%20Tags.yml)
 
@@ -25,6 +30,20 @@ You should now see a tag on your current clue
 [Elite Clue Tags](Elite/Elite%20Clue%20Tags.yml)
 
 ## Gear Tags
+
+### How To
+
+Requires the [Bank tag layouts](https://runelite.net/plugin-hub/show/bank-tag-layouts) RuneLite plugin
+
+To import, right click the *New tag tab* button and select *Import tag tab with layout*
+
+![Bank Tag Import](Docs/Bank%20Tag%20Import.png)
+
+You should now see a new tag tab
+
+![Bank Tag Example](Docs/Bank%20Tag%20Example.png)
+
+### Links
 
 [Easy Gear Tags](Easy/Gear/README.md)
 
