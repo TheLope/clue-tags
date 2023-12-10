@@ -10,10 +10,11 @@ Paste the contents of the tag files into the *Custom Tags* section of [Custom It
 
 - Multiple sets of tags can be used at once, simply paste the next set of tags on a new line
 
-You should now see a tag on your current clue  
+You should now see a tag on your current clue
+
 ![Example](Docs/Example.png)
 
-## Tags
+## Item Tags
 
 [Easy Clue Tags](Easy/Easy%20Clue%20Tags.yml)
 
@@ -21,7 +22,17 @@ You should now see a tag on your current clue
 
 [Hard Clue Tags](Hard/Hard%20Clue%20Tags.yml)
 
-[Elite Clue Tags](Elite/Elite%20Clue%20Tags.yaml)
+[Elite Clue Tags](Elite/Elite%20Clue%20Tags.yml)
+
+## Gear Tags
+
+[Easy Gear Tags](Easy/Gear/README.md)
+
+[Medium Gear Tags](Medium/Gear/README.md)
+
+[Hard Gear Tags](Hard/Gear/README.md)
+
+[Elite Gear Tags](Elite/Gear/README.md)
 
 ## Notes
 
