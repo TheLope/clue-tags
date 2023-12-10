@@ -45,6 +45,8 @@ You should now see a new tag tab
 
 ### Links
 
+[Beginner Gear Tags](Beginner/Gear/README.md)
+
 [Easy Gear Tags](Easy/Gear/README.md)
 
 [Medium Gear Tags](Medium/Gear/README.md)
@@ -52,6 +54,10 @@ You should now see a new tag tab
 [Hard Gear Tags](Hard/Gear/README.md)
 
 [Elite Gear Tags](Elite/Gear/README.md)
+
+[Master Gear Tags](Master/Gear/README.md)
+
+[Mimic Gear Tags](Mimic/Gear/README.md)
 
 ## Notes
 
