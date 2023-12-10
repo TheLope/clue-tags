@@ -11,6 +11,7 @@ Paste the contents of the tag files into the *Custom Tags* section of [Custom It
 - Multiple sets of tags can be used at once, simply paste the next set of tags on a new line
 
 You should now see a tag on your current clue
+
 ![Example](Docs/Example.png)
 
 ## Item Tags
