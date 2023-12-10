@@ -57,6 +57,8 @@ You should now see a new tag tab
 
 [Master Gear Tags](Master/Gear/README.md)
 
+[Mimic Gear Tags](Mimic/Gear/README.md)
+
 ## Notes
 
 Work in progress
