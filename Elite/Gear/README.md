@@ -1,6 +1,8 @@
 ## [Elite Gear Tags](Elite%20Gear%20Tags.txt)
 Credit to Chung Us
-
+- There's enough space to withdraw the Main Loadout then the Gear at the start of the clue, you can gear up on the way to the first step
+- Bank inventory but not gear for wildy steps
+- Can bank gear for underwater step and keep inventory intact, you'll be under the max weight. Bank at Shanty Pass after
 
 ![Elite Gear](../../Docs/Elite%20Gear.png)
 
