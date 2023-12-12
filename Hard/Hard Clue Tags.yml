@@ -132,16 +132,16 @@ LYRE 3: Mawnis,	19856
 PASS 1: up	,	19857
 TREE 1: talk,	19858
 DIA 2: ne	,	19860
-AIQ:	,	19862
-AIR:	,	19864
-ALP:	,	19866
-BIP:	,	19868
-BJR:	,	19870
-BLP:	,	19872
-CKP:	,	19874
-DIP:	,	19876
-DKS:	,	19878
-CIS:	,	19880
+AIQ: dig	,	19862
+AIR: dig	,	19864
+ALP: dig	,	19866
+BIP: dig	,	19868
+BJR: dig	,	19870
+BLP: dig	,	19872
+CKP: dig	,	19874
+DIP: dig	,	19876
+DKS: dig	,	19878
+CIS: dig	,	19880
 GLORY 1: down,	19882
 MARIM: s	,	19884
 DIA B: talk	,	19886
