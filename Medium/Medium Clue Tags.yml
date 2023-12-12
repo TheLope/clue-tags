@@ -20,7 +20,7 @@ ARDY: guard	,	2835
 COMB 4: chicken,	2837
 WATCH: man	,	2839
 CLS: up	,	2841
-LUMBY: Cook	,	2843
+LUMB: Cook	,	2843
 CLOAK 1: zoo,	2845
 DIA D: archer,	2847
 TREE 9: cart	,	2848
@@ -115,7 +115,7 @@ DIA D: Baraek,	12057
 SLAY 1: Steve,	12059
 CON 2: e	,	12061
 CON 2: w	,	12063
-FALADOR: pub,	12065
+FALLY: pub,	12065
 CATH: archer talk,	12067
 CAMELOT: court,	12069
 GAME 1: up	,	12071
