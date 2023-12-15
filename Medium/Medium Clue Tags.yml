@@ -25,7 +25,7 @@ CLOAK 1: zoo,	2845
 DIA D: archer,	2847
 TREE 9: cart	,	2848
 GLORY 4: nw	,	2849
-LASSAR: n	,	2851
+LASS: n	,	2851
 DIA F: ball	,	2853
 MUSIC: house,	2855
 SKIL 2: party,	2856
@@ -56,7 +56,7 @@ KHAR: pub	,	3615
 ROTE 4: e	,	3616
 DIA 6: w	,	3617
 AKS: ne	,	3618
-BOOTS: hall	,	7274
+BOOT: hall	,	7274
 TAI BWO: talk	,	7276
 W ARDY: e	,	7278
 QPC: Carol	,	7280
@@ -68,7 +68,7 @@ OURAN: dig	,	7290
 DIA 4: w	,	7292
 MUSIC: nw	,	7294
 SKULL: barbarian,	7296
-BOOTS: guard,	7298
+BOOT: guard,	7298
 QPC: Jeb	,	7300
 PASS 1: wizard,	7301
 CON 4: camp	,	7303
@@ -76,7 +76,7 @@ COMB 4: guild,	7304
 ROW 1: n	,	7305
 AKS: n	,	7307
 DKP: dig	,	7309
-LASSAR: dig	,	7311
+LASS: dig	,	7311
 ROTE 2: se	,	7313
 SLAY 3: nw	,	7315
 TAI BWO: se far,	7317
@@ -123,7 +123,7 @@ DJR: e	,	19734
 WATCH: nmz	,	19736
 XER 2: e	,	19738
 CIS: mine	,	19740
-LIBRARY: Horphis,	19742
+A LIB: Horphis,	19742
 BOOK 2: se	,	19744
 DIA B: Father,	19746
 GAME 1: Dunstan,	19748
@@ -133,7 +133,7 @@ DIA 3: Squire,	19754
 XER 2: sw	,	19756
 DIA E: abyss soul,	19758
 XER 4: giant	,	19760
-LIBRARY: Grackle,	19762
+A LIB: Grackle,	19762
 PASS 1: Traiborn,	19764
 BOOK 2: e	,	19766
 CON 4: kebab,	19768
@@ -141,7 +141,7 @@ DIA B: tutor	,	19770
 DIA C: down	,	19772
 BOOK 3: s	,	19774
 DJR: cmb ring,	19776
-LIBRARY: stash,	19778
+A LIB: stash,	19778
 GLORY 3: jail,	19780
 RADA 2: n	,	23046
 BOOK 2: ne	,	23131
