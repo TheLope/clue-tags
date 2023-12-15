@@ -6,14 +6,14 @@ GLORY 4: up	,	2680
 LUMBY: Hans	,	2681
 DUEL 1: sw crate,	2682
 GLORY 4: n Zeke,	2683
-GLORY 4: n Ellis,	2684
+GLORY 4: nw Ellis,	2684
 COMB 2: ne box,	2685
 DIA D: Bartend,	2686
 DIA D: e bank up,	2687
-DIA D: armor	,	2688
+DIA D: armor crates,	2688
 SKIL 4: Gertrude,	2689
 SKULL: left	,	2690
-FALLY: Cassie up,	2691
+FALLY: shield up,	2691
 FALLY: n crate,	2692
 DIA 3: Squire,	2693
 SKIL 3: chains l,	2694
@@ -27,7 +27,7 @@ CATH: Arhein	,	2701
 CAMELOT: court,	2702
 CAMELOT: up	,	2703
 ARDY: nw crate,	2704
-ARDY: crate	,	2705
+ARDY: box	,	2705
 ARDY: church s,	2706
 SKIL 1: s crate,	2707
 VARR: clothes up,	2708
@@ -47,7 +47,7 @@ CON 2: food	,	3495
 TREE 7: Captain,	3496
 ROW 3: house n up,	3497
 ROW 3: house s,	3498
-CON 3: sword crate,	3499
+CON 3: sword box,	3499
 CON 3: s crate,	3500
 DUEL 1: s box,	3501
 MANOR: top	,	3502
@@ -129,7 +129,7 @@ FALLY: s gem,	19819
 XER 2: church,	19820
 BOOK 2: North,	19821
 CON 2: Chemist,	19822
-MANOR: Lepruchan,	19823
+MANOR: Lep	,	19823
 ROTE 1: Face	,	19824
 SKIL 5: salt	,	19825
 XER 4: dig	,	19826
@@ -142,8 +142,8 @@ TREE 5: se dig,	22001
 CON 3: crystal,	23149
 ROTE 2: father r,	23150
 GLORY 3: ne farm,	23151
-VARR: armor,	23152
-CON 2: crafty crate,	23153
+DIA D: armor crate,	23152
+CON 2: craft crate,	23153
 FALLY: n crate,	23154
 ROW 3: song,	23155
 ROW 3: song,	23156
@@ -157,5 +157,5 @@ SKIL 3: chains talk,	23163
 SENN: Leaflet,	23164
 GAME 1: Turael,	23165
 DIA D: Cook	,	23166
-XER 4: cata giant,	25788
+XER 4: cata w vine,	25788
 XER 2: ne crate,	25789
