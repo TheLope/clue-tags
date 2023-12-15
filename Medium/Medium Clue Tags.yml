@@ -68,7 +68,7 @@ OURAN: dig	,	7290
 DIA 4: w	,	7292
 MUSIC: nw	,	7294
 SKULL: barbarian,	7296
-BOOT: guard,	7298
+BOOT: guard	,	7298
 QPC: Jeb	,	7300
 PASS 1: wizard,	7301
 CON 4: camp	,	7303
@@ -141,7 +141,7 @@ DIA B: tutor	,	19770
 DIA C: down	,	19772
 BOOK 3: s	,	19774
 DJR: cmb ring,	19776
-A LIB: stash,	19778
+A LIB: stash	,	19778
 GLORY 3: jail,	19780
 RADA 2: n	,	23046
 BOOK 2: ne	,	23131
