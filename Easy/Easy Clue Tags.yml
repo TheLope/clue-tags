@@ -10,7 +10,7 @@ GLORY 4: nw Ellis,	2684
 COMB 2: ne box,	2685
 DIA D: Bartend,	2686
 DIA D: e bank up,	2687
-DIA D: armor crates,	2688
+DIA D: armor crate,	2688
 SKIL 4: Gertrude,	2689
 SKULL: left	,	2690
 FALLY: shield up,	2691
@@ -43,12 +43,12 @@ WATCH: piano,	3491
 WATCH: hunter,	3492
 SKIL 2: disk	,	3493
 CON 2: witch up,	3494
-CON 2: food	,	3495
+CON 2: e food up,	3495
 TREE 7: Captain,	3496
 ROW 3: house n up,	3497
 ROW 3: house s,	3498
 CON 3: sword box,	3499
-CON 3: s crate,	3500
+CON 3: s drawer,	3500
 DUEL 1: s box,	3501
 MANOR: top	,	3502
 GAME 1: army,	3503
@@ -107,7 +107,7 @@ GLORY 1: coffin,	12174
 SENN: bush	,	12175
 VARR: w down,	12176
 COMB 3: bookshelf,	12177
-SKIL 2: n crate,	12178
+LASS: mine crate,	12178
 ROTE 4: dig	,	12179
 FALLY: Cassie,	12181
 DIA 3: Ambassad,	12182
@@ -117,14 +117,14 @@ GAME 1: pub	,	12185
 EXPL: Sarah	,	12186
 FALLY: Rusty,	12187
 EXPL: sw water,	12188
-CON 2: mine crate,	12189
+CON 2: mine wheel,	12189
 SKIL 3: balloon,	12190
 CON 3: climb	,	12191
 DIA 2: Shanty jail,	12192
 LUMBY: dig	,	19814
 PADD: Vannaka,	19816
 VARR: Apothecary,	19817
-CON 5: s crate,	19818
+CON 5: s drawer,	19818
 FALLY: s gem,	19819
 XER 2: church,	19820
 BOOK 2: North,	19821
@@ -144,7 +144,7 @@ ROTE 2: father r,	23150
 GLORY 3: ne farm,	23151
 DIA D: armor crate,	23152
 CON 2: craft crate,	23153
-FALLY: n crate,	23154
+FALLY: nw crate,	23154
 ROW 3: song,	23155
 ROW 3: song,	23156
 ROW 3: song,	23157
