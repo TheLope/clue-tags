@@ -31,7 +31,7 @@ ARDY: crate	,	2705
 ARDY: church s,	2706
 SKIL 1: s crate,	2707
 VARR: clothes up,	2708
-VARR: n crate,	2709
+VARR: court crate,	2709
 DIA 1: up	,	2710
 ARDY: church,	2711
 ROW 3: house w,	2712
@@ -47,7 +47,7 @@ CON 2: food	,	3495
 TREE 7: Captain,	3496
 ROW 3: house n up,	3497
 ROW 3: house s,	3498
-CON 3: gaius crate,	3499
+CON 3: sword crate,	3499
 CON 3: s crate,	3500
 DUEL 1: s box,	3501
 MANOR: top	,	3502
@@ -70,7 +70,7 @@ DIA C: e crate,	7238
 ROTE 2: shack,	10180
 PASS 1: n stash,	10182
 GLORY 3: w stash,	10184
-ROTE 3: e mine stash,	10186
+ROTE 3: e mine,	10186
 BLR: stash	,	10188
 AIQ: stash	,	10190
 TREE 7: s stash,	10192
@@ -80,7 +80,7 @@ GLORY 3: ne stash,	10198
 GLORY 3: n stash,	10200
 CON 2: mine stash,	10202
 VARR: castle stash,	10204
-SKIL 1: windmill stash,	10206
+SKIL 1: mill up,	10206
 SKIL 2: party stash,	10208
 CON 3: circle stash,	10210
 GAME 1: naked,	10212
@@ -110,8 +110,8 @@ COMB 3: bookshelf,	12177
 SKIL 2: n crate,	12178
 ROTE 4: dig	,	12179
 FALLY: Cassie,	12181
-DIA 3: Ambassador,	12182
-FALLY: Hairdresser,	12183
+DIA 3: Ambassad,	12182
+FALLY: Hairdress,	12183
 CON 3: Jatix	,	12184
 GAME 1: pub	,	12185
 EXPL: Sarah	,	12186
