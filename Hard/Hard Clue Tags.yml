@@ -5,7 +5,7 @@ ICE: n	,	2725
 RESP: web	,	2727
 RESP: hut	,	2729
 ANNA: dig	,	2731
-OBEL 4: hill	,	2733
+REV: hill	,	2733
 BURN 3: altar,	2735
 BURN 3: kbd	,	2737
 ICE: hideout	,	2739
@@ -22,30 +22,30 @@ LUMB: up	,	2782
 CLOAK: zoo	,	2783
 GLORY 3: mill	,	2785
 CARR: se dig	,	2786
-REV: ne	,	2788
+REV: +ne	,	2788
 PADD: dig	,	2790
 LUMB: Hans	,	2792
-COMB 3: talk	,	2793
+COMB 3: Abbot,	2793
 GLORY 1: nw	,	2794
 VARR: n	,	2796
 DIA D: Wilough,	2797
 GVS: talk	,	2799
 YANIL: anvil	,	3520
 W ARDY: nw	,	3522
-DUEL 2: n	,	3524
+OURAN: s crate,	3524
 BURN 2: sw	,	3525
 TROL: dig	,	3526
 NEX TROLL: e dig,	3528
 DIA 8: n	,	3530
-DIA 8: jung sw,	3532
-DIA 8: jung mid,	3534
-GLOVE: jung se,	3536
+DIA 8: +jung sw,	3532
+DIA 8: +jung mid,	3534
+GLOVE: se dig,	3536
 DKP: se	,	3538
 GLIDE Gand: w,	3540
 BIP: grotto	,	3542
 BKR: sw	,	3544
 CON 8: Gu'T	,	3546
-AKS: cave	,	3548
+GLIDE Undri: cave,	3548
 Unobtainable,	3550
 BIQ: sw dig	,	3552
 DUEL 1: e behind,	3554
@@ -57,11 +57,11 @@ BJS: n talk	,	3564
 SENN: Examiner,	3566
 DUEL 1: ne	,	3568
 GLIDE Sind: talk,	3570
-HEAD: s mage,	3572
-OTTO: e	,	3573
+CLOAK 2: s mage,	3572
+FISH 2: e	,	3573
 SKIL 1: nw	,	3574
 POD: up e	,	3575
-DIA: F: talk	,	3577
+DIA F: talk	,	3577
 CRAFT: entrana,	3579
 DIA 9: n	,	3580
 ICE: se	,	7239
@@ -71,21 +71,21 @@ MORT: dig	,	7245
 GEM: up	,	7247
 CAMU 2: n	,	7248
 EYE: book	,	7249
-SEER: key	,	7250
+SEER: +key	,	7250
 SKIL 2: cart	,	7251
 YANIL: agi	,	7252
 PASS 3: se	,	7253
 COMB 4: hay,	7254
 DIA 1: w	,	7255
 PASS 2: w	,	7256
-CAMU 2: nw	,	7258
-CEME: se	,	7260
+CAMU 2: nw dig,	7258
+CEME: se dig	,	7260
 DUEL 3: sw	,	7262
 BURN 1: ne s	,	7264
 DKS: w	,	7266
 DIA F: ball	,	7268
 TREE 1: w	,	7270
-DIA 6: talk	,	7272
+DIA 6: Cap'n	,	7272
 BURN 1: stash,	10234
 FISH 1: stash	,	10236
 ALP: stash	,	10238
@@ -97,7 +97,7 @@ AJR: stash	,	10248
 GLIDE Sind: stash,	10250
 GLOVE: stash,	10252
 SENN: stash	,	12542
-GLOVE: jung se,	12544
+GLOVE: se stash,	12544
 OBEL 6: stash,	12546
 DUEL 2: stash,	12548
 PHAR 2: stash,	12550
@@ -108,16 +108,16 @@ AIR: n dig	,	12558
 DIA 9: crand	,	12560
 LEGS: ne n	,	12562
 BURN 1: ne n	,	12564
-SKILL: mlm +pick,	12566
-BARRO: talk	,	12568
-GAME 1: down,	12570
+SKIL 2: mlm +pick,	12566
+BARRO: Old	,	12568
+GAME 1: Martin,	12570
 GLORY 3: Wise,	12572
 CLOAK: Omad,	12574
 DIA B: Doom	,	12576
-CON 7: sw	,	12578
+CON 7: Saniboch,	12578
 CATH: e	,	12581
 DIA 3: up	,	12584
-PHAR 1: talk	,	12587
+PHAR 1: Mummy,	12587
 SKULL: dig	,	12590
 DJR: ne	,	19840
 XER 3: sw	,	19842
@@ -126,32 +126,32 @@ ROW 1: n	,	19846
 COMB 2: in	,	19848
 LEGS: se	,	19850
 ZUL: talk	,	19852
-SKIL 4: Head	,	19853
-CLOAK: nw	,	19854
+SKIL 4: Chef	,	19853
+CLOAK: nw Kojo,	19854
 LYRE 3: Mawnis,	19856
-PASS 1: up	,	19857
-TREE 1: talk	,	19858
+PASS 1: up Mizgog,	19857
+TREE 1: Tree	,	19858
 DIA 2: foundry,	19860
 AIQ: dig	,	19862
 AIR: s dig	,	19864
 ALP: dig	,	19866
 BIP: dig	,	19868
 BJR: dig	,	19870
-BLP: dig	,	19872
+DIA 9: w dig	,	19872
 CKP: dig	,	19874
 DIP: dig	,	19876
-DKS: dig	,	19878
-CIS: dig	,	19880
+DKS: e dig	,	19878
+CIS: w dig	,	19880
 GLORY 1: down,	19882
 MARIM: s	,	19884
 DIA B: Guide	,	19886
-DIA E: abyss	,	19888
+DIA E: +abyss,	19888
 ROW 2: down	,	19890
 MOS LE: s	,	19892
 HILT: w	,	19894
-TREE A: talk	,	19896
-CON 9: sw	,	19898
-FISH 2: talk	,	19900
+TREE A: Lammy,	19896
+CON 9: sw Eluned,	19898
+FISH 2: Otto	,	19900
 ECTO: ne	,	19902
 BIQ: nw talk	,	19904
 BJR: King	,	19906
@@ -163,8 +163,8 @@ SKIL 6: sw	,	23045
 BANN: ne dig	,	23167
 OTHER 121: dig,	23168
 ICE: agi	,	23169
-BANN: talk	,	23170
-BARB: in	,	23172
+BANN: Arnold,	23170
+BARB: Gunnjorn,	23172
 ROW 3: song	,	23174
 ROW 3: song	,	23175
 ROW 3: song	,	23176
@@ -174,9 +174,9 @@ ROW 3: song	,	23179
 ROW 3: song	,	23180
 ROW 3: song	,	23181
 SLEPE: talk	,	24493
-XER 5: GUIDE 1,	25790
+BOTD 3: +sw	,	25790
 TREE A: nw	,	25791
-ROW 3: Song	,	25792
+ROW 3: song	,	25792
 BLQ: dig	,	26566
 H CHALLENGE,	000000
 6	,	7269
