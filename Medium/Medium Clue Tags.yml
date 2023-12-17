@@ -9,7 +9,7 @@ DJP: nw	,	2813
 DIA 9: crand n,	2815
 TAI BWO: se	,	2817
 AIQ: n	,	2819
-SKIL 3: balloon,	2821
+ROTE 3: balloon,	2821
 ROTE 2: ne	,	2823
 GLORY 3: cows,	2825
 DIA G: dig	,	2827
@@ -28,7 +28,7 @@ GLORY 4: nw	,	2849
 LASS: n	,	2851
 DIA F: ball	,	2853
 MUSIC: house,	2855
-SKIL 2: party,	2856
+ROW 3: party,	2856
 TREE 1: King	,	2857
 GLORY 2: se	,	2858
 SLAY 2: se	,	3582
@@ -38,7 +38,7 @@ GLORY 2: sw	,	3588
 CON 7: sw	,	3590
 SLAY 1: w	,	3592
 DIA F: swamp,	3594
-SKIL 3: w	,	3596
+CRAFT: w	,	3596
 ALS: crate	,	3598
 DJP: dig	,	3599
 TREE 3: se	,	3601
@@ -146,7 +146,7 @@ GLORY 3: jail,	19780
 RADA 2: n	,	23046
 BOOK 2: ne	,	23131
 FELDIP: s	,	23133
-SKIL 6 : dig	,	23135
+FARM : dig	,	23135
 DIA 9: crand s,	23136
 DIGS 1: row 4,	23137
 ROW 3: song,	23138
