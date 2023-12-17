@@ -2,7 +2,7 @@
 
 ![Easy Gear](../../Docs/Easy%20Gear.png)
 
-https://github.com/TheLope/clue-tags/blob/5bcc3a2ee44b012680a1238235cfe7d7fb8b414d/Easy/Gear/Easy%20Gear%20Tags.txt#L1
+https://github.com/TheLope/clue-tags/blob/b9c5977055e92a03d522c6bb45439a6084080cb2/Easy/Gear/Easy%20Gear%20Tags.txt#L1
 
 ## [Easy Ents Gear Tags](Easy%20Ents%20Gear%20Tags.txt)
 
