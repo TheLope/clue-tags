@@ -11,6 +11,7 @@ This allows us to provide hints on the clue item without requiring players to op
 Requires the [Custom Item Tags](https://runelite.net/plugin-hub/show/custom-item-tags) RuneLite plugin
 
 Paste the contents of the tag files into the *Custom Tags* section of of the plugin configuration
+
 - Multiple sets of tags can be used at once, simply paste the next set of tags on a new line
 
 ![Item Tag Config](Docs/Item%20Tag%20Config.png)
@@ -58,6 +59,31 @@ You should now see a new tag tab
 [Master Gear Tags](Master/Gear/README.md)
 
 [Mimic Gear Tags](Mimic/Gear/README.md)
+
+## FAQ
+
+1. What do some of these shorthand names mean?
+
+| Shorthand | Explanation                                   |
+| --------- | --------------------------------------------- |
+| +         | Go to the bank first                          |
+| GLIDE     | Use Royal seed pod and climb up to the glider |
+| RESP      | Respawn: set to Edgeville                     |
+| FISH      | Max Cape&rarr;Fishing Teleports               |
+| OTHER     | Max Cape&rarr;Other Teleports                 |
+| GVS       | Goblin village sphere                         |
+
+2. Which teleports are for Ancient Magicks?
+
+| Shorthand | Explanation           |
+| --------- | --------------------- |
+| PADD      | Paddewwa Teleport     |
+| SENN      | Senntisten Teleport   |
+| KHAR      | Kharyrll Teleport     |
+| LASS      | Lassar Teleport       |
+| CARR      | Carrallanger Teleport |
+| ANNA      | Annakarl Teleport     |
+| GHOR      | Ghorrock Teleport     |
 
 ## Notes
 
