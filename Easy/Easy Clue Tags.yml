@@ -4,73 +4,73 @@ LUMBY: tower,	2678
 DIA B: goblin,	2679
 GLORY 4: up	,	2680
 LUMBY: Hans	,	2681
-DUEL 1: sw	,	2682
+DUEL 1: sw crate,	2682
 GLORY 4: n Zeke,	2683
-GLORY 4: n Ellis,	2684
-VARR: s	,	2685
-DIA D: Bartender,	2686
-VARR: e	,	2687
-VARR: armor,	2688
+GLORY 4: nw Ellis,	2684
+COMB 2: ne box,	2685
+DIA D: Bartend,	2686
+DIA D: e bank up,	2687
+DIA D: armor crate,	2688
 SKIL 4: Gertrude,	2689
 SKULL: left	,	2690
-FALLY: Cassie up,	2691
+FALLY: shield up,	2691
 FALLY: n crate,	2692
 DIA 3: Squire,	2693
 SKIL 3: chains l,	2694
 CON 2: e fish,	2695
-EXPL: Bartender,	2696
+EXPL: Bartend,	2696
 GLORY 3: Ned,	2697
 CON 3: Doric	,	2698
 CON 3: Gaius	,	2699
 CATH: archer,	2700
-CATH: s	,	2701
+CATH: Arhein	,	2701
 CAMELOT: court,	2702
 CAMELOT: up	,	2703
 ARDY: nw crate,	2704
-ARDY: crate	,	2705
+ARDY: box	,	2705
 ARDY: church s,	2706
-SKIL 1: s	,	2707
+SKIL 1: s crate,	2707
 VARR: clothes up,	2708
-VARR: n crate,	2709
+VARR: court crate,	2709
 DIA 1: up	,	2710
 ARDY: church,	2711
 ROW 3: house w,	2712
-COMB 2: w	,	2713
+COMB 2: w dig,	2713
 SENN: mine	,	2716
 SKULL: stones r,	2719
-GAME 1: house,	3490
+GAME 1: ne drawer,	3490
 WATCH: piano,	3491
 WATCH: hunter,	3492
 SKIL 2: disk	,	3493
 CON 2: witch up,	3494
-CON 2: food	,	3495
+CON 2: e food up,	3495
 TREE 7: Captain,	3496
-ROW 3: house n,	3497
+ROW 3: house n up,	3497
 ROW 3: house s,	3498
-CON 3: gaius crate,	3499
-CON 3: s crate,	3500
-DUEL 1: s	,	3501
+CON 3: sword box,	3499
+CON 3: s drawer,	3500
+DUEL 1: s box,	3501
 MANOR: top	,	3502
 GAME 1: army,	3503
 KHAZ: crate	,	3504
 ARDY: n house,	3505
 COMB 4: crate,	3506
 CATH: up	,	3507
-SEER: spinning,	3508
-SEER: w	,	3509
-DIA F: n	,	3510
+SEER: spin up,	3508
+SEER: w	crate,	3509
+DIA F: n dig	,	3510
 GLORY 3: n house,	3512
 MUSIC: house,	3513
-DUEL 1: e	,	3514
+DUEL 1: e Jeed,	3514
 VARR: castle crate,	3515
 COMB 4: nw far,	3516
 PASS 1: s dig,	3518
 FALLY: n dig	,	7236
-DIA C: e	,	7238
-ROTE 2: shack,	10180
+DIA C: e crate,	7238
+ROTE 2: shed,	10180
 PASS 1: n stash,	10182
 GLORY 3: w stash,	10184
-ROTE 3: e mine stash,	10186
+ROTE 3: e mine,	10186
 BLR: stash	,	10188
 AIQ: stash	,	10190
 TREE 7: s stash,	10192
@@ -80,7 +80,7 @@ GLORY 3: ne stash,	10198
 GLORY 3: n stash,	10200
 CON 2: mine stash,	10202
 VARR: castle stash,	10204
-SKIL 1: windmill stash,	10206
+SKIL 1: mill up,	10206
 SKIL 2: party stash,	10208
 CON 3: circle stash,	10210
 GAME 1: naked,	10212
@@ -105,46 +105,46 @@ SKULL: right	,	12172
 GLORY 1: Doris,	12173
 GLORY 1: coffin,	12174
 SENN: bush	,	12175
-VARR: w,		12176
+VARR: w down,	12176
 COMB 3: bookshelf,	12177
-SKIL 2: n	,	12178
+LASS: mine crate,	12178
 ROTE 4: dig	,	12179
 FALLY: Cassie,	12181
-DIA 3: Ambassador,	12182
-FALLY: Hairdresser,	12183
+DIA 3: Ambassad,	12182
+FALLY: Hairdress,	12183
 CON 3: Jatix	,	12184
 GAME 1: pub	,	12185
 EXPL: Sarah	,	12186
 FALLY: Rusty,	12187
 EXPL: sw water,	12188
-CON 2: mine crate,	12189
+CON 2: mine wheel,	12189
 SKIL 3: balloon,	12190
 CON 3: climb	,	12191
 DIA 2: Shanty jail,	12192
 LUMBY: dig	,	19814
-PADD: ne	,	19816
+PADD: Vannaka,	19816
 VARR: Apothecary,	19817
-CON 5: s crate,	19818
+CON 5: s drawer,	19818
 FALLY: s gem,	19819
 XER 2: church,	19820
 BOOK 2: North,	19821
 CON 2: Chemist,	19822
-MANOR: Lepruchan,	19823
+MANOR: Lep	,	19823
 ROTE 1: Face	,	19824
 SKIL 5: salt	,	19825
 XER 4: dig	,	19826
-DIA F: s	,	19828
-BOOK 1: w	,	19829
+DIA F: s up	,	19828
+BOOK 1: kitchen,	19829
 DIA B: Doomsayer,	19830
 ROW 2: stash,	19831
 DIA D: rune stash,	19833
-TREE 5: se	,	22001
+TREE 5: se dig,	22001
 CON 3: crystal,	23149
-ROTE 2: father right,	23150
+ROTE 2: father r,	23150
 GLORY 3: ne farm,	23151
-VARR: armor,	23152
-CON 2: crafty crate,	23153
-FALLY: n crate,	23154
+DIA D: armor crate,	23152
+CON 2: craft crate,	23153
+FALLY: nw crate,	23154
 ROW 3: song,	23155
 ROW 3: song,	23156
 ROW 3: song,	23157
@@ -154,8 +154,8 @@ ROW 3: song,	23160
 TREE 7: pisc	,	23161
 GLORY 3: Morgan,	23162
 SKIL 3: chains talk,	23163
-SENN: leaflet,	23164
+SENN: Leaflet,	23164
 GAME 1: Turael,	23165
 DIA D: Cook	,	23166
-XER 4: cata giant,	25788
+XER 4: cata w vine,	25788
 XER 2: ne crate,	25789
