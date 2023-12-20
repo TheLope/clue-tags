@@ -64,14 +64,14 @@ You should now see a new tag tab
 
 1. What do some of these shorthand names mean?
 
-| Shorthand | Explanation                                   |
-| --------- | --------------------------------------------- |
-| +         | Go to the bank first                          |
-| GLIDE     | Use Royal seed pod and climb up to the glider |
-| RESP      | Respawn: set to Edgeville                     |
-| FISH      | Max Cape&rarr;Fishing Teleports               |
-| OTHER     | Max Cape&rarr;Other Teleports                 |
-| GVS       | Goblin village sphere                         |
+| Shorthand | Explanation                      |
+| --------- | -------------------------------- |
+| +         | Bank first                       |
+| GLIDE     | Seed pod&rarr;climb up to glider |
+| RESP      | Respawn: set to Edgeville        |
+| FISH      | Max Cape&rarr;Fishing Teleports  |
+| OTHER     | Max Cape&rarr;Other Teleports    |
+| GVS       | Goblin village sphere            |
 
 2. Which teleports are for Ancient Magicks?
 
