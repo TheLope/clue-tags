@@ -3,9 +3,9 @@ GLORY 3: ham,	2801
 CLS: n	,	2803
 CON 7: nw	,	2805
 PASS 2: nw 	,	2807
-TREE 1: w	,	2809
+CIQ: nw	,	2809
 FISH 2: rope	,	2811
-DJP: nw	,	2813
+CLOAK 1: ne dig,	2813
 DIA 9: crand n,	2815
 TAI BWO: se	,	2817
 AIQ: n	,	2819
@@ -15,7 +15,7 @@ GLORY 3: cows,	2825
 DIA G: dig	,	2827
 Unobtainable,	2829
 CLOAK 1: monk,	2831
-ARDY: dogs	,	2833
+ALS: dog	,	2833
 ARDY: guard	,	2835
 COMB 4: chicken,	2837
 WATCH: man	,	2839
@@ -40,7 +40,7 @@ SLAY 1: w	,	3592
 DIA F: swamp,	3594
 SKIL 3: w	,	3596
 ALS: crate	,	3598
-DJP: dig	,	3599
+CLOAK 1: e dig,	3599
 TREE 3: se	,	3601
 CON 2: chem	,	3602
 TAI BWO: crate,	3604
@@ -85,7 +85,7 @@ FENKEN: cave,	10256
 SKULL: bridge,	10258
 TAI BWO: stash,	10260
 DUEL 2: stash,	10262
-BARB: stash	,	10264
+BARB: agi stash,	10264
 DIA F: agi	,	10266
 WATCH: e	,	10268
 DUEL 2: n	,	10270
