@@ -1,6 +1,6 @@
 H CLUES	,	000000
 LUMBER: crate,	2722
-GHOR: +e dig	,	2723
+BUR 3: rune dig,	2723
 ICE: +n	,	2725
 RESP: web	,	2727
 RESP: +hut	,	2729
@@ -28,7 +28,7 @@ LUMB: Hans	,	2792
 COMB 3: Abbot,	2793
 GLORY 1: nw	,	2794
 VARR: n	,	2796
-DIA D: Wilough,	2797
+VARR: Wilough,	2797
 GVS: talk	,	2799
 YANIL: anvil	,	3520
 W ARDY: nw	,	3522
@@ -45,7 +45,7 @@ GLIDE Gand: w,	3540
 BIP: grotto	,	3542
 BKR: sw	,	3544
 CON 8: Gu'T	,	3546
-GLIDE Undri: cave,	3548
+GLIDE Leman: cave,	3548
 Unobtainable,	3550
 BIQ: sw dig	,	3552
 DUEL 1: e behind,	3554
@@ -53,19 +53,19 @@ OBEL 4: s	,	3556
 OBEL 6: nw dig,	3558
 ZUL: ne dig	,	3560
 IORW: s	,	3562
-ZUL: n General	,	3564
+ZUL: n General,	3564
 SENN: Examiner,	3566
 DUEL 1: ne Hamid,	3568
 GLIDE Sind: talk,	3570
 CLOAK 2: s mage,	3572
 FISH 2: e	,	3573
-SKIL 1: nw	,	3574
+COMB 4: coal	,	3574
 POD: up e	,	3575
 DIA F: Trainer,	3577
 CRAFT: entrana,	3579
 DIA 9: n	,	3580
 ICE: +se	,	7239
-BLR: sw dig	,	7241
+QPC: sw dig	,	7241
 TREE 8: nw	,	7243
 MORT: dig	,	7245
 GEM: up	,	7247
@@ -73,7 +73,7 @@ CAMU 2: n	,	7248
 EYE: book	,	7249
 SEER: +key	,	7250
 SKIL 2: cart	,	7251
-YANIL: agi	,	7252
+CON 8: agi	,	7252
 PASS 3: se	,	7253
 COMB 4: hay,	7254
 DIA 1: w	,	7255
@@ -125,7 +125,7 @@ LEGS: ne s	,	19844
 ROW 1: n Magnus,	19846
 COMB 2: in	,	19848
 LEGS: se	,	19850
-ZUL: Zul-Cheray	,	19852
+ZUL: Zul-Cheray,	19852
 SKIL 4: Chef	,	19853
 CLOAK: nw Kojo,	19854
 LYRE 3: +Mawnis,	19856
@@ -146,9 +146,9 @@ GLORY 1: down,	19882
 MARIM: s	,	19884
 DIA B: Guide	,	19886
 DIA E: +abyss,	19888
-ROW 2: down	,	19890
+BF: Drunken	,	19890
 MOS LE: s	,	19892
-HILT: Brambickle	,	19894
+HILT: Brambickle,	19894
 TREE A: Lammy,	19896
 CON 9: sw Eluned,	19898
 FISH 2: Otto	,	19900
