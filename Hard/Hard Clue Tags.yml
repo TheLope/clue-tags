@@ -45,7 +45,7 @@ GLIDE Gand: w,	3540
 BIP: grotto	,	3542
 BKR: sw	,	3544
 CON 8: Gu'T	,	3546
-GLIDE Undri: cave,	3548
+GLIDE Leman: cave,	3548
 Unobtainable,	3550
 BIQ: sw dig	,	3552
 DUEL 1: e behind,	3554
@@ -53,7 +53,7 @@ OBEL 4: s	,	3556
 OBEL 6: nw dig,	3558
 ZUL: ne dig	,	3560
 IORW: s	,	3562
-ZUL: n General	,	3564
+ZUL: n General,	3564
 SENN: Examiner,	3566
 DUEL 1: ne Hamid,	3568
 GLIDE Sind: talk,	3570
@@ -125,7 +125,7 @@ LEGS: ne s	,	19844
 ROW 1: n Magnus,	19846
 COMB 2: in	,	19848
 LEGS: se	,	19850
-ZUL: Zul-Cheray	,	19852
+ZUL: Zul-Cheray,	19852
 SKIL 4: Chef	,	19853
 CLOAK: nw Kojo,	19854
 LYRE 3: +Mawnis,	19856
@@ -148,7 +148,7 @@ DIA B: Guide	,	19886
 DIA E: +abyss,	19888
 BF: Drunken	,	19890
 MOS LE: s	,	19892
-HILT: Brambickle	,	19894
+HILT: Brambickle,	19894
 TREE A: Lammy,	19896
 CON 9: sw Eluned,	19898
 FISH 2: Otto	,	19900
