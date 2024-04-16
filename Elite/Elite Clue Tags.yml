@@ -2,9 +2,9 @@ E CLUES	,	000000
 W ARDY: stash,	12073
 LYRE 3: stash,	12074
 REV: +nw stash,	12075
-BOX D: +ring	,	12076
+BOX E: +ring	,	12076
 WARR: stash	,	12077
-BOX B: up	,	12078
+BOX C: up	,	12078
 QPC: platform,	12079
 SLAY 2: stash,	12080
 TROL: stash	,	12081
@@ -79,7 +79,7 @@ KHAR: Barker,	12155
 CON 3: stones,	12156
 NMZ: Dominic,	12157
 D AMU Cave: in,	12158
-BOX L: Wyson,	12159
+BOX M: Wyson,	12159
 KHAZ: +dive	,	19782
 ZUL: dig	,	19783
 DIA E: +soul	,	19784
@@ -121,12 +121,12 @@ NEX WEISS: e	,	23147
 LYRE 3: w	,	23148
 CON 9: ne	,	23770
 BOOTS: stone,	24253
-BOX L: song	,	24773
+BOX M: song	,	24773
 GLORY 1: portal w,	25498
 BJP: e	,	25499
 CON 5: sw stash,	25786
 BOTD 3: sw	,	25787
-BOX L: song	,	26943
+BOX M: song	,	26943
 PHAR 4: s	,	26944
 CIV: temple stash,	28910
 MOTH: n Fumbo,	28911
