@@ -110,7 +110,7 @@ LEGS: ne n	,	12562
 BURN 1: ne n	,	12564
 SKIL 2: +pick mlm,	12566
 BARRO: Old	,	12568
-BOX 4: Martin,	12570
+BOX 5: Martin,	12570
 GLORY 3: Wise,	12572
 CLOAK: Omad,	12574
 DIA B: Doom	,	12576
@@ -178,6 +178,9 @@ BOTD 3: +sw	,	25790
 TREE A: nw	,	25791
 ROW 3: song	,	25792
 BLQ: dig	,	26566
+AJP: dig	,	28915
+OTHER 13: Soar Lead,	28916
+ROW 3: song	,	28918
 H CHALLENGE,	000000
 6	,	7269
 13	,	7271
