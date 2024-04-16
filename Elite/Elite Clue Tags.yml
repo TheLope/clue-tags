@@ -2,7 +2,7 @@ E CLUES	,	000000
 W ARDY: stash,	12073
 LYRE 3: stash,	12074
 REV: +nw stash,	12075
-BOX E: +ring	,	12076
+FISH 1: +ring	,	12076
 WARR: stash	,	12077
 BOX C: up	,	12078
 QPC: platform,	12079
@@ -23,7 +23,7 @@ LYRE 3: e dig	,	12094
 RESP: resource,	12095
 APE ATOLL: sw,	12096
 ICE: agi	,	12097
-GLIDE Leman: w,	12098
+AKS: w	,	12098
 CAMU 2: s	,	12099
 CAMU 2: ne 	,	12100
 SWORD: dig	,	12101
