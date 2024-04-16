@@ -128,6 +128,9 @@ CON 5: sw stash,	25786
 BOTD 3: sw	,	25787
 BOX L: song	,	26943
 PHAR 4: s	,	26944
+CIV: temple stash,	28910
+MOTH: n Fumbo,	28911
+OTHER 13: n far dig,	28912
 E CHALLENGE,	000000
 Challenge	,	12128
 Challenge	,	12139
