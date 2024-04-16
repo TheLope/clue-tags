@@ -61,7 +61,7 @@ BOX 1: Cam	,	12136
 LYRE 1: Sigli	,	12137
 SLAY 2: crone,	12138
 LLET: Mawrth,	12140
-HILT: +sled dig,	12141
+HILT: sled dig,	12141
 LYRE 2: w	,	12142
 BANN: furnace,	12143
 WARR: up Kam,	12144
@@ -85,7 +85,7 @@ ZUL: dig	,	19783
 DIA E: +soul	,	19784
 LEGS: se	,	19785
 APE ATOLL: w crate,	19786
-HILT: +sled stash,	19787
+HILT: sled stash,	19787
 DJR: se stash,	19788
 QPC: stash	,	19789
 ARDY: stash	,	19790
