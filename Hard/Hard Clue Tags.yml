@@ -1,7 +1,7 @@
 H CLUES	,	000000
 LUMBER: crate,	2722
 BUR 3: rune dig,	2723
-ICE: +n	,	2725
+ICE: +n dig	,	2725
 RESP: web	,	2727
 RESP: +hut	,	2729
 ANNA: +dig	,	2731
@@ -64,7 +64,7 @@ POD: up e	,	3575
 DIA F: Trainer,	3577
 CRAFT: entrana,	3579
 DIA 9: n	,	3580
-ICE: +se	,	7239
+ICE: +se dig	,	7239
 QPC: sw dig	,	7241
 TREE 8: nw	,	7243
 MORT: dig	,	7245
@@ -162,7 +162,7 @@ DIGS 1: row 4	,	21527
 SKIL 6: sw	,	23045
 BANN: ne dig	,	23167
 OTHER 121: dig,	23168
-ICE: +agi	,	23169
+ICE: +s dig	,	23169
 BANN: Arnold,	23170
 BARB: Gunnjorn,	23172
 ROW 3: song	,	23174
