@@ -9,7 +9,8 @@ Credit to Chung Us
 https://github.com/TheLope/clue-tags/blob/2f99b8de6440d0f597ccf497ea7c463b659b3143/Elite/Gear/Elite%20Gear%20Tags.txt#L1
 
 ## [Elite Gear Tags 2](Elite%20Gear%20Tags%202.txt)
+Credit to Marni
 
 ![Elite Gear](../../Docs/Elite%20Gear%202.png)
 
-https://github.com/TheLope/clue-tags/blob/2f99b8de6440d0f597ccf497ea7c463b659b3143/Elite/Gear/Elite%20Gear%20Tags%202.txt#L1
+https://github.com/TheLope/clue-tags/blob/86cd73d2170c58e05d0049ff44e12ebaf6acfcb8/Elite/Gear/Elite%20Gear%20Tags%202.txt#L1
