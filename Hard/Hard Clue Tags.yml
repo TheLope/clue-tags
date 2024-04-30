@@ -81,12 +81,12 @@ PASS 2: w	,	7256
 CAMU 2: nw dig,	7258
 CEME: sw dig	,	7260
 DUEL 3: sw	,	7262
-BURN 1: ne s	,	7264
+OBEL 2: ne s	,	7264
 DKS: w	,	7266
 DIA F: Coach	,	7268
 TREE 1: Bolkoy,	7270
 DIA 6: Cap'n	,	7272
-BURN 1: stash,	10234
+OBEL 2: stash,	10234
 FISH 1: stash	,	10236
 ALP: stash	,	10238
 ALQ: naked	,	10240
@@ -107,7 +107,7 @@ AJS: dig	,	12556
 AIR: n dig	,	12558
 DIA 9: crandor,	12560
 LEGS: ne n	,	12562
-BURN 1: ne n	,	12564
+OBEL 2: ne n	,	12564
 SKIL 2: +pick mlm,	12566
 BARRO: Old	,	12568
 BOX 5: Martin,	12570
