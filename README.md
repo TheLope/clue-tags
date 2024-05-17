@@ -67,6 +67,7 @@ You should now see a new tag tab
 | Shorthand | Explanation                      |
 | --------- | -------------------------------- |
 | +         | Bank first                       |
+| -         | Degear for wildy                 |
 | GLIDE     | Seed pod&rarr;climb up to glider |
 | RESP      | Respawn: set to Edgeville        |
 | FISH      | Max Cape&rarr;Fishing Teleports  |
