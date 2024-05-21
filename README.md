@@ -22,13 +22,14 @@ You should now see a tag on your current clue
 
 ### Links
 
-<img src="Docs/icons/Clue_scroll_(easy)_detail.webp" width="35"> [Easy Clue Tags](Easy/Easy%20Clue%20Tags.yml)
 
-<img src="Docs/icons/Clue_scroll_(medium)_detail.webp" width="35"> [Medium Clue Tags](Medium/Medium%20Clue%20Tags.yml)
+<img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(easy)_detail.webp" width="35"> [Easy Clue Tags](Easy/Easy%20Clue%20Tags.yml)
 
-<img src="Docs/icons/Clue_scroll_(hard)_detail.webp" width="35"> [Hard Clue Tags](Hard/Hard%20Clue%20Tags.yml)
+<img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(medium)_detail.webp" width="35"> [Medium Clue Tags](Medium/Medium%20Clue%20Tags.yml)
 
-<img src="Docs/icons/Clue_scroll_(elite)_detail.webp" width="35"> [Elite Clue Tags](Elite/Elite%20Clue%20Tags.yml)
+<img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(hard)_detail.webp" width="35"> [Hard Clue Tags](Hard/Hard%20Clue%20Tags.yml)
+
+<img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(elite)_detail.webp" width="35"> [Elite Clue Tags](Elite/Elite%20Clue%20Tags.yml)
 
 ## Gear Tags
 
@@ -46,19 +47,19 @@ You should now see a new tag tab
 
 ### Links
 
-<img src="Docs/icons/Clue_scroll_(beginner)_detail.webp" width="35"> [Beginner Gear Tags](Beginner/Gear/README.md)
+<img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(beginner)_detail.webp" width="35"> [Beginner Gear Tags](Beginner/Gear/README.md)
 
-<img src="Docs/icons/Clue_scroll_(easy)_detail.webp" width="35"> [Easy Gear Tags](Easy/Gear/README.md)
+<img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(easy)_detail.webp" width="35"> [Easy Gear Tags](Easy/Gear/README.md)
 
-<img src="Docs/icons/Clue_scroll_(medium)_detail.webp" width="35"> [Medium Gear Tags](Medium/Gear/README.md)
+<img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(medium)_detail.webp" width="35"> [Medium Gear Tags](Medium/Gear/README.md)
 
-<img src="Docs/icons/Clue_scroll_(hard)_detail.webp" width="35"> [Hard Gear Tags](Hard/Gear/README.md)
+<img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(hard)_detail.webp" width="35"> [Hard Gear Tags](Hard/Gear/README.md)
 
-<img src="Docs/icons/Clue_scroll_(elite)_detail.webp" width="35"> [Elite Gear Tags](Elite/Gear/README.md)
+<img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(elite)_detail.webp" width="35"> [Elite Gear Tags](Elite/Gear/README.md)
 
-<img src="Docs/icons/Clue_scroll_(master)_detail.webp" width="35"> [Master Gear Tags](Master/Gear/README.md)
+<img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(master)_detail.webp" width="35"> [Master Gear Tags](Master/Gear/README.md)
 
-<img src="Docs/icons/Mimic_detail.webp" width="35"> [Mimic Gear Tags](Mimic/Gear/README.md)
+<img style="vertical-align:middle" src="Docs/icons/Mimic_detail.webp" width="35"> [Mimic Gear Tags](Mimic/Gear/README.md)
 
 ## FAQ
 
