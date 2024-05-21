@@ -54,7 +54,7 @@ You should now see a tag on your current clue
 
 ### How To
 
-Requires the [Bank tag layouts](https://runelite.net/plugin-hub/show/bank-tag-layouts) RuneLite plugin
+Requires the [Bank Tag Layouts](https://runelite.net/plugin-hub/show/bank-tag-layouts) RuneLite plugin
 
 To import, right click the *New tag tab* button and select *Import tag tab with layout*
 
@@ -70,37 +70,37 @@ You should now see a new tag tab
     <div style="float: left; width: 14%;">
         <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(beginner)_detail.webp" width="35">
         <br/>
-        <a href="Beginner/Gear/README.md">Beginner</a>
+        <a href="Beginner/Gear">Beginner</a>
     </div>
     <div style="float: left; width: 14%;">
         <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(easy)_detail.webp" width="35">
         <br/>
-        <a href="Easy/Gear/README.md">Easy</a>
+        <a href="Easy/Gear">Easy</a>
     </div>
     <div style="float: left; width: 14%;">
         <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(medium)_detail.webp" width="35">
         <br/>
-        <a href="Medium/Gear/README.md">Medium</a>
+        <a href="Medium/Gear">Medium</a>
     </div>
     <div style="float: left; width: 14%;">
         <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(hard)_detail.webp" width="35">
         <br/>
-        <a href="Hard/Gear/README.md">Hard</a>
+        <a href="Hard/Gear">Hard</a>
     </div>
     <div style="float: left; width: 14%;">
         <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(elite)_detail.webp" width="35">
         <br/>
-        <a href="Elite/Gear/README.md">Elite</a>
+        <a href="Elite/Gear">Elite</a>
     </div>
         <div style="float: left; width: 14%;">
         <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(master)_detail.webp" width="35">
         <br/>
-        <a href="Master/Gear/README.md">Master</a>
+        <a href="Master/Gear">Master</a>
     </div>
     <div style="float: left; width: 14%;">
         <img style="vertical-align:middle" src="Docs/icons/Mimic_detail.webp" width="35">
         <br/>
-        <a href="Mimic/Gear/README.md">Mimic</a>
+        <a href="Mimic/Gear">Mimic</a>
     </div>
 </div>
 
