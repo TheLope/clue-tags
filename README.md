@@ -1,12 +1,21 @@
-# Clue Tags
+<h1 id="title">Clue Scroll Tags & Gear</h1>
+
+1. [Item Tags](#item-tags)
+    1. [How To](#item-tags-how-to)
+    2. [Links](#item-tags-links)
+2. [Gear Tags](#gear-tags)
+    1. [How To](#gear-tags-how-to)
+    2. [Links](#gear-tags-links)
+3. [FAQ](#faq)
+4. [Notes](#notestags)
 
 All clue tiers except beginner and master have unique item IDs for each clue step
 
 This allows us to provide hints on the clue item without requiring players to open the clue
 
-## Item Tags
+<h2 id="item-tags">Item Tags</h2>
 
-### How To
+<h3 id="item-tags-how-to">How To</h3>
 
 Requires the [Custom Item Tags](https://runelite.net/plugin-hub/show/custom-item-tags) RuneLite plugin
 
@@ -20,20 +29,34 @@ You should now see a tag on your current clue
 
 ![Item Tag Example](Docs/Item%20Tag%20Example.png)
 
-### Links
+<h3 id="item-tags-links">Links</h3>
 
+<div style="padding-bottom:50px">
+    <div style="float: left; width: 25%;">
+        <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(easy)_detail.webp" width="35">
+        <br/>
+        <a href="Easy/Easy%20Clue%20Tags.yml">Easy Tags</a>
+    </div>
+    <div style="float: left; width: 25%;">
+        <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(medium)_detail.webp" width="35">
+        <br/>
+        <a href="Medium/Medium%20Clue%20Tags.yml">Medium Tags</a>
+    </div>
+    <div style="float: left; width: 25%;">
+        <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(hard)_detail.webp" width="35">
+        <br/>
+        <a href="Hard/Hard%20Clue%20Tags.yml">Hard Tags</a>
+    </div>
+    <div style="float: left; width: 25%;">
+        <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(elite)_detail.webp" width="35">
+        <br/>
+        <a href="Elite/Elite%20Clue%20Tags.yml">Elite Tags</a>
+    </div>
+</div>
 
-<img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(easy)_detail.webp" width="35"> [Easy Clue Tags](Easy/Easy%20Clue%20Tags.yml)
+<h2 id="gear-tags">Gear Tags</h2>
 
-<img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(medium)_detail.webp" width="35"> [Medium Clue Tags](Medium/Medium%20Clue%20Tags.yml)
-
-<img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(hard)_detail.webp" width="35"> [Hard Clue Tags](Hard/Hard%20Clue%20Tags.yml)
-
-<img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(elite)_detail.webp" width="35"> [Elite Clue Tags](Elite/Elite%20Clue%20Tags.yml)
-
-## Gear Tags
-
-### How To
+<h3 id="gear-tags-how-to">How To</h3>
 
 Requires the [Bank tag layouts](https://runelite.net/plugin-hub/show/bank-tag-layouts) RuneLite plugin
 
@@ -45,23 +68,48 @@ You should now see a new tag tab
 
 ![Bank Tag Example](Docs/Bank%20Tag%20Example.png)
 
-### Links
+<h3 id="gear-tags-links">Links</h3>
 
-<img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(beginner)_detail.webp" width="35"> [Beginner Gear Tags](Beginner/Gear/README.md)
 
-<img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(easy)_detail.webp" width="35"> [Easy Gear Tags](Easy/Gear/README.md)
+<div style="padding-bottom:50px">
+    <div style="float: left; width: 14%;">
+        <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(beginner)_detail.webp" width="35">
+        <br/>
+        <a href="Beginner/Gear/README.md">Beginner Gear</a>
+    </div>
+    <div style="float: left; width: 14%;">
+        <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(easy)_detail.webp" width="35">
+        <br/>
+        <a href="Easy/Gear/README.md">Easy Gear</a>
+    </div>
+    <div style="float: left; width: 14%;">
+        <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(medium)_detail.webp" width="35">
+        <br/>
+        <a href="Medium/Gear/README.md">Medium Gear</a>
+    </div>
+    <div style="float: left; width: 14%;">
+        <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(hard)_detail.webp" width="35">
+        <br/>
+        <a href="Hard/Gear/README.md">Hard Gear</a>
+    </div>
+    <div style="float: left; width: 14%;">
+        <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(elite)_detail.webp" width="35">
+        <br/>
+        <a href="Elite/Gear/README.md">Elite Gear</a>
+    </div>
+        <div style="float: left; width: 14%;">
+        <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(master)_detail.webp" width="35">
+        <br/>
+        <a href="Master/Gear/README.md">Master Gear</a>
+    </div>
+    <div style="float: left; width: 14%;">
+        <img style="vertical-align:middle" src="Docs/icons/Mimic_detail.webp" width="35">
+        <br/>
+        <a href="Mimic/Gear/README.md">Mimic Gear</a>
+    </div>
+</div>
 
-<img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(medium)_detail.webp" width="35"> [Medium Gear Tags](Medium/Gear/README.md)
-
-<img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(hard)_detail.webp" width="35"> [Hard Gear Tags](Hard/Gear/README.md)
-
-<img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(elite)_detail.webp" width="35"> [Elite Gear Tags](Elite/Gear/README.md)
-
-<img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(master)_detail.webp" width="35"> [Master Gear Tags](Master/Gear/README.md)
-
-<img style="vertical-align:middle" src="Docs/icons/Mimic_detail.webp" width="35"> [Mimic Gear Tags](Mimic/Gear/README.md)
-
-## FAQ
+<h2 id="faq">FAQ</h2>
 
 1. What do some of these shorthand names mean?
 
@@ -88,6 +136,6 @@ You should now see a new tag tab
 | ANNA      | Annakarl Teleport     |
 | GHOR      | Ghorrock Teleport     |
 
-## Notes
+<h2 id="notes">Notes</h2>
 
 Work in progress
