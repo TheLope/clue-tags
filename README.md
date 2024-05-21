@@ -5,13 +5,11 @@
 - [FAQ](#faq)
 - [Notes](#notes)
 
----
+## Item Tags
 
 All clue tiers **except beginner and master** have unique item IDs for each clue step
 
 This allows us to provide hints on the clue scroll item without requiring players to open the clue
-
-## Item Tags
 
 ### How To
 
@@ -33,22 +31,22 @@ You should now see a tag on your current clue
     <div style="float: left; width: 25%;">
         <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(easy)_detail.webp" width="35">
         <br/>
-        <a href="Easy/Easy%20Clue%20Tags.yml">Easy Tags</a>
+        <a href="Easy/Easy%20Clue%20Tags.yml">Easy</a>
     </div>
     <div style="float: left; width: 25%;">
         <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(medium)_detail.webp" width="35">
         <br/>
-        <a href="Medium/Medium%20Clue%20Tags.yml">Medium Tags</a>
+        <a href="Medium/Medium%20Clue%20Tags.yml">Medium</a>
     </div>
     <div style="float: left; width: 25%;">
         <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(hard)_detail.webp" width="35">
         <br/>
-        <a href="Hard/Hard%20Clue%20Tags.yml">Hard Tags</a>
+        <a href="Hard/Hard%20Clue%20Tags.yml">Hard</a>
     </div>
     <div style="float: left; width: 25%;">
         <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(elite)_detail.webp" width="35">
         <br/>
-        <a href="Elite/Elite%20Clue%20Tags.yml">Elite Tags</a>
+        <a href="Elite/Elite%20Clue%20Tags.yml">Elite</a>
     </div>
 </div>
 
@@ -72,37 +70,37 @@ You should now see a new tag tab
     <div style="float: left; width: 14%;">
         <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(beginner)_detail.webp" width="35">
         <br/>
-        <a href="Beginner/Gear/README.md">Beginner Gear</a>
+        <a href="Beginner/Gear/README.md">Beginner</a>
     </div>
     <div style="float: left; width: 14%;">
         <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(easy)_detail.webp" width="35">
         <br/>
-        <a href="Easy/Gear/README.md">Easy Gear</a>
+        <a href="Easy/Gear/README.md">Easy</a>
     </div>
     <div style="float: left; width: 14%;">
         <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(medium)_detail.webp" width="35">
         <br/>
-        <a href="Medium/Gear/README.md">Medium Gear</a>
+        <a href="Medium/Gear/README.md">Medium</a>
     </div>
     <div style="float: left; width: 14%;">
         <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(hard)_detail.webp" width="35">
         <br/>
-        <a href="Hard/Gear/README.md">Hard Gear</a>
+        <a href="Hard/Gear/README.md">Hard</a>
     </div>
     <div style="float: left; width: 14%;">
         <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(elite)_detail.webp" width="35">
         <br/>
-        <a href="Elite/Gear/README.md">Elite Gear</a>
+        <a href="Elite/Gear/README.md">Elite</a>
     </div>
         <div style="float: left; width: 14%;">
         <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(master)_detail.webp" width="35">
         <br/>
-        <a href="Master/Gear/README.md">Master Gear</a>
+        <a href="Master/Gear/README.md">Master</a>
     </div>
     <div style="float: left; width: 14%;">
         <img style="vertical-align:middle" src="Docs/icons/Mimic_detail.webp" width="35">
         <br/>
-        <a href="Mimic/Gear/README.md">Mimic Gear</a>
+        <a href="Mimic/Gear/README.md">Mimic</a>
     </div>
 </div>
 
