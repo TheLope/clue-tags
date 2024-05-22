@@ -25,25 +25,28 @@ You should now see a tag on your current clue
 
 ![Item Tag Example](Docs/Item%20Tag%20Example.png)
 
-### Links
+### Item Tag Links
 
 <div style="padding-bottom:50px">
-    <div style="float: left; width: 25%;">
+    <div style="float: left; width: 14%;">
+        <br/>
+    </div>
+    <div style="float: left; width: 14%;">
         <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(easy)_detail.webp" width="35">
         <br/>
         <a href="Easy/Easy%20Clue%20Tags.yml">Easy</a>
     </div>
-    <div style="float: left; width: 25%;">
+    <div style="float: left; width: 14%;">
         <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(medium)_detail.webp" width="35">
         <br/>
         <a href="Medium/Medium%20Clue%20Tags.yml">Medium</a>
     </div>
-    <div style="float: left; width: 25%;">
+    <div style="float: left; width: 14%;">
         <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(hard)_detail.webp" width="35">
         <br/>
         <a href="Hard/Hard%20Clue%20Tags.yml">Hard</a>
     </div>
-    <div style="float: left; width: 25%;">
+    <div style="float: left; width: 14%;">
         <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(elite)_detail.webp" width="35">
         <br/>
         <a href="Elite/Elite%20Clue%20Tags.yml">Elite</a>
@@ -51,6 +54,8 @@ You should now see a tag on your current clue
 </div>
 
 ## Gear Tags
+
+Provided below are recommended gear setups. This includes bank presets and screenshots of complete loadouts
 
 ### How To
 
@@ -64,7 +69,7 @@ You should now see a new tag tab
 
 ![Bank Tag Example](Docs/Bank%20Tag%20Example.png)
 
-### Links
+### Gear Tag Links
 
 <div style="padding-bottom:50px">
     <div style="float: left; width: 14%;">
@@ -133,4 +138,4 @@ You should now see a new tag tab
 
 ## Notes
 
-Work in progress
+See full GitHub repository [here](https://github.com/TheLope/clue-tags)
