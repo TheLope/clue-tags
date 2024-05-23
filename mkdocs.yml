@@ -14,4 +14,7 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+  icon:
+    repo: fontawesome/brands/github
 repo_url: https://github.com/TheLope/clue-tags
+repo_name: TheLope/clue-tags
