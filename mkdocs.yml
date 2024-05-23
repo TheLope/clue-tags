@@ -14,3 +14,4 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+repo_url: https://github.com/TheLope/clue-tags

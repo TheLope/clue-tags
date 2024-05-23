@@ -130,7 +130,3 @@ You should now see a new tag tab
 | CARR      | Carrallanger Teleport |
 | ANNA      | Annakarl Teleport     |
 | GHOR      | Ghorrock Teleport     |
-
-## Notes
-
-See full GitHub repository [here](https://github.com/TheLope/clue-tags)
