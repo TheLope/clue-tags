@@ -12,13 +12,13 @@ Requires the [Custom Item Tags](https://runelite.net/plugin-hub/show/custom-item
 
 Paste the contents of the tag files into the *Custom Tags* section of of the plugin configuration
 
-![Item Tag Config](Docs/Item%20Tag%20Config.png)
+![Item Tag Config](Item%20Tag%20Config.png)
 
 - Multiple sets of tags can be used at once, simply paste the next set of tags on a new line
 
 You should now see a tag on your current clue
 
-![Item Tag Example](Docs/Item%20Tag%20Example.png)
+![Item Tag Example](Item%20Tag%20Example.png)
 
 ### Item Tag Links
 
@@ -27,22 +27,22 @@ You should now see a tag on your current clue
         <br/>
     </div>
     <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(easy)_detail.webp" width="35">
+        <img style="vertical-align:middle" src="icons/Clue_scroll_(easy)_detail.webp" width="35">
         <br/>
         <a href="Easy/Easy%20Clue%20Tags.yml">Easy</a>
     </div>
     <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(medium)_detail.webp" width="35">
+        <img style="vertical-align:middle" src="icons/Clue_scroll_(medium)_detail.webp" width="35">
         <br/>
         <a href="Medium/Medium%20Clue%20Tags.yml">Medium</a>
     </div>
     <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(hard)_detail.webp" width="35">
+        <img style="vertical-align:middle" src="icons/Clue_scroll_(hard)_detail.webp" width="35">
         <br/>
         <a href="Hard/Hard%20Clue%20Tags.yml">Hard</a>
     </div>
     <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(elite)_detail.webp" width="35">
+        <img style="vertical-align:middle" src="icons/Clue_scroll_(elite)_detail.webp" width="35">
         <br/>
         <a href="Elite/Elite%20Clue%20Tags.yml">Elite</a>
     </div>
@@ -58,47 +58,47 @@ Requires the [Bank Tag Layouts](https://runelite.net/plugin-hub/show/bank-tag-la
 
 To import, right click the *New tag tab* button and select *Import tag tab with layout*
 
-![Bank Tag Import](Docs/Bank%20Tag%20Import.png)
+![Bank Tag Import](Bank%20Tag%20Import.png)
 
 You should now see a new tag tab
 
-![Bank Tag Example](Docs/Bank%20Tag%20Example.png)
+![Bank Tag Example](Bank%20Tag%20Example.png)
 
 ### Gear Tag Links
 
 <div style="padding-bottom:50px">
     <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(beginner)_detail.webp" width="35">
+        <img style="vertical-align:middle" src="icons/Clue_scroll_(beginner)_detail.webp" width="35">
         <br/>
         <a href="Beginner/Gear">Beginner</a>
     </div>
     <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(easy)_detail.webp" width="35">
+        <img style="vertical-align:middle" src="icons/Clue_scroll_(easy)_detail.webp" width="35">
         <br/>
         <a href="Easy/Gear">Easy</a>
     </div>
     <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(medium)_detail.webp" width="35">
+        <img style="vertical-align:middle" src="icons/Clue_scroll_(medium)_detail.webp" width="35">
         <br/>
         <a href="Medium/Gear">Medium</a>
     </div>
     <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(hard)_detail.webp" width="35">
+        <img style="vertical-align:middle" src="icons/Clue_scroll_(hard)_detail.webp" width="35">
         <br/>
         <a href="Hard/Gear">Hard</a>
     </div>
     <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(elite)_detail.webp" width="35">
+        <img style="vertical-align:middle" src="icons/Clue_scroll_(elite)_detail.webp" width="35">
         <br/>
         <a href="Elite/Gear">Elite</a>
     </div>
         <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="Docs/icons/Clue_scroll_(master)_detail.webp" width="35">
+        <img style="vertical-align:middle" src="icons/Clue_scroll_(master)_detail.webp" width="35">
         <br/>
         <a href="Master/Gear">Master</a>
     </div>
     <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="Docs/icons/Mimic_detail.webp" width="35">
+        <img style="vertical-align:middle" src="icons/Mimic_detail.webp" width="35">
         <br/>
         <a href="Mimic/Gear">Mimic</a>
     </div>
