@@ -12,8 +12,8 @@ To import:
 - Right click the *New tag tab* button
 - Select *Import tag tab with layout*
 
-![Bank Tag Import](../images/Bank%20Tag%20Import.png)
+![Bank Tag Import](images/config.png)
 
 You should now see a new tag tab
 
-![Bank Tag Example](../images/Bank%20Tag%20Example.png)
+![Bank Tag Example](images/example.png)

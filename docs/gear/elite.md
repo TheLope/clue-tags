@@ -1,6 +1,6 @@
-# <img style="vertical-align:middle" src="../../images/icons/elite.png" width="35"> Elite Gear Tags
+# <img style="vertical-align:middle" src="../../icons/elite.png" width="35"> Elite Gear Tags
 
-![Elite Gear](../images/Elite%20Gear.png)
+![Elite Gear](images/elite.png)
 
 _Copy button is provided on the right_
 ``` json title=""

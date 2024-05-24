@@ -10,10 +10,10 @@ Requires the [Custom Item Tags](https://runelite.net/plugin-hub/show/custom-item
 
 Paste the contents of the tag files into the *Custom Tags* section of of the plugin configuration
 
-![Item Tag Config](../images/Item%20Tag%20Config.png)
+![Item Tag Config](images/config.png)
 
 - Multiple sets of tags can be used at once, simply paste the next set of tags on a new line
 
 You should now see a tag on your current clue
 
-![Item Tag Example](../images/Item%20Tag%20Example.png)
+![Item Tag Example](images/example.png)

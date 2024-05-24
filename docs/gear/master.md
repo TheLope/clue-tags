@@ -1,6 +1,6 @@
-# <img style="vertical-align:middle" src="../../images/icons/master.png" width="35"> Master Gear Tags
+# <img style="vertical-align:middle" src="../../icons/master.png" width="35"> Master Gear Tags
 
-![Master Gear](../images/Master%20Gear.png)
+![Master Gear](images/master.png)
 
 _Copy button is provided on the right_
 ``` json title=""

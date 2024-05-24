@@ -1,6 +1,6 @@
-# <img style="vertical-align:middle" src="../../images/icons/mimic.png" width="35"> Mimic Gear Tags
+# <img style="vertical-align:middle" src="../../icons/mimic.png" width="35"> Mimic Gear Tags
 
-![Mimic Gear](../images/Mimic%20Gear.png)
+![Mimic Gear](images/mimic.png)
 
 _Copy button is provided on the right_
 ``` json title=""

@@ -1,7 +1,7 @@
-# <img style="vertical-align:middle" src="../../images/icons/beginner.png" width="35"> Beginner Gear Tags
+# <img style="vertical-align:middle" src="../../icons/beginner.png" width="35"> Beginner Gear Tags
 Credit to V E H
 
-![Beginner Gear](../images/Beginner%20Gear.png)
+![Beginner Gear](images/beginner.png)
 
 _Copy button is provided on the right_
 ``` json title=""
@@ -10,7 +10,7 @@ _Copy button is provided on the right_
 
 ## Ironman Gear Setup Alternative
 
-![Beginner Gear Iron](../images/Beginner%20Gear%20Iron.png)
+![Beginner Gear Iron](images/beginner_iron.png)
 
 ### Video Reference
 [![[OSRS] Ironman 10 Easy & 20 Beginner Clues per Hour META ~ Cball Goblins
