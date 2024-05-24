@@ -2,6 +2,7 @@ site_name: Clue Tags
 site_url: https://thelope.github.io
 theme:
   name: material
+  custom_dir: overrides
   palette:
     # Palette toggle for dark mode
     - scheme: slate
@@ -16,5 +17,43 @@ theme:
         name: Switch to dark mode
   icon:
     repo: fontawesome/brands/github
+  features:
+    - navigation.footer
+    - content.code.copy
+    - navigation.sections
+    - navigation.instant
+nav:
+  - Home: index.md
+  - Item Tags:
+    - Getting Started: item-tags/getting-started.md
+    - Easy: item-tags/easy.md
+    - Medium: item-tags/medium.md
+    - Hard: item-tags/hard.md
+    - Elite: item-tags/elite.md
+  - Gear:
+    - Getting Started: gear/getting-started.md
+    - Beginner: gear/beginner.md
+    - Easy: gear/easy.md
+    - Medium: gear/medium.md
+    - Hard: gear/hard.md
+    - Elite: gear/elite.md
+    - Master: gear/master.md
+    - Mimic: gear/mimic.md
+  - FAQ: faq.md
 repo_url: https://github.com/TheLope/clue-tags
 repo_name: TheLope/clue-tags
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+  - attr_list
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences

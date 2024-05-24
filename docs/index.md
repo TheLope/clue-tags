@@ -1,132 +1,79 @@
-# Clue Scroll Tags & Gear
+# Clue Tags
+
+_Welcome to Clue Tags!_
 
 ## Item Tags
 
-All clue tiers **except beginner and master** have unique item IDs for each clue step
+Allow you to see a custom text for each clue without having to open it
 
-This allows us to provide hints on the clue scroll item without requiring players to open the clue
-
-### How To
-
-Requires the [Custom Item Tags](https://runelite.net/plugin-hub/show/custom-item-tags) RuneLite plugin
-
-Paste the contents of the tag files into the *Custom Tags* section of of the plugin configuration
-
-![Item Tag Config](Item%20Tag%20Config.png)
-
-- Multiple sets of tags can be used at once, simply paste the next set of tags on a new line
-
-You should now see a tag on your current clue
-
-![Item Tag Example](Item%20Tag%20Example.png)
-
-### Item Tag Links
+[Getting Started](item-tags/getting-started.md){ .md-button }
 
 <div style="padding-bottom:50px">
     <div style="float: left; width: 14%;">
         <br/>
     </div>
     <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="icons/Clue_scroll_(easy)_detail.webp" width="35">
+        <img style="vertical-align:middle" src="images/icons/Clue_scroll_(easy)_detail.webp" width="35">
         <br/>
-        <a href="Easy/Easy%20Clue%20Tags.yml">Easy</a>
+        <a href="item-tags/easy">Easy</a>
     </div>
     <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="icons/Clue_scroll_(medium)_detail.webp" width="35">
+        <img style="vertical-align:middle" src="images/icons/Clue_scroll_(medium)_detail.webp" width="35">
         <br/>
-        <a href="Medium/Medium%20Clue%20Tags.yml">Medium</a>
+        <a href="item-tags/medium">Medium</a>
     </div>
     <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="icons/Clue_scroll_(hard)_detail.webp" width="35">
+        <img style="vertical-align:middle" src="images/icons/Clue_scroll_(hard)_detail.webp" width="35">
         <br/>
-        <a href="Hard/Hard%20Clue%20Tags.yml">Hard</a>
+        <a href="item-tags/hard">Hard</a>
     </div>
     <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="icons/Clue_scroll_(elite)_detail.webp" width="35">
+        <img style="vertical-align:middle" src="images/icons/Clue_scroll_(elite)_detail.webp" width="35">
         <br/>
-        <a href="Elite/Elite%20Clue%20Tags.yml">Elite</a>
+        <a href="item-tags/elite">Elite</a>
     </div>
 </div>
 
 ## Gear Tags
 
-Provided below are recommended gear setups. This includes bank presets and screenshots of complete loadouts
+Bank Tag Layouts for recommended gear setups
 
-### How To
-
-Requires the [Bank Tag Layouts](https://runelite.net/plugin-hub/show/bank-tag-layouts) RuneLite plugin
-
-To import, right click the *New tag tab* button and select *Import tag tab with layout*
-
-![Bank Tag Import](Bank%20Tag%20Import.png)
-
-You should now see a new tag tab
-
-![Bank Tag Example](Bank%20Tag%20Example.png)
-
-### Gear Tag Links
+[Getting Started](gear/getting-started.md){ .md-button }
 
 <div style="padding-bottom:50px">
     <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="icons/Clue_scroll_(beginner)_detail.webp" width="35">
+        <img style="vertical-align:middle" src="images/icons/Clue_scroll_(beginner)_detail.webp" width="35">
         <br/>
-        <a href="Beginner/Gear">Beginner</a>
+        <a href="gear/beginner">Beginner</a>
     </div>
     <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="icons/Clue_scroll_(easy)_detail.webp" width="35">
+        <img style="vertical-align:middle" src="images/icons/Clue_scroll_(easy)_detail.webp" width="35">
         <br/>
-        <a href="Easy/Gear">Easy</a>
+        <a href="gear/easy">Easy</a>
     </div>
     <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="icons/Clue_scroll_(medium)_detail.webp" width="35">
+        <img style="vertical-align:middle" src="images/icons/Clue_scroll_(medium)_detail.webp" width="35">
         <br/>
-        <a href="Medium/Gear">Medium</a>
+        <a href="gear/medium">Medium</a>
     </div>
     <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="icons/Clue_scroll_(hard)_detail.webp" width="35">
+        <img style="vertical-align:middle" src="images/icons/Clue_scroll_(hard)_detail.webp" width="35">
         <br/>
-        <a href="Hard/Gear">Hard</a>
+        <a href="gear/hard">Hard</a>
     </div>
     <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="icons/Clue_scroll_(elite)_detail.webp" width="35">
+        <img style="vertical-align:middle" src="images/icons/Clue_scroll_(elite)_detail.webp" width="35">
         <br/>
-        <a href="Elite/Gear">Elite</a>
+        <a href="gear/elite">Elite</a>
     </div>
         <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="icons/Clue_scroll_(master)_detail.webp" width="35">
+        <img style="vertical-align:middle" src="images/icons/Clue_scroll_(master)_detail.webp" width="35">
         <br/>
-        <a href="Master/Gear">Master</a>
+        <a href="gear/Mmaster">Master</a>
     </div>
     <div style="float: left; width: 14%;">
-        <img style="vertical-align:middle" src="icons/Mimic_detail.webp" width="35">
+        <img style="vertical-align:middle" src="images/icons/Mimic_detail.webp" width="35">
         <br/>
-        <a href="Mimic/Gear">Mimic</a>
+        <a href="gear/mimic">Mimic</a>
     </div>
 </div>
-
-## FAQ
-
-1. What do some of these shorthand names mean?
-
-| Shorthand | Explanation                      |
-| --------- | -------------------------------- |
-| +         | Bank first                       |
-| -         | Degear for wildy                 |
-| GLIDE     | Seed pod&rarr;climb up to glider |
-| RESP      | Respawn: set to Edgeville        |
-| FISH      | Max Cape&rarr;Fishing Teleports  |
-| OTHER     | Max Cape&rarr;Other Teleports    |
-| GVS       | Goblin village sphere            |
-| BOX       | POH jewellery box                |
-
-2. Which teleports are for Ancient Magicks?
-
-| Shorthand | Explanation           |
-| --------- | --------------------- |
-| PADD      | Paddewwa Teleport     |
-| SENN      | Senntisten Teleport   |
-| KHAR      | Kharyrll Teleport     |
-| LASS      | Lassar Teleport       |
-| CARR      | Carrallanger Teleport |
-| ANNA      | Annakarl Teleport     |
-| GHOR      | Ghorrock Teleport     |
