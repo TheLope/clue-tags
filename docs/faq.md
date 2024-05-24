@@ -1,5 +1,3 @@
-## FAQ
-
 1. What do some of these shorthand names mean?
 
 | Shorthand | Explanation                      |
