@@ -1,3 +1,7 @@
+---
+icon: clue/beginner
+---
+
 # <img style="vertical-align:middle" src="../../icons/beginner.png" width="35"> Beginner Gear Tags
 Credit to V E H
 

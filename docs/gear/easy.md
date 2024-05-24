@@ -1,3 +1,7 @@
+---
+icon: clue/easy
+---
+
 # <img style="vertical-align:middle" src="../../icons/easy.png" width="35"> Easy Gear Tags
 
 ![Easy Gear](images/easy.png)

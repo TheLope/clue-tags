@@ -1,3 +1,7 @@
+---
+icon: clue/master
+---
+
 # <img style="vertical-align:middle" src="../../icons/master.png" width="35"> Master Gear Tags
 
 ![Master Gear](images/master.png)

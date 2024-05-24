@@ -2,8 +2,8 @@ site_name: Clue Tags
 site_url: https://thelope.github.io
 theme:
   name: material
-  logo: icons/clue.png
   favicon: icons/clue.png
+  custom_dir: overrides
   palette:
     # Palette toggle for dark mode
     - scheme: slate
@@ -17,6 +17,7 @@ theme:
         icon: material/brightness-7
         name: Switch to dark mode
   icon:
+    logo: clue/clue
     repo: fontawesome/brands/github
   features:
     - navigation.footer

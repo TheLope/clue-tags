@@ -1,3 +1,7 @@
+---
+icon: clue/mimic
+---
+
 # <img style="vertical-align:middle" src="../../icons/mimic.png" width="35"> Mimic Gear Tags
 
 ![Mimic Gear](images/mimic.png)

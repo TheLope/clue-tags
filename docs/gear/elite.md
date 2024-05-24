@@ -1,3 +1,7 @@
+---
+icon: clue/elite
+---
+
 # <img style="vertical-align:middle" src="../../icons/elite.png" width="35"> Elite Gear Tags
 
 ![Elite Gear](images/elite.png)

@@ -1,3 +1,7 @@
+---
+icon: clue/hard
+---
+
 # <img style="vertical-align:middle" src="../../icons/hard.png" width="35"> Hard Gear Tags
 
 ![Hard Gear](images/hard.png)

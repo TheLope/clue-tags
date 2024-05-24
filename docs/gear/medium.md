@@ -1,3 +1,7 @@
+---
+icon: clue/medium
+---
+
 # <img style="vertical-align:middle" src="../../icons/medium.png" width="35"> Medium Gear Tags
 
 ![Medium Gear](images/medium.png)
