@@ -7,12 +7,14 @@ theme:
   palette:
     # Palette toggle for dark mode
     - scheme: slate
+      primary: black
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
 
     # Palette toggle for light mode
     - scheme: default
+      primary: black
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -22,10 +24,11 @@ theme:
   features:
     - navigation.footer
     - content.code.copy
-    - navigation.path
     - navigation.indexes
     - navigation.sections
     - navigation.instant
+    - navigation.path
+    - navigation.top
 nav:
   - Home: index.md
   - Item Tags:
@@ -61,3 +64,11 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+extra:
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/The_Lope
+      name: The_Lope on X
+  analytics:
+    provider: google
+    property: G-7XSDV8ZS27
