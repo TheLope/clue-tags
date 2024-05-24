@@ -2,19 +2,22 @@
 
 All clue tiers **except beginner and master** have unique item IDs for each clue step
 
-This allows us to provide hints on the clue scroll item without requiring players to open the clue
+This allows us to provide hints on the clue scroll item **without requiring players to open the clue**
 
 ## How To
 
 Requires the [Custom Item Tags](https://runelite.net/plugin-hub/show/custom-items) RuneLite plugin
 
-Paste the contents of the tag files into the *Custom Tags* section of of the plugin configuration
+To import:
+
+- Copy contents of one of the provided item tags to your clipboard
+- Paste into the *Custom Tags* section in the plugin configuration
 
 ![Item Tag Config](images/config.png)
 
-- Multiple sets of tags can be used at once, simply paste the next set of tags on a new line
+- **Note**: To use multiple sets of tags at once, paste the next set of tags on a **new line**
 
-You should now see a tag on your current clue
+You should now see a tag on your clue item
 
 ![Item Tag Example](images/example.png)
 

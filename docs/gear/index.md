@@ -1,6 +1,6 @@
 # Gear Tags
 
-Bank Tag Layouts of recommended gear setups for all clues
+Bank Tag Layouts and screenshots of recommended gear setups for all clues
 
 ## How To
 
@@ -8,7 +8,7 @@ Requires the [Bank Tag Layouts](https://runelite.net/plugin-hub/show/bank-tag-la
 
 To import:
 
-- Copy the provided tags to your clipboard
+- Copy contents of one of the provided gear tags to your clipboard
 - Right click the *New tag tab* button
 - Select *Import tag tab with layout*
 
