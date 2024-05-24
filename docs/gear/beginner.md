@@ -3,9 +3,9 @@ icon: clue/beginner
 ---
 
 # <img style="vertical-align:middle" src="../../icons/beginner.png" width="35"> Beginner Gear Tags
-Credit to V E H
 
 ![Beginner Gear](images/beginner.png)
+<p style="text-align: center;">Credit to V E H</p>
 
 _Copy button is provided on the right_
 ``` json title=""
