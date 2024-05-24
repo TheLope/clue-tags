@@ -1,92 +1,47 @@
-# Clue Tags
+# Welcome to Clue Tags
 
-All clue tiers except beginner and master have unique item IDs for each clue step
+If preferred, see Documentation Website here: https://thelope.github.io/clue-tags/
 
-This allows us to provide hints on the clue item without requiring players to open the clue
+Otherwise, internal links are provided below
 
 ## Item Tags
 
-### How To
+All clue tiers **except beginner and master** have unique item IDs for each clue step
 
-Requires the [Custom Item Tags](https://runelite.net/plugin-hub/show/custom-item-tags) RuneLite plugin
+This allows us to provide hints on the clue scroll item **without requiring players to open the clue**
 
-Paste the contents of the tag files into the *Custom Tags* section of of the plugin configuration
+### [How To](docs/items/index.md)
 
-- Multiple sets of tags can be used at once, simply paste the next set of tags on a new line
+### Tags
 
-![Item Tag Config](Docs/Item%20Tag%20Config.png)
+[Easy](Easy/Easy%20Clue%20Tags.yml)
 
-You should now see a tag on your current clue
+[Medium](Medium/Medium%20Clue%20Tags.yml)
 
-![Item Tag Example](Docs/Item%20Tag%20Example.png)
+[Hard](Hard/Hard%20Clue%20Tags.yml)
 
-### Links
-
-[Easy Clue Tags](Easy/Easy%20Clue%20Tags.yml)
-
-[Medium Clue Tags](Medium/Medium%20Clue%20Tags.yml)
-
-[Hard Clue Tags](Hard/Hard%20Clue%20Tags.yml)
-
-[Elite Clue Tags](Elite/Elite%20Clue%20Tags.yml)
+[Elite](Elite/Elite%20Clue%20Tags.yml)
 
 ## Gear Tags
 
-### How To
+Bank Tag Layouts and screenshots of recommended gear setups for all clues
 
-Requires the [Bank tag layouts](https://runelite.net/plugin-hub/show/bank-tag-layouts) RuneLite plugin
+### [How To](docs/gear/index.md)
 
-To import, right click the *New tag tab* button and select *Import tag tab with layout*
+### Tags
 
-![Bank Tag Import](Docs/Bank%20Tag%20Import.png)
+[Beginner](Beginner/Gear/Beginner%20Gear%20Tags.txt)
 
-You should now see a new tag tab
+[Easy](Easy/Gear/Easy%20Ents%20Gear%20Tags.txt)
 
-![Bank Tag Example](Docs/Bank%20Tag%20Example.png)
+[Medium](Medium/Gear/Medium%20Gear%20Tags.txt)
 
-### Links
+[Hard](Hard/Gear/Hard%20Gear%20Tags.txt)
 
-[Beginner Gear Tags](Beginner/Gear/README.md)
+[Elite](Elite/Gear/Elite%20Gear%20Tags.txt)
 
-[Easy Gear Tags](Easy/Gear/README.md)
+[Master](Master/Gear/Master%20Gear%20Tags.txt)
 
-[Medium Gear Tags](Medium/Gear/README.md)
+[Mimic](Mimic/Gear/Mimic%20Gear%20Tags.txt)
 
-[Hard Gear Tags](Hard/Gear/README.md)
-
-[Elite Gear Tags](Elite/Gear/README.md)
-
-[Master Gear Tags](Master/Gear/README.md)
-
-[Mimic Gear Tags](Mimic/Gear/README.md)
-
-## FAQ
-
-1. What do some of these shorthand names mean?
-
-| Shorthand | Explanation                      |
-| --------- | -------------------------------- |
-| +         | Bank first                       |
-| -         | Degear for wildy                 |
-| GLIDE     | Seed pod&rarr;climb up to glider |
-| RESP      | Respawn: set to Edgeville        |
-| FISH      | Max Cape&rarr;Fishing Teleports  |
-| OTHER     | Max Cape&rarr;Other Teleports    |
-| GVS       | Goblin village sphere            |
-| BOX       | POH jewellery box                |
-
-2. Which teleports are for Ancient Magicks?
-
-| Shorthand | Explanation           |
-| --------- | --------------------- |
-| PADD      | Paddewwa Teleport     |
-| SENN      | Senntisten Teleport   |
-| KHAR      | Kharyrll Teleport     |
-| LASS      | Lassar Teleport       |
-| CARR      | Carrallanger Teleport |
-| ANNA      | Annakarl Teleport     |
-| GHOR      | Ghorrock Teleport     |
-
-## Notes
-
-Work in progress
+## [FAQ](docs/faq.md)

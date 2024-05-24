@@ -1,0 +1,74 @@
+site_name: Clue Tags
+site_url: https://thelope.github.io
+theme:
+  name: material
+  favicon: icons/clue.png
+  custom_dir: overrides
+  palette:
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: black
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  icon:
+    logo: clue/clue
+    repo: fontawesome/brands/github
+  features:
+    - navigation.footer
+    - content.code.copy
+    - navigation.indexes
+    - navigation.sections
+    - navigation.instant
+    - navigation.path
+    - navigation.top
+nav:
+  - Home: index.md
+  - Item Tags:
+    - items/index.md
+    - Easy: items/easy.md
+    - Medium: items/medium.md
+    - Hard: items/hard.md
+    - Elite: items/elite.md
+  - Gear Tags:
+    - gear/index.md
+    - Beginner: gear/beginner.md
+    - Easy: gear/easy.md
+    - Medium: gear/medium.md
+    - Hard: gear/hard.md
+    - Elite: gear/elite.md
+    - Master: gear/master.md
+    - Mimic: gear/mimic.md
+  - FAQ: faq.md
+repo_url: https://github.com/TheLope/clue-tags
+repo_name: TheLope/clue-tags
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+  - attr_list
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+extra:
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/The_Lope
+      name: The_Lope on X
+  analytics:
+    provider: google
+    property: G-7XSDV8ZS27
