@@ -1,5 +1,7 @@
 ---
 icon: material/home
+hide:
+  - toc
 ---
 
 # Welcome to Clue Tags
