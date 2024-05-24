@@ -3,7 +3,7 @@
 ![Master Gear](../images/Master%20Gear.png)
 
 ``` title=""
---8<-- "Master\Gear\Master Gear Tags.txt"
+--8<-- "Master/Gear/Master Gear Tags.txt"
 ```
 
 ## Video Reference

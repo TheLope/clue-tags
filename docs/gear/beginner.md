@@ -4,7 +4,7 @@ Credit to V E H
 ![Beginner Gear](../images/Beginner%20Gear.png)
 
 ``` title=""
---8<-- "Beginner\Gear\Beginner Gear Tags.txt"
+--8<-- "Beginner/Gear/Beginner Gear Tags.txt"
 ```
 
 ## Ironman Gear Setup Alternative

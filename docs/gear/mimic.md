@@ -3,7 +3,7 @@
 ![Mimic Gear](../images/Mimic%20Gear.png)
 
 ``` title=""
---8<-- "Mimic\Gear\Mimic Gear Tags.txt"
+--8<-- "Mimic/Gear/Mimic Gear Tags.txt"
 ```
 
 ## Notes
