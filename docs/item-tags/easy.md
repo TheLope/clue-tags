@@ -1,4 +1,4 @@
 # Easy Item Tags
-``` title=""
+``` yaml title=""
 --8<-- "Easy/Easy Clue Tags.yml"
 ```

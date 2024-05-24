@@ -1,4 +1,4 @@
 # Elite Item Tags
-``` title=""
+``` yaml title=""
 --8<-- "Elite/Elite Clue Tags.yml"
 ```

@@ -1,4 +1,4 @@
 # Hard Item Tags
-``` title=""
+``` yaml title=""
 --8<-- "Hard/Hard Clue Tags.yml"
 ```

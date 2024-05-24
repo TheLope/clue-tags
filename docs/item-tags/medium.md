@@ -1,4 +1,4 @@
 # Medium Item Tags
-``` title=""
+``` yaml title=""
 --8<-- "Medium/Medium Clue Tags.yml"
 ```

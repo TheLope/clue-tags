@@ -1,4 +1,4 @@
-E CLUES	,	000000
+E CLUES:	,	000000
 W ARDY: stash,	12073
 LYRE 3: stash,	12074
 REV: +nw stash,	12075
@@ -131,6 +131,6 @@ PHAR 4: s dig,	26944
 CIV: temple stash,	28910
 MOTH: n Fumbo,	28911
 OTHER 13: n far dig,	28912
-E CHALLENGE,	000000
+E CHALLENGE: ,	000000
 Challenge	,	12128
 Challenge	,	12139
