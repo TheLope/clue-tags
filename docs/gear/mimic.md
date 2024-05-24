@@ -2,6 +2,7 @@
 
 ![Mimic Gear](../images/Mimic%20Gear.png)
 
+_Copy button is provided on the right_
 ``` title=""
 --8<-- "Mimic/Gear/Mimic Gear Tags.txt"
 ```

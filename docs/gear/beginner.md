@@ -3,6 +3,7 @@ Credit to V E H
 
 ![Beginner Gear](../images/Beginner%20Gear.png)
 
+_Copy button is provided on the right_
 ``` title=""
 --8<-- "Beginner/Gear/Beginner Gear Tags.txt"
 ```

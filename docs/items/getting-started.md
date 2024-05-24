@@ -6,7 +6,7 @@ This allows us to provide hints on the clue scroll item without requiring player
 
 ### How To
 
-Requires the [Custom Item Tags](https://runelite.net/plugin-hub/show/custom-item-tags) RuneLite plugin
+Requires the [Custom Item Tags](https://runelite.net/plugin-hub/show/custom-items) RuneLite plugin
 
 Paste the contents of the tag files into the *Custom Tags* section of of the plugin configuration
 

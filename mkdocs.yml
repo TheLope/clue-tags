@@ -25,12 +25,12 @@ theme:
 nav:
   - Home: index.md
   - Item Tags:
-    - Getting Started: item-tags/getting-started.md
-    - Easy: item-tags/easy.md
-    - Medium: item-tags/medium.md
-    - Hard: item-tags/hard.md
-    - Elite: item-tags/elite.md
-  - Gear:
+    - Getting Started: items/getting-started.md
+    - Easy: items/easy.md
+    - Medium: items/medium.md
+    - Hard: items/hard.md
+    - Elite: items/elite.md
+  - Gear Tags:
     - Getting Started: gear/getting-started.md
     - Beginner: gear/beginner.md
     - Easy: gear/easy.md

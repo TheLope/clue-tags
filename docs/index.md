@@ -6,28 +6,28 @@ _Welcome to Clue Tags!_
 
 Allow you to see a custom text for each clue without having to open it
 
-[Getting Started](item-tags/getting-started.md){ .md-button }
+[Getting Started](items/getting-started.md){ .md-button }
 
 <div style="width: 100%; padding-bottom:50px;display: flex;flex-direction: row;flex-wrap: wrap;float: left;">
-    <a href="item-tags/easy">
+    <a href="items/easy">
         <div style="width: 85px !important; display: flex; flex-direction: column; justify-content: center; align-items: center; padding-bottom:10px">
             <img style="vertical-align:middle" src="images/icons/Clue_scroll_(easy)_detail.webp" width="35">
             <span>Easy</span>
         </div>
     </a>
-    <a href="item-tags/medium">
+    <a href="items/medium">
         <div style="width: 85px !important; display: flex; flex-direction: column; justify-content: center; align-items: center; padding-bottom:10px">
             <img style="vertical-align:middle" src="images/icons/Clue_scroll_(medium)_detail.webp" width="35">
             <span>Medium</span>
         </div>
     </a>
-    <a href="item-tags/hard">
+    <a href="items/hard">
         <div style="width: 85px !important; display: flex; flex-direction: column; justify-content: center; align-items: center; padding-bottom:10px">
             <img style="vertical-align:middle" src="images/icons/Clue_scroll_(hard)_detail.webp" width="35">
             <span>Hard</span>
         </div>
     </a>
-    <a href="item-tags/elite">
+    <a href="items/elite">
         <div style="width: 85px !important; display: flex; flex-direction: column; justify-content: center; align-items: center; padding-bottom:10px">
             <img style="vertical-align:middle" src="images/icons/Clue_scroll_(elite)_detail.webp" width="35">
             <span>Elite</span>

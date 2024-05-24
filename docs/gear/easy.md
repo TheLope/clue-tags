@@ -2,6 +2,7 @@
 
 ![Easy Gear](../images/Easy%20Gear.png)
 
+_Copy button is provided on the right_
 ``` title=""
 --8<-- "Easy/Gear/Easy Gear Tags.txt"
 ```
@@ -10,6 +11,7 @@
 
 ![Easy Ent Gear](../images/Easy%20Ents%20Gear.png)
 
+_Copy button is provided on the right_
 ``` title=""
 --8<-- "Easy/Gear/Easy Ents Gear Tags.txt"
 ```

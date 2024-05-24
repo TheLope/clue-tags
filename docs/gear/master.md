@@ -2,6 +2,7 @@
 
 ![Master Gear](../images/Master%20Gear.png)
 
+_Copy button is provided on the right_
 ``` title=""
 --8<-- "Master/Gear/Master Gear Tags.txt"
 ```
