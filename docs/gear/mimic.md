@@ -1,9 +1,9 @@
-# Mimic Gear Tags
+# <img style="vertical-align:middle" src="../../images/icons/mimic.png" width="35"> Mimic Gear Tags
 
 ![Mimic Gear](../images/Mimic%20Gear.png)
 
 _Copy button is provided on the right_
-``` title=""
+``` json title=""
 --8<-- "Mimic/Gear/Mimic Gear Tags.txt"
 ```
 

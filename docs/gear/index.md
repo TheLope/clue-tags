@@ -1,4 +1,4 @@
-# Getting Started: Gear Tags
+# Gear Tags
 
 Bank presets and screenshots of complete loadouts are provided.
 

@@ -2,7 +2,8 @@ site_name: Clue Tags
 site_url: https://thelope.github.io
 theme:
   name: material
-  custom_dir: overrides
+  logo: images/icons/clue.png
+  favicon: images/icons/clue.png
   palette:
     # Palette toggle for dark mode
     - scheme: slate
@@ -20,18 +21,20 @@ theme:
   features:
     - navigation.footer
     - content.code.copy
+    - navigation.path
+    - navigation.indexes
     - navigation.sections
     - navigation.instant
 nav:
   - Home: index.md
   - Item Tags:
-    - Getting Started: items/getting-started.md
+    - items/index.md
     - Easy: items/easy.md
     - Medium: items/medium.md
     - Hard: items/hard.md
     - Elite: items/elite.md
   - Gear Tags:
-    - Getting Started: gear/getting-started.md
+    - gear/index.md
     - Beginner: gear/beginner.md
     - Easy: gear/easy.md
     - Medium: gear/medium.md

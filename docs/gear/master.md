@@ -1,9 +1,9 @@
-# Master Gear Tags
+# <img style="vertical-align:middle" src="../../images/icons/master.png" width="35"> Master Gear Tags
 
 ![Master Gear](../images/Master%20Gear.png)
 
 _Copy button is provided on the right_
-``` title=""
+``` json title=""
 --8<-- "Master/Gear/Master Gear Tags.txt"
 ```
 

@@ -1,4 +1,4 @@
-# Getting Started: Item Tags
+# Item Tags
 
 All clue tiers **except beginner and master** have unique item IDs for each clue step
 
