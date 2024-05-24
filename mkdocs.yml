@@ -2,8 +2,8 @@ site_name: Clue Tags
 site_url: https://thelope.github.io
 theme:
   name: material
-  logo: images/icons/clue.png
-  favicon: images/icons/clue.png
+  logo: icons/clue.png
+  favicon: icons/clue.png
   palette:
     # Palette toggle for dark mode
     - scheme: slate
