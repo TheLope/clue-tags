@@ -2,7 +2,7 @@ H CLUES:	,	000000
 LUMBER: crate,	2722
 BUR 3: rune dig,	2723
 ICE: -n dig	,	2725
-RESP: web	,	2727
+RESP: -web	,	2727
 RESP: -hut	,	2729
 ANNA: -dig	,	2731
 REV: s hill	,	2733
@@ -73,7 +73,7 @@ CAMU 2: n dig,	7248
 PASS 1: down book,	7249
 SEER: +key	,	7250
 SKIL 2: cart	,	7251
-CON 8: agi	,	7252
+CON 8: +sword agi,	7252
 PASS 3: se crate,	7253
 COMB 4: hay,	7254
 DIA 1: w drawer,	7255
@@ -110,7 +110,7 @@ LEGS: e n	,	12562
 OBEL 2: ne n	,	12564
 SKIL 2: +pick mlm,	12566
 BARRO: Old	,	12568
-BOX 5: Martin,	12570
+COMB 1: Martin,	12570
 GLORY 3: Wise,	12572
 CLOAK: Omad,	12574
 DIA B: Doom	,	12576
