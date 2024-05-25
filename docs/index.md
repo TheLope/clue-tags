@@ -14,8 +14,8 @@ This allows us to provide hints on the clue scroll item **without requiring play
 
 [Get Started :material-location-enter:](items/index.md){ .md-button }
 
-## :osrs-equipment: Gear Tags
+## :osrs-bank: Bank Tags
 
 Bank Tag Layouts and screenshots of recommended gear setups for all clues
 
-[Get Started :material-location-enter:](gear/index.md){ .md-button }
+[Get Started :material-location-enter:](bank/index.md){ .md-button }

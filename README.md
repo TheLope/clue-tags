@@ -22,11 +22,11 @@ This allows us to provide hints on the clue scroll item **without requiring play
 
 [Elite](tags/elite/item.yml)
 
-## Gear Tags
+## Bank Tags
 
 Bank Tag Layouts and screenshots of recommended gear setups for all clues
 
-### [How To](docs/gear/index.md)
+### [How To](docs/bank/index.md)
 
 ### Tags
 
