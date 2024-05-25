@@ -1,7 +1,7 @@
 M CLUES:	,	000000
 GLORY 3: ham,	2801
 CLS: n	,	2803
-CON 7: nw	,	2805
+POH 7: nw	,	2805
 PASS 2: nw 	,	2807
 TREE 1: w	,	2809
 OTTO: rope	,	2811
@@ -35,14 +35,14 @@ SLAY 2: se	,	3582
 BKR: sw	,	3584
 GAME 1: pub	,	3586
 GLORY 2: sw	,	3588
-CON 7: sw	,	3590
+POH 7: sw	,	3590
 SLAY 1: w	,	3592
 DIA F: swamp,	3594
 CRAFT: w	,	3596
 ALS: crate	,	3598
 DJP: dig	,	3599
 TREE 3: se	,	3601
-CON 2: chem	,	3602
+POH 2: chem	,	3602
 TAI BWO: crate,	3604
 DIA 6: pirate,	3605
 GAME 1: Penda,	3607
@@ -71,7 +71,7 @@ SKULL: barbarian,	7296
 BOOT: guard	,	7298
 QPC: Jeb	,	7300
 PASS 1: wizard,	7301
-CON 4: camp	,	7303
+POH 4: camp	,	7303
 COMB 4: guild,	7304
 ROW 1: n	,	7305
 AKS: n	,	7307
@@ -102,7 +102,7 @@ GLORY 1: stash,	12031
 FELDIP: se	,	12033
 PASS 3: se	,	12035
 FENKEN: n	,	12037
-CON 6: potato,	12039
+POH 6: potato,	12039
 TREE D: s	,	12041
 SKULL: se	,	12043
 PISC: row s	,	12045
@@ -113,8 +113,8 @@ SLAY 2: s	,	12053
 OTTO: otto	,	12055
 DIA D: Baraek,	12057
 SLAY 1: Steve,	12059
-CON 2: e	,	12061
-CON 2: w	,	12063
+POH 2: e	,	12061
+POH 2: w	,	12063
 FALLY: pub	,	12065
 CATH: archer talk,	12067
 CAMELOT: court,	12069
@@ -136,7 +136,7 @@ XER 4: giant	,	19760
 A LIB: Grackle,	19762
 PASS 1: Traiborn,	19764
 BOOK 2: e	,	19766
-CON 4: kebab,	19768
+POH 4: kebab,	19768
 DIA B: tutor	,	19770
 DIA C: down	,	19772
 BOOK 3: s	,	19774

@@ -17,11 +17,11 @@ FALLY: ne up drawer,	2691
 FALLY: nw crate,	2692
 DIA 3: Squire,	2693
 SKIL 3: climb drawer,	2694
-CON 2: e fish crate,	2695
+POH 2: e fish crate,	2695
 EXPL: s Bartend,	2696
 GLORY 3: Ned,	2697
-CON 3: e Doric,	2698
-CON 3: sw Gaius,	2699
+POH 3: e Doric,	2698
+POH 3: sw Gaius,	2699
 CATH: se drawer,	2700
 CATH: s Arhein,	2701
 CAMELOT: court Kay,	2702
@@ -42,13 +42,13 @@ GAME 1: ne drawer,	3490
 YANIL: ne crate,	3491
 YANIL: sw drawer,	3492
 SKIL 2: disk chest,	3493
-CON 2: witch up,	3494
-CON 2: e up chest,	3495
+POH 2: witch up,	3494
+POH 2: e up chest,	3495
 TREE 7: sw Captain,	3496
 ROW 3: house n up,	3497
 ROW 3: house s,	3498
-CON 3: sw box,	3499
-CON 3: s drawer,	3500
+POH 3: sw box,	3499
+POH 3: s drawer,	3500
 DUEL 1: s box,	3501
 MANOR: top crate,	3502
 GAME 1: army box,	3503
@@ -78,11 +78,11 @@ ROTE 4: mine stash,	10194
 MANOR: sw stash,	10196
 GLORY 3: ne stash,	10198
 GLORY 3: n stash,	10200
-CON 2: mine stash,	10202
+POH 2: mine stash,	10202
 GE: castle stash,	10204
 SKIL 1: mill stash,	10206
 SKIL 2: party stash,	10208
-CON 3: ne stash,	10210
+POH 3: ne stash,	10210
 GAME 1: down naked,	10212
 DIA 5: e stash,	10214
 DIA 1: zoo stash,	10216
@@ -112,23 +112,23 @@ ROTE 4: mine dig,	12179
 FALLY: ne Cassie,	12181
 DIA 3: up Ambass,	12182
 FALLY: w Hairdress,	12183
-CON 3: s Jatix,	12184
+POH 3: s Jatix,	12184
 GAME 1: pub crate,	12185
 EXPL: w Sarah,	12186
 FALLY: n Rusty,	12187
 EXPL: sw drawer,	12188
-CON 2: mine wheel,	12189
+POH 2: mine wheel,	12189
 SKIL 3: basket Lady,	12190
-CON 3: climb	,	12191
+POH 3: climb	,	12191
 DIA 2: Shanty bucket,	12192
 LUMB: dig	,	19814
 PADD: ne Vannaka,	19816
 VARR: sw Apothecary,	19817
-CON 5: s drawer,	19818
+POH 5: s drawer,	19818
 FALLY: sw Herquin,	19819
 XER 2: church Jean,	19820
 BOOK 2: ne Tynan,	19821
-CON 2: w Chemist,	19822
+POH 2: w Chemist,	19822
 MANOR: Lep	,	19823
 ROTE 1: se Face,	19824
 SKIL 5: salt Konoo,	19825
@@ -139,11 +139,11 @@ DIA B: Doomsayer,	19830
 ROW 2: s stash,	19831
 DIA D: rune stash,	19833
 TREE 5: se dig,	22001
-CON 3: crystal box,	23149
+POH 3: crystal box,	23149
 ROTE 2: nw r book,	23150
 GLORY 3: ne farm,	23151
 DIA D: armor crate,	23152
-CON 2: sw crate,	23153
+POH 2: sw crate,	23153
 FALLY: nw crate,	23154
 ROW 3: song,	23155
 ROW 3: song,	23156
