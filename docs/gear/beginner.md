@@ -9,7 +9,7 @@ icon: clue/beginner
 
 _Copy button is provided on the right_
 ``` json title=""
---8<-- "Beginner/Gear/Beginner Gear Tags.txt"
+--8<-- "tags/beginner/bank.txt"
 ```
 
 ## Ironman Gear Setup Alternative

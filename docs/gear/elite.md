@@ -8,5 +8,5 @@ icon: clue/elite
 
 _Copy button is provided on the right_
 ``` json title=""
---8<-- "Elite/Gear/Elite Gear Tags.txt"
+--8<-- "tags/elite/bank.txt"
 ```

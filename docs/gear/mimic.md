@@ -8,7 +8,7 @@ icon: clue/mimic
 
 _Copy button is provided on the right_
 ``` json title=""
---8<-- "Mimic/Gear/Mimic Gear Tags.txt"
+--8<-- "tags/mimic/bank.txt"
 ```
 
 ## Notes

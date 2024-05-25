@@ -8,14 +8,5 @@ icon: clue/easy
 
 _Copy button is provided on the right_
 ``` json title=""
---8<-- "Easy/Gear/Easy Gear Tags.txt"
-```
-
-## Easy Ents Gear Tags
-
-![Easy Ent Gear](images/easy_ents.png)
-
-_Copy button is provided on the right_
-``` json title=""
---8<-- "Easy/Gear/Easy Ents Gear Tags.txt"
+--8<-- "tags/easy/bank.txt"
 ```

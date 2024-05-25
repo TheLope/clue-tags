@@ -8,7 +8,7 @@ icon: clue/master
 
 _Copy button is provided on the right_
 ``` json title=""
---8<-- "Master/Gear/Master Gear Tags.txt"
+--8<-- "tags/master/bank.txt"
 ```
 
 ## Video Reference

@@ -8,5 +8,5 @@ icon: clue/medium
 
 _Copy button is provided on the right_
 ``` json title=""
---8<-- "Medium/Gear/Medium Gear Tags.txt"
+--8<-- "tags/medium/bank.txt"
 ```
