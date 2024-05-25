@@ -12,7 +12,7 @@ _Copy button is provided on the right_
 --8<-- "tags/beginner/bank.txt"
 ```
 
-## Ironman Gear Setup Alternative
+## Ironman Gear
 
 ![Beginner Gear Iron](images/beginner_iron.png)
 
