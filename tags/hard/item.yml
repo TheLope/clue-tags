@@ -16,7 +16,7 @@ W CRAB: w dig,	2747
 LUMB: down	,	2773
 RESP: dig	,	2774
 VARR: w bank,	2776
-CON 2: e Gerrant,	2778
+POH 2: e Gerrant,	2778
 GLORY 3: w dig,	2780
 LUMB: up	,	2782
 CLOAK: zoo	,	2783
@@ -44,7 +44,7 @@ DKP: se dig	,	3538
 GLIDE Gand: w dig,	3540
 BIP: grotto	,	3542
 BKR: sw dig	,	3544
-CON 8: Gu'T	,	3546
+POH 8: Gu'T	,	3546
 GLIDE L Undri: cave,	3548
 Unobtainable,	3550
 BIQ: sw dig	,	3552
@@ -73,7 +73,7 @@ CAMU 2: n dig,	7248
 PASS 1: down book,	7249
 SEER: +key	,	7250
 SKIL 2: cart	,	7251
-CON 8: +sword agi,	7252
+POH 8: +sword agi,	7252
 PASS 3: se crate,	7253
 COMB 4: hay,	7254
 DIA 1: w drawer,	7255
@@ -114,7 +114,7 @@ COMB 1: Martin,	12570
 GLORY 3: Wise,	12572
 CLOAK: Omad,	12574
 DIA B: Doom	,	12576
-CON 7: Saniboch,	12578
+POH 7: Saniboch,	12578
 CATH: fruit	,	12581
 DIA 3: Vyvin	,	12584
 PHAR 1: Mummy,	12587
@@ -150,7 +150,7 @@ BF: Drunken	,	19890
 MOS LE: Tranqil,	19892
 HILT: Brambickle,	19894
 TREE A: Lammy,	19896
-CON 9: sw Eluned,	19898
+POH 9: sw Eluned,	19898
 FISH 2: Otto	,	19900
 ECTO: ne Pete,	19902
 BIQ: nw Weird,	19904

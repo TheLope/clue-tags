@@ -8,7 +8,7 @@ BOX C: up	,	12078
 QPC: platform,	12079
 SLAY 2: stash,	12080
 TROL: stash	,	12081
-CON 3: hero stash,	12082
+POH 3: hero stash,	12082
 FISH 2: stash,	12083
 ECTO: dtooth ne,	12085
 MOS LE: island,	12086
@@ -76,7 +76,7 @@ CATH: Candle	,	12152
 NARDAH: +rope,	12153
 ARDY: Horacio,	12154
 KHAR: Barker,	12155
-CON 3: stones,	12156
+POH 3: stones,	12156
 NMZ: Dominic,	12157
 D AMU Cave: in,	12158
 BOX M: Wyson,	12159
@@ -110,7 +110,7 @@ NEX MARIM: Daga,	19808
 W BIRTH: dks	,	19809
 LEGS: batta	,	19810
 PEST: Veteran,	19811
-CON 5: e	,	19813
+POH 5: e	,	19813
 DIGS 1: e	,	21524
 VM: dig	,	21525
 DIGS 3: up	,	22000
@@ -119,12 +119,12 @@ DLR: dig	,	23145
 OBEL 3: e	,	23146
 NEX WEISS: e	,	23147
 LYRE 3: w dig	,	23148
-CON 9: ne dig,	23770
+POH 9: ne dig,	23770
 W BIRTH: stone,	24253
 BOX M: song	,	24773
 RESP: portal w dig,	25498
 BJP: e	,	25499
-CON 5: sw stash,	25786
+POH 5: sw stash,	25786
 BOTD 3: sw	,	25787
 BOX M: song	,	26943
 PHAR 4: s dig,	26944
