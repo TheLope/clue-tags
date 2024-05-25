@@ -37,15 +37,15 @@ nav:
     - Medium: items/medium.md
     - Hard: items/hard.md
     - Elite: items/elite.md
-  - Gear Tags:
-    - gear/index.md
-    - Beginner: gear/beginner.md
-    - Easy: gear/easy.md
-    - Medium: gear/medium.md
-    - Hard: gear/hard.md
-    - Elite: gear/elite.md
-    - Master: gear/master.md
-    - Mimic: gear/mimic.md
+  - Bank Tags:
+    - bank/index.md
+    - Beginner: bank/beginner.md
+    - Easy: bank/easy.md
+    - Medium: bank/medium.md
+    - Hard: bank/hard.md
+    - Elite: bank/elite.md
+    - Master: bank/master.md
+    - Mimic: bank/mimic.md
   - FAQ: faq.md
 repo_url: https://github.com/TheLope/clue-tags
 repo_name: TheLope/clue-tags

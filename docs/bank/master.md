@@ -2,13 +2,13 @@
 icon: clue/master
 ---
 
-# <img style="vertical-align:middle" src="../../icons/master.png" width="35"> Master Gear Tags
+# <img style="vertical-align:middle" src="../../icons/master.png" width="35"> Master Bank Tags
 
-![Master Gear](images/master.png)
+![Master Bank](images/master.png)
 
 _Copy button is provided on the right_
 ``` json title=""
---8<-- "Master/Gear/Master Gear Tags.txt"
+--8<-- "tags/master/bank.txt"
 ```
 
 ## Video Reference

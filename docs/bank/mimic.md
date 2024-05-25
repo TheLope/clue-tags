@@ -2,13 +2,13 @@
 icon: clue/mimic
 ---
 
-# <img style="vertical-align:middle" src="../../icons/mimic.png" width="35"> Mimic Gear Tags
+# <img style="vertical-align:middle" src="../../icons/mimic.png" width="35"> Mimic Bank Tags
 
-![Mimic Gear](images/mimic.png)
+![Mimic Bank](images/mimic.png)
 
 _Copy button is provided on the right_
 ``` json title=""
---8<-- "Mimic/Gear/Mimic Gear Tags.txt"
+--8<-- "tags/mimic/bank.txt"
 ```
 
 ## Notes

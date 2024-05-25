@@ -14,34 +14,34 @@ This allows us to provide hints on the clue scroll item **without requiring play
 
 ### Tags
 
-[Easy](Easy/Easy%20Clue%20Tags.yml)
+[Easy](tags/easy/item.yml)
 
-[Medium](Medium/Medium%20Clue%20Tags.yml)
+[Medium](tags/medium/item.yml)
 
-[Hard](Hard/Hard%20Clue%20Tags.yml)
+[Hard](tags/hard/item.yml)
 
-[Elite](Elite/Elite%20Clue%20Tags.yml)
+[Elite](tags/elite/item.yml)
 
-## Gear Tags
+## Bank Tags
 
 Bank Tag Layouts and screenshots of recommended gear setups for all clues
 
-### [How To](docs/gear/index.md)
+### [How To](docs/bank/index.md)
 
 ### Tags
 
-[Beginner](Beginner/Gear/Beginner%20Gear%20Tags.txt)
+[Beginner](tags/beginner/bank.txt)
 
-[Easy](Easy/Gear/Easy%20Ents%20Gear%20Tags.txt)
+[Easy](tags/easy/bank.txt)
 
-[Medium](Medium/Gear/Medium%20Gear%20Tags.txt)
+[Medium](tags/medium/bank.txt)
 
-[Hard](Hard/Gear/Hard%20Gear%20Tags.txt)
+[Hard](tags/hard/bank.txt)
 
-[Elite](Elite/Gear/Elite%20Gear%20Tags.txt)
+[Elite](tags/elite/bank.txt)
 
-[Master](Master/Gear/Master%20Gear%20Tags.txt)
+[Master](tags/master/bank.txt)
 
-[Mimic](Mimic/Gear/Mimic%20Gear%20Tags.txt)
+[Mimic](tags/mimic/bank.txt)
 
 ## [FAQ](docs/faq.md)
