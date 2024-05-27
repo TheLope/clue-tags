@@ -1,16 +1,16 @@
 M CLUES:	,	000000
 GLORY 3: ham,	2801
-CLS: n	,	2803
-POH 7: nw	,	2805
-PASS 2: nw 	,	2807
+CLS: n dig	,	2803
+POH 7: isle dig,	2805
+PASS 2: nw dig,	2807
 CIQ: nw dig	,	2809
 FISH 2: rope	,	2811
 CLOAK 1: ne dig,	2813
 DIA 9: crand n,	2815
-TAI BWO: se	,	2817
-AIQ: n	,	2819
+DIA 7: down n,	2817
+AIQ: n dig	,	2819
 SKIL 3: balloon,	2821
-ROTE 2: ne	,	2823
+ROTE 2: ne dig,	2823
 GLORY 3: cows,	2825
 DIA G: dig	,	2827
 Unobtainable,	2829
@@ -19,66 +19,66 @@ ALS: dog	,	2833
 ARDY: guard	,	2835
 COMB 4: chicken,	2837
 WATCH: man	,	2839
-CLS: up	,	2841
+CLS: Hazelmere,	2841
 LUMB: Cook	,	2843
-CLOAK 1: zoo,	2845
-DIA D: archer,	2847
-TREE 9: cart	,	2848
-GLORY 4: nw	,	2849
-LASS: n	,	2851
-DIA F: ball	,	2853
-MUSIC: house,	2855
+CLOAK 1: Zoo,	2845
+DIA D: Lowe	,	2847
+TREE 9: Hajedy,	2848
+GLORY 4: Karim,	2849
+LASS: Oracle	,	2851
+DIA F: Referee,	2853
+MUSIC: Donovan,	2855
 SKIL 2: Party,	2856
 TREE 1: King	,	2857
-GLORY 2: se	,	2858
-SLAY 2: se	,	3582
-BKR: sw	,	3584
-GAME 1: pub	,	3586
-GLORY 2: sw	,	3588
-POH 7: sw	,	3590
-SLAY 1: w	,	3592
-DIA F: swamp,	3594
+GLORY 2: Luthas,	2858
+SLAY 2: se dig,	3582
+BKR: sw dig	,	3584
+GAME 1: pub dig,	3586
+GLORY 2: sw dig,	3588
+POH 7: sw dig,	3590
+SLAY 1: w dig	,	3592
+DIA F: swamp dig,	3594
 SKIL 3: w dig	,	3596
 ALS: crate	,	3598
 CLOAK 1: e dig,	3599
-TREE 3: se	,	3601
-POH 2: chem	,	3602
+TREE 3: se crate,	3601
+POH 2: chem dig,	3602
 TAI BWO: crate,	3604
 DIA 6: pirate,	3605
 GAME 1: Penda,	3607
 KHAR: crate	,	3609
 CLOAK 1: crate,	3610
-PASS 2: gate,	3611
+PASS 2: ne Femi,	3611
 SLAY 1: Brimstail,	3612
 COMB 1: cave,	3613
 SALVE: Ulizius,	3614
-KHAR: pub	,	3615
-ROTE 4: e	,	3616
-DIA 6: w	,	3617
-AKS: ne	,	3618
-BOOT: hall	,	7274
-TAI BWO: talk	,	7276
-W ARDY: e	,	7278
+KHAR: pub Roavar,	3615
+ROTE 4: e Jaraah,	3616
+DIA 6: w Kangai,	3617
+AKS: ne Fycie,	3618
+BOOT: Brundt,	7274
+TAI BWO: Gabooty,	7276
+W ARDY: Jethick,	7278
 QPC: Carol	,	7280
-DIA 1: n	,	7282
+DIA 1: n Edmond,	7282
 DIA D: King	,	7284
 ROW 1: dig	,	7286
-LEGS: w	,	7288
+LEGS: w dig	,	7288
 OURAN: dig	,	7290
-DIA 4: w	,	7292
-MUSIC: nw	,	7294
+DIA 4: w dig	,	7292
+MUSIC: nw dig,	7294
 SKULL: barbarian,	7296
 BOOT: guard	,	7298
 QPC: Jeb	,	7300
 PASS 1: wizard,	7301
 POH 4: camp	,	7303
-COMB 4: guild,	7304
-ROW 1: n	,	7305
-AKS: n	,	7307
+COMB 4: crate,	7304
+ROW 1: n dig	,	7305
+AKS: n dig	,	7307
 DKP: dig	,	7309
 LASS: dig	,	7311
-ROTE 2: se	,	7313
-SLAY 3: nw	,	7315
+ROTE 2: se dig,	7313
+SLAY 3: nw dig,	7315
 TAI BWO: se far,	7317
 KHAR: stash,	10254
 FENKEN: cave,	10256
@@ -86,66 +86,66 @@ SKULL: bridge,	10258
 TAI BWO: stash,	10260
 DUEL 2: stash,	10262
 BARB: agi stash,	10264
-DIA F: agi	,	10266
-WATCH: e	,	10268
-DUEL 2: n	,	10270
-PASS 2: e	,	10272
+DIA F: agi stash,	10266
+WATCH: e stash,	10268
+DUEL 2: n stash,	10270
+PASS 2: e stash,	10272
 DIGS: stash	,	10274
 CATH: archer stash,	10276
 DIA 2: stash,	10278
 ROTE 2: cave	,	12021
-CATH: bank	,	12023
+CATH: stash	,	12023
 SEER: stash	,	12025
 CATH: shore	,	12027
 DIA 9: sword,	12029
 GLORY 1: stash,	12031
-FELDIP: se	,	12033
-PASS 3: se	,	12035
-FENKEN: n	,	12037
+FELDIP: se dig,	12033
+PASS 3: se dig,	12035
+FENKEN: n dig,	12037
 POH 6: potato,	12039
-TREE D: s	,	12041
-SKULL: se	,	12043
+TREE D: s dig	,	12041
+SKULL: se dig,	12043
 PISC: row s	,	12045
 PISC: row n	,	12047
 COMB 4: nw far,	12049
-DIGS: s	,	12051
-SLAY 2: s	,	12053
+DIGS: s dig	,	12051
+SLAY 2: s dig,	12053
 FISH 2: Otto	,	12055
 DIA D: Baraek,	12057
 SLAY 1: Steve,	12059
-POH 2: e	,	12061
-POH 2: w	,	12063
-FALLY: pub	,	12065
+POH 2: e Tobias,	12061
+POH 2: w Taria,	12063
+FALLY: Kaylee,	12065
 CATH: Hickton,	12067
-CAMELOT: court,	12069
-GAME 1: up	,	12071
-DJR: e	,	19734
-WATCH: nmz	,	19736
-XER 2: e	,	19738
+CAMELOT: Sir Kay,	12069
+GAME 1: up Eohric,	12071
+DJR: e Captain,	19734
+WATCH: Dominic,	19736
+XER 2: e Gallow,	19738
 CIS: mine	,	19740
 A LIB: Horphis,	19742
-BOOK 2: se	,	19744
+BOOK 2: se Dock,	19744
 DIA B: Father,	19746
 GAME 1: Dunstan,	19748
 DIA D: Tramp	,	19750
-DIA 5: talk	,	19752
+DIA 5: Flax	,	19752
 DIA 3: Squire,	19754
-XER 2: sw	,	19756
+XER 2: sw Marsi,	19756
 DIA E: abyss soul,	19758
 XER 4: giant	,	19760
 A LIB: Grackle,	19762
 PASS 1: Traiborn,	19764
-BOOK 2: e	,	19766
-POH 4: kebab,	19768
-DIA B: tutor	,	19770
+BOOK 2: Khaled,	19766
+POH 4: Kebab,	19768
+DIA B: Tutor	,	19770
 DIA C: down	,	19772
-BOOK 3: s	,	19774
+BOOK 3: s dig,	19774
 DJR: cmb ring,	19776
 A LIB: stash	,	19778
 GLORY 3: jail,	19780
-RADA 2: n	,	23046
-BOOK 2: ne	,	23131
-FELDIP: s	,	23133
+RADA 2: n stash,	23046
+BOOK 2: ne Nich,	23131
+FELDIP: s Madame,	23133
 SKIL 6 : dig	,	23135
 DIA 9: crand s,	23136
 DIGS 1: row 4,	23137
@@ -155,9 +155,9 @@ ROW 3: song,	23140
 ROW 3: song,	23141
 ROW 3: song,	23142
 ROW 3: song,	23143
-BOOK 1: ne	,	25783
-XER 1: nw	,	25784
-AJP: se Metla,	28907
+BOOK 1: ne apple,	25783
+XER 1: nw Drunk,	25784
+QUET Out: Metla,	28907
 DUEL 4: Gloria,	28908
 CIV: sw dig	,	28909
 M CHALLENGE: ,	000000
