@@ -3,19 +3,19 @@ GLORY 3: ham,	2801
 CLS: n	,	2803
 POH 7: nw	,	2805
 PASS 2: nw 	,	2807
-TREE 1: w	,	2809
-OTTO: rope	,	2811
-DJP: nw	,	2813
+CIQ: nw dig	,	2809
+FISH 2: rope	,	2811
+CLOAK 1: ne dig,	2813
 DIA 9: crand n,	2815
 TAI BWO: se	,	2817
 AIQ: n	,	2819
-ROTE 3: balloon,	2821
+SKIL 3: balloon,	2821
 ROTE 2: ne	,	2823
 GLORY 3: cows,	2825
 DIA G: dig	,	2827
 Unobtainable,	2829
 CLOAK 1: monk,	2831
-ARDY: dogs	,	2833
+ALS: dog	,	2833
 ARDY: guard	,	2835
 COMB 4: chicken,	2837
 WATCH: man	,	2839
@@ -28,7 +28,7 @@ GLORY 4: nw	,	2849
 LASS: n	,	2851
 DIA F: ball	,	2853
 MUSIC: house,	2855
-ROW 3: party,	2856
+SKIL 2: Party,	2856
 TREE 1: King	,	2857
 GLORY 2: se	,	2858
 SLAY 2: se	,	3582
@@ -38,9 +38,9 @@ GLORY 2: sw	,	3588
 POH 7: sw	,	3590
 SLAY 1: w	,	3592
 DIA F: swamp,	3594
-CRAFT: w	,	3596
+SKIL 3: w dig	,	3596
 ALS: crate	,	3598
-DJP: dig	,	3599
+CLOAK 1: e dig,	3599
 TREE 3: se	,	3601
 POH 2: chem	,	3602
 TAI BWO: crate,	3604
@@ -85,7 +85,7 @@ FENKEN: cave,	10256
 SKULL: bridge,	10258
 TAI BWO: stash,	10260
 DUEL 2: stash,	10262
-GAME 2: e	,	10264
+BARB: agi stash,	10264
 DIA F: agi	,	10266
 WATCH: e	,	10268
 DUEL 2: n	,	10270
@@ -110,13 +110,13 @@ PISC: row n	,	12047
 COMB 4: nw far,	12049
 DIGS: s	,	12051
 SLAY 2: s	,	12053
-OTTO: otto	,	12055
+FISH 2: Otto	,	12055
 DIA D: Baraek,	12057
 SLAY 1: Steve,	12059
 POH 2: e	,	12061
 POH 2: w	,	12063
 FALLY: pub	,	12065
-CATH: archer talk,	12067
+CATH: Hickton,	12067
 CAMELOT: court,	12069
 GAME 1: up	,	12071
 DJR: e	,	19734
@@ -146,7 +146,7 @@ GLORY 3: jail,	19780
 RADA 2: n	,	23046
 BOOK 2: ne	,	23131
 FELDIP: s	,	23133
-FARM : dig	,	23135
+SKIL 6 : dig	,	23135
 DIA 9: crand s,	23136
 DIGS 1: row 4,	23137
 ROW 3: song,	23138
