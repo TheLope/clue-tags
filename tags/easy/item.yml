@@ -136,7 +136,7 @@ XER 4: dig	,	19826
 DIA F: se up Ermin,	19828
 BOOK 1: w crate,	19829
 DIA B: Doomsayer,	19830
-ROW 2: s stash,	19831
+GE: s stash	,	19831
 DIA D: rune stash,	19833
 TREE 5: se dig,	22001
 POH 3: crystal box,	23149
