@@ -27,6 +27,7 @@ theme:
     - navigation.indexes
     - navigation.sections
     - navigation.instant
+    - navigation.instant.prefetch
     - navigation.path
     - navigation.top
 nav:
@@ -72,3 +73,5 @@ extra:
   analytics:
     provider: google
     property: G-7XSDV8ZS27
+extra_css:
+  - stylesheets/extra.css
