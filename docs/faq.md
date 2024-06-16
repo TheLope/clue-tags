@@ -32,3 +32,6 @@ Here are explanations for otherwise unclear hints
 | CARR      | Carrallanger |
 | ANNA      | Annakarl     |
 | GHOR      | Ghorrock     |
+
+## 2. Suicide Steps
+When using the Enchanted symbol to suicide in the wildy, kill two of the MA2 bosses and hand in the hearts. This allows you to spam click and damage yourself without delay.

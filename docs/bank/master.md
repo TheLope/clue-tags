@@ -13,10 +13,10 @@ icon: clue/master
     </div>
     <div class="right-container">
         <div class="half-container-top">
-            <img class="icon" src="../../icons/spellbook/standard.png" />
+            <img class="icon" src="../../icons/spellbook/lunar.png" />
         </div>
         <div class="half-container-bottom">
-            <img src="../images/pouch/standard.png" />
+            <img src="../images/pouch/lunar.png" />
         </div>
     </div>
 </div>
@@ -27,8 +27,16 @@ _Copy button is provided on the right_
 ```
 
 ## Notes
-- Based on your Cryptic step, swap zamorak godsword and/or bring additional items
+### Cryptic clues
+- Items assume the use of the ["3-stepping" method](https://discord.com/channels/922245627092541450/1233850882156789881/1235639466828234814) *See footer for Discord invite*
+- **ZGS**: If you do not have Ghommal Cryptic step, swap for next most useful item (e.g. QPC)
+- **Blessing**: Holy blessing is taken for spiritual mage Sherlock challenge. Swap as needed
+- **Body**: Masori is taken for DPS. Swap to a Blessed d'hide body as needed
+- **Hands** slot depends on Cryptic steps
+    - **If** Shilo Village furnace&rarr;Karamja gloves
+    - **Else If** Ghommal&rarr;Combat bracelet
+    - **Else** Abyssal bracelet
 
-## Video Reference
+## References
 [![[OSRS] Master Clue Juggling Guide ~ 15% time Save
 ](https://img.youtube.com/vi/HwnjCT3xF4k/0.jpg)](https://www.youtube.com/watch?v=HwnjCT3xF4k)
