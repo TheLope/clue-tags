@@ -70,6 +70,9 @@ extra:
     - icon: fontawesome/brands/x-twitter
       link: https://x.com/The_Lope
       name: The_Lope on X
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/zkcn6Y5a
+      name: Log Hunters on Discord
   analytics:
     provider: google
     property: G-7XSDV8ZS27
