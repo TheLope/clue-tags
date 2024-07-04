@@ -7,7 +7,7 @@ CIQ: nw dig	,	2809
 FISH 2: rope	,	2811
 CLOAK 1: ne dig,	2813
 DIA 9: crand n,	2815
-DIA 7: down n,	2817
+DIA 7: altar nw,	2817
 AIQ: n dig	,	2819
 SKIL 3: balloon,	2821
 ROTE 2: ne dig,	2823
@@ -79,7 +79,7 @@ DKP: dig	,	7309
 LASS: dig	,	7311
 ROTE 2: se dig,	7313
 SLAY 3: nw dig,	7315
-TAI BWO: se far,	7317
+DIA 7: altar n,	7317
 KHAR: stash,	10254
 FENKEN: cave,	10256
 SKULL: bridge,	10258
