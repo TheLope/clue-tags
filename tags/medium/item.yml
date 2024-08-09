@@ -4,7 +4,7 @@ CLS: n dig	,	2803
 POH 7: isle dig,	2805
 PASS 2: nw dig,	2807
 CIQ: nw dig	,	2809
-FISH 2: rope	,	2811
+FISH 2: +rope,	2811
 CLOAK 1: ne dig,	2813
 DIA 9: crand n,	2815
 DIA 7: altar nw,	2817
