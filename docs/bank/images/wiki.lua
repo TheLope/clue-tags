@@ -116,7 +116,7 @@ Hard=
 	|clue scroll (hard)						|achievement diary cape (t)				|quest point cape (t)					|book of the dead
 	|spade									|royal seed pod							|ardougne cloak 4						|master scroll book
 	|burning amulet							|necklace of passage					|skills necklace						|camulet
-	|ring of dueling						|karamja gloves 4						|wilderness sword 4						|western banner 4
+	|ring of dueling						|karamja gloves 4						|ectophial								|western banner 4
 	|divine ranging potion					|stamina potion							|divine rune pouch						|blood rune\100
 	|										|										|										|soul rune\100
 	|										|										|										|cosmic rune\100
