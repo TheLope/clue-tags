@@ -149,7 +149,7 @@ Elite=
 	|clue scroll (elite)					|achievement diary cape (t)				|quest point cape (t)					|book of the dead
 	|spade									|kandarin headgear 4					|morytania legs 4						|master scroll book
 	|sled									|enchanted lyre							|eternal teleport crystal				|camulet
-	|ghommal's hilt 6						|ring of wealth							|ectophial								|desert amulet 4
+	|ghommal's hilt 6						|ring of wealth							|ring of shadows    					|desert amulet 4
 	|divine ranging potion					|stamina potion							|divine rune pouch						|blood rune
 	|										|										|										|soul rune
 	|										|										|										|cosmic rune
