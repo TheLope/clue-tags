@@ -2,7 +2,7 @@ E CLUES:	,	000000
 W ARDY: stash,	12073
 LYRE 3: stash,	12074
 REV: +nw stash,	12075
-FISH 1: +ring	,	12076
+FISH 1: shadow,	12076
 WARR: stash	,	12077
 BOX C: up	,	12078
 QPC: platform,	12079
@@ -79,7 +79,7 @@ KHAR: Barker,	12155
 POH 3: stones,	12156
 NMZ: Dominic,	12157
 D AMU Cave: in,	12158
-BOX M: Wyson,	12159
+ROW 3: Wyson,	12159
 KHAZ: +dive	,	19782
 ZUL: dig	,	19783
 DIA E: +abyss soul,	19784
@@ -95,15 +95,15 @@ BOOK 5: se Regath,	19793
 BOOK 3: ne Nurse,	19794
 LYRE 3: Lisse,	19795
 W BIRTH: crab,	19796
-KOUR: hellhound,	19797
+DIA A: hellhound,	19797
 PRIF: waterfiend,	19798
 MYTH: dragon,	19799
 SLAY 3: +basilisk,	19800
-KOUR: bloodveld,	19801
+DIA A: bloodveld,	19801
 SLAY 2: spectre,	19802
 HILT: aviansie,	19803
 NARDAH: croc,	19804
-KOUR: ankou,	19805
+DIA A: ankou,	19805
 FISH 2: +mangled,	19806
 BURN 3: -KBD,	19807
 NEX MARIM: Daga,	19808
@@ -117,16 +117,16 @@ DIGS 3: up	,	22000
 RESP: -resource n,	23144
 DLR: dig	,	23145
 OBEL 3: e	,	23146
-NEX WEISS: e	,	23147
+ROS 2: w up dig,	23147
 LYRE 3: w dig	,	23148
 POH 9: ne dig,	23770
 W BIRTH: stone,	24253
-BOX M: song	,	24773
+ROW 3: song	,	24773
 RESP: portal w dig,	25498
 BJP: e	,	25499
 POH 5: sw stash,	25786
 BOTD 3: sw	,	25787
-BOX M: song	,	26943
+ROW 3: song	,	26943
 PHAR 4: s dig,	26944
 CIV: temple stash,	28910
 MOTH: n Fumbo,	28911
