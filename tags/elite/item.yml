@@ -1,35 +1,35 @@
 E CLUES:	,	000000
 W ARDY: stash,	12073
-LYRE 3: stash,	12074
-REV: +nw stash,	12075
+LYRE 3: rune stash,	12074
+REV: -nw stash,	12075
 FISH 1: shadow,	12076
 WARR: stash	,	12077
-BOX C: up	,	12078
+BOX C: stash up,	12078
 QPC: platform,	12079
 SLAY 2: stash,	12080
 TROL: stash	,	12081
 POH 3: hero stash,	12082
 FISH 2: stash,	12083
-ECTO: dtooth ne,	12085
+ECTO: dtooth dig,	12085
 MOS LE: island,	12086
-DKS: n	,	12087
+DKS: nw dig	,	12087
 NEX HARM: e dig,	12088
 LLET: se dig	,	12089
 HILT: ice path,	12090
 LEGS: boat 1	,	12091
-LUNAR: w	,	12092
+LUNAR: w around,	12092
 OBEL 6: -volcano,	12093
 LYRE 3: e dig	,	12094
 RESP: -resource s,	12095
 APE ATOLL: sw,	12096
 ICE: -pirate	,	12097
 AKS: w dig	,	12098
-CAMU 2: s	,	12099
+CAMU 2: se	,	12099
 CAMU 2: ne	,	12100
 SWORD: -dig	,	12101
-QPC: in	,	12102
-MORT: +tomb,	12103
-SLAY 3: n	,	12104
+QPC: in dig	,	12102
+MORT: +gp tomb,	12103
+SLAY 3: camp,	12104
 W BIRTH: cove,	12105
 APE ATOLL: Lumdo,	12106
 DIA 7: down dig,	12107
@@ -52,7 +52,7 @@ HEAD: Sherlock,	12124
 HEAD: Sherlock,	12125
 HEAD: Sherlock,	12126
 HEAD: Sherlock,	12127
-CIQ: w	,	12130
+CIQ: w dig	,	12130
 LUNAR: se	,	12132
 DORG: Ambassador,	12133
 RESP: -Mandrith,	12134
@@ -125,7 +125,7 @@ ROW 3: song	,	24773
 RESP: portal w dig,	25498
 BJP: e	,	25499
 POH 5: sw stash,	25786
-BOTD 3: sw	,	25787
+BOTD 3: sw dig,	25787
 ROW 3: song	,	26943
 PHAR 4: s dig,	26944
 CIV: temple stash,	28910
