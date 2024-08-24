@@ -1,12 +1,12 @@
 H CLUES:	,	000000
 LUMBER: crate,	2722
-BUR 3: rune dig,	2723
+BUR 3: -rune dig,	2723
 ICE: -n dig	,	2725
 RESP: -web	,	2727
 RESP: -hut	,	2729
 ANNA: -dig	,	2731
 REV: s hill	,	2733
-BURN 3: altar,	2735
+BURN 3: -altar,	2735
 BURN 3: kbd	,	2737
 ICE: -hideout	,	2739
 ANNA: s dig	,	2741
@@ -50,7 +50,7 @@ Unobtainable,	3550
 BIQ: sw dig	,	3552
 DUEL 1: e behind,	3554
 OBEL 4: s dig	,	3556
-OBEL 6: nw dig,	3558
+OBEL 6: -nw dig,	3558
 ZUL: n dig	,	3560
 IORW: s dig	,	3562
 ZUL: n General,	3564
@@ -69,7 +69,7 @@ QPC: sw dig	,	7241
 TREE 8: nw dig,	7243
 MORT: dig	,	7245
 GEM: up	,	7247
-CAMU 2: n dig,	7248
+CAMU 2: n crate,	7248
 PASS 1: down book,	7249
 SEER: +key	,	7250
 SKIL 2: cart	,	7251
@@ -98,7 +98,7 @@ GLIDE Sind: stash,	10250
 DURA: stash,	10252
 SENN: stash	,	12542
 DURA: se stash,	12544
-OBEL 6: stash,	12546
+OBEL 6: -stash,	12546
 DUEL 2: s stash,	12548
 PHAR 2: stash,	12550
 WATSON: stash,	12552
@@ -140,7 +140,7 @@ BJR: dig	,	19870
 DIA 9: w dig	,	19872
 CKP: dig	,	19874
 DIP: dig	,	19876
-DKS: dig	,	19878
+DKS: e dig	,	19878
 CIS: w dig	,	19880
 GLORY 1: down,	19882
 MARIM: Awowo,	19884
