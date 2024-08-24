@@ -2,7 +2,7 @@
 icon: clue/mimic
 ---
 
-# <img style="vertical-align:middle" src="../../icons/mimic.png" width="35"> Mimic Bank Tags
+# <img style="vertical-align:middle" src="https://oldschool.runescape.wiki/images/Mimic_detail.png" width="35"> Mimic Bank Tags
 
 <div class="main-container" onclick="window.open('https://oldschool.runescape.wiki/w/User:Thelope#Mimic', '_blank').focus();">
     <div class="left-container">

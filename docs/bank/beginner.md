@@ -2,7 +2,7 @@
 icon: clue/beginner
 ---
 
-# <img style="vertical-align:middle" src="../../icons/beginner.png" width="35"> Beginner Bank Tags
+# <img style="vertical-align:middle" src="https://oldschool.runescape.wiki/images/Clue_scroll_%28beginner%29_detail.png" width="35"> Beginner Bank Tags
 
 <div class="main-container" onclick="window.open('https://oldschool.runescape.wiki/w/User:Thelope#Beginner', '_blank').focus();">
     <div class="left-container">
@@ -13,7 +13,7 @@ icon: clue/beginner
     </div>
     <div class="right-container">
         <div class="half-container-top">
-            <img class="icon" src="../../icons/spellbook/standard.png" />
+            <img class="icon" src="https://oldschool.runescape.wiki/images/Spellbook.png" />
         </div>
         <div class="half-container-bottom">
             <img src="../images/pouch/standard.png" />

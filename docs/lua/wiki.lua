@@ -2,7 +2,6 @@
 <tabber>
 Beginner=
 {{Equipment
-|align = left
 |head = kandarin headgear 4
 |cape = max cape
 |neck = amulet of eternal glory
@@ -15,7 +14,7 @@ Beginner=
 |boots = graceful boots
 |ring = ring of wealth (5)
 }}
-{{Inventory|align=right
+{{Inventory
 	|clue scroll (beginner)					|achievement diary cape (t)				|iron dagger							|leather body
 	|spade									|iron ore								|music cape(t)							|leather chaps
 	|trout									|necklace of passage					|skills necklace						|strange device (beginner);strange device#Beginner
@@ -25,7 +24,6 @@ Beginner=
 	|										|										|										|
 }}
 {{Rune pouch
-|align = right
 |law rune
 |dust rune
 |steam rune
@@ -34,7 +32,6 @@ Beginner=
 
 Easy=
 {{Equipment
-|align = left
 |head = kandarin headgear 4
 |cape = max cape
 |neck = amulet of eternal glory
@@ -47,7 +44,7 @@ Easy=
 |boots = graceful boots
 |ring = ring of wealth (5)
 }}
-{{Inventory|align = right
+{{Inventory
 	|clue scroll (easy)						|achievement diary cape (t)				|quest point cape (t)					|divine rune pouch
 	|spade									|construct. cape(t)						|music cape(t)							|disk of returning
 	|games necklace							|necklace of passage					|skills necklace						|xeric's talisman
@@ -57,7 +54,6 @@ Easy=
 	|										|										|										|
 }}
 {{Rune pouch
-|align = right
 |law rune
 |dust rune
 |steam rune
@@ -66,7 +62,6 @@ Easy=
 
 Medium=
 {{Equipment
-|align = left
 |head = kandarin headgear 4
 |cape = max cape
 |neck = amulet of eternal glory
@@ -79,7 +74,7 @@ Medium=
 |boots = fremennik sea boots 4
 |ring = slayer ring (eternal)
 }}
-{{Inventory|align = right
+{{Inventory
 	|clue scroll (medium)					|achievement diary cape (t)				|quest point cape (t)					|ardougne cloak 4
 	|spade									|construct. cape(t)						|music cape(t)							|master scroll book
 	|games necklace							|necklace of passage					|skills necklace						|xeric's talisman
@@ -89,7 +84,6 @@ Medium=
 	|										|										|reward casket (medium)					|cosmic rune
 }}
 {{Rune pouch
-|align = right
 |law rune
 |dust rune
 |steam rune
@@ -99,7 +93,6 @@ Medium=
 
 Hard=
 {{Equipment
-|align = left
 |head = kandarin headgear 4
 |cape = max cape
 |neck = amulet of glory
@@ -112,7 +105,7 @@ Hard=
 |boots =
 |ring = ring of wealth (5)
 }}
-{{Inventory|align = right
+{{Inventory
 	|clue scroll (hard)						|achievement diary cape (t)				|quest point cape (t)					|book of the dead
 	|spade									|royal seed pod							|ardougne cloak 4						|master scroll book
 	|burning amulet							|necklace of passage					|skills necklace						|camulet
@@ -122,7 +115,6 @@ Hard=
 	|										|										|										|cosmic rune\100
 }}
 {{Rune pouch
-|align = right
 |law rune
 |dust rune
 |steam rune
@@ -132,7 +124,6 @@ Hard=
 
 Elite=
 {{Equipment
-|align = left
 |head = slayer helmet (i)
 |cape = max cape
 |neck = necklace of anguish
@@ -145,7 +136,7 @@ Elite=
 |boots =
 |ring = slayer ring (eternal)
 }}
-{{Inventory|align = right
+{{Inventory
 	|clue scroll (elite)					|achievement diary cape (t)				|quest point cape (t)					|book of the dead
 	|spade									|kandarin headgear 4					|morytania legs 4						|master scroll book
 	|sled									|enchanted lyre							|eternal teleport crystal				|camulet
@@ -155,7 +146,6 @@ Elite=
 	|										|										|										|cosmic rune
 }}
 {{Rune pouch
-|align = right
 |law rune
 |dust rune
 |steam rune
@@ -165,7 +155,6 @@ Elite=
 
 Master=
 {{Equipment
-|align = left
 |head = masori mask (f)
 |cape = max cape
 |neck = amulet of eternal glory
@@ -178,7 +167,7 @@ Master=
 |boots = fremennik sea boots 4
 |ring = slayer ring (eternal)
 }}
-{{Inventory|align = right
+{{Inventory
 	|clue scroll (master)					|achievement diary cape (t)				|music cape(t)							|book of the dead
 	|spade									|kandarin headgear 4					|morytania legs 4						|master scroll book
 	|strange device;strange device#Master	|enchanted lyre							|eternal teleport crystal				|xeric's talisman
@@ -188,7 +177,6 @@ Master=
 	|										|										|										|cosmic rune
 }}
 {{Rune pouch
-|align = right
 |law rune
 |dust rune
 |steam rune
@@ -198,7 +186,6 @@ Master=
 
 Mimic=
 {{Equipment
-|align = left
 |head = torva full helm
 |cape = infernal cape;g
 |neck = amulet of torture
@@ -211,7 +198,7 @@ Mimic=
 |boots = primordial boots
 |ring = ultor ring
 }}
-{{Inventory|align = right
+{{Inventory
 	|voidwaker								|desert amulet 4						|crafting cape(t)						|watson teleport
 	|divine super combat potion(1)			|anglerfish								|anglerfish								|anglerfish
 	|mimic									|anglerfish								|anglerfish								|anglerfish

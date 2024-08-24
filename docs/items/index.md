@@ -26,25 +26,25 @@ You should now see a tag on your clue item
 <div style="width: 100%; padding-bottom:50px;display: flex;flex-direction: row;flex-wrap: wrap;float: left;">
     <a href="easy">
         <div style="width: 85px !important; display: flex; flex-direction: column; justify-content: center; align-items: center; padding-bottom:10px">
-            <img style="vertical-align:middle" src="../icons/easy.png" width="35">
+            <img style="vertical-align:middle" src="https://oldschool.runescape.wiki/images/Clue_scroll_%28easy%29_detail.png" width="35">
             <span>Easy</span>
         </div>
     </a>
     <a href="medium">
         <div style="width: 85px !important; display: flex; flex-direction: column; justify-content: center; align-items: center; padding-bottom:10px">
-            <img style="vertical-align:middle" src="../icons/medium.png" width="35">
+            <img style="vertical-align:middle" src="https://oldschool.runescape.wiki/images/Clue_scroll_%28medium%29_detail.png" width="35">
             <span>Medium</span>
         </div>
     </a>
     <a href="hard">
         <div style="width: 85px !important; display: flex; flex-direction: column; justify-content: center; align-items: center; padding-bottom:10px">
-            <img style="vertical-align:middle" src="../icons/hard.png" width="35">
+            <img style="vertical-align:middle" src="https://oldschool.runescape.wiki/images/Clue_scroll_%28hard%29_detail.png" width="35">
             <span>Hard</span>
         </div>
     </a>
     <a href="elite">
         <div style="width: 85px !important; display: flex; flex-direction: column; justify-content: center; align-items: center; padding-bottom:10px">
-            <img style="vertical-align:middle" src="../icons/elite.png" width="35">
+            <img style="vertical-align:middle" src="https://oldschool.runescape.wiki/images/Clue_scroll_%28elite%29_detail.png" width="35">
             <span>Elite</span>
         </div>
     </a>
