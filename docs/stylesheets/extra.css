@@ -7,6 +7,7 @@ body {
 
 body {
   display: flex;
+  font-family: 'RuneScape';
 }
 
 div {
@@ -63,6 +64,7 @@ div {
 img {
   max-width: 100%;
   max-height: 100%;
+  vertical-align: middle;
 }
 
 .icon {
@@ -71,4 +73,209 @@ img {
 
 .md-sidebar__inner {
     overflow-y: hidden;
+}
+
+@font-face {
+    font-family: 'RuneScape';
+    font-style: normal;
+    font-weight: normal;
+    src: local("RuneScape Plain 12"),url(https://oldschool.runescape.wiki/images/RuneScape.woff2?17907) format('woff2')
+}
+
+@font-face {
+    font-family: 'RuneScape';
+    font-style: normal;
+    font-weight: bold;
+    src: local("RuneScape Bold"),local("RuneScape Bold 12"),local("RuneScape Chat 2"),local("RuneScape Chat"),url(https://oldschool.runescape.wiki/images/RuneScape_Bold.woff2?514fd) format('woff2')
+}
+
+@font-face {
+    font-family: 'RuneScape Small';
+    font-style: normal;
+    font-weight: normal;
+    src: local("RuneScape Plain 12"),url(https://oldschool.runescape.wiki/images/RuneScape_Small.woff2?1ee0e) format('woff2')
+}
+
+.inventorytable .inv-quantity-text,.lootingbagtable .inv-quantity-text,.runepouchtable .inv-quantity-text,.equipment .inv-quantity-text {
+    font-family: 'RuneScape Small';
+    font-size: 12pt;
+    position: absolute;
+    top: -8px;
+    left: 4px;
+    text-shadow: #000 1px 1px;
+    color: #ffff00;
+    pointer-events: none
+}
+
+@media (-webkit-min-device-pixel-ratio: 2),(min-resolution:192dpi) {
+    .inventorytable img,.lootingbagtable img,.runepouchtable img,.equipment img {
+        image-rendering:pixelated;
+        image-rendering: crisp-edges
+    }
+}
+
+.runepouchtable .inv-quantity-text {
+    left: -1px
+}
+
+.runepouchtable td.middle-rune .inv-quantity-text {
+    left: 23px
+}
+
+.divinerunepouch td.middle-rune .inv-quantity-text {
+    left: 5px
+}
+
+.divinerunepouch td.middle-rune + td.middle-rune .inv-quantity-text {
+    left: 0
+}
+
+.equipment .inv-quantity-text {
+    top: -3px
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    unicode-bidi: isolate;
+    border-spacing: 2px;
+}
+
+.equipment {
+    background: #3e3529;
+    border: 9px solid transparent;
+    border-image-source: url(https://oldschool.runescape.wiki/images/Interface_border.png);
+    border-image-slice: 9;
+    border-image-width: 9px;
+    border-image-outset: 0;
+    border-image-repeat: repeat;
+    margin: 7px 0;
+    padding: 0 2px 0 3px
+}
+
+.equipment-div,.equipment-div-buttons {
+    background-repeat: no-repeat;
+    background-position: top left;
+    position: relative;
+    width: 175px;
+    display: flex
+}
+
+.equipment-div {
+    background-image: url(https://oldschool.runescape.wiki/images/Worn_equipment_tab_%28no_buttons%29.png);
+    height: 222px;
+    margin: 15px 0 14px
+}
+
+.equipment-blank {
+    background-image: url(https://oldschool.runescape.wiki/images/Blank_slot.png);
+    width: 36px;
+    height: 36px
+}
+
+.equipment-head,.equipment-cape,.equipment-neck,.equipment-ammo,.equipment-weapon,.equipment-torso,.equipment-shield,.equipment-legs,.equipment-gloves,.equipment-boots,.equipment-ring,.equipment-statsbutton,.equipment-ikodbutton {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.equipment-head {
+    left: 70px;
+    top: 0px
+}
+
+.equipment-cape {
+    left: 29px;
+    top: 39px
+}
+
+.equipment-neck {
+    left: 70px;
+    top: 39px
+}
+
+.equipment-ammo {
+    left: 111px;
+    top: 39px
+}
+
+.equipment-weapon {
+    left: 14px;
+    top: 78px
+}
+
+.equipment-torso {
+    left: 70px;
+    top: 78px
+}
+
+.equipment-shield {
+    left: 126px;
+    top: 78px
+}
+
+.equipment-legs {
+    left: 70px;
+    top: 118px
+}
+
+.equipment-gloves {
+    left: 14px;
+    top: 158px
+}
+
+.equipment-boots {
+    left: 70px;
+    top: 158px
+}
+
+.equipment-ring {
+    left: 126px;
+    top: 158px
+}
+
+.inventorytable,.lootingbagtable,.runepouchtable {
+    background-repeat: no-repeat;
+    background-position: top left;
+    height: auto;
+    border-spacing: 0;
+    border-collapse: separate;
+    margin-top: 7px;
+    margin-bottom: 7px
+}
+
+.inventorytable td,.lootingbagtable td,.runepouchtable td {
+    padding: 0;
+    border: 0;
+    text-align: center;
+    position: relative
+}
+
+.inventorytable {
+    background-image: url(https://oldschool.runescape.wiki/images/Inventory_tab.png);
+    width: 204px;
+    padding: 13px 16px 10px
+}
+
+.inventorytable td {
+    width: 43px;
+    height: 36px
+}
+
+.runepouchtable {
+    background-image: url(https://oldschool.runescape.wiki/images/Rune_pouch_background.png);
+    width: 158px;
+    padding: 24px 7px
+}
+
+.divinerunepouch td.middle-rune {
+    padding-left: 6px;
+    padding-right: 6px
+}
+
+.divinerunepouch td.middle-rune + td.middle-rune {
+    padding-left: 0
 }
