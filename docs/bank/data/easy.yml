@@ -1,0 +1,47 @@
+easy:
+  equipment:
+    head: Kandarin_headgear_4
+    cape: Max_cape
+    neck: Amulet_of_eternal_glory
+    ammo: Rada%27s_blessing_4
+    weapon: Skull_sceptre
+    torso: Graceful_top
+    legs: Graceful_legs
+    shield: Book_of_the_dead
+    gloves: Combat_bracelet
+    boots: Graceful_boots
+    ring: Ring_of_wealth_(5)
+  inventory:
+  - Clue_scroll_(easy)
+  - Achievement_diary_cape_(t)
+  - Quest_point_cape_(t)
+  - Divine_rune_pouch
+  - Spade
+  - Construct._cape(t)
+  - Music_cape(t)
+  - Disk_of_returning
+  - Games_necklace
+  - Necklace_of_passage
+  - Skills_necklace
+  - Xeric's_talisman
+  - Ring_of_dueling
+  - Explorer's_ring_4
+  - Senntisten_teleport_(tablet)
+  - Lassar_teleport_(tablet)
+  - Stamina_potion(4)
+  - Ring_of_the_elements
+  - Draynor_manor_teleport_(tablet)
+  - Paddewwa_teleport_(tablet)
+  - ~
+  - ~
+  - Catherby_teleport_(tablet)
+  - Khazard_teleport_(tablet)
+  - ~
+  - ~
+  - ~
+  - ~
+  spellbook: standard
+  rune_pouch:
+  - Law_rune
+  - Dust_rune
+  - Steam_rune

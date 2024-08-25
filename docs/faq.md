@@ -2,7 +2,11 @@
 icon: material/help-box
 ---
 
-## 1. Item Tag Hints
+## 1. Help and Dicussion
+
+If you have specific questions that are not answered here, have suggestions for improvements, or want to get involved in the community, please see the footer for a Discord invite
+
+## 2. Item Tag Hints
 
 If you're uncertain about a hint's meaning, click the clue to get additional info from the RuneLite Clue plugin
 
@@ -33,5 +37,5 @@ Here are explanations for otherwise unclear hints
 | ANNA      | Annakarl     |
 | GHOR      | Ghorrock     |
 
-## 2. Suicide Steps
+## 3. Suicide Steps
 When using the Enchanted symbol to suicide in the wildy, kill two of the MA2 bosses and hand in the hearts. This allows you to spam click and damage yourself without delay.

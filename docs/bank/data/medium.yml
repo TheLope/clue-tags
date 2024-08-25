@@ -1,0 +1,48 @@
+medium:
+  equipment:
+    head: Kandarin_headgear_4
+    cape: Max_cape
+    neck: Amulet_of_eternal_glory
+    ammo: Rada's_blessing_4
+    weapon: Voidwaker
+    torso: Graceful_top
+    legs: Morytania_legs_4
+    shield: Book_of_the_dead
+    gloves: Combat_bracelet
+    boots: Fremennik_sea_boots_4
+    ring: Slayer_ring_(eternal)
+  inventory:
+  - Clue_scroll_(medium)
+  - Achievement_diary_cape_(t)
+  - Quest_point_cape_(t)
+  - Ardougne_cloak_4
+  - Spade
+  - Construct._cape(t)
+  - Music_cape(t)
+  - Master_scroll_book
+  - Games_necklace
+  - Necklace_of_passage
+  - Skills_necklace
+  - Xeric's_talisman
+  - Ring_of_dueling
+  - Ring_of_wealth
+  - Kharyrll_teleport_(tablet)
+  - Watchtower_teleport_(tablet)
+  - Stamina_potion(4)
+  - Ring_of_the_elements
+  - Arceuus_library_teleport_(tablet)
+  - Divine_rune_pouch
+  - ~
+  - Skull_sceptre
+  - Steel_key_ring
+  - Soul_rune
+  - ~
+  - ~
+  - Reward_casket_(medium)
+  - Cosmic_rune
+  spellbook: lunar
+  rune_pouch:
+  - Law_rune
+  - Dust_rune
+  - Steam_rune
+  - Astral_rune

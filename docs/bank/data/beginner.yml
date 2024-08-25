@@ -1,0 +1,47 @@
+beginner:
+  equipment:
+    head: Kandarin_headgear_4
+    cape: Max_cape
+    neck: Amulet_of_eternal_glory
+    ammo: ~
+    weapon: Skull_sceptre
+    torso: Graceful_top
+    legs: Graceful_legs
+    shield: ~
+    gloves: Combat_bracelet
+    boots: Graceful_boots
+    ring: Ring_of_wealth_(5)
+  inventory:
+  - Clue_scroll_(beginner)
+  - Achievement_diary_cape_(t)
+  - Iron_dagger
+  - Leather_body
+  - Spade
+  - Iron_ore
+  - Music_cape(t)
+  - Leather_chaps
+  - Trout
+  - Necklace_of_passage
+  - Skills_necklace
+  - Strange_device_(beginner)
+  - Raw_trout
+  - Raw_herring
+  - Senntisten_teleport_(tablet)
+  - Lassar_teleport_(tablet)
+  - Pike
+  - Ring_of_the_elements
+  - Draynor_manor_teleport_(tablet)
+  - Divine_rune_pouch
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  - ~
+  spellbook: standard
+  rune_pouch:
+  - Law_rune
+  - Dust_rune
+  - Steam_rune

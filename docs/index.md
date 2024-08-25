@@ -19,3 +19,7 @@ This allows us to provide hints on the clue scroll item **without requiring play
 Bank Tag Layouts and screenshots of recommended gear setups for all clues
 
 [Get Started :material-location-enter:](bank/index.md){ .md-button }
+
+## Credit
+
+Credit and thanks to the [OSRS Wiki](https://oldschool.runescape.wiki) team for game assets and [templates](https://oldschool.runescape.wiki/w/Category:Lua-based_templates)
