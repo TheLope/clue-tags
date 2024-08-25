@@ -7,10 +7,10 @@ def define_env(env):
 
     @env.macro
     def index_link(tier):
+        image = f'Clue_scroll_({ tier })'
         if tier == 'mimic':
             image = 'Mimic'
-        else:
-            image = f'Clue_scroll_({ tier })'
+
         return f"""
                 <a href="{ tier }">
                     <div style="width: 85px !important; display: flex; flex-direction: column; justify-content: center; align-items: center; padding-bottom:10px">
@@ -31,17 +31,10 @@ def define_env(env):
     def equipment_div(d, slot):
         item = d['equipment'][slot]
 
-        if item:
-            return f"""
-                    <div class="equipment-{ slot } equipment-blank">
-                        <div class="equipment-plinkp">
-                            { item_render(item) }
-                        </div>
-                    </div>
-                    """
         return f"""
-                <div class="equipment-{ slot }">
+                <div class="equipment-{ slot } {'equipment-blank' if item else ''}">
                     <div class="equipment-plinkp">
+                        { item_render(item) if item else ''}
                     </div>
                 </div>
                 """
@@ -55,8 +48,8 @@ def define_env(env):
 
         return r
 
-    def inventory_td(d, slot):
-        item = d['inventory'][slot]
+    def inventory_td(d, index):
+        item = d['inventory'][index]
 
         if item and '/' in item:
             item, quantity = item.split('/')
@@ -66,24 +59,20 @@ def define_env(env):
                         <span class="inv-quantity-text qty-1">{ quantity }
                     </td>
                     """
-        elif item:
-            return f"""
-                    <td>
-                        { item_render(item) }
-                    </td>
-                    """
         return f"""
-                <td></td>
+                <td>
+                    { item_render(item) if item else ''}
+                </td>
                 """
 
     @env.macro
     def inventory(tier):
         r = '<tr>'
 
-        for x in range(28):
-            if (x % 4 == 0):
+        for index in range(28):
+            if (index % 4 == 0):
                 r += '</tr><tr>'
-            r += inventory_td(env.variables[tier], x)
+            r += inventory_td(env.variables[tier], index)
 
         return r + '</tr>'
 
@@ -95,54 +84,37 @@ def define_env(env):
             return f"""<img class="icon" src="{ wiki_url }/images/Spellbook.png"/>"""
         elif spellbook == "lunar":
             return f"""<img class="icon" src="{ wiki_url }/images/Lunar_spellbook.png"/>"""
-        else:
-            return ''
+        return ''
 
-    def rune_pouch_td(d, slot, middle):
-        item = d['rune_pouch'][slot]
-
-        if middle:
-            return f"""
-                    <td class="middle-rune">
-                        { item_render(item) }
-                    </td>
-                    """
+    def rune_pouch_td(runes, index, middle):
         return f"""
-                <td>
-                    { item_render(item) }
+                    <td {'class="middle-rune"' if middle else ''}>
+                    { item_render(runes[index]) }
                 </td>
                 """
 
     @env.macro
     def rune_pouch(tier):
-        d = env.variables[tier]
-        if not d['rune_pouch']:
+        runes = env.variables[tier]['rune_pouch']
+
+        if not runes:
             return ''
 
-        slots = len(d['rune_pouch'])
-
-        if slots == 4:
+        divine = False
+        if len(runes) == 4:
             divine = True
-            r = """
-                <table class="runepouchtable divinerunepouch">
-                    <tbody>
-                        <tr>
-                """
-        else:
-            divine = False
-            r = """
-                <table class="runepouchtable">
-                    <tbody>
-                        <tr>
-                """
 
-        for x in range(slots):
-            if divine and (x == 1 or x == 2):
-                r += rune_pouch_td(d, x, True)
-            elif not divine and x == 1:
-                r += rune_pouch_td(d, x, True)
+        r = f"""
+            <table class="runepouchtable {'divinerunepouch' if divine else ''}">
+                <tbody>
+                    <tr>
+            """
+
+        for index in range(len(runes)):
+            if index == 1 or (divine and index == 2):
+                r += rune_pouch_td(runes, index, True)
             else:
-                r += rune_pouch_td(d, x, False)
+                r += rune_pouch_td(runes, index, False)
 
         return r + """
                            </tr>
