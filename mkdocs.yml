@@ -76,7 +76,6 @@ extra:
   analytics:
     provider: google
     property: G-7XSDV8ZS27
-  wiki_url: https://oldschool.runescape.wiki
 extra_css:
   - stylesheets/extra.css
 plugins:

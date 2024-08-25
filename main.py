@@ -3,6 +3,8 @@ def define_env(env):
     Hook function
     """
 
+    wiki_url = 'https://oldschool.runescape.wiki'
+
     @env.macro
     def index_link(tier):
         if tier == 'mimic':
@@ -12,7 +14,7 @@ def define_env(env):
         return f"""
                 <a href="{ tier }">
                     <div style="width: 85px !important; display: flex; flex-direction: column; justify-content: center; align-items: center; padding-bottom:10px">
-                        <img style="vertical-align:middle" src="{ env.variables.wiki_url }/images/{ image }_detail.png" width="35">
+                        <img style="vertical-align:middle" src="{ wiki_url }/images/{ image }_detail.png" width="35">
                         <span>{ tier.title() }</span>
                     </div>
                 </a>
@@ -23,9 +25,9 @@ def define_env(env):
             return f"""
                     <div class="equipment-{ slot } equipment-blank">
                         <div class="equipment-plinkp">
-                            <a href="{ env.variables.wiki_url }/w/{ d['equipment'][slot] }"
+                            <a href="{ wiki_url }/w/{ d['equipment'][slot] }"
                                title="{ d['equipment'][slot].replace('_', ' ') }">
-                                <img src="{ env.variables.wiki_url }/images/{ d['equipment'][slot] }.png">
+                                <img src="{ wiki_url }/images/{ d['equipment'][slot] }.png">
                             </a>
                         </div>
                     </div>
@@ -51,9 +53,9 @@ def define_env(env):
             item, quantity = d['inventory'][slot].split('/')
             return f"""
                     <td>
-                        <a href="{ env.variables.wiki_url }/w/{ item }"
+                        <a href="{ wiki_url }/w/{ item }"
                            title="{ item.replace('_', ' ') }">
-                            <img src="{ env.variables.wiki_url }/images/{ item }.png">
+                            <img src="{ wiki_url }/images/{ item }.png">
                         </a>
                         <span class="inv-quantity-text qty-1">{ quantity }
                     </td>
@@ -61,9 +63,9 @@ def define_env(env):
         elif d['inventory'][slot]:
             return f"""
                     <td>
-                        <a href="{ env.variables.wiki_url }/w/{ d['inventory'][slot] }"
+                        <a href="{ wiki_url }/w/{ d['inventory'][slot] }"
                            title="{ d['inventory'][slot].replace('_', '' '') }">
-                            <img src="{ env.variables.wiki_url }/images/{ d['inventory'][slot] }.png">
+                            <img src="{ wiki_url }/images/{ d['inventory'][slot] }.png">
                         </a>
                     </td>
                     """
@@ -87,9 +89,9 @@ def define_env(env):
         spellbook = env.variables[tier]['spellbook']
 
         if spellbook == "standard":
-            return f"""<img class="icon" src="{ env.variables.wiki_url }/images/Spellbook.png"/>"""
+            return f"""<img class="icon" src="{ wiki_url }/images/Spellbook.png"/>"""
         elif spellbook == "lunar":
-            return f"""<img class="icon" src="{ env.variables.wiki_url }/images/Lunar_spellbook.png"/>"""
+            return f"""<img class="icon" src="{ wiki_url }/images/Lunar_spellbook.png"/>"""
         else:
             return ''
 
@@ -97,17 +99,17 @@ def define_env(env):
         if middle:
             return f"""
                     <td class="middle-rune">
-                        <a href="{ env.variables.wiki_url }/w/{ d['rune_pouch'][slot] }"
+                        <a href="{ wiki_url }/w/{ d['rune_pouch'][slot] }"
                             title="{ d['rune_pouch'][slot].replace('_', ' ') }">
-                            <img src="{ env.variables.wiki_url }/images/{ d['rune_pouch'][slot] }.png">
+                            <img src="{ wiki_url }/images/{ d['rune_pouch'][slot] }.png">
                         </a>
                     </td>
                     """
         return f"""
                 <td>
-                    <a href="{ env.variables.wiki_url }/w/{ d['rune_pouch'][slot] }"
+                    <a href="{ wiki_url }/w/{ d['rune_pouch'][slot] }"
                         title="{ d['rune_pouch'][slot].replace('_', ' ') }">
-                        <img src="{ env.variables.wiki_url }/images/{ d['rune_pouch'][slot] }.png">
+                        <img src="{ wiki_url }/images/{ d['rune_pouch'][slot] }.png">
                     </a>
                 </td>
                 """
@@ -190,7 +192,7 @@ def define_env(env):
         else:
             image = f'Clue_scroll_({ tier })'
         return f"""
-# <img style="vertical-align:middle" src="{ env.variables.wiki_url }/images/{ image }_detail.png" width="35"> { tier.title() } Bank Tags
+# <img style="vertical-align:middle" src="{ wiki_url }/images/{ image }_detail.png" width="35"> { tier.title() } Bank Tags
 
 { setup(tier) }
 
@@ -203,7 +205,7 @@ _Copy button is provided on the right_
     @env.macro
     def items(tier):
         return f"""
-# <img style="vertical-align:middle" src="{ env.variables.wiki_url }/images/Clue_scroll_({ tier })_detail.png" width="35"> { tier.title() } Item Tags
+# <img style="vertical-align:middle" src="{ wiki_url }/images/Clue_scroll_({ tier })_detail.png" width="35"> { tier.title() } Item Tags
 
 _Copy button is provided on the right_
 ``` yaml title=""
