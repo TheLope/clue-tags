@@ -78,3 +78,14 @@ extra:
     property: G-7XSDV8ZS27
 extra_css:
   - stylesheets/extra.css
+plugins:
+  - search
+  - macros:
+      include_yaml:
+        - docs/bank/data/beginner.yml
+        - docs/bank/data/easy.yml
+        - docs/bank/data/medium.yml
+        - docs/bank/data/hard.yml
+        - docs/bank/data/elite.yml
+        - docs/bank/data/master.yml
+        - docs/bank/data/mimic.yml

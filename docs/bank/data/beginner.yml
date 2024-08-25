@@ -1,0 +1,26 @@
+beginner:
+  equipment:
+    head: Kandarin headgear 4
+    cape: Max cape
+    neck: Amulet of eternal glory
+    ammo: ~
+    weapon: Skull sceptre
+    torso: Graceful top
+    legs: Graceful legs
+    shield: ~
+    gloves: Combat bracelet
+    boots: Graceful boots
+    ring: Ring of wealth (5)
+  inventory:
+  - [Clue scroll (beginner), Achievement diary cape (t), Iron dagger, Leather body]
+  - [Spade, Iron ore, Music cape(t), Leather chaps]
+  - [Trout, Necklace of passage, Skills necklace, Strange device (beginner)]
+  - [Raw trout, Raw herring, Senntisten teleport (tablet), Lassar teleport (tablet)]
+  - [Pike, Ring of the elements, Draynor manor teleport (tablet), Divine rune pouch]
+  - [~, ~, ~, ~]
+  - [~, ~, ~, ~]
+  spellbook: standard
+  rune_pouch:
+  - Law rune
+  - Dust rune
+  - Steam rune

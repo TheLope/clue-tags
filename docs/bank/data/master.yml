@@ -1,0 +1,27 @@
+master:
+  equipment:
+    head: Masori mask (f)
+    cape: Max cape
+    neck: Amulet of eternal glory
+    ammo: Holy blessing
+    weapon: Toxic blowpipe
+    torso: Masori body (f)
+    legs: Masori chaps (f)
+    shield: ~
+    gloves: Karamja gloves 4
+    boots: Fremennik sea boots 4
+    ring: Slayer ring (eternal)
+  inventory:
+  - [Clue scroll (master), Achievement diary cape (t), Music cape(t), Book of the dead]
+  - [Spade, Kandarin headgear 4, Morytania legs 4, Master scroll book]
+  - [Strange device, Enchanted lyre, Eternal teleport crystal, Xeric's talisman]
+  - [Ghommal's hilt 6, Zamorak godsword, Pharaoh's sceptre (1), Drakan's medallion]
+  - [Divine bastion potion(4), Stamina potion(4), Sanfew serum(4), Divine rune pouch]
+  - [~, ~, ~, Soul rune]
+  - [~, ~, ~, Cosmic rune]
+  spellbook: lunar
+  rune_pouch:
+  - Law rune
+  - Dust rune
+  - Steam rune
+  - Astral rune

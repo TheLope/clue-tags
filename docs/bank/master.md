@@ -2,29 +2,7 @@
 icon: clue/master
 ---
 
-# <img style="vertical-align:middle" src="../../icons/master.png" width="35"> Master Bank Tags
-
-<div class="main-container" onclick="window.open('https://oldschool.runescape.wiki/w/User:Thelope#Master', '_blank').focus();">
-    <div class="left-container">
-    <img src="../images/equipment/master.png" />
-    </div>
-    <div class="left-container">
-        <img src="../images/inventory/master.png" />
-    </div>
-    <div class="right-container">
-        <div class="half-container-top">
-            <img class="icon" src="../../icons/spellbook/lunar.png" />
-        </div>
-        <div class="half-container-bottom">
-            <img src="../images/pouch/lunar.png" />
-        </div>
-    </div>
-</div>
-
-_Copy button is provided on the right_
-``` json title=""
---8<-- "tags/master/bank.txt"
-```
+{{ bank('master') }}
 
 ## Notes
 ### Cryptic clues
