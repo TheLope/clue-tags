@@ -7,9 +7,7 @@ def define_env(env):
 
     @env.macro
     def index_link(tier):
-        image = f'Clue_scroll_({ tier })'
-        if tier == 'mimic':
-            image = 'Mimic'
+        image = 'Mimic' if tier == 'mimic' else f'Clue_scroll_({ tier })'
 
         return f"""
                 <a href="{ tier }">
@@ -48,20 +46,16 @@ def define_env(env):
 
         return r
 
-    def inventory_td(d, index):
-        item = d['inventory'][index]
+    def inventory_td(item):
+        quantity = None
 
         if item and '/' in item:
             item, quantity = item.split('/')
-            return f"""
-                    <td>
-                        { item_render(item) }
-                        <span class="inv-quantity-text qty-1">{ quantity }
-                    </td>
-                    """
+
         return f"""
                 <td>
                     { item_render(item) if item else ''}
+                    { f'<span class="inv-quantity-text qty-1">{ quantity }' if quantity else ''}
                 </td>
                 """
 
@@ -69,10 +63,10 @@ def define_env(env):
     def inventory(tier):
         r = '<tr>'
 
-        for index in range(28):
-            if (index % 4 == 0):
-                r += '</tr><tr>'
-            r += inventory_td(env.variables[tier], index)
+        for row in env.variables[tier]['inventory']:
+            for index in range(len(row)):
+                r += inventory_td(row[index])
+            r += '</tr><tr>'
 
         return r + '</tr>'
 
@@ -80,11 +74,10 @@ def define_env(env):
     def spellbook(tier):
         spellbook = env.variables[tier]['spellbook']
 
-        if spellbook == "standard":
-            return f"""<img class="icon" src="{ wiki_url }/images/Spellbook.png"/>"""
-        elif spellbook == "lunar":
-            return f"""<img class="icon" src="{ wiki_url }/images/Lunar_spellbook.png"/>"""
-        return ''
+        if not spellbook:
+            return ''
+
+        return f"""<img class="icon" src="{ wiki_url }/images/{ spellbook.title() }_spellbook.png"/>"""
 
     def rune_pouch_td(runes, index, middle):
         return f"""
@@ -100,21 +93,15 @@ def define_env(env):
         if not runes:
             return ''
 
-        divine = False
-        if len(runes) == 4:
-            divine = True
-
         r = f"""
-            <table class="runepouchtable {'divinerunepouch' if divine else ''}">
+            <table class="runepouchtable {'divinerunepouch' if len(runes) == 4 else ''}">
                 <tbody>
                     <tr>
             """
 
         for index in range(len(runes)):
-            if index == 1 or (divine and index == 2):
-                r += rune_pouch_td(runes, index, True)
-            else:
-                r += rune_pouch_td(runes, index, False)
+            middle = index in [1, 2]
+            r += rune_pouch_td(runes, index, middle)
 
         return r + """
                            </tr>
@@ -159,10 +146,8 @@ def define_env(env):
 
     @env.macro
     def bank(tier):
-        if tier == 'mimic':
-            image = 'Mimic'
-        else:
-            image = f'Clue_scroll_({ tier })'
+        image = 'Mimic' if tier == 'mimic' else f'Clue_scroll_({ tier })'
+
         return f"""
 # <img style="vertical-align:middle" src="{ wiki_url }/images/{ image }_detail.png" width="35"> { tier.title() } Bank Tags
 

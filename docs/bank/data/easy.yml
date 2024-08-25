@@ -12,34 +12,13 @@ easy:
     boots: Graceful boots
     ring: Ring of wealth (5)
   inventory:
-  - Clue scroll (easy)
-  - Achievement diary cape (t)
-  - Quest point cape (t)
-  - Divine rune pouch
-  - Spade
-  - Construct. cape(t)
-  - Music cape(t)
-  - Disk of returning
-  - Games necklace
-  - Necklace of passage
-  - Skills necklace
-  - Xeric's talisman
-  - Ring of dueling
-  - Explorer's ring 4
-  - Senntisten teleport (tablet)
-  - Lassar teleport (tablet)
-  - Stamina potion(4)
-  - Ring of the elements
-  - Draynor manor teleport (tablet)
-  - Paddewwa teleport (tablet)
-  - ~
-  - ~
-  - Catherby teleport (tablet)
-  - Khazard teleport (tablet)
-  - ~
-  - ~
-  - ~
-  - ~
+  - [Clue scroll (easy), Achievement diary cape (t), Quest point cape (t), Divine rune pouch]
+  - [Spade, Construct. cape(t), Music cape(t), Disk of returning]
+  - [Games necklace, Necklace of passage, Skills necklace, Xeric's talisman]
+  - [Ring of dueling, Explorer's ring 4, Senntisten teleport (tablet), Lassar teleport (tablet)]
+  - [Stamina potion(4), Ring of the elements, Draynor manor teleport (tablet), Paddewwa teleport (tablet)]
+  - [~, ~, Catherby teleport (tablet), Khazard teleport (tablet)]
+  - [~, ~, ~, ~]
   spellbook: standard
   rune_pouch:
   - Law rune

@@ -12,33 +12,12 @@ mimic:
     boots: Primordial boots
     ring: Ultor ring
   inventory:
-  - Voidwaker
-  - Desert amulet 4
-  - Crafting cape(t)
-  - Watson teleport
-  - Divine super combat potion(1)
-  - Anglerfish
-  - Anglerfish
-  - Anglerfish
-  - Mimic
-  - Anglerfish
-  - Anglerfish
-  - Anglerfish
-  - ~
-  - ~
-  - ~
-  - ~
-  - ~
-  - ~
-  - ~
-  - ~
-  - ~
-  - ~
-  - ~
-  - ~
-  - ~
-  - ~
-  - ~
-  - ~
+  - [Voidwaker, Desert amulet 4, Crafting cape(t), Watson teleport]
+  - [Divine super combat potion(1), Anglerfish, Anglerfish, Anglerfish]
+  - [Mimic, Anglerfish, Anglerfish, Anglerfish]
+  - [~, ~, ~, ~]
+  - [~, ~, ~, ~]
+  - [~, ~, ~, ~]
+  - [~, ~, ~, ~]
   spellbook: ~
   rune_pouch: ~

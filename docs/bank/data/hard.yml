@@ -12,34 +12,13 @@ hard:
     boots: ~
     ring: Ring of wealth (5)
   inventory:
-  - Clue scroll (hard)
-  - Achievement diary cape (t)
-  - Quest point cape (t)
-  - Book of the dead
-  - Spade
-  - Royal seed pod
-  - Ardougne cloak 4
-  - Master scroll book
-  - Burning amulet
-  - Necklace of passage
-  - Skills necklace
-  - Camulet
-  - Ring of dueling
-  - Karamja gloves 4
-  - Ectophial
-  - Western banner 4
-  - Divine ranging potion(4)
-  - Stamina potion(4)
-  - Divine rune pouch
-  - Blood rune/100
-  - ~
-  - ~
-  - ~
-  - Soul rune/100
-  - ~
-  - ~
-  - ~
-  - Cosmic rune/100
+  - [Clue scroll (hard), Achievement diary cape (t), Quest point cape (t), Book of the dead]
+  - [Spade, Royal seed pod, Ardougne cloak 4, Master scroll book]
+  - [Burning amulet, Necklace of passage, Skills necklace, Camulet]
+  - [Ring of dueling, Karamja gloves 4, Ectophial, Western banner 4]
+  - [Divine ranging potion(4), Stamina potion(4), Divine rune pouch, Blood rune/100]
+  - [~, ~, ~, Soul rune/100]
+  - [~, ~, ~, Cosmic rune/100]
   spellbook: lunar
   rune_pouch:
   - Law rune

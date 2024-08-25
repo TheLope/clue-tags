@@ -12,34 +12,13 @@ master:
     boots: Fremennik sea boots 4
     ring: Slayer ring (eternal)
   inventory:
-  - Clue scroll (master)
-  - Achievement diary cape (t)
-  - Music cape(t)
-  - Book of the dead
-  - Spade
-  - Kandarin headgear 4
-  - Morytania legs 4
-  - Master scroll book
-  - Strange device
-  - Enchanted lyre
-  - Eternal teleport crystal
-  - Xeric's talisman
-  - Ghommal's hilt 6
-  - Zamorak godsword
-  - Pharaoh's sceptre (1)
-  - Drakan's medallion
-  - Divine bastion potion(4)
-  - Stamina potion(4)
-  - Sanfew serum(4)
-  - Divine rune pouch
-  - ~
-  - ~
-  - ~
-  - Soul rune
-  - ~
-  - ~
-  - ~
-  - Cosmic rune
+  - [Clue scroll (master), Achievement diary cape (t), Music cape(t), Book of the dead]
+  - [Spade, Kandarin headgear 4, Morytania legs 4, Master scroll book]
+  - [Strange device, Enchanted lyre, Eternal teleport crystal, Xeric's talisman]
+  - [Ghommal's hilt 6, Zamorak godsword, Pharaoh's sceptre (1), Drakan's medallion]
+  - [Divine bastion potion(4), Stamina potion(4), Sanfew serum(4), Divine rune pouch]
+  - [~, ~, ~, Soul rune]
+  - [~, ~, ~, Cosmic rune]
   spellbook: lunar
   rune_pouch:
   - Law rune
