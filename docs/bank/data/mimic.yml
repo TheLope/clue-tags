@@ -1,22 +1,22 @@
 mimic:
   equipment:
-    head: Torva_full_helm
-    cape: Infernal_cape
-    neck: Amulet_of_torture
+    head: Torva full helm
+    cape: Infernal cape
+    neck: Amulet of torture
     ammo: ~
-    weapon: Osmumten's_fang
-    torso: Torva_platebody
-    legs: Torva_platelegs
-    shield: Avernic_defender
-    gloves: Ferocious_gloves
-    boots: Primordial_boots
-    ring: Ultor_ring
+    weapon: Osmumten's fang
+    torso: Torva platebody
+    legs: Torva platelegs
+    shield: Avernic defender
+    gloves: Ferocious gloves
+    boots: Primordial boots
+    ring: Ultor ring
   inventory:
   - Voidwaker
-  - Desert_amulet_4
-  - Crafting_cape(t)
-  - Watson_teleport
-  - Divine_super_combat_potion(1)
+  - Desert amulet 4
+  - Crafting cape(t)
+  - Watson teleport
+  - Divine super combat potion(1)
   - Anglerfish
   - Anglerfish
   - Anglerfish

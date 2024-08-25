@@ -1,48 +1,48 @@
 medium:
   equipment:
-    head: Kandarin_headgear_4
-    cape: Max_cape
-    neck: Amulet_of_eternal_glory
-    ammo: Rada's_blessing_4
+    head: Kandarin headgear 4
+    cape: Max cape
+    neck: Amulet of eternal glory
+    ammo: Rada's blessing 4
     weapon: Voidwaker
-    torso: Graceful_top
-    legs: Morytania_legs_4
-    shield: Book_of_the_dead
-    gloves: Combat_bracelet
-    boots: Fremennik_sea_boots_4
-    ring: Slayer_ring_(eternal)
+    torso: Graceful top
+    legs: Morytania legs 4
+    shield: Book of the dead
+    gloves: Combat bracelet
+    boots: Fremennik sea boots 4
+    ring: Slayer ring (eternal)
   inventory:
-  - Clue_scroll_(medium)
-  - Achievement_diary_cape_(t)
-  - Quest_point_cape_(t)
-  - Ardougne_cloak_4
+  - Clue scroll (medium)
+  - Achievement diary cape (t)
+  - Quest point cape (t)
+  - Ardougne cloak 4
   - Spade
-  - Construct._cape(t)
-  - Music_cape(t)
-  - Master_scroll_book
-  - Games_necklace
-  - Necklace_of_passage
-  - Skills_necklace
-  - Xeric's_talisman
-  - Ring_of_dueling
-  - Ring_of_wealth
-  - Kharyrll_teleport_(tablet)
-  - Watchtower_teleport_(tablet)
-  - Stamina_potion(4)
-  - Ring_of_the_elements
-  - Arceuus_library_teleport_(tablet)
-  - Divine_rune_pouch
+  - Construct. cape(t)
+  - Music cape(t)
+  - Master scroll book
+  - Games necklace
+  - Necklace of passage
+  - Skills necklace
+  - Xeric's talisman
+  - Ring of dueling
+  - Ring of wealth
+  - Kharyrll teleport (tablet)
+  - Watchtower teleport (tablet)
+  - Stamina potion(4)
+  - Ring of the elements
+  - Arceuus library teleport (tablet)
+  - Divine rune pouch
   - ~
-  - Skull_sceptre
-  - Steel_key_ring
-  - Soul_rune
+  - Skull sceptre
+  - Steel key ring
+  - Soul rune
   - ~
   - ~
-  - Reward_casket_(medium)
-  - Cosmic_rune
+  - Reward casket (medium)
+  - Cosmic rune
   spellbook: lunar
   rune_pouch:
-  - Law_rune
-  - Dust_rune
-  - Steam_rune
-  - Astral_rune
+  - Law rune
+  - Dust rune
+  - Steam rune
+  - Astral rune

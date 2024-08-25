@@ -1,48 +1,48 @@
 hard:
   equipment:
-    head: Kandarin_headgear_4
-    cape: Max_cape
-    neck: Amulet_of_glory
+    head: Kandarin headgear 4
+    cape: Max cape
+    neck: Amulet of glory
     ammo: ~
-    weapon: Toxic_blowpipe
-    torso: Masori_body_(f)
-    legs: Morytania_legs_4
+    weapon: Toxic blowpipe
+    torso: Masori body (f)
+    legs: Morytania legs 4
     shield: ~
-    gloves: Combat_bracelet
+    gloves: Combat bracelet
     boots: ~
-    ring: Ring_of_wealth_(5)
+    ring: Ring of wealth (5)
   inventory:
-  - Clue_scroll_(hard)
-  - Achievement_diary_cape_(t)
-  - Quest_point_cape_(t)
-  - Book_of_the_dead
+  - Clue scroll (hard)
+  - Achievement diary cape (t)
+  - Quest point cape (t)
+  - Book of the dead
   - Spade
-  - Royal_seed_pod
-  - Ardougne_cloak_4
-  - Master_scroll_book
-  - Burning_amulet
-  - Necklace_of_passage
-  - Skills_necklace
+  - Royal seed pod
+  - Ardougne cloak 4
+  - Master scroll book
+  - Burning amulet
+  - Necklace of passage
+  - Skills necklace
   - Camulet
-  - Ring_of_dueling
-  - Karamja_gloves_4
+  - Ring of dueling
+  - Karamja gloves 4
   - Ectophial
-  - Western_banner_4
-  - Divine_ranging_potion(4)
-  - Stamina_potion(4)
-  - Divine_rune_pouch
-  - Blood_rune/100
+  - Western banner 4
+  - Divine ranging potion(4)
+  - Stamina potion(4)
+  - Divine rune pouch
+  - Blood rune/100
   - ~
   - ~
   - ~
-  - Soul_rune/100
+  - Soul rune/100
   - ~
   - ~
   - ~
-  - Cosmic_rune/100
+  - Cosmic rune/100
   spellbook: lunar
   rune_pouch:
-  - Law_rune
-  - Dust_rune
-  - Steam_rune
-  - Astral_rune
+  - Law rune
+  - Dust rune
+  - Steam rune
+  - Astral rune

@@ -1,48 +1,48 @@
 master:
   equipment:
-    head: Masori_mask_(f)
-    cape: Max_cape
-    neck: Amulet_of_eternal_glory
-    ammo: Holy_blessing
-    weapon: Toxic_blowpipe
-    torso: Masori_body_(f)
-    legs: Masori_chaps_(f)
+    head: Masori mask (f)
+    cape: Max cape
+    neck: Amulet of eternal glory
+    ammo: Holy blessing
+    weapon: Toxic blowpipe
+    torso: Masori body (f)
+    legs: Masori chaps (f)
     shield: ~
-    gloves: Karamja_gloves_4
-    boots: Fremennik_sea_boots_4
-    ring: Slayer_ring_(eternal)
+    gloves: Karamja gloves 4
+    boots: Fremennik sea boots 4
+    ring: Slayer ring (eternal)
   inventory:
-  - Clue_scroll_(master)
-  - Achievement_diary_cape_(t)
-  - Music_cape(t)
-  - Book_of_the_dead
+  - Clue scroll (master)
+  - Achievement diary cape (t)
+  - Music cape(t)
+  - Book of the dead
   - Spade
-  - Kandarin_headgear_4
-  - Morytania_legs_4
-  - Master_scroll_book
-  - Strange_device
-  - Enchanted_lyre
-  - Eternal_teleport_crystal
-  - Xeric's_talisman
-  - Ghommal's_hilt_6
-  - Zamorak_godsword
-  - Pharaoh's_sceptre_(1)
-  - Drakan's_medallion
-  - Divine_bastion_potion(4)
-  - Stamina_potion(4)
-  - Sanfew_serum(4)
-  - Divine_rune_pouch
+  - Kandarin headgear 4
+  - Morytania legs 4
+  - Master scroll book
+  - Strange device
+  - Enchanted lyre
+  - Eternal teleport crystal
+  - Xeric's talisman
+  - Ghommal's hilt 6
+  - Zamorak godsword
+  - Pharaoh's sceptre (1)
+  - Drakan's medallion
+  - Divine bastion potion(4)
+  - Stamina potion(4)
+  - Sanfew serum(4)
+  - Divine rune pouch
   - ~
   - ~
   - ~
-  - Soul_rune
+  - Soul rune
   - ~
   - ~
   - ~
-  - Cosmic_rune
+  - Cosmic rune
   spellbook: lunar
   rune_pouch:
-  - Law_rune
-  - Dust_rune
-  - Steam_rune
-  - Astral_rune
+  - Law rune
+  - Dust rune
+  - Steam rune
+  - Astral rune

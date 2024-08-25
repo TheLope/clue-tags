@@ -20,15 +20,22 @@ def define_env(env):
                 </a>
                 """
 
+    def item_render(item):
+        return f"""
+                <a href="{ wiki_url }/w/{ item.replace(' ', '_') }"
+                    title="{ item }">
+                    <img src="{ wiki_url }/images/{ item.replace(' ', '_') }.png">
+                </a>
+                """
+
     def equipment_div(d, slot):
-        if d['equipment'][slot]:
+        item = d['equipment'][slot]
+
+        if item:
             return f"""
                     <div class="equipment-{ slot } equipment-blank">
                         <div class="equipment-plinkp">
-                            <a href="{ wiki_url }/w/{ d['equipment'][slot] }"
-                               title="{ d['equipment'][slot].replace('_', ' ') }">
-                                <img src="{ wiki_url }/images/{ d['equipment'][slot] }.png">
-                            </a>
+                            { item_render(item) }
                         </div>
                     </div>
                     """
@@ -49,24 +56,20 @@ def define_env(env):
         return r
 
     def inventory_td(d, slot):
-        if d['inventory'][slot] and '/' in d['inventory'][slot]:
-            item, quantity = d['inventory'][slot].split('/')
+        item = d['inventory'][slot]
+
+        if item and '/' in item:
+            item, quantity = item.split('/')
             return f"""
                     <td>
-                        <a href="{ wiki_url }/w/{ item }"
-                           title="{ item.replace('_', ' ') }">
-                            <img src="{ wiki_url }/images/{ item }.png">
-                        </a>
+                        { item_render(item) }
                         <span class="inv-quantity-text qty-1">{ quantity }
                     </td>
                     """
-        elif d['inventory'][slot]:
+        elif item:
             return f"""
                     <td>
-                        <a href="{ wiki_url }/w/{ d['inventory'][slot] }"
-                           title="{ d['inventory'][slot].replace('_', '' '') }">
-                            <img src="{ wiki_url }/images/{ d['inventory'][slot] }.png">
-                        </a>
+                        { item_render(item) }
                     </td>
                     """
         return f"""
@@ -96,30 +99,27 @@ def define_env(env):
             return ''
 
     def rune_pouch_td(d, slot, middle):
+        item = d['rune_pouch'][slot]
+
         if middle:
             return f"""
                     <td class="middle-rune">
-                        <a href="{ wiki_url }/w/{ d['rune_pouch'][slot] }"
-                            title="{ d['rune_pouch'][slot].replace('_', ' ') }">
-                            <img src="{ wiki_url }/images/{ d['rune_pouch'][slot] }.png">
-                        </a>
+                        { item_render(item) }
                     </td>
                     """
         return f"""
                 <td>
-                    <a href="{ wiki_url }/w/{ d['rune_pouch'][slot] }"
-                        title="{ d['rune_pouch'][slot].replace('_', ' ') }">
-                        <img src="{ wiki_url }/images/{ d['rune_pouch'][slot] }.png">
-                    </a>
+                    { item_render(item) }
                 </td>
                 """
 
     @env.macro
     def rune_pouch(tier):
-        if not env.variables[tier]['rune_pouch']:
+        d = env.variables[tier]
+        if not d['rune_pouch']:
             return ''
 
-        slots = len(env.variables[tier]['rune_pouch'])
+        slots = len(d['rune_pouch'])
 
         if slots == 4:
             divine = True
@@ -138,11 +138,11 @@ def define_env(env):
 
         for x in range(slots):
             if divine and (x == 1 or x == 2):
-                r += rune_pouch_td(env.variables[tier], x, True)
+                r += rune_pouch_td(d, x, True)
             elif not divine and x == 1:
-                r += rune_pouch_td(env.variables[tier], x, True)
+                r += rune_pouch_td(d, x, True)
             else:
-                r += rune_pouch_td(env.variables[tier], x, False)
+                r += rune_pouch_td(d, x, False)
 
         return r + """
                            </tr>

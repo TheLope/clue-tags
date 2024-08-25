@@ -1,48 +1,48 @@
 elite:
   equipment:
-    head: Slayer_helmet_(i)
-    cape: Max_cape
-    neck: Necklace_of_anguish
+    head: Slayer helmet (i)
+    cape: Max cape
+    neck: Necklace of anguish
     ammo: ~
-    weapon: Toxic_blowpipe
-    torso: Masori_body_(f)
-    legs: Masori_chaps_(f)
+    weapon: Toxic blowpipe
+    torso: Masori body (f)
+    legs: Masori chaps (f)
     shield: ~
-    gloves: Zaryte_vambraces
+    gloves: Zaryte vambraces
     boots: ~
-    ring: Slayer_ring_(eternal)
+    ring: Slayer ring (eternal)
   inventory:
-  - Clue_scroll_(elite)
-  - Achievement_diary_cape_(t)
-  - Quest_point_cape_(t)
-  - Book_of_the_dead
+  - Clue scroll (elite)
+  - Achievement diary cape (t)
+  - Quest point cape (t)
+  - Book of the dead
   - Spade
-  - Kandarin_headgear_4
-  - Morytania_legs_4
-  - Master_scroll_book
+  - Kandarin headgear 4
+  - Morytania legs 4
+  - Master scroll book
   - Sled
-  - Enchanted_lyre
-  - Eternal_teleport_crystal
+  - Enchanted lyre
+  - Eternal teleport crystal
   - Camulet
-  - Ghommal's_hilt_6
-  - Ring_of_wealth
-  - Ring_of_shadows
-  - Desert_amulet_4
-  - Divine_ranging_potion(4)
-  - Stamina_potion(4)
-  - Divine_rune_pouch
-  - Blood_rune
+  - Ghommal's hilt 6
+  - Ring of wealth
+  - Ring of shadows
+  - Desert amulet 4
+  - Divine ranging potion(4)
+  - Stamina potion(4)
+  - Divine rune pouch
+  - Blood rune
   - ~
   - ~
   - ~
-  - Soul_rune
+  - Soul rune
   - ~
   - ~
   - ~
-  - Cosmic_rune
+  - Cosmic rune
   spellbook: lunar
   rune_pouch:
-  - Law_rune
-  - Dust_rune
-  - Steam_rune
-  - Astral_rune
+  - Law rune
+  - Dust rune
+  - Steam rune
+  - Astral rune

@@ -1,37 +1,37 @@
 beginner:
   equipment:
-    head: Kandarin_headgear_4
-    cape: Max_cape
-    neck: Amulet_of_eternal_glory
+    head: Kandarin headgear 4
+    cape: Max cape
+    neck: Amulet of eternal glory
     ammo: ~
-    weapon: Skull_sceptre
-    torso: Graceful_top
-    legs: Graceful_legs
+    weapon: Skull sceptre
+    torso: Graceful top
+    legs: Graceful legs
     shield: ~
-    gloves: Combat_bracelet
-    boots: Graceful_boots
-    ring: Ring_of_wealth_(5)
+    gloves: Combat bracelet
+    boots: Graceful boots
+    ring: Ring of wealth (5)
   inventory:
-  - Clue_scroll_(beginner)
-  - Achievement_diary_cape_(t)
-  - Iron_dagger
-  - Leather_body
+  - Clue scroll (beginner)
+  - Achievement diary cape (t)
+  - Iron dagger
+  - Leather body
   - Spade
-  - Iron_ore
-  - Music_cape(t)
-  - Leather_chaps
+  - Iron ore
+  - Music cape(t)
+  - Leather chaps
   - Trout
-  - Necklace_of_passage
-  - Skills_necklace
-  - Strange_device_(beginner)
-  - Raw_trout
-  - Raw_herring
-  - Senntisten_teleport_(tablet)
-  - Lassar_teleport_(tablet)
+  - Necklace of passage
+  - Skills necklace
+  - Strange device (beginner)
+  - Raw trout
+  - Raw herring
+  - Senntisten teleport (tablet)
+  - Lassar teleport (tablet)
   - Pike
-  - Ring_of_the_elements
-  - Draynor_manor_teleport_(tablet)
-  - Divine_rune_pouch
+  - Ring of the elements
+  - Draynor manor teleport (tablet)
+  - Divine rune pouch
   - ~
   - ~
   - ~
@@ -42,6 +42,6 @@ beginner:
   - ~
   spellbook: standard
   rune_pouch:
-  - Law_rune
-  - Dust_rune
-  - Steam_rune
+  - Law rune
+  - Dust rune
+  - Steam rune
