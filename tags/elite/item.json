@@ -1,136 +1,538 @@
-E CLUES:	,	000000
-W ARDY: stash,	12073
-LYRE 3: rune stash,	12074
-REV: -nw stash,	12075
-FISH 1: shadow,	12076
-WARR: stash	,	12077
-BOX C: stash up,	12078
-QPC: Jeb stash,	12079
-SLAY 2: top stash,	12080
-TROL: stash	,	12081
-POH 3: hero stash,	12082
-FISH 2: cave stash,	12083
-ECTO: dtooth dig,	12085
-MOS LE: island,	12086
-DKS: nw dig	,	12087
-NEX HARM: e dig,	12088
-LLET: se dig	,	12089
-HILT: w gate dig,	12090
-LEGS: boat 1	,	12091
-MOON: w around,	12092
-OBEL 6: -volcano,	12093
-LYRE 3: e dig	,	12094
-RESP: -resource s,	12095
-APE ATOLL: w,	12096
-ICE: -pirate	,	12097
-AKS: nw dig	,	12098
-CAMU 2: se	,	12099
-CAMU 2: ne	,	12100
-SWORD: -dig	,	12101
-QPC: in dig	,	12102
-MORT: +gp tomb,	12103
-SLAY 3: camp,	12104
-W BIRTH: cove,	12105
-APE ATOLL: Lumdo e,	12106
-DIA 7: down dig,	12107
-ALQ: ship	,	12108
-ANNA: -lava dig,	12109
-TAI BWO: ne	,	12110
-IORW: nw	,	12111
-HEAD: Sherlock,	12113
-HEAD: Sherlock,	12114
-HEAD: Sherlock,	12115
-HEAD: Sherlock,	12116
-HEAD: Sherlock,	12117
-HEAD: Sherlock,	12118
-HEAD: Sherlock,	12119
-HEAD: Sherlock,	12120
-HEAD: Sherlock,	12121
-HEAD: Sherlock,	12122
-HEAD: Sherlock,	12123
-HEAD: Sherlock,	12124
-HEAD: Sherlock,	12125
-HEAD: Sherlock,	12126
-HEAD: Sherlock,	12127
-CIQ: w dig	,	12130
-MOON: Oneiro,	12132
-DORG: Ambassador,	12133
-RESP: -Mandrith,	12134
-LLET: Oronwen,	12135
-BOX 1: Cam	,	12136
-LYRE 1: Sigli	,	12137
-SLAY 2: Crone,	12138
-LLET: Mawrth,	12140
-HILT: sled dig,	12141
-W BIRTH: w dig,	12142
-BANN: furnace,	12143
-WARR: top Kam,	12144
-SEER: agi crate,	12145
-BIP: dig	,	12146
-PADD: Vannaka,	12147
-WARR: dig	,	12148
-VARR: Aris	,	12149
-DIA E: +abyss law,	12150
-DIA B: Father,	12151
-CATH: Candle	,	12152
-NARDAH: +rope,	12153
-ARDY: Horacio,	12154
-KHAR: Barker,	12155
-POH 3: stones,	12156
-NMZ: Dominic,	12157
-D AMU Cave: in,	12158
-ROW 3: Wyson,	12159
-KHAZ: +dive	,	19782
-ZUL: ne dig	,	19783
-DIA E: +abyss soul,	19784
-LEGS: se dig	,	19785
-APE ATOLL: w crate,	19786
-HILT: sled stash,	19787
-DJR: se stash,	19788
-QPC: stash	,	19789
-ARDY: stash	,	19790
-WATCH: ne stash,	19791
-SLAY 1: bank Guard,	19792
-BOOK 5: se Regath,	19793
-BOOK 3: ne Nurse,	19794
-LYRE 3: Lisse,	19795
-W BIRTH: crab,	19796
-DIA A: hellhound,	19797
-PRIF: waterfiend,	19798
-MYTH: dragon,	19799
-SLAY 3: +basilisk,	19800
-DIA A: bloodveld,	19801
-SLAY 2: spectre,	19802
-HILT: aviansie,	19803
-NARDAH: croc,	19804
-DIA A: ankou,	19805
-FISH 2: +mangled,	19806
-BURN 3: -KBD,	19807
-NEX MARIM: Daga,	19808
-W BIRTH: dks	,	19809
-LEGS: batta	,	19810
-PEST: Veteran,	19811
-POH 5: e dig	,	19813
-DIGS 1: e dig	,	21524
-VM: dig	,	21525
-DIGS 3: up	,	22000
-RESP: -resource n,	23144
-DLR: se dig	,	23145
-OBEL 3: e dig	,	23146
-NEX WEISS: e	,	23147
-LYRE 3: w dig	,	23148
-POH 9: ne dig,	23770
-W BIRTH: stone,	24253
-ROW 3: song	,	24773
-RESP: portal w dig,	25498
-BJP: e dig	,	25499
-POH 5: sw stash,	25786
-BOTD 3: sw dig,	25787
-ROW 3: song	,	26943
-PHAR 4: s dig,	26944
-CIV: temple stash,	28910
-MOTH: n Funbo,	28911
-OTHER 13: n far dig,	28912
-E CHALLENGE: ,	000000
-Challenge	,	12128
-Challenge	,	12139
+[
+    {
+        "id": 12073,
+        "text": "W ARDY: stash"
+    },
+    {
+        "id": 12074,
+        "text": "LYRE 3: rune stash"
+    },
+    {
+        "id": 12075,
+        "text": "REV: -nw stash"
+    },
+    {
+        "id": 12076,
+        "text": "FISH 1: shadow"
+    },
+    {
+        "id": 12077,
+        "text": "WARR: stash"
+    },
+    {
+        "id": 12078,
+        "text": "BOX C: stash up"
+    },
+    {
+        "id": 12079,
+        "text": "QPC: Jeb stash"
+    },
+    {
+        "id": 12080,
+        "text": "SLAY 2: top stash"
+    },
+    {
+        "id": 12081,
+        "text": "TROL: stash"
+    },
+    {
+        "id": 12082,
+        "text": "POH 3: hero stash"
+    },
+    {
+        "id": 12083,
+        "text": "FISH 2: cave stash"
+    },
+    {
+        "id": 12085,
+        "text": "ECTO: dtooth dig"
+    },
+    {
+        "id": 12086,
+        "text": "MOS LE: island"
+    },
+    {
+        "id": 12087,
+        "text": "DKS: nw dig"
+    },
+    {
+        "id": 12088,
+        "text": "NEX HARM: e dig"
+    },
+    {
+        "id": 12089,
+        "text": "LLET: se dig"
+    },
+    {
+        "id": 12090,
+        "text": "HILT: w gate dig"
+    },
+    {
+        "id": 12091,
+        "text": "LEGS: boat 1"
+    },
+    {
+        "id": 12092,
+        "text": "MOON: w around"
+    },
+    {
+        "id": 12093,
+        "text": "OBEL 6: -volcano"
+    },
+    {
+        "id": 12094,
+        "text": "LYRE 3: e dig"
+    },
+    {
+        "id": 12095,
+        "text": "RESP: -resource s"
+    },
+    {
+        "id": 12096,
+        "text": "APE ATOLL: w"
+    },
+    {
+        "id": 12097,
+        "text": "ICE: -pirate"
+    },
+    {
+        "id": 12098,
+        "text": "AKS: nw dig"
+    },
+    {
+        "id": 12099,
+        "text": "CAMU 2: se"
+    },
+    {
+        "id": 12100,
+        "text": "CAMU 2: ne"
+    },
+    {
+        "id": 12101,
+        "text": "SWORD: -dig"
+    },
+    {
+        "id": 12102,
+        "text": "QPC: in dig"
+    },
+    {
+        "id": 12103,
+        "text": "MORT: +gp tomb"
+    },
+    {
+        "id": 12104,
+        "text": "SLAY 3: camp"
+    },
+    {
+        "id": 12105,
+        "text": "W BIRTH: cove"
+    },
+    {
+        "id": 12106,
+        "text": "APE ATOLL: Lumdo e"
+    },
+    {
+        "id": 12107,
+        "text": "DIA 7: down dig"
+    },
+    {
+        "id": 12108,
+        "text": "ALQ: ship"
+    },
+    {
+        "id": 12109,
+        "text": "ANNA: -lava dig"
+    },
+    {
+        "id": 12110,
+        "text": "TAI BWO: ne"
+    },
+    {
+        "id": 12111,
+        "text": "IORW: nw"
+    },
+    {
+        "id": 12113,
+        "text": "HEAD: Sherlock"
+    },
+    {
+        "id": 12114,
+        "text": "HEAD: Sherlock"
+    },
+    {
+        "id": 12115,
+        "text": "HEAD: Sherlock"
+    },
+    {
+        "id": 12116,
+        "text": "HEAD: Sherlock"
+    },
+    {
+        "id": 12117,
+        "text": "HEAD: Sherlock"
+    },
+    {
+        "id": 12118,
+        "text": "HEAD: Sherlock"
+    },
+    {
+        "id": 12119,
+        "text": "HEAD: Sherlock"
+    },
+    {
+        "id": 12120,
+        "text": "HEAD: Sherlock"
+    },
+    {
+        "id": 12121,
+        "text": "HEAD: Sherlock"
+    },
+    {
+        "id": 12122,
+        "text": "HEAD: Sherlock"
+    },
+    {
+        "id": 12123,
+        "text": "HEAD: Sherlock"
+    },
+    {
+        "id": 12124,
+        "text": "HEAD: Sherlock"
+    },
+    {
+        "id": 12125,
+        "text": "HEAD: Sherlock"
+    },
+    {
+        "id": 12126,
+        "text": "HEAD: Sherlock"
+    },
+    {
+        "id": 12127,
+        "text": "HEAD: Sherlock"
+    },
+    {
+        "id": 12130,
+        "text": "CIQ: w dig"
+    },
+    {
+        "id": 12132,
+        "text": "MOON: Oneiro"
+    },
+    {
+        "id": 12133,
+        "text": "DORG: Ambassador"
+    },
+    {
+        "id": 12134,
+        "text": "RESP: -Mandrith"
+    },
+    {
+        "id": 12135,
+        "text": "LLET: Oronwen"
+    },
+    {
+        "id": 12136,
+        "text": "BOX 1: Cam"
+    },
+    {
+        "id": 12137,
+        "text": "LYRE 1: Sigli"
+    },
+    {
+        "id": 12138,
+        "text": "SLAY 2: Crone"
+    },
+    {
+        "id": 12140,
+        "text": "LLET: Mawrth"
+    },
+    {
+        "id": 12141,
+        "text": "HILT: sled dig"
+    },
+    {
+        "id": 12142,
+        "text": "W BIRTH: w dig"
+    },
+    {
+        "id": 12143,
+        "text": "BANN: furnace"
+    },
+    {
+        "id": 12144,
+        "text": "WARR: top Kam"
+    },
+    {
+        "id": 12145,
+        "text": "SEER: agi crate"
+    },
+    {
+        "id": 12146,
+        "text": "BIP: dig"
+    },
+    {
+        "id": 12147,
+        "text": "PADD: Vannaka"
+    },
+    {
+        "id": 12148,
+        "text": "WARR: dig"
+    },
+    {
+        "id": 12149,
+        "text": "VARR: Aris"
+    },
+    {
+        "id": 12150,
+        "text": "DIA E: +abyss law"
+    },
+    {
+        "id": 12151,
+        "text": "DIA B: Father"
+    },
+    {
+        "id": 12152,
+        "text": "CATH: Candle"
+    },
+    {
+        "id": 12153,
+        "text": "NARDAH: +rope"
+    },
+    {
+        "id": 12154,
+        "text": "ARDY: Horacio"
+    },
+    {
+        "id": 12155,
+        "text": "KHAR: Barker"
+    },
+    {
+        "id": 12156,
+        "text": "POH 3: stones"
+    },
+    {
+        "id": 12157,
+        "text": "NMZ: Dominic"
+    },
+    {
+        "id": 12158,
+        "text": "D AMU Cave: in"
+    },
+    {
+        "id": 12159,
+        "text": "ROW 3: Wyson"
+    },
+    {
+        "id": 19782,
+        "text": "KHAZ: +dive"
+    },
+    {
+        "id": 19783,
+        "text": "ZUL: ne dig"
+    },
+    {
+        "id": 19784,
+        "text": "DIA E: +abyss soul"
+    },
+    {
+        "id": 19785,
+        "text": "LEGS: se dig"
+    },
+    {
+        "id": 19786,
+        "text": "APE ATOLL: w crate"
+    },
+    {
+        "id": 19787,
+        "text": "HILT: sled stash"
+    },
+    {
+        "id": 19788,
+        "text": "DJR: se stash"
+    },
+    {
+        "id": 19789,
+        "text": "QPC: stash"
+    },
+    {
+        "id": 19790,
+        "text": "ARDY: stash"
+    },
+    {
+        "id": 19791,
+        "text": "WATCH: ne stash"
+    },
+    {
+        "id": 19792,
+        "text": "SLAY 1: bank Guard"
+    },
+    {
+        "id": 19793,
+        "text": "BOOK 5: se Regath"
+    },
+    {
+        "id": 19794,
+        "text": "BOOK 3: ne Nurse"
+    },
+    {
+        "id": 19795,
+        "text": "LYRE 3: Lisse"
+    },
+    {
+        "id": 19796,
+        "text": "W BIRTH: crab"
+    },
+    {
+        "id": 19797,
+        "text": "DIA A: hellhound"
+    },
+    {
+        "id": 19798,
+        "text": "PRIF: waterfiend"
+    },
+    {
+        "id": 19799,
+        "text": "MYTH: dragon"
+    },
+    {
+        "id": 19800,
+        "text": "SLAY 3: +basilisk"
+    },
+    {
+        "id": 19801,
+        "text": "DIA A: bloodveld"
+    },
+    {
+        "id": 19802,
+        "text": "SLAY 2: spectre"
+    },
+    {
+        "id": 19803,
+        "text": "HILT: aviansie"
+    },
+    {
+        "id": 19804,
+        "text": "NARDAH: croc"
+    },
+    {
+        "id": 19805,
+        "text": "DIA A: ankou"
+    },
+    {
+        "id": 19806,
+        "text": "FISH 2: +mangled"
+    },
+    {
+        "id": 19807,
+        "text": "BURN 3: -KBD"
+    },
+    {
+        "id": 19808,
+        "text": "NEX MARIM: Daga"
+    },
+    {
+        "id": 19809,
+        "text": "W BIRTH: dks"
+    },
+    {
+        "id": 19810,
+        "text": "LEGS: batta"
+    },
+    {
+        "id": 19811,
+        "text": "PEST: Veteran"
+    },
+    {
+        "id": 19813,
+        "text": "POH 5: e dig"
+    },
+    {
+        "id": 21524,
+        "text": "DIGS 1: e dig"
+    },
+    {
+        "id": 21525,
+        "text": "VM: dig"
+    },
+    {
+        "id": 22000,
+        "text": "DIGS 3: up"
+    },
+    {
+        "id": 23144,
+        "text": "RESP: -resource n"
+    },
+    {
+        "id": 23145,
+        "text": "DLR: se dig"
+    },
+    {
+        "id": 23146,
+        "text": "OBEL 3: e dig"
+    },
+    {
+        "id": 23147,
+        "text": "NEX WEISS: e"
+    },
+    {
+        "id": 23148,
+        "text": "LYRE 3: w dig"
+    },
+    {
+        "id": 23770,
+        "text": "POH 9: ne dig"
+    },
+    {
+        "id": 24253,
+        "text": "W BIRTH: stone"
+    },
+    {
+        "id": 24773,
+        "text": "ROW 3: song"
+    },
+    {
+        "id": 25498,
+        "text": "RESP: portal w dig"
+    },
+    {
+        "id": 25499,
+        "text": "BJP: e dig"
+    },
+    {
+        "id": 25786,
+        "text": "POH 5: sw stash"
+    },
+    {
+        "id": 25787,
+        "text": "BOTD 3: sw dig"
+    },
+    {
+        "id": 26943,
+        "text": "ROW 3: song"
+    },
+    {
+        "id": 26944,
+        "text": "PHAR 4: s dig"
+    },
+    {
+        "id": 28910,
+        "text": "CIV: temple stash"
+    },
+    {
+        "id": 28911,
+        "text": "MOTH: n Funbo"
+    },
+    {
+        "id": 28912,
+        "text": "OTHER 13: n far dig"
+    },
+    {
+        "id": 12128,
+        "text": "Challenge"
+    },
+    {
+        "id": 12139,
+        "text": "Challenge"
+    }
+]

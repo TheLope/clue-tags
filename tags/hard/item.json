@@ -1,205 +1,814 @@
-H CLUES:	,	000000
-LUMBER: crate,	2722
-BUR 3: -rune dig,	2723
-ICE: -n dig	,	2725
-RESP: -web	,	2727
-RESP: -hut	,	2729
-ANNA: -dig	,	2731
-REV: s hill	,	2733
-BURN 3: -altar,	2735
-BURN 3: kbd	,	2737
-ICE: -hideout	,	2739
-ANNA: s dig	,	2741
-CARR: ne dig	,	2743
-BURN 2: ne dig,	2745
-W CRAB: w dig,	2747
-LUMB: down	,	2773
-RESP: dig	,	2774
-VARR: w bank,	2776
-POH 2: e Gerrant,	2778
-GLORY 3: w dig,	2780
-LUMB: up	,	2782
-CLOAK: zoo	,	2783
-GLORY 3: mill	,	2785
-CARR: se dig	,	2786
-REV: -ne dig	,	2788
-PADD: moss dig,	2790
-LUMB: Hans	,	2792
-COMB 3: Abbot,	2793
-GLORY 1: Oziach,	2794
-VARR: Prysin	,	2796
-VARR: Wilough,	2797
-GVS: Bent	,	2799
-YANIL: anvil	,	3520
-W ARDY: nw dig,	3522
-OURAN: s crate,	3524
-BURN 2: sw crate,	3525
-TROL: dig	,	3526
-NEX TROLL: e dig,	3528
-DIA 8: isle	,	3530
-DIA 8: +jung sw,	3532
-DIA 8: +jung mid,	3534
-DURA: se dig,	3536
-DKP: se dig	,	3538
-GLIDE Gand: w dig,	3540
-BIP: grotto	,	3542
-BKR: sw dig	,	3544
-POH 8: Gu'T	,	3546
-GLIDE L Undri: cave,	3548
-Unobtainable,	3550
-BIQ: sw dig	,	3552
-DUEL 1: e behind,	3554
-OBEL 4: s dig	,	3556
-OBEL 6: -nw dig,	3558
-ZUL: n dig	,	3560
-IORW: s dig	,	3562
-ZUL: n General,	3564
-SENN: Examiner,	3566
-DUEL 1: ne Hamid,	3568
-GLIDE Sind: talk,	3570
-CLOAK 2: up book,	3572
-FISH 2: house up,	3573
-COMB 4: coal	,	3574
-POD: up e	,	3575
-DIA F: Trainer,	3577
-CRAFT: entrana,	3579
-DIA 9: eggs	,	3580
-ICE: -se dig	,	7239
-QPC: sw dig	,	7241
-TREE 8: nw dig,	7243
-MORT: dig	,	7245
-GEM: up	,	7247
-CAMU 2: n crate,	7248
-PASS 1: down book,	7249
-SEER: +key	,	7250
-SKIL 2: cart	,	7251
-POH 8: dungeon,	7252
-PASS 3: se crate,	7253
-COMB 4: hay,	7254
-DIA 1: w drawer,	7255
-PASS 2: gate,	7256
-CAMU 2: nw dig,	7258
-CEME: sw dig	,	7260
-DUEL 3: sw dig,	7262
-OBEL 2: ne s	,	7264
-DKS: w dig	,	7266
-DIA F: Coach	,	7268
-TREE 1: up Bolkoy,	7270
-DIA 6: Cap'n	,	7272
-OBEL 2: stash,	10234
-FISH 1: stash	,	10236
-ALP: stash	,	10238
-ALQ: naked	,	10240
-PHAR 1: stash,	10242
-BURN 2: n stash,	10244
-GLORY 2: stash,	10246
-AJR: n stash	,	10248
-GLIDE Sind: stash,	10250
-DURA: stash,	10252
-SENN: stash	,	12542
-DURA: se stash,	12544
-OBEL 6: -stash,	12546
-DUEL 2: s stash,	12548
-PHAR 2: stash,	12550
-WATSON: stash,	12552
-CLP: dig	,	12554
-AJS: dig	,	12556
-AIR: n dig	,	12558
-DIA 9: crandor,	12560
-LEGS: e n	,	12562
-OBEL 2: ne n	,	12564
-SKIL 2: +pick mlm,	12566
-BARRO: Old	,	12568
-COMB 1: Martin,	12570
-GLORY 3: Wise,	12572
-CLOAK: Omad,	12574
-DIA B: Doom	,	12576
-POH 7: Saniboch,	12578
-CATH: fruit	,	12581
-DIA 3: Vyvin	,	12584
-PHAR 1: Mummy,	12587
-SKULL: dig	,	12590
-DJR: ne dig	,	19840
-XER 3: sw dig	,	19842
-LEGS: e s	,	19844
-ROW 1: n Magnus,	19846
-COMB 2: chicken,	19848
-LEGS: se dig	,	19850
-ZUL: Zul-Cheray,	19852
-SKIL 4: Chef	,	19853
-CLOAK: nw Kojo,	19854
-LYRE 3: Mawnis,	19856
-PASS 1: up Mizgog,	19857
-TREE 1: Tree	,	19858
-DIA 2: foundry,	19860
-AIQ: dig	,	19862
-AIR: s dig	,	19864
-ALP: dig	,	19866
-BIP: dig	,	19868
-BJR: dig	,	19870
-DIA 9: w dig	,	19872
-CKP: dig	,	19874
-DIP: dig	,	19876
-DKS: e dig	,	19878
-CIS: w dig	,	19880
-GLORY 1: down,	19882
-MARIM: Awowo,	19884
-DIA B: Guide	,	19886
-DIA E: +abyss,	19888
-BF: Drunken	,	19890
-MOS LE: Tranqil,	19892
-HILT: Brambickle,	19894
-TREE A: Lammy,	19896
-POH 9: sw Eluned,	19898
-FISH 2: Otto	,	19900
-ECTO: ne Pete,	19902
-BIQ: nw Weird,	19904
-BJR: King	,	19906
-ZANA: Godf	,	19908
-HIDEOUT: Queen,	19910
-VM: w dig	,	21526
-DIGS 1: row 4	,	21527
-SKIL 6: sw far,	23045
-BANN: ne dig	,	23167
-OTHER 121: dig,	23168
-ICE: -s dig	,	23169
-BANN: Arnold,	23170
-BARB: Gunnjorn,	23172
-ROW 3: song	,	23174
-ROW 3: song	,	23175
-ROW 3: song	,	23176
-ROW 3: song	,	23177
-ROW 3: song	,	23178
-ROW 3: song	,	23179
-ROW 3: song	,	23180
-ROW 3: song	,	23181
-SLEPE: talk	,	24493
-BOTD 3: sw dig,	25790
-TREE A: dungeon,	25791
-ROW 3: song	,	25792
-BLQ: dig	,	26566
-AJP: dig	,	28915
-OTHER 13: Soar Lead,	28916
-ROW 3: song	,	28918
-H CHALLENGE: ,	000000
-6	,	7269
-13	,	7271
-33	,	7273
-12	,	12567
-40	,	12569
-2	,	12571
-28	,	12573
-129	,	12575
-95	,	12577
-8	,	19847
-22	,	19855
-13112221	,	19859
-666	,	19883
-24	,	19885
-13	,	19889
-7	,	19893
-53000	,	19899
-3	,	19901
-150	,	19905
-5	,	19907
-64	,	19909
+[
+    {
+        "id": 2722,
+        "text": "LUMBER: crate"
+    },
+    {
+        "id": 2723,
+        "text": "BUR 3: -rune dig"
+    },
+    {
+        "id": 2725,
+        "text": "ICE: -n dig"
+    },
+    {
+        "id": 2727,
+        "text": "RESP: -web"
+    },
+    {
+        "id": 2729,
+        "text": "RESP: -hut"
+    },
+    {
+        "id": 2731,
+        "text": "ANNA: -dig"
+    },
+    {
+        "id": 2733,
+        "text": "REV: s hill"
+    },
+    {
+        "id": 2735,
+        "text": "BURN 3: -altar"
+    },
+    {
+        "id": 2737,
+        "text": "BURN 3: kbd"
+    },
+    {
+        "id": 2739,
+        "text": "ICE: -hideout"
+    },
+    {
+        "id": 2741,
+        "text": "ANNA: s dig"
+    },
+    {
+        "id": 2743,
+        "text": "CARR: ne dig"
+    },
+    {
+        "id": 2745,
+        "text": "BURN 2: ne dig"
+    },
+    {
+        "id": 2747,
+        "text": "W CRAB: w dig"
+    },
+    {
+        "id": 2773,
+        "text": "LUMB: down"
+    },
+    {
+        "id": 2774,
+        "text": "RESP: dig"
+    },
+    {
+        "id": 2776,
+        "text": "VARR: w bank"
+    },
+    {
+        "id": 2778,
+        "text": "POH 2: e Gerrant"
+    },
+    {
+        "id": 2780,
+        "text": "GLORY 3: w dig"
+    },
+    {
+        "id": 2782,
+        "text": "LUMB: up"
+    },
+    {
+        "id": 2783,
+        "text": "CLOAK: zoo"
+    },
+    {
+        "id": 2785,
+        "text": "GLORY 3: mill"
+    },
+    {
+        "id": 2786,
+        "text": "CARR: se dig"
+    },
+    {
+        "id": 2788,
+        "text": "REV: -ne dig"
+    },
+    {
+        "id": 2790,
+        "text": "PADD: moss dig"
+    },
+    {
+        "id": 2792,
+        "text": "LUMB: Hans"
+    },
+    {
+        "id": 2793,
+        "text": "COMB 3: Abbot"
+    },
+    {
+        "id": 2794,
+        "text": "GLORY 1: Oziach"
+    },
+    {
+        "id": 2796,
+        "text": "VARR: Prysin"
+    },
+    {
+        "id": 2797,
+        "text": "VARR: Wilough"
+    },
+    {
+        "id": 2799,
+        "text": "GVS: Bent"
+    },
+    {
+        "id": 3520,
+        "text": "YANIL: anvil"
+    },
+    {
+        "id": 3522,
+        "text": "W ARDY: nw dig"
+    },
+    {
+        "id": 3524,
+        "text": "OURAN: s crate"
+    },
+    {
+        "id": 3525,
+        "text": "BURN 2: sw crate"
+    },
+    {
+        "id": 3526,
+        "text": "TROL: dig"
+    },
+    {
+        "id": 3528,
+        "text": "NEX TROLL: e dig"
+    },
+    {
+        "id": 3530,
+        "text": "DIA 8: isle"
+    },
+    {
+        "id": 3532,
+        "text": "DIA 8: +jung sw"
+    },
+    {
+        "id": 3534,
+        "text": "DIA 8: +jung mid"
+    },
+    {
+        "id": 3536,
+        "text": "DURA: se dig"
+    },
+    {
+        "id": 3538,
+        "text": "DKP: se dig"
+    },
+    {
+        "id": 3540,
+        "text": "GLIDE Gand: w dig"
+    },
+    {
+        "id": 3542,
+        "text": "BIP: grotto"
+    },
+    {
+        "id": 3544,
+        "text": "BKR: sw dig"
+    },
+    {
+        "id": 3546,
+        "text": "POH 8: Gu'T"
+    },
+    {
+        "id": 3548,
+        "text": "GLIDE L Undri: cave"
+    },
+    {
+        "id": 3550,
+        "text": "Unobtainable"
+    },
+    {
+        "id": 3552,
+        "text": "BIQ: sw dig"
+    },
+    {
+        "id": 3554,
+        "text": "DUEL 1: e behind"
+    },
+    {
+        "id": 3556,
+        "text": "OBEL 4: s dig"
+    },
+    {
+        "id": 3558,
+        "text": "OBEL 6: -nw dig"
+    },
+    {
+        "id": 3560,
+        "text": "ZUL: n dig"
+    },
+    {
+        "id": 3562,
+        "text": "IORW: s dig"
+    },
+    {
+        "id": 3564,
+        "text": "ZUL: n General"
+    },
+    {
+        "id": 3566,
+        "text": "SENN: Examiner"
+    },
+    {
+        "id": 3568,
+        "text": "DUEL 1: ne Hamid"
+    },
+    {
+        "id": 3570,
+        "text": "GLIDE Sind: talk"
+    },
+    {
+        "id": 3572,
+        "text": "CLOAK 2: up book"
+    },
+    {
+        "id": 3573,
+        "text": "FISH 2: house up"
+    },
+    {
+        "id": 3574,
+        "text": "COMB 4: coal"
+    },
+    {
+        "id": 3575,
+        "text": "POD: up e"
+    },
+    {
+        "id": 3577,
+        "text": "DIA F: Trainer"
+    },
+    {
+        "id": 3579,
+        "text": "CRAFT: entrana"
+    },
+    {
+        "id": 3580,
+        "text": "DIA 9: eggs"
+    },
+    {
+        "id": 7239,
+        "text": "ICE: -se dig"
+    },
+    {
+        "id": 7241,
+        "text": "QPC: sw dig"
+    },
+    {
+        "id": 7243,
+        "text": "TREE 8: nw dig"
+    },
+    {
+        "id": 7245,
+        "text": "MORT: dig"
+    },
+    {
+        "id": 7247,
+        "text": "GEM: up"
+    },
+    {
+        "id": 7248,
+        "text": "CAMU 2: n crate"
+    },
+    {
+        "id": 7249,
+        "text": "PASS 1: down book"
+    },
+    {
+        "id": 7250,
+        "text": "SEER: +key"
+    },
+    {
+        "id": 7251,
+        "text": "SKIL 2: cart"
+    },
+    {
+        "id": 7252,
+        "text": "POH 8: dungeon"
+    },
+    {
+        "id": 7253,
+        "text": "PASS 3: se crate"
+    },
+    {
+        "id": 7254,
+        "text": "COMB 4: hay"
+    },
+    {
+        "id": 7255,
+        "text": "DIA 1: w drawer"
+    },
+    {
+        "id": 7256,
+        "text": "PASS 2: gate"
+    },
+    {
+        "id": 7258,
+        "text": "CAMU 2: nw dig"
+    },
+    {
+        "id": 7260,
+        "text": "CEME: sw dig"
+    },
+    {
+        "id": 7262,
+        "text": "DUEL 3: sw dig"
+    },
+    {
+        "id": 7264,
+        "text": "OBEL 2: ne s"
+    },
+    {
+        "id": 7266,
+        "text": "DKS: w dig"
+    },
+    {
+        "id": 7268,
+        "text": "DIA F: Coach"
+    },
+    {
+        "id": 7270,
+        "text": "TREE 1: up Bolkoy"
+    },
+    {
+        "id": 7272,
+        "text": "DIA 6: Cap'n"
+    },
+    {
+        "id": 10234,
+        "text": "OBEL 2: stash"
+    },
+    {
+        "id": 10236,
+        "text": "FISH 1: stash"
+    },
+    {
+        "id": 10238,
+        "text": "ALP: stash"
+    },
+    {
+        "id": 10240,
+        "text": "ALQ: naked"
+    },
+    {
+        "id": 10242,
+        "text": "PHAR 1: stash"
+    },
+    {
+        "id": 10244,
+        "text": "BURN 2: n stash"
+    },
+    {
+        "id": 10246,
+        "text": "GLORY 2: stash"
+    },
+    {
+        "id": 10248,
+        "text": "AJR: n stash"
+    },
+    {
+        "id": 10250,
+        "text": "GLIDE Sind: stash"
+    },
+    {
+        "id": 10252,
+        "text": "DURA: stash"
+    },
+    {
+        "id": 12542,
+        "text": "SENN: stash"
+    },
+    {
+        "id": 12544,
+        "text": "DURA: se stash"
+    },
+    {
+        "id": 12546,
+        "text": "OBEL 6: -stash"
+    },
+    {
+        "id": 12548,
+        "text": "DUEL 2: s stash"
+    },
+    {
+        "id": 12550,
+        "text": "PHAR 2: stash"
+    },
+    {
+        "id": 12552,
+        "text": "WATSON: stash"
+    },
+    {
+        "id": 12554,
+        "text": "CLP: dig"
+    },
+    {
+        "id": 12556,
+        "text": "AJS: dig"
+    },
+    {
+        "id": 12558,
+        "text": "AIR: n dig"
+    },
+    {
+        "id": 12560,
+        "text": "DIA 9: crandor"
+    },
+    {
+        "id": 12562,
+        "text": "LEGS: e n"
+    },
+    {
+        "id": 12564,
+        "text": "OBEL 2: ne n"
+    },
+    {
+        "id": 12566,
+        "text": "SKIL 2: +pick mlm"
+    },
+    {
+        "id": 12568,
+        "text": "BARRO: Old"
+    },
+    {
+        "id": 12570,
+        "text": "COMB 1: Martin"
+    },
+    {
+        "id": 12572,
+        "text": "GLORY 3: Wise"
+    },
+    {
+        "id": 12574,
+        "text": "CLOAK: Omad"
+    },
+    {
+        "id": 12576,
+        "text": "DIA B: Doom"
+    },
+    {
+        "id": 12578,
+        "text": "POH 7: Saniboch"
+    },
+    {
+        "id": 12581,
+        "text": "CATH: fruit"
+    },
+    {
+        "id": 12584,
+        "text": "DIA 3: Vyvin"
+    },
+    {
+        "id": 12587,
+        "text": "PHAR 1: Mummy"
+    },
+    {
+        "id": 12590,
+        "text": "SKULL: dig"
+    },
+    {
+        "id": 19840,
+        "text": "DJR: ne dig"
+    },
+    {
+        "id": 19842,
+        "text": "XER 3: sw dig"
+    },
+    {
+        "id": 19844,
+        "text": "LEGS: e s"
+    },
+    {
+        "id": 19846,
+        "text": "ROW 1: n Magnus"
+    },
+    {
+        "id": 19848,
+        "text": "COMB 2: chicken"
+    },
+    {
+        "id": 19850,
+        "text": "LEGS: se dig"
+    },
+    {
+        "id": 19852,
+        "text": "ZUL: Zul-Cheray"
+    },
+    {
+        "id": 19853,
+        "text": "SKIL 4: Chef"
+    },
+    {
+        "id": 19854,
+        "text": "CLOAK: nw Kojo"
+    },
+    {
+        "id": 19856,
+        "text": "LYRE 3: Mawnis"
+    },
+    {
+        "id": 19857,
+        "text": "PASS 1: up Mizgog"
+    },
+    {
+        "id": 19858,
+        "text": "TREE 1: Tree"
+    },
+    {
+        "id": 19860,
+        "text": "DIA 2: foundry"
+    },
+    {
+        "id": 19862,
+        "text": "AIQ: dig"
+    },
+    {
+        "id": 19864,
+        "text": "AIR: s dig"
+    },
+    {
+        "id": 19866,
+        "text": "ALP: dig"
+    },
+    {
+        "id": 19868,
+        "text": "BIP: dig"
+    },
+    {
+        "id": 19870,
+        "text": "BJR: dig"
+    },
+    {
+        "id": 19872,
+        "text": "DIA 9: w dig"
+    },
+    {
+        "id": 19874,
+        "text": "CKP: dig"
+    },
+    {
+        "id": 19876,
+        "text": "DIP: dig"
+    },
+    {
+        "id": 19878,
+        "text": "DKS: e dig"
+    },
+    {
+        "id": 19880,
+        "text": "CIS: w dig"
+    },
+    {
+        "id": 19882,
+        "text": "GLORY 1: down"
+    },
+    {
+        "id": 19884,
+        "text": "MARIM: Awowo"
+    },
+    {
+        "id": 19886,
+        "text": "DIA B: Guide"
+    },
+    {
+        "id": 19888,
+        "text": "DIA E: +abyss"
+    },
+    {
+        "id": 19890,
+        "text": "BF: Drunken"
+    },
+    {
+        "id": 19892,
+        "text": "MOS LE: Tranqil"
+    },
+    {
+        "id": 19894,
+        "text": "HILT: Brambickle"
+    },
+    {
+        "id": 19896,
+        "text": "TREE A: Lammy"
+    },
+    {
+        "id": 19898,
+        "text": "POH 9: sw Eluned"
+    },
+    {
+        "id": 19900,
+        "text": "FISH 2: Otto"
+    },
+    {
+        "id": 19902,
+        "text": "ECTO: ne Pete"
+    },
+    {
+        "id": 19904,
+        "text": "BIQ: nw Weird"
+    },
+    {
+        "id": 19906,
+        "text": "BJR: King"
+    },
+    {
+        "id": 19908,
+        "text": "ZANA: Godf"
+    },
+    {
+        "id": 19910,
+        "text": "HIDEOUT: Queen"
+    },
+    {
+        "id": 21526,
+        "text": "VM: w dig"
+    },
+    {
+        "id": 21527,
+        "text": "DIGS 1: row 4"
+    },
+    {
+        "id": 23045,
+        "text": "SKIL 6: sw far"
+    },
+    {
+        "id": 23167,
+        "text": "BANN: ne dig"
+    },
+    {
+        "id": 23168,
+        "text": "OTHER 121: dig"
+    },
+    {
+        "id": 23169,
+        "text": "ICE: -s dig"
+    },
+    {
+        "id": 23170,
+        "text": "BANN: Arnold"
+    },
+    {
+        "id": 23172,
+        "text": "BARB: Gunnjorn"
+    },
+    {
+        "id": 23174,
+        "text": "ROW 3: song"
+    },
+    {
+        "id": 23175,
+        "text": "ROW 3: song"
+    },
+    {
+        "id": 23176,
+        "text": "ROW 3: song"
+    },
+    {
+        "id": 23177,
+        "text": "ROW 3: song"
+    },
+    {
+        "id": 23178,
+        "text": "ROW 3: song"
+    },
+    {
+        "id": 23179,
+        "text": "ROW 3: song"
+    },
+    {
+        "id": 23180,
+        "text": "ROW 3: song"
+    },
+    {
+        "id": 23181,
+        "text": "ROW 3: song"
+    },
+    {
+        "id": 24493,
+        "text": "SLEPE: talk"
+    },
+    {
+        "id": 25790,
+        "text": "BOTD 3: sw dig"
+    },
+    {
+        "id": 25791,
+        "text": "TREE A: dungeon"
+    },
+    {
+        "id": 25792,
+        "text": "ROW 3: song"
+    },
+    {
+        "id": 26566,
+        "text": "BLQ: dig"
+    },
+    {
+        "id": 28915,
+        "text": "AJP: dig"
+    },
+    {
+        "id": 28916,
+        "text": "OTHER 13: Soar Lead"
+    },
+    {
+        "id": 28918,
+        "text": "ROW 3: song"
+    },
+    {
+        "id": 7269,
+        "text": "6"
+    },
+    {
+        "id": 7271,
+        "text": "13"
+    },
+    {
+        "id": 7273,
+        "text": "33"
+    },
+    {
+        "id": 12567,
+        "text": "12"
+    },
+    {
+        "id": 12569,
+        "text": "40"
+    },
+    {
+        "id": 12571,
+        "text": "2"
+    },
+    {
+        "id": 12573,
+        "text": "28"
+    },
+    {
+        "id": 12575,
+        "text": "129"
+    },
+    {
+        "id": 12577,
+        "text": "95"
+    },
+    {
+        "id": 19847,
+        "text": "8"
+    },
+    {
+        "id": 19855,
+        "text": "22"
+    },
+    {
+        "id": 19859,
+        "text": "13112221"
+    },
+    {
+        "id": 19883,
+        "text": "666"
+    },
+    {
+        "id": 19885,
+        "text": "24"
+    },
+    {
+        "id": 19889,
+        "text": "13"
+    },
+    {
+        "id": 19893,
+        "text": "7"
+    },
+    {
+        "id": 19899,
+        "text": "53000"
+    },
+    {
+        "id": 19901,
+        "text": "3"
+    },
+    {
+        "id": 19905,
+        "text": "150"
+    },
+    {
+        "id": 19907,
+        "text": "5"
+    },
+    {
+        "id": 19909,
+        "text": "64"
+    }
+]
