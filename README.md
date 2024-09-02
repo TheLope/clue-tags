@@ -4,27 +4,27 @@ If preferred, see Documentation Website here: https://thelope.github.io/clue-tag
 
 Otherwise, internal links are provided below
 
-## Item Tags
+## Clue Details
 
 All clue tiers **except beginner and master** have unique item IDs for each clue step
 
-This allows us to provide hints on the clue scroll item **without requiring players to open the clue**
+This allows us to provide hints **without requiring players to open the clue**
 
 ### [How To](docs/items/index.md)
 
 ### Tags
 
-[Easy](tags/easy/item.yml)
+[Easy](tags/easy/item.json)
 
-[Medium](tags/medium/item.yml)
+[Medium](tags/medium/item.json)
 
-[Hard](tags/hard/item.yml)
+[Hard](tags/hard/item.json)
 
-[Elite](tags/elite/item.yml)
+[Elite](tags/elite/item.json)
 
 ## Bank Tags
 
-Bank Tag Layouts and screenshots of recommended gear setups for all clues
+Recommended gear setups with Bank Tag Layouts for all tiers
 
 ### [How To](docs/bank/index.md)
 

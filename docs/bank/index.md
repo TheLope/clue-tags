@@ -1,6 +1,6 @@
 # Bank Tags
 
-Bank Tag Layouts and screenshots of recommended gear setups for all clues
+Recommended gear setups with Bank Tag Layouts for all tiers
 
 ## How To
 

@@ -32,7 +32,7 @@ theme:
     - navigation.top
 nav:
   - Home: index.md
-  - Item Tags:
+  - Clue Details:
     - items/index.md
     - Easy: items/easy.md
     - Medium: items/medium.md

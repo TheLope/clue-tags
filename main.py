@@ -162,10 +162,10 @@ _Copy button is provided on the right_
     @env.macro
     def items(tier):
         return f"""
-# <img style="vertical-align:middle" src="{ wiki_url }/images/Clue_scroll_({ tier })_detail.png" width="35"> { tier.title() } Item Tags
+# <img style="vertical-align:middle" src="{ wiki_url }/images/Clue_scroll_({ tier })_detail.png" width="35"> { tier.title() } Clue Details
 
 _Copy button is provided on the right_
-``` yaml title=""
---8<-- "tags/{ tier }/item.yml"
+``` json title=""
+--8<-- "tags/{ tier }/item.json"
 ```
 """
