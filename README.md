@@ -14,13 +14,13 @@ This allows us to provide hints **without requiring players to open the clue**
 
 ### Tags
 
-[Easy](tags/easy/item.json)
+[Easy](tags/easy/details.json)
 
-[Medium](tags/medium/item.json)
+[Medium](tags/medium/details.json)
 
-[Hard](tags/hard/item.json)
+[Hard](tags/hard/details.json)
 
-[Elite](tags/elite/item.json)
+[Elite](tags/elite/details.json)
 
 ## Bank Tags
 

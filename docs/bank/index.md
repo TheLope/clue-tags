@@ -1,4 +1,4 @@
-# Bank Tags
+{{ title("Bank Tags", "Bank_logo") }}
 
 Recommended gear setups with Bank Tag Layouts for all tiers
 

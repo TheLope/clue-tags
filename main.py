@@ -145,11 +145,15 @@ def define_env(env):
 """
 
     @env.macro
+    def title(title, image):
+        return f"""# <img style="vertical-align:middle" src="{ wiki_url }/images/{ image }.png" width="35"> { title }"""
+
+    @env.macro
     def bank(tier):
         image = 'Mimic' if tier == 'mimic' else f'Clue_scroll_({ tier })'
 
         return f"""
-# <img style="vertical-align:middle" src="{ wiki_url }/images/{ image }_detail.png" width="35"> { tier.title() } Bank Tags
+{ title(f"{ tier.title() } Bank Tags", f"{ image }_detail") }
 
 { setup(tier) }
 
@@ -162,10 +166,10 @@ _Copy button is provided on the right_
     @env.macro
     def items(tier):
         return f"""
-# <img style="vertical-align:middle" src="{ wiki_url }/images/Clue_scroll_({ tier })_detail.png" width="35"> { tier.title() } Clue Details
+{ title(f"{ tier.title() } Clue Details", f"Clue_scroll_({ tier })_detail") }
 
 _Copy button is provided on the right_
 ``` json title=""
---8<-- "tags/{ tier }/item.json"
+--8<-- "tags/{ tier }/details.json"
 ```
 """

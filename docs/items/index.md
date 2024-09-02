@@ -1,4 +1,4 @@
-# Clue Details
+{{ title("Clue Details", "Clue_scroll_(Song_of_the_Elves)_detail") }}
 
 All clue tiers **except beginner and master** have unique item IDs for each clue step
 
