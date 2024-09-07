@@ -10,7 +10,7 @@ hide:
 
 All clue tiers **except beginner and master** have unique item IDs for each clue step
 
-This allows us to provide hints **without requiring players to open the clue**
+This allows us to provide hints on the clue scroll item **without requiring players to open the clue**
 
 [Get Started :material-location-enter:](items/index.md){ .md-button }
 

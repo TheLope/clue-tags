@@ -2,7 +2,7 @@
 
 All clue tiers **except beginner and master** have unique item IDs for each clue step
 
-This allows us to provide hints **without requiring players to open the clue**
+This allows us to provide hints on the clue scroll item **without requiring players to open the clue**
 
 ## How To
 
@@ -15,11 +15,13 @@ To import:
 
 ![Item Tag Config](images/config.png)
 
-You should now see a new infobox with the clue description for clues in your inventory
+In the plugin configuration, select *Show clue tags*
+
+![Item Tag Config](images/config_show.png)
+
+You should now see a tag with the clue description for clues in your inventory
 
 ![Item Tag Example](images/example.png)
-
-- Use alt to move the text to your desired location
 
 ## Tags
 
