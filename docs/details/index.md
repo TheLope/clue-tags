@@ -10,7 +10,7 @@ Requires the [Clue Details](https://runelite.net/plugin-hub/show/clue-details) R
 
 To import:
 
-- Copy contents of one of the provided clue descriptions lists to your clipboard
+- Copy contents of one of the provided clue details lists to your clipboard
 - Import via right-clicking the *Clue Details* text at the top of the sidebar configuration
 
 ![Item Tag Config](images/config.png)
