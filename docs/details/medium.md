@@ -2,4 +2,4 @@
 icon: clue/medium
 ---
 
-{{ items('medium') }}
+{{ details('medium') }}

@@ -164,7 +164,7 @@ _Copy button is provided on the right_
 """
 
     @env.macro
-    def items(tier):
+    def details(tier):
         return f"""
 { title(f"{ tier.title() } Clue Details", f"Clue_scroll_({ tier })_detail") }
 

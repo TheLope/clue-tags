@@ -10,7 +10,7 @@ All clue tiers **except beginner and master** have unique item IDs for each clue
 
 This allows us to provide hints on the clue scroll item **without requiring players to open the clue**
 
-### [How To](docs/items/index.md)
+### [How To](docs/details/index.md)
 
 ### Tags
 

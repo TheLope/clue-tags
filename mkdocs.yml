@@ -33,11 +33,11 @@ theme:
 nav:
   - Home: index.md
   - Clue Details:
-    - items/index.md
-    - Easy: items/easy.md
-    - Medium: items/medium.md
-    - Hard: items/hard.md
-    - Elite: items/elite.md
+    - details/index.md
+    - Easy: details/easy.md
+    - Medium: details/medium.md
+    - Hard: details/hard.md
+    - Elite: details/elite.md
   - Bank Tags:
     - bank/index.md
     - Beginner: bank/beginner.md
