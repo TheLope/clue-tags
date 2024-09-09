@@ -9,7 +9,9 @@ This allows us to provide hints on the clue scroll item **without requiring play
 1. Requires the [Clue Details](https://runelite.net/plugin-hub/show/clue-details) RuneLite plugin
 
 2. Import Clue Details
-    - Copy contents of one of the provided clue details lists to your clipboard
+    - Options:
+        1. Copy contents of one of the provided clue details lists to your clipboard (see *Tags* below)
+        2. If you have tags in the *Custom Item Tags* format, please use the <a href="converter">converter</a>
     - Right-click the *Clue Details* text at the top of the sidebar panel--select *Import clue descriptions*
         - ![Item Tag Config](images/config.png)
             - **Note**: Exported tags will be a single list for all tiers

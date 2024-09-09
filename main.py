@@ -1,3 +1,7 @@
+import json
+import re
+
+
 def define_env(env):
     """
     Hook function
@@ -172,4 +176,32 @@ _Copy button is provided on the right_
 ``` json title=""
 --8<-- "tags/{ tier }/details.json"
 ```
+"""
+
+    @env.macro
+    def converter():
+        return f"""
+{ title("Conversion Tool", f"Clue_scroll_(Song_of_the_Elves)_detail") }
+
+This tool provides a conversion from the old Custom Item Tags format to the new Clue Details format.
+
+<textarea id="tags" class="equipment textarea" placeholder="Paste Custom Item Tags Here">
+</textarea>
+
+<div class="tooltip">
+    <button id="convert" class="equipment">
+        <span id="convertTooltip" class="tooltiptext">Convert Format</span>
+        Convert
+    </button>
+</div>
+
+<textarea id="details" class="equipment textarea" placeholder="Clue Details Output Here">
+</textarea>
+
+<div class="tooltip">
+    <button id="copy" class="equipment">
+        <span id="copyTooltip" class="tooltiptext">Copy to clipboard</span>
+        Copy
+    </button>
+</div>
 """

@@ -38,6 +38,7 @@ nav:
     - Medium: details/medium.md
     - Hard: details/hard.md
     - Elite: details/elite.md
+    - Converter: details/converter.md
   - Bank Tags:
     - bank/index.md
     - Beginner: bank/beginner.md
@@ -89,3 +90,5 @@ plugins:
         - docs/bank/data/elite.yml
         - docs/bank/data/master.yml
         - docs/bank/data/mimic.yml
+extra_javascript:
+  - javascripts/convert.js
