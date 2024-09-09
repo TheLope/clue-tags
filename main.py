@@ -1,3 +1,7 @@
+import json
+import re
+
+
 def define_env(env):
     """
     Hook function
@@ -145,11 +149,15 @@ def define_env(env):
 """
 
     @env.macro
+    def title(title, image):
+        return f"""# <img style="vertical-align:middle" src="{ wiki_url }/images/{ image }.png" width="35"> { title }"""
+
+    @env.macro
     def bank(tier):
         image = 'Mimic' if tier == 'mimic' else f'Clue_scroll_({ tier })'
 
         return f"""
-# <img style="vertical-align:middle" src="{ wiki_url }/images/{ image }_detail.png" width="35"> { tier.title() } Bank Tags
+{ title(f"{ tier.title() } Bank Tags", f"{ image }_detail") }
 
 { setup(tier) }
 
@@ -160,12 +168,40 @@ _Copy button is provided on the right_
 """
 
     @env.macro
-    def items(tier):
+    def details(tier):
         return f"""
-# <img style="vertical-align:middle" src="{ wiki_url }/images/Clue_scroll_({ tier })_detail.png" width="35"> { tier.title() } Item Tags
+{ title(f"{ tier.title() } Clue Details", f"Clue_scroll_({ tier })_detail") }
 
 _Copy button is provided on the right_
-``` yaml title=""
---8<-- "tags/{ tier }/item.yml"
+``` json title=""
+--8<-- "tags/{ tier }/details.json"
 ```
+"""
+
+    @env.macro
+    def converter():
+        return f"""
+{ title("Converter", f"Transportation_logo") }
+
+This tool provides a conversion from the old Custom Item Tags format to the new Clue Details format.
+
+<textarea id="tags" class="equipment textarea" placeholder="Paste Custom Item Tags Here">
+</textarea>
+
+<div class="tooltip">
+    <button id="convert" class="equipment">
+        <span id="convertTooltip" class="tooltiptext">Convert Format</span>
+        Convert
+    </button>
+</div>
+
+<textarea id="details" class="equipment textarea" placeholder="Clue Details Output Here">
+</textarea>
+
+<div class="tooltip">
+    <button id="copy" class="equipment">
+        <span id="copyTooltip" class="tooltiptext">Copy to clipboard</span>
+        Copy
+    </button>
+</div>
 """

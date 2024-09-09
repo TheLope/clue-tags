@@ -2,4 +2,4 @@
 icon: clue/easy
 ---
 
-{{ items('easy') }}
+{{ details('easy') }}

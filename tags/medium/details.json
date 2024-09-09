@@ -1,0 +1,862 @@
+[
+    {
+        "id": 2801,
+        "text": "GLORY 3: ham"
+    },
+    {
+        "id": 2803,
+        "text": "CLS: n dig"
+    },
+    {
+        "id": 2805,
+        "text": "POH 7: isle dig"
+    },
+    {
+        "id": 2807,
+        "text": "PASS 2: nw dig"
+    },
+    {
+        "id": 2809,
+        "text": "CIQ: nw dig"
+    },
+    {
+        "id": 2811,
+        "text": "FISH 2: +rope"
+    },
+    {
+        "id": 2813,
+        "text": "CLOAK 1: ne dig"
+    },
+    {
+        "id": 2815,
+        "text": "DIA 9: crand n"
+    },
+    {
+        "id": 2817,
+        "text": "DIA 7: altar nw"
+    },
+    {
+        "id": 2819,
+        "text": "AIQ: n dig"
+    },
+    {
+        "id": 2821,
+        "text": "SKIL 3: balloon"
+    },
+    {
+        "id": 2823,
+        "text": "ROTE 2: ne dig"
+    },
+    {
+        "id": 2825,
+        "text": "GLORY 3: cows"
+    },
+    {
+        "id": 2827,
+        "text": "DIA G: dig"
+    },
+    {
+        "id": 2829,
+        "text": "Unobtainable"
+    },
+    {
+        "id": 2831,
+        "text": "CLOAK 1: monk"
+    },
+    {
+        "id": 2833,
+        "text": "ALS: dog"
+    },
+    {
+        "id": 2835,
+        "text": "ARDY: guard"
+    },
+    {
+        "id": 2837,
+        "text": "COMB 4: chicken"
+    },
+    {
+        "id": 2839,
+        "text": "WATCH: man"
+    },
+    {
+        "id": 2841,
+        "text": "DUEL 2: Uglug"
+    },
+    {
+        "id": 2843,
+        "text": "LUMB: Cook"
+    },
+    {
+        "id": 2845,
+        "text": "CLOAK 1: Zoo"
+    },
+    {
+        "id": 2847,
+        "text": "DIA D: Lowe"
+    },
+    {
+        "id": 2848,
+        "text": "TREE 9: Hajedy"
+    },
+    {
+        "id": 2849,
+        "text": "GLORY 4: Karim"
+    },
+    {
+        "id": 2851,
+        "text": "LASS: Oracle"
+    },
+    {
+        "id": 2853,
+        "text": "DIA F: Referee"
+    },
+    {
+        "id": 2855,
+        "text": "MUSIC: Donovan"
+    },
+    {
+        "id": 2856,
+        "text": "SKIL 2: Party"
+    },
+    {
+        "id": 2857,
+        "text": "TREE 1: King"
+    },
+    {
+        "id": 2858,
+        "text": "GLORY 2: Luthas"
+    },
+    {
+        "id": 3582,
+        "text": "SLAY 2: se dig"
+    },
+    {
+        "id": 3584,
+        "text": "BKR: sw dig"
+    },
+    {
+        "id": 3586,
+        "text": "GAME 1: pub dig"
+    },
+    {
+        "id": 3588,
+        "text": "GLORY 2: sw dig"
+    },
+    {
+        "id": 3590,
+        "text": "POH 7: sw dig"
+    },
+    {
+        "id": 3592,
+        "text": "SLAY 1: w dig"
+    },
+    {
+        "id": 3594,
+        "text": "DIA F: swamp dig"
+    },
+    {
+        "id": 3596,
+        "text": "SKIL 3: w dig"
+    },
+    {
+        "id": 3598,
+        "text": "ALS: crate"
+    },
+    {
+        "id": 3599,
+        "text": "CLOAK 1: e dig"
+    },
+    {
+        "id": 3601,
+        "text": "TREE 3: se crate"
+    },
+    {
+        "id": 3602,
+        "text": "POH 2: chem dig"
+    },
+    {
+        "id": 3604,
+        "text": "TAI BWO: crate"
+    },
+    {
+        "id": 3605,
+        "text": "DIA 6: pirate"
+    },
+    {
+        "id": 3607,
+        "text": "GAME 1: Penda"
+    },
+    {
+        "id": 3609,
+        "text": "KHAR: crate"
+    },
+    {
+        "id": 3610,
+        "text": "CLOAK 1: crate"
+    },
+    {
+        "id": 3611,
+        "text": "PASS 2: ne Femi"
+    },
+    {
+        "id": 3612,
+        "text": "SLAY 1: Brimstail"
+    },
+    {
+        "id": 3613,
+        "text": "COMB 1: cave"
+    },
+    {
+        "id": 3614,
+        "text": "SALVE: Ulizius"
+    },
+    {
+        "id": 3615,
+        "text": "KHAR: pub Roavar"
+    },
+    {
+        "id": 3616,
+        "text": "ROTE 4: e Jaraah"
+    },
+    {
+        "id": 3617,
+        "text": "DIA 6: w Kangai"
+    },
+    {
+        "id": 3618,
+        "text": "AKS: ne Fycie"
+    },
+    {
+        "id": 7274,
+        "text": "BOOT: Brundt"
+    },
+    {
+        "id": 7276,
+        "text": "TAI BWO: Gabooty"
+    },
+    {
+        "id": 7278,
+        "text": "W ARDY: Jethick"
+    },
+    {
+        "id": 7280,
+        "text": "QPC: Carol"
+    },
+    {
+        "id": 7282,
+        "text": "DIA 1: n Edmond"
+    },
+    {
+        "id": 7284,
+        "text": "DIA D: King"
+    },
+    {
+        "id": 7286,
+        "text": "ROW 1: dig"
+    },
+    {
+        "id": 7288,
+        "text": "LEGS: w dig"
+    },
+    {
+        "id": 7290,
+        "text": "OURAN: dig"
+    },
+    {
+        "id": 7292,
+        "text": "DIA 4: w dig"
+    },
+    {
+        "id": 7294,
+        "text": "MUSIC: nw dig"
+    },
+    {
+        "id": 7296,
+        "text": "SKULL: barbarian"
+    },
+    {
+        "id": 7298,
+        "text": "BOOT: guard"
+    },
+    {
+        "id": 7300,
+        "text": "QPC: Jeb"
+    },
+    {
+        "id": 7301,
+        "text": "PASS 1: wizard"
+    },
+    {
+        "id": 7303,
+        "text": "POH 4: camp"
+    },
+    {
+        "id": 7304,
+        "text": "COMB 4: crate"
+    },
+    {
+        "id": 7305,
+        "text": "ROW 1: n dig"
+    },
+    {
+        "id": 7307,
+        "text": "AKS: n dig"
+    },
+    {
+        "id": 7309,
+        "text": "DKP: dig"
+    },
+    {
+        "id": 7311,
+        "text": "LASS: dig"
+    },
+    {
+        "id": 7313,
+        "text": "ROTE 2: se dig"
+    },
+    {
+        "id": 7315,
+        "text": "SLAY 3: nw dig"
+    },
+    {
+        "id": 7317,
+        "text": "DIA 7: altar n"
+    },
+    {
+        "id": 10254,
+        "text": "KHAR: stash"
+    },
+    {
+        "id": 10256,
+        "text": "FENKEN: cave"
+    },
+    {
+        "id": 10258,
+        "text": "SKULL: bridge"
+    },
+    {
+        "id": 10260,
+        "text": "TAI BWO: stash"
+    },
+    {
+        "id": 10262,
+        "text": "DUEL 2: stash"
+    },
+    {
+        "id": 10264,
+        "text": "BARB: agi stash"
+    },
+    {
+        "id": 10266,
+        "text": "DIA F: agi stash"
+    },
+    {
+        "id": 10268,
+        "text": "WATCH: e stash"
+    },
+    {
+        "id": 10270,
+        "text": "DUEL 2: n stash"
+    },
+    {
+        "id": 10272,
+        "text": "PASS 2: e stash"
+    },
+    {
+        "id": 10274,
+        "text": "DIGS: stash"
+    },
+    {
+        "id": 10276,
+        "text": "CATH: archer stash"
+    },
+    {
+        "id": 10278,
+        "text": "DIA 2: stash"
+    },
+    {
+        "id": 12021,
+        "text": "ROTE 2: cave"
+    },
+    {
+        "id": 12023,
+        "text": "CATH: stash"
+    },
+    {
+        "id": 12025,
+        "text": "SEER: stash"
+    },
+    {
+        "id": 12027,
+        "text": "CATH: shore"
+    },
+    {
+        "id": 12029,
+        "text": "DIA 9: sword"
+    },
+    {
+        "id": 12031,
+        "text": "GLORY 1: stash"
+    },
+    {
+        "id": 12033,
+        "text": "FELDIP: se dig"
+    },
+    {
+        "id": 12035,
+        "text": "PASS 3: se dig"
+    },
+    {
+        "id": 12037,
+        "text": "FENKEN: n dig"
+    },
+    {
+        "id": 12039,
+        "text": "POH 6: potato"
+    },
+    {
+        "id": 12041,
+        "text": "TREE D: s dig"
+    },
+    {
+        "id": 12043,
+        "text": "SKULL: se dig"
+    },
+    {
+        "id": 12045,
+        "text": "PISC: row s"
+    },
+    {
+        "id": 12047,
+        "text": "PISC: row n"
+    },
+    {
+        "id": 12049,
+        "text": "COMB 4: nw far"
+    },
+    {
+        "id": 12051,
+        "text": "DIGS: s dig"
+    },
+    {
+        "id": 12053,
+        "text": "SLAY 2: s dig"
+    },
+    {
+        "id": 12055,
+        "text": "FISH 2: Otto"
+    },
+    {
+        "id": 12057,
+        "text": "DIA D: Baraek"
+    },
+    {
+        "id": 12059,
+        "text": "SLAY 1: Steve"
+    },
+    {
+        "id": 12061,
+        "text": "POH 2: e Tobias"
+    },
+    {
+        "id": 12063,
+        "text": "POH 2: w Taria"
+    },
+    {
+        "id": 12065,
+        "text": "FALLY: Kaylee"
+    },
+    {
+        "id": 12067,
+        "text": "CATH: Hickton"
+    },
+    {
+        "id": 12069,
+        "text": "CAMELOT: Sir Kay"
+    },
+    {
+        "id": 12071,
+        "text": "GAME 1: up Eohric"
+    },
+    {
+        "id": 19734,
+        "text": "DJR: e Captain"
+    },
+    {
+        "id": 19736,
+        "text": "WATCH: Dominic"
+    },
+    {
+        "id": 19738,
+        "text": "XER 2: e Gallow"
+    },
+    {
+        "id": 19740,
+        "text": "CIS: mine"
+    },
+    {
+        "id": 19742,
+        "text": "A LIB: Horphis"
+    },
+    {
+        "id": 19744,
+        "text": "BOOK 2: se Dock"
+    },
+    {
+        "id": 19746,
+        "text": "DIA B: Father"
+    },
+    {
+        "id": 19748,
+        "text": "GAME 1: Dunstan"
+    },
+    {
+        "id": 19750,
+        "text": "DIA D: Tramp"
+    },
+    {
+        "id": 19752,
+        "text": "DIA 5: Flax"
+    },
+    {
+        "id": 19754,
+        "text": "DIA 3: Squire"
+    },
+    {
+        "id": 19756,
+        "text": "XER 2: sw Marsi"
+    },
+    {
+        "id": 19758,
+        "text": "DIA E: abyss soul"
+    },
+    {
+        "id": 19760,
+        "text": "XER 4: giant"
+    },
+    {
+        "id": 19762,
+        "text": "A LIB: Grackle"
+    },
+    {
+        "id": 19764,
+        "text": "PASS 1: Traiborn"
+    },
+    {
+        "id": 19766,
+        "text": "BOOK 2: Khaled"
+    },
+    {
+        "id": 19768,
+        "text": "POH 4: Kebab"
+    },
+    {
+        "id": 19770,
+        "text": "DIA B: Tutor"
+    },
+    {
+        "id": 19772,
+        "text": "DIA C: down"
+    },
+    {
+        "id": 19774,
+        "text": "BOOK 3: s dig"
+    },
+    {
+        "id": 19776,
+        "text": "RADA 1: cart B w"
+    },
+    {
+        "id": 19778,
+        "text": "A LIB: stash"
+    },
+    {
+        "id": 19780,
+        "text": "GLORY 3: jail"
+    },
+    {
+        "id": 23046,
+        "text": "RADA 2: n stash"
+    },
+    {
+        "id": 23131,
+        "text": "BOOK 2: ne Nich"
+    },
+    {
+        "id": 23133,
+        "text": "FELDIP: s Madame"
+    },
+    {
+        "id": 23135,
+        "text": "SKIL 6 : dig"
+    },
+    {
+        "id": 23136,
+        "text": "DIA 9: crand s"
+    },
+    {
+        "id": 23137,
+        "text": "DIGS 1: row 4"
+    },
+    {
+        "id": 23138,
+        "text": "ROW 3: song"
+    },
+    {
+        "id": 23139,
+        "text": "ROW 3: song"
+    },
+    {
+        "id": 23140,
+        "text": "ROW 3: song"
+    },
+    {
+        "id": 23141,
+        "text": "ROW 3: song"
+    },
+    {
+        "id": 23142,
+        "text": "ROW 3: song"
+    },
+    {
+        "id": 23143,
+        "text": "ROW 3: song"
+    },
+    {
+        "id": 25783,
+        "text": "BOOK 1: ne apple"
+    },
+    {
+        "id": 25784,
+        "text": "XER 1: nw Drunk"
+    },
+    {
+        "id": 28907,
+        "text": "QUET Out: Metla"
+    },
+    {
+        "id": 28908,
+        "text": "DUEL 4: Gloria"
+    },
+    {
+        "id": 28909,
+        "text": "CIV: sw dig"
+    },
+    {
+        "id": 2842,
+        "text": "6859"
+    },
+    {
+        "id": 2844,
+        "text": "9"
+    },
+    {
+        "id": 2846,
+        "text": "40"
+    },
+    {
+        "id": 2850,
+        "text": "5"
+    },
+    {
+        "id": 2852,
+        "text": "48"
+    },
+    {
+        "id": 2854,
+        "text": "5096"
+    },
+    {
+        "id": 7275,
+        "text": "4"
+    },
+    {
+        "id": 7277,
+        "text": "11"
+    },
+    {
+        "id": 7279,
+        "text": "38"
+    },
+    {
+        "id": 7281,
+        "text": "11"
+    },
+    {
+        "id": 7283,
+        "text": "3"
+    },
+    {
+        "id": 7285,
+        "text": "24"
+    },
+    {
+        "id": 12056,
+        "text": "2"
+    },
+    {
+        "id": 12058,
+        "text": "5"
+    },
+    {
+        "id": 12060,
+        "text": "2"
+    },
+    {
+        "id": 12062,
+        "text": "6"
+    },
+    {
+        "id": 12064,
+        "text": "7"
+    },
+    {
+        "id": 12066,
+        "text": "18"
+    },
+    {
+        "id": 12068,
+        "text": "2"
+    },
+    {
+        "id": 12070,
+        "text": "6"
+    },
+    {
+        "id": 12072,
+        "text": "36"
+    },
+    {
+        "id": 19735,
+        "text": "113"
+    },
+    {
+        "id": 19737,
+        "text": "9500"
+    },
+    {
+        "id": 19739,
+        "text": "12"
+    },
+    {
+        "id": 19741,
+        "text": "738"
+    },
+    {
+        "id": 19743,
+        "text": "1"
+    },
+    {
+        "id": 19745,
+        "text": "5"
+    },
+    {
+        "id": 19747,
+        "text": "19 or 20"
+    },
+    {
+        "id": 19749,
+        "text": "8"
+    },
+    {
+        "id": 19751,
+        "text": "0"
+    },
+    {
+        "id": 19753,
+        "text": "676"
+    },
+    {
+        "id": 19755,
+        "text": "654"
+    },
+    {
+        "id": 19757,
+        "text": "5"
+    },
+    {
+        "id": 19759,
+        "text": "2"
+    },
+    {
+        "id": 19763,
+        "text": "9"
+    },
+    {
+        "id": 19765,
+        "text": "3150"
+    },
+    {
+        "id": 19767,
+        "text": "5"
+    },
+    {
+        "id": 19769,
+        "text": "399"
+    },
+    {
+        "id": 19771,
+        "text": "666"
+    },
+    {
+        "id": 19773,
+        "text": "7"
+    },
+    {
+        "id": 23132,
+        "text": "4"
+    },
+    {
+        "id": 23134,
+        "text": "6"
+    },
+    {
+        "id": 25785,
+        "text": "598"
+    },
+    {
+        "id": 2832,
+        "text": "DIA D: church"
+    },
+    {
+        "id": 2834,
+        "text": "DIA 1: up"
+    },
+    {
+        "id": 2836,
+        "text": "pidgeon"
+    },
+    {
+        "id": 2838,
+        "text": "SEER: w"
+    },
+    {
+        "id": 2840,
+        "text": "up chest"
+    },
+    {
+        "id": 3606,
+        "text": "se house"
+    },
+    {
+        "id": 3608,
+        "text": "Dunstan"
+    },
+    {
+        "id": 7297,
+        "text": "SENN: e"
+    },
+    {
+        "id": 7299,
+        "text": "ALP: up"
+    },
+    {
+        "id": 7302,
+        "text": "down"
+    },
+    {
+        "id": 19761,
+        "text": "BOOK 3: ne"
+    }
+]
