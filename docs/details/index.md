@@ -7,6 +7,7 @@ This allows us to provide hints on the clue scroll item **without requiring play
 ## How To
 
 1. Requires the [Clue Details](https://runelite.net/plugin-hub/show/clue-details) RuneLite plugin
+    - **Note**: Currently does not support Challenge Scrolls and Keys. Update to support coming soon.
 
 2. Import Clue Details
     - Options:
