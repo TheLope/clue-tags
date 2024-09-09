@@ -1,5 +1,5 @@
 ---
-icon: clue/clue
+icon: osrs/transportation
 ---
 
 {{ converter() }}

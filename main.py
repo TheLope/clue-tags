@@ -181,7 +181,7 @@ _Copy button is provided on the right_
     @env.macro
     def converter():
         return f"""
-{ title("Conversion Tool", f"Clue_scroll_(Song_of_the_Elves)_detail") }
+{ title("Converter", f"Transportation_logo") }
 
 This tool provides a conversion from the old Custom Item Tags format to the new Clue Details format.
 
