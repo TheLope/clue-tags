@@ -13,9 +13,9 @@ This allows us to provide hints on the clue scroll item **without requiring play
     - Options:
         1. Copy contents of one of the provided clue details lists to your clipboard (see *Tags* below)
         2. If you have tags in the *Custom Item Tags* format, please use the <a href="converter">converter</a>
-    - Right-click the *Clue Details* text at the top of the sidebar panel--select *Import clue descriptions*
+    - Click the Import button the top of the sidebar panel
         - ![Item Tag Config](images/config.png)
-            - **Note**: Exported tags will be a single list for all tiers
+            - **Note**: When exporting, tags will be a single list of all tiers
 
 3. In the plugin configuration, select *Show clue tags*
     - ![Item Tag Config](images/config_show.png)
