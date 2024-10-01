@@ -7,7 +7,6 @@ This allows us to provide hints on the clue scroll item **without requiring play
 ## How To
 
 1. Requires the [Clue Details](https://runelite.net/plugin-hub/show/clue-details) RuneLite plugin
-    - **Note**: Currently does not support Challenge Scrolls and Keys. Update to support coming soon.
 
 2. Import Clue Details
     - Options:
@@ -22,7 +21,8 @@ This allows us to provide hints on the clue scroll item **without requiring play
 
 4. You should now see a tag with the clue description for clues in your inventory
     - ![Item Tag Example](images/example.png)
-        - **Note**: The top/bottom text is split based on the first instance of ": " found in the text field
+        - **Note**: The top/bottom text is split based on the first instance of ": " found in the text field.
+          - This is configurable via the plugin settings.
 
 ## Tags
 
