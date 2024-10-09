@@ -1,0 +1,478 @@
+[
+    {
+        "id": 1334570180,
+        "text": "NEX A: Snowflake"
+    },
+    {
+        "id": -442124663,
+        "text": "XER 1: Bruce"
+    },
+    {
+        "id": 806931867,
+        "text": "ZUL: Sacrifice"
+    },
+    {
+        "id": 1749006503,
+        "text": "OBEL 6: -Edward"
+    },
+    {
+        "id": -760632787,
+        "text": "ROR: -Mandrith"
+    },
+    {
+        "id": 14506644,
+        "text": "NEX M: Dugopul"
+    },
+    {
+        "id": -1954805856,
+        "text": "BOX J: Runolf"
+    },
+    {
+        "id": -2110694999,
+        "text": "ZANA: Immenizz"
+    },
+    {
+        "id": 858277081,
+        "text": "LEGS: Luminata"
+    },
+    {
+        "id": -645603146,
+        "text": "DRAK 1: Old man"
+    },
+    {
+        "id": 2034730766,
+        "text": "QPC: +Radimus"
+    },
+    {
+        "id": 907434486,
+        "text": "MYTH: +Primula"
+    },
+    {
+        "id": -1606176662,
+        "text": "PRIF: Goreu"
+    },
+    {
+        "id": 12377199,
+        "text": "BOX H: Lars"
+    },
+    {
+        "id": -2129847686,
+        "text": "NARDAH: Wingstone"
+    },
+    {
+        "id": -1513115016,
+        "text": "BOTD 3: Tony"
+    },
+    {
+        "id": 1020347369,
+        "text": "IORW: s dig"
+    },
+    {
+        "id": 518247613,
+        "text": "ZUL: nw dig"
+    },
+    {
+        "id": -706219378,
+        "text": "DLR: se dig"
+    },
+    {
+        "id": 211876309,
+        "text": "MOS LE: island dig"
+    },
+    {
+        "id": -165619615,
+        "text": "DIA 9: crandor dig"
+    },
+    {
+        "id": -649758222,
+        "text": "ARDY: e dig"
+    },
+    {
+        "id": -99602325,
+        "text": "DRAK 1: +mines dig"
+    },
+    {
+        "id": 1475944092,
+        "text": "ETC 2: e dig"
+    },
+    {
+        "id": -1477062778,
+        "text": "MORT: +boat dig"
+    },
+    {
+        "id": 699926684,
+        "text": "POH 5: cc isle dig"
+    },
+    {
+        "id": 1389584148,
+        "text": "POH 3: water dig"
+    },
+    {
+        "id": -2080740886,
+        "text": "FENK: ship dig"
+    },
+    {
+        "id": -946182563,
+        "text": "PADD: air dig"
+    },
+    {
+        "id": -1393154398,
+        "text": "APE ATOLL: lumdo dig"
+    },
+    {
+        "id": 952503264,
+        "text": "DJR: nw dig"
+    },
+    {
+        "id": -1328156372,
+        "text": "W BIRTH: top dig"
+    },
+    {
+        "id": -982198627,
+        "text": "TREE B: dig"
+    },
+    {
+        "id": 1827739812,
+        "text": "BOTD 5: church dig"
+    },
+    {
+        "id": 1417841349,
+        "text": "GHOR: -temple dig"
+    },
+    {
+        "id": -153691646,
+        "text": "W BIRTH: cove dig"
+    },
+    {
+        "id": 283470386,
+        "text": "CIS: mine dig"
+    },
+    {
+        "id": 1526757462,
+        "text": "MOON: s dig"
+    },
+    {
+        "id": -523448970,
+        "text": "XER 3: nw dig"
+    },
+    {
+        "id": 1854179729,
+        "text": "OBEL 6: -volcano dig"
+    },
+    {
+        "id": 1976423236,
+        "text": "ROR: -resource dig"
+    },
+    {
+        "id": -939602033,
+        "text": "OBEL 6: -n dig"
+    },
+    {
+        "id": 280038061,
+        "text": "ICE: -e dig"
+    },
+    {
+        "id": 1571600176,
+        "text": "DKS: +penguin"
+    },
+    {
+        "id": -1335487321,
+        "text": "ARDY: +Wizard"
+    },
+    {
+        "id": -523274897,
+        "text": "DEATH: +Thorgel"
+    },
+    {
+        "id": 887300586,
+        "text": "HILT: ne climb"
+    },
+    {
+        "id": -846747793,
+        "text": "BOX B: +Abbot"
+    },
+    {
+        "id": 1628126303,
+        "text": "TREE 7: monk"
+    },
+    {
+        "id": -665222161,
+        "text": "HOTNCOLD"
+    },
+    {
+        "id": 245731899,
+        "text": "VIGGORA: +ring"
+    },
+    {
+        "id": 2113312047,
+        "text": "A LIB: Biblia"
+    },
+    {
+        "id": -105522623,
+        "text": "HILT: kamil"
+    },
+    {
+        "id": -307507512,
+        "text": "ICE: -dwd"
+    },
+    {
+        "id": -1226588666,
+        "text": "MUSIC"
+    },
+    {
+        "id": -1003311085,
+        "text": "ETC 2: onion"
+    },
+    {
+        "id": 515313120,
+        "text": "BOX 4: rogue's den"
+    },
+    {
+        "id": 682133294,
+        "text": "W MAX: Ghommal"
+    },
+    {
+        "id": 393811046,
+        "text": "REV: -maze"
+    },
+    {
+        "id": 717465764,
+        "text": "ICE: -lake"
+    },
+    {
+        "id": 1163372820,
+        "text": "BOX 7: +Juna"
+    },
+    {
+        "id": -882307268,
+        "text": "DIA 3: +Vyvin"
+    },
+    {
+        "id": 2040551422,
+        "text": "DIA 8: +viyeldi"
+    },
+    {
+        "id": -810509579,
+        "text": "HILT: sara encamp"
+    },
+    {
+        "id": 1339585833,
+        "text": "KEY: Keymaster"
+    },
+    {
+        "id": 836658494,
+        "text": "ROR: -Piles"
+    },
+    {
+        "id": -370480619,
+        "text": "ANNA: -bloodrune"
+    },
+    {
+        "id": 787631108,
+        "text": "ECTO: +Robin"
+    },
+    {
+        "id": 1267005583,
+        "text": "XER 3: Lovada"
+    },
+    {
+        "id": -1819500114,
+        "text": "A LIB: Logosia"
+    },
+    {
+        "id": 727391323,
+        "text": "HEAD: Sherlock"
+    },
+    {
+        "id": -1228699849,
+        "text": "GLOVE: furnace"
+    },
+    {
+        "id": 277596297,
+        "text": "FISH: +shadow"
+    },
+    {
+        "id": -2013632591,
+        "text": "DIA A: Ewesey"
+    },
+    {
+        "id": -1685504056,
+        "text": "VARR: museum"
+    },
+    {
+        "id": 1257647605,
+        "text": "DIA D: Zamorak"
+    },
+    {
+        "id": 1076096706,
+        "text": "TREE 6: n stash"
+    },
+    {
+        "id": -2067809975,
+        "text": "HILT: gwd stash"
+    },
+    {
+        "id": 2063237139,
+        "text": "W MAX: stash"
+    },
+    {
+        "id": 1926009933,
+        "text": "IORW: stash"
+    },
+    {
+        "id": -1327179111,
+        "text": "ENTRANA: -stash"
+    },
+    {
+        "id": 1053187153,
+        "text": "ROR: -hut stash"
+    },
+    {
+        "id": -1713606225,
+        "text": "DIA 9: stash"
+    },
+    {
+        "id": -2132102163,
+        "text": "ETC 1: stash"
+    },
+    {
+        "id": -674820317,
+        "text": "GHOR: -stash"
+    },
+    {
+        "id": 789714953,
+        "text": "BARRO: stash"
+    },
+    {
+        "id": 925198358,
+        "text": "DEATH: +stash"
+    },
+    {
+        "id": -85153452,
+        "text": "MOTH: +stash"
+    },
+    {
+        "id": -1019325311,
+        "text": "GOBLIN: +stash"
+    },
+    {
+        "id": 1800538831,
+        "text": "ZUL: stash"
+    },
+    {
+        "id": 1992331526,
+        "text": "B MAX 1: -stash"
+    },
+    {
+        "id": -638034453,
+        "text": "GLORY 3: stash"
+    },
+    {
+        "id": 116121405,
+        "text": "VARR: stash"
+    },
+    {
+        "id": 1588717391,
+        "text": "XER 4: stash"
+    },
+    {
+        "id": -1757193490,
+        "text": "SOUL: +stash"
+    },
+    {
+        "id": -109144676,
+        "text": "BKQ: stash"
+    },
+    {
+        "id": 814499944,
+        "text": "WATCH: stash"
+    },
+    {
+        "id": 1249836981,
+        "text": "DRAK 1: castle stash"
+    },
+    {
+        "id": -1293177405,
+        "text": "PHAR 1: +stash"
+    },
+    {
+        "id": -1665204201,
+        "text": "QUET: stash"
+    },
+    {
+        "id": 1708483208,
+        "text": "MUSIC: +d scim"
+    },
+    {
+        "id": 1663674118,
+        "text": "MUSIC: +god book"
+    },
+    {
+        "id": -1402154567,
+        "text": "MUSIC: +cr bow"
+    },
+    {
+        "id": -959274470,
+        "text": "MUSIC: +infernal axe"
+    },
+    {
+        "id": 353835429,
+        "text": "MUSIC: +grace"
+    },
+    {
+        "id": -1455220786,
+        "text": "MUSIC: +lava bone"
+    },
+    {
+        "id": -82290405,
+        "text": "MUSIC: +arma helm"
+    },
+    {
+        "id": -572261571,
+        "text": "MUSIC: +defender"
+    },
+    {
+        "id": -1745062749,
+        "text": "MUSIC: +token"
+    },
+    {
+        "id": -317759313,
+        "text": "MUSIC: +ale"
+    },
+    {
+        "id": -1771049595,
+        "text": "MUSIC: +anchor"
+    },
+    {
+        "id": 115684045,
+        "text": "MUSIC: +basalt"
+    },
+    {
+        "id": -1423457562,
+        "text": "MUSIC: +maul"
+    },
+    {
+        "id": 1426128988,
+        "text": "MUSIC: +torso"
+    },
+    {
+        "id": -243656925,
+        "text": "MUSIC: +bgloves"
+    },
+    {
+        "id": -1983979263,
+        "text": "MUSIC: +gauntlets"
+    },
+    {
+        "id": -668038674,
+        "text": "MUSIC: +numulite"
+    },
+    {
+        "id": -1329537947,
+        "text": "MUSIC: +r platebody"
+    },
+    {
+        "id": -481132813,
+        "text": "MUSIC: +flail"
+    }
+]
