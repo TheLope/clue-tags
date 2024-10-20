@@ -8,9 +8,7 @@ hide:
 
 ## :clue-clue: Clue Details
 
-All clue tiers **except beginner and master** have unique item IDs for each clue step
-
-This allows us to provide hints on the clue scroll item **without requiring players to open the clue**
+The Clue Details plugin allows us to provide hints on the clue scroll item
 
 [Get Started :material-location-enter:](details/index.md){ .md-button }
 
