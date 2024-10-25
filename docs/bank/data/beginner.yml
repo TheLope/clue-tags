@@ -12,11 +12,11 @@ beginner:
     boots: Graceful boots
     ring: Ring of wealth
   inventory:
-  - [Clue scroll (beginner), Achievement diary cape (t), Iron dagger, Leather body]
-  - [Spade, Iron ore, Music cape(t), Leather chaps]
-  - [Trout, Necklace of passage, Skills necklace, Strange device (beginner)]
-  - [Raw trout, Raw herring, Senntisten teleport (tablet), Lassar teleport (tablet)]
-  - [Pike, Ring of the elements, Draynor manor teleport (tablet), Divine rune pouch]
+  - [Clue scroll (beginner), Achievement diary cape (t), Raw trout, Raw herring]
+  - [Spade, Iron ore, Pike, Trout]
+  - [Strange device (beginner), Necklace of passage, Skills necklace, Iron dagger]
+  - [Leather body, Leather chaps, Senntisten teleport (tablet), Lassar teleport (tablet)]
+  - [Stamina potion(4), Ring of the elements, Draynor manor teleport (tablet), Divine rune pouch]
   - [~, ~, ~, ~]
   - [~, ~, ~, ~]
   spellbook: standard
