@@ -474,5 +474,109 @@
     {
         "id": 618,
         "text": "MUSIC: +flail"
+    },
+    {
+        "id": 619,
+        "text": "BOTD 2: +anglerfish"
+    },
+    {
+        "id": 620,
+        "text": "DLS: +blood rune"
+    },
+    {
+        "id": 621,
+        "text": "CRAFT: burn magic"
+    },
+    {
+        "id": 622,
+        "text": "CRAFT: burn red"
+    },
+    {
+        "id": 623,
+        "text": "QUET: +tecu"
+    },
+    {
+        "id": 624,
+        "text": "TREE B: +chop red"
+    },
+    {
+        "id": 625,
+        "text": "W BIRTH: +graceful"
+    },
+    {
+        "id": 626,
+        "text": "DORG: +light orb"
+    },
+    {
+        "id": 627,
+        "text": "BOTD 5: +tablet"
+    },
+    {
+        "id": 628,
+        "text": "GLORY 1: +amulet"
+    },
+    {
+        "id": 629,
+        "text": "MORT: +burn fiyr"
+    },
+    {
+        "id": 630,
+        "text": "CRAFT: eel"
+    },
+    {
+        "id": 631,
+        "text": "SLAY 2: +whip"
+    },
+    {
+        "id": 632,
+        "text": "CRAFT: rune dart"
+    },
+    {
+        "id": 633,
+        "text": "MORT: +kill fiyr"
+    },
+    {
+        "id": 634,
+        "text": "DJR: shaman"
+    },
+    {
+        "id": 635,
+        "text": "ARC HT: +reanimate"
+    },
+    {
+        "id": 636,
+        "text": "HILT: mage"
+    },
+    {
+        "id": 637,
+        "text": "SLAY 5: +rune"
+    },
+    {
+        "id": 638,
+        "text": "CRAFT: ranging mix"
+    },
+    {
+        "id": 639,
+        "text": "CRAFT: anti-venom"
+    },
+    {
+        "id": 640,
+        "text": "LLET: pp Mawrth"
+    },
+    {
+        "id": 641,
+        "text": "SLAY 2: +nechryael"
+    },
+    {
+        "id": 642,
+        "text": "PEST: +rune med"
+    },
+    {
+        "id": 643,
+        "text": "ARDY: gem"
+    },
+    {
+        "id": 644,
+        "text": "POH 1: TREE 7"
     }
 ]

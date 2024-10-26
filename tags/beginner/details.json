@@ -102,5 +102,37 @@
     {
         "id": 25,
         "text": "DIS: dig"
+    },
+    {
+        "id": 26,
+        "text": "trout: Charlie"
+    },
+    {
+        "id": 27,
+        "text": "pike: Charlie"
+    },
+    {
+        "id": 28,
+        "text": "herring: Charlie"
+    },
+    {
+        "id": 29,
+        "text": "raw trout: Charlie"
+    },
+    {
+        "id": 30,
+        "text": "ore: Charlie"
+    },
+    {
+        "id": 31,
+        "text": "dagger: Charlie"
+    },
+    {
+        "id": 32,
+        "text": "body: Charlie"
+    },
+    {
+        "id": 33,
+        "text": "chaps: Charlie"
     }
 ]
