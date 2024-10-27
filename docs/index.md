@@ -14,7 +14,7 @@ The Clue Details plugin allows us to provide hints on the clue scroll item
 
 ## :osrs-bank: Bank Tags
 
-Recommended gear setups with Bank Tag Layouts for all tiers
+Recommended gear setups with Bank Tags for all tiers
 
 [Get Started :material-location-enter:](bank/index.md){ .md-button }
 

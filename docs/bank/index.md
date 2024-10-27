@@ -1,18 +1,16 @@
 {{ title("Bank Tags", "Bank_logo") }}
 
-Recommended gear setups with Bank Tag Layouts for all tiers
+Recommended gear setups with Bank Tags for all tiers
 
 ## How To
 
-1. Requires the [Bank Tag Layouts](https://runelite.net/plugin-hub/show/bank-tag-layouts) RuneLite plugin
-
-2. Import Bank Tags
+1. Import Bank Tags
     - Copy contents of one of the provided bank tags to your clipboard
     - Right click the *New tag tab* button
-    - Select *Import tag tab with layout*
+    - Select *Import tag tab*
         - ![Bank Tag Import](images/config.png)
 
-3. You should now see a new tag tab
+2. You should now see a new tag tab
     - ![Bank Tag Example](images/example.png)
 
 ## Tags
