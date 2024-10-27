@@ -26,7 +26,7 @@ The Clue Details plugin allows us to provide hints on the clue scroll item
 
 ## Bank Tags
 
-Recommended gear setups with Bank Tag Layouts for all tiers
+Recommended gear setups with Bank Tags for all tiers
 
 ### [How To](docs/bank/index.md)
 
