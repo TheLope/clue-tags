@@ -220,7 +220,7 @@ table {
     height: 36px
 }
 
-.equipment-head,.equipment-cape,.equipment-neck,.equipment-ammo,.equipment-weapon,.equipment-torso,.equipment-shield,.equipment-legs,.equipment-gloves,.equipment-boots,.equipment-ring,.equipment-statsbutton,.equipment-ikodbutton {
+.equipment-head,.equipment-cape,.equipment-neck,.equipment-ammo,.equipment-ammo2,.equipment-weapon,.equipment-torso,.equipment-shield,.equipment-legs,.equipment-gloves,.equipment-boots,.equipment-ring,.equipment-statsbutton,.equipment-ikodbutton {
     position: absolute;
     display: flex;
     justify-content: center;
@@ -245,6 +245,11 @@ table {
 .equipment-ammo {
     left: 111px;
     top: 39px
+}
+
+.equipment-ammo2 {
+    left: 111px;
+    top: 0px;
 }
 
 .equipment-weapon {

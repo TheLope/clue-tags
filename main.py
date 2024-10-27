@@ -45,7 +45,7 @@ def define_env(env):
     def equipment(tier):
         r = ''
 
-        for slot in ['head','cape','neck','ammo','weapon','torso','legs','shield','gloves','boots','ring']:
+        for slot in ['head','cape','neck','ammo','ammo2','weapon','torso','legs','shield','gloves','boots','ring']:
             r += equipment_div(env.variables[tier], slot)
 
         return r

@@ -1,23 +1,24 @@
 elite:
   equipment:
     head: Slayer helmet (i)
-    cape: Max cape
+    cape: Dizana's max cape
     neck: Necklace of anguish
-    ammo: ~
+    ammo: Rada's blessing 4
+    ammo2: Dragon arrow 5
     weapon: Toxic blowpipe
     torso: Masori body (f)
     legs: Masori chaps (f)
     shield: ~
     gloves: Zaryte vambraces
-    boots: ~
-    ring: Slayer ring (eternal)
+    boots: Pegasian boots
+    ring: Ring of shadows
   inventory:
   - [Clue scroll (elite), Achievement diary cape (t), Quest point cape (t), Book of the dead]
   - [Spade, Kandarin headgear 4, Morytania legs 4, Master scroll book]
-  - [Sled, Enchanted lyre, Eternal teleport crystal, Camulet]
-  - [Ghommal's hilt 6, Ring of wealth, Ring of shadows, Desert amulet 4]
+  - [Max cape, Enchanted lyre, Eternal teleport crystal, Camulet]
+  - [Ghommal's hilt 6, Ring of wealth, Slayer ring (eternal), Pendant of ates]
   - [Divine ranging potion(4), Stamina potion(4), Divine rune pouch, Blood rune]
-  - [~, ~, ~, Soul rune]
+  - [~, ~, Sled, Soul rune]
   - [~, ~, ~, Cosmic rune]
   spellbook: lunar
   rune_pouch:
