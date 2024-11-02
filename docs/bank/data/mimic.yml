@@ -5,7 +5,7 @@ mimic:
     neck: Amulet of rancour
     ammo: ~
     ammo2: ~
-    weapon: Osmumten's fang
+    weapon: Voidwaker
     torso: Torva platebody
     legs: Torva platelegs
     shield: Avernic defender
@@ -13,7 +13,7 @@ mimic:
     boots: Primordial boots
     ring: Ultor ring
   inventory:
-  - [Voidwaker, Desert amulet 4, Crafting cape(t), Watson teleport]
+  - [Osmumten's fang, Desert amulet 4, Crafting cape(t), Watson teleport]
   - [Divine super combat potion(1), Anglerfish, Anglerfish, Anglerfish]
   - [Mimic, Anglerfish, Anglerfish, Anglerfish]
   - [~, ~, ~, ~]
