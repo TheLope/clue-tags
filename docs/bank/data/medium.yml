@@ -1,12 +1,12 @@
 medium:
   equipment:
-    head: Kandarin headgear 4
-    cape: Max cape
+    head: Torva full helm
+    cape: Infernal cape
     neck: Amulet of eternal glory
     ammo: Rada's blessing 4
     ammo2: ~
     weapon: Voidwaker
-    torso: Graceful top
+    torso: Torva platebody
     legs: Morytania legs 4
     shield: Book of the dead
     gloves: Combat bracelet
@@ -14,11 +14,11 @@ medium:
     ring: Slayer ring (eternal)
   inventory:
   - [Clue scroll (medium), Achievement diary cape (t), Quest point cape (t), Ardougne cloak 4]
-  - [Spade, Construct. cape(t), Music cape(t), Master scroll book]
+  - [Spade, Max cape, Music cape(t), Master scroll book]
   - [Games necklace, Necklace of passage, Skills necklace, Xeric's talisman]
-  - [Ring of dueling, Ring of wealth, Kharyrll teleport (tablet), Watchtower teleport (tablet)]
-  - [Stamina potion(4), Ring of the elements, Arceuus library teleport (tablet), Divine rune pouch]
-  - [~, Skull sceptre, Steel key ring, Soul rune]
+  - [Ring of dueling, Ring of wealth, Kharyrll teleport (tablet), Pendant of ates]
+  - [Stamina potion(4), Ring of the elements, Skull sceptre, Divine rune pouch]
+  - [~, ~, Steel key ring, Soul rune]
   - [~, ~, Reward casket (medium), Cosmic rune]
   spellbook: lunar
   rune_pouch:
