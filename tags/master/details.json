@@ -97,7 +97,7 @@
     },
     {
         "id": 524,
-        "text": "MORT: +boat dig"
+        "text": "BKR: tomb dig"
     },
     {
         "id": 525,
@@ -105,7 +105,7 @@
     },
     {
         "id": 526,
-        "text": "POH 3: water dig"
+        "text": "POH 3: water obel"
     },
     {
         "id": 527,
@@ -337,7 +337,7 @@
     },
     {
         "id": 584,
-        "text": "GHOR: -stash"
+        "text": "GHOR: -kbd stash"
     },
     {
         "id": 585,
@@ -345,11 +345,11 @@
     },
     {
         "id": 586,
-        "text": "DEATH: +stash"
+        "text": "DIA E: +death"
     },
     {
         "id": 587,
-        "text": "MOTH: +stash"
+        "text": "QUET: Cam stash"
     },
     {
         "id": 588,
@@ -377,7 +377,7 @@
     },
     {
         "id": 594,
-        "text": "SOUL: +stash"
+        "text": "DIA E: +soul"
     },
     {
         "id": 595,
@@ -397,7 +397,7 @@
     },
     {
         "id": 599,
-        "text": "QUET: stash"
+        "text": "QUET: Over stash"
     },
     {
         "id": 600,
@@ -409,7 +409,7 @@
     },
     {
         "id": 602,
-        "text": "MUSIC: +cr bow"
+        "text": "MUSIC: +bow"
     },
     {
         "id": 603,
@@ -509,7 +509,7 @@
     },
     {
         "id": 627,
-        "text": "BOTD 5: +tablet"
+        "text": "BOTD 5: +block"
     },
     {
         "id": 628,
@@ -565,7 +565,7 @@
     },
     {
         "id": 641,
-        "text": "SLAY 2: +nechryael"
+        "text": "SLAY 2: nechryael"
     },
     {
         "id": 642,
