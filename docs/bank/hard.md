@@ -5,11 +5,12 @@ icon: clue/hard
 {{ bank('hard') }}
 
 ## Notes
-- This setup takes advantage the Dragon claws Special Attack for higher dps
-    - Restore your stats before fights meet the following requirements:
-        - 100% Special Attack for Saradomin wizard or Double agent
+- Depends on Special Attack for fights
+    - Restore prior to fights to meet the following:
+        - 100% Special Attack for Saradomin wizard/Double agent
         - 50% Special Attack for Zamorak wizard
-- This is a wilderness friendly setup
+- Wilderness friendly
     - Ensure your Infernal cape and Divine rune pouch are [locked](https://oldschool.runescape.wiki/w/Trouver_parchment)
-    - Significant items lost in the event of a PK death while Protect Item prayer is enabled:
+    - Ensure Protect Item prayer is enabled
+    - Significant items lost in the event of a PK death:
         - Max cape
