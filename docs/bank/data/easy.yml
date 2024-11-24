@@ -1,7 +1,7 @@
 easy:
   equipment:
     head: Kandarin headgear 4
-    cape: Max cape
+    cape: Graceful cape
     neck: Amulet of eternal glory
     ammo: Rada's blessing 4
     ammo2: ~
@@ -11,15 +11,15 @@ easy:
     shield: Book of the dead
     gloves: Combat bracelet
     boots: Graceful boots
-    ring: Ring of wealth
+    ring: Explorer's ring 4
   inventory:
-  - [Clue scroll (easy), Achievement diary cape (t), Quest point cape (t), Divine rune pouch]
-  - [Spade, Construct. cape(t), Music cape(t), Disk of returning]
+  - [Clue scroll (easy), Achievement diary cape (t), Quest point cape (t), Disk of returning]
+  - [Spade, Max cape, Music cape(t), Master scroll book]
   - [Games necklace, Necklace of passage, Skills necklace, Xeric's talisman]
-  - [Ring of dueling, Explorer's ring 4, Senntisten teleport (tablet), Lassar teleport (tablet)]
-  - [Stamina potion(4), Ring of the elements, Draynor manor teleport (tablet), Paddewwa teleport (tablet)]
-  - [~, ~, Catherby teleport (tablet), Khazard teleport (tablet)]
-  - [~, ~, ~, ~]
+  - [Ring of dueling, Ring of wealth, Senntisten teleport (tablet), Paddewwa teleport (tablet)]
+  - [Stamina potion(4), Ring of the elements, Divine rune pouch, Draynor manor teleport (tablet)]
+  - [~, ~, Perfected quetzal whistle, Khazard teleport (tablet)]
+  - [~, ~, Reward casket (easy), Catherby teleport (tablet)]
   spellbook: standard
   rune_pouch:
   - Law rune
