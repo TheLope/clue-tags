@@ -1,24 +1,24 @@
 hard:
   equipment:
-    head: Kandarin headgear 4
-    cape: Max cape
-    neck: Amulet of glory
+    head: Torva full helm
+    cape: Infernal cape
+    neck: Amulet of strength
     ammo: ~
     ammo2: ~
-    weapon: Toxic blowpipe
-    torso: Masori body (f)
+    weapon: Dragon claws
+    torso: Mixed hide top
     legs: Morytania legs 4
     shield: ~
-    gloves: Combat bracelet
-    boots: ~
-    ring: Ring of wealth
+    gloves: Barrows gloves
+    boots: Dragon boots
+    ring: Ultor ring
   inventory:
-  - [Clue scroll (hard), Achievement diary cape (t), Quest point cape (t), Book of the dead]
-  - [Spade, Royal seed pod, Ardougne cloak 4, Master scroll book]
+  - [Clue scroll (hard), Achievement diary cape (t), Ardougne cloak 4, Western banner 4]
+  - [Spade, Max cape, Royal seed pod, Master scroll book]
   - [Burning amulet, Necklace of passage, Skills necklace, Camulet]
-  - [Ring of dueling, Karamja gloves 4, Ectophial, Western banner 4]
-  - [Divine ranging potion(4), Stamina potion(4), Divine rune pouch, Blood rune/100]
-  - [~, ~, ~, Soul rune/100]
+  - [Ring of dueling, Ring of wealth, Combat bracelet, Amulet of glory(6)]
+  - [Divine super combat potion(4), Stamina potion(4), Divine rune pouch, Blood rune/100]
+  - [~, ~, Karamja gloves 4, Soul rune/100]
   - [~, ~, ~, Cosmic rune/100]
   spellbook: lunar
   rune_pouch:
