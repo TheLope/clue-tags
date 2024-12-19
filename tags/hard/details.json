@@ -5,23 +5,28 @@
     },
     {
         "id": 2723,
-        "text": "BUR 3: -rune dig"
+        "text": "BUR 3: -rune dig",
+        "color": "#FFFF0000"
     },
     {
         "id": 2725,
-        "text": "ICE: -n dig"
+        "text": "ICE: -n dig",
+        "color": "#FFFF0000"
     },
     {
         "id": 2727,
-        "text": "RESP: -web"
+        "text": "RESP: -web",
+        "color": "#FFFF0000"
     },
     {
         "id": 2729,
-        "text": "RESP: -hut"
+        "text": "RESP: -hut",
+        "color": "#FFFF0000"
     },
     {
         "id": 2731,
-        "text": "ANNA: -dig"
+        "text": "ANNA: -dig",
+        "color": "#FFFF0000"
     },
     {
         "id": 2733,
@@ -29,7 +34,8 @@
     },
     {
         "id": 2735,
-        "text": "BURN 3: -altar"
+        "text": "BURN 3: -altar",
+        "color": "#FFFF0000"
     },
     {
         "id": 2737,
@@ -37,7 +43,8 @@
     },
     {
         "id": 2739,
-        "text": "ICE: -hideout"
+        "text": "ICE: -hideout",
+        "color": "#FFFF0000"
     },
     {
         "id": 2741,
@@ -93,7 +100,8 @@
     },
     {
         "id": 2788,
-        "text": "REV: -ne dig"
+        "text": "REV: -ne dig",
+        "color": "#FFFF0000"
     },
     {
         "id": 2790,
@@ -205,7 +213,8 @@
     },
     {
         "id": 3558,
-        "text": "OBEL 6: -nw dig"
+        "text": "OBEL 6: -nw dig",
+        "color": "#FFFF0000"
     },
     {
         "id": 3560,
@@ -261,7 +270,8 @@
     },
     {
         "id": 7239,
-        "text": "ICE: -se dig"
+        "text": "ICE: -se dig",
+        "color": "#FFFF0000"
     },
     {
         "id": 7241,
@@ -397,7 +407,8 @@
     },
     {
         "id": 12546,
-        "text": "OBEL 6: -stash"
+        "text": "OBEL 6: -stash",
+        "color": "#FFFF0000"
     },
     {
         "id": 12548,
@@ -653,7 +664,8 @@
     },
     {
         "id": 23169,
-        "text": "ICE: -s dig"
+        "text": "ICE: -s dig",
+        "color": "#FFFF0000"
     },
     {
         "id": 23170,

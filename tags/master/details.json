@@ -13,11 +13,13 @@
     },
     {
         "id": 503,
-        "text": "OBEL 6: -Edward"
+        "text": "OBEL 6: -Edward",
+        "color": "#FFFF0000"
     },
     {
         "id": 504,
-        "text": "ROR: -Mandrith"
+        "text": "ROR: -Mandrith",
+        "color": "#FFFF0000"
     },
     {
         "id": 505,
@@ -137,7 +139,8 @@
     },
     {
         "id": 534,
-        "text": "GHOR: -temple dig"
+        "text": "GHOR: -temple dig",
+        "color": "#FFFF0000"
     },
     {
         "id": 535,
@@ -157,19 +160,23 @@
     },
     {
         "id": 539,
-        "text": "OBEL 6: -volcano dig"
+        "text": "OBEL 6: -volcano dig",
+        "color": "#FFFF0000"
     },
     {
         "id": 540,
-        "text": "ROR: -resource dig"
+        "text": "ROR: -resource dig",
+        "color": "#FFFF0000"
     },
     {
         "id": 541,
-        "text": "OBEL 6: -n dig"
+        "text": "OBEL 6: -n dig",
+        "color": "#FFFF0000"
     },
     {
         "id": 542,
-        "text": "ICE: -e dig"
+        "text": "ICE: -e dig",
+        "color": "#FFFF0000"
     },
     {
         "id": 543,
@@ -213,7 +220,8 @@
     },
     {
         "id": 553,
-        "text": "ICE: -dwd"
+        "text": "ICE: -dwd",
+        "color": "#FFFF0000"
     },
     {
         "id": 554,
@@ -233,11 +241,13 @@
     },
     {
         "id": 558,
-        "text": "REV: -maze"
+        "text": "REV: -maze",
+        "color": "#FFFF0000"
     },
     {
         "id": 559,
-        "text": "ICE: -lake"
+        "text": "ICE: -lake",
+        "color": "#FFFF0000"
     },
     {
         "id": 560,
@@ -261,11 +271,13 @@
     },
     {
         "id": 565,
-        "text": "ROR: -Piles"
+        "text": "ROR: -Piles",
+        "color": "#FFFF0000"
     },
     {
         "id": 566,
-        "text": "ANNA: -bloodrune"
+        "text": "ANNA: -bloodrune",
+        "color": "#FFFF0000"
     },
     {
         "id": 567,
@@ -321,11 +333,13 @@
     },
     {
         "id": 580,
-        "text": "ENTRANA: -stash"
+        "text": "ENTRANA: -stash",
+        "color": "#FFFF0000"
     },
     {
         "id": 581,
-        "text": "ROR: -hut stash"
+        "text": "ROR: -hut stash",
+        "color": "#FFFF0000"
     },
     {
         "id": 582,
@@ -337,7 +351,8 @@
     },
     {
         "id": 584,
-        "text": "GHOR: -kbd stash"
+        "text": "GHOR: -kbd stash",
+        "color": "#FFFF0000"
     },
     {
         "id": 585,
@@ -361,7 +376,8 @@
     },
     {
         "id": 590,
-        "text": "OTHER 121: -stash"
+        "text": "OTHER 121: -stash",
+        "color": "#FFFF0000"
     },
     {
         "id": 591,
