@@ -1,138 +1,172 @@
 [
     {
         "id": 0,
-        "text": "GLORY 4: Ranael"
+        "text": "GLORY 4: Ranael",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 1,
-        "text": "PASS 1: down Sedridor"
+        "text": "PASS 1: down Sedridor",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 2,
-        "text": "DIA D: Apothecary"
+        "text": "DIA D: Apothecary",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 3,
-        "text": "POH 3: e Doric"
+        "text": "POH 3: e Doric",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 4,
-        "text": "ROTE 1: se Brian"
+        "text": "ROTE 1: se Brian",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 5,
-        "text": "MANOR: Veronica"
+        "text": "MANOR: Veronica",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 6,
-        "text": "SKIL 4: Gertrude"
+        "text": "SKIL 4: Gertrude",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 7,
-        "text": "FALLY: w Hairdress"
+        "text": "FALLY: w Hairdress",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 8,
-        "text": "GLORY 3: Fortunato"
+        "text": "GLORY 3: Fortunato",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 9,
-        "text": "LUMB: Hans"
+        "text": "LUMB: Hans",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 10,
-        "text": "HOTNCOLD"
+        "text": "HOTNCOLD",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 11,
-        "text": "LUMB: Cook"
+        "text": "LUMB: Cook",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 12,
-        "text": "SKULL: Hunding"
+        "text": "SKULL: Hunding",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 13,
-        "text": "DIA D: Charlie"
+        "text": "DIA D: Charlie",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 14,
-        "text": "DIA 2: Shantay"
+        "text": "DIA 2: Shantay",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 15,
-        "text": "VARR: Aris stash"
+        "text": "VARR: Aris stash",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 16,
-        "text": "GE: Bow"
+        "text": "GE: Bow",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 17,
-        "text": "VARR: Iffie stash"
+        "text": "VARR: Iffie stash",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 18,
-        "text": "DIA B: s stash"
+        "text": "DIA B: s stash",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 19,
-        "text": "ROTE 4: mine stash"
+        "text": "ROTE 4: mine stash",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 20,
-        "text": "FALLY: mace Spin"
+        "text": "FALLY: mace Spin",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 21,
-        "text": "COMB 2: w dig"
+        "text": "COMB 2: w dig",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 22,
-        "text": "SENN: gate n dig"
+        "text": "SENN: gate n dig",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 23,
-        "text": "DIA G: dig"
+        "text": "DIA G: dig",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 24,
-        "text": "SKULL: stone r dig"
+        "text": "SKULL: stone r dig",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 25,
-        "text": "DIS: dig"
+        "text": "DIS: dig",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 26,
-        "text": "trout: Charlie"
+        "text": "trout: Charlie",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 27,
-        "text": "pike: Charlie"
+        "text": "pike: Charlie",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 28,
-        "text": "herring: Charlie"
+        "text": "herring: Charlie",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 29,
-        "text": "raw trout: Charlie"
+        "text": "raw trout: Charlie",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 30,
-        "text": "ore: Charlie"
+        "text": "ore: Charlie",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 31,
-        "text": "dagger: Charlie"
+        "text": "dagger: Charlie",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 32,
-        "text": "body: Charlie"
+        "text": "body: Charlie",
+        "color": "#FFC8C8C8"
     },
     {
         "id": 33,
-        "text": "chaps: Charlie"
+        "text": "chaps: Charlie",
+        "color": "#FFC8C8C8"
     }
 ]

@@ -1,11 +1,13 @@
 [
     {
         "id": 12073,
-        "text": "W ARDY: stash"
+        "text": "W ARDY: stash",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12074,
-        "text": "LYRE 3: rune stash"
+        "text": "LYRE 3: rune stash",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12075,
@@ -14,67 +16,83 @@
     },
     {
         "id": 12076,
-        "text": "FISH 1: shadow"
+        "text": "FISH 1: shadow",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12077,
-        "text": "WARR: stash"
+        "text": "WARR: stash",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12078,
-        "text": "BOX C: stash up"
+        "text": "BOX C: stash up",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12079,
-        "text": "QPC: Jeb stash"
+        "text": "QPC: Jeb stash",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12080,
-        "text": "SLAY 2: top stash"
+        "text": "SLAY 2: top stash",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12081,
-        "text": "TROL: stash"
+        "text": "TROL: stash",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12082,
-        "text": "POH 3: hero stash"
+        "text": "POH 3: hero stash",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12083,
-        "text": "FISH 2: cave stash"
+        "text": "FISH 2: cave stash",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12085,
-        "text": "POH A: +gp dtooth"
+        "text": "POH A: +gp dtooth",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12086,
-        "text": "MOS LE: island"
+        "text": "MOS LE: island",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12087,
-        "text": "DKS: nw dig"
+        "text": "DKS: nw dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12088,
-        "text": "NEX HARM: e dig"
+        "text": "NEX HARM: e dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12089,
-        "text": "LLET: se dig"
+        "text": "LLET: se dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12090,
-        "text": "HILT: w gate dig"
+        "text": "HILT: w gate dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12091,
-        "text": "LEGS: boat 1"
+        "text": "LEGS: boat 1",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12092,
-        "text": "MOON: w around"
+        "text": "MOON: w around",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12093,
@@ -83,7 +101,8 @@
     },
     {
         "id": 12094,
-        "text": "LYRE 3: e dig"
+        "text": "LYRE 3: e dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12095,
@@ -92,7 +111,8 @@
     },
     {
         "id": 12096,
-        "text": "APE ATOLL: w"
+        "text": "APE ATOLL: w",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12097,
@@ -101,15 +121,18 @@
     },
     {
         "id": 12098,
-        "text": "AKS: nw dig"
+        "text": "AKS: nw dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12099,
-        "text": "CAMU 2: se"
+        "text": "CAMU 2: se",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12100,
-        "text": "CAMU 2: ne"
+        "text": "CAMU 2: ne",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12101,
@@ -118,31 +141,38 @@
     },
     {
         "id": 12102,
-        "text": "QPC: in dig"
+        "text": "QPC: in dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12103,
-        "text": "MORT: +gp tomb"
+        "text": "MORT: +gp tomb",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12104,
-        "text": "SLAY 3: camp"
+        "text": "SLAY 3: camp",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12105,
-        "text": "W BIRTH: cove"
+        "text": "W BIRTH: cove",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12106,
-        "text": "APE ATOLL: Lumdo e"
+        "text": "APE ATOLL: Lumdo e",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12107,
-        "text": "DIA 7: down dig"
+        "text": "DIA 7: down dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12108,
-        "text": "ALQ: ship"
+        "text": "ALQ: ship",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12109,
@@ -151,83 +181,103 @@
     },
     {
         "id": 12110,
-        "text": "TAI BWO: ne"
+        "text": "TAI BWO: ne",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12111,
-        "text": "IORW: nw"
+        "text": "IORW: nw",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12113,
-        "text": "HEAD: Sherlock"
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12114,
-        "text": "HEAD: Sherlock"
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12115,
-        "text": "HEAD: Sherlock"
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12116,
-        "text": "HEAD: Sherlock"
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12117,
-        "text": "HEAD: Sherlock"
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12118,
-        "text": "HEAD: Sherlock"
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12119,
-        "text": "HEAD: Sherlock"
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12120,
-        "text": "HEAD: Sherlock"
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12121,
-        "text": "HEAD: Sherlock"
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12122,
-        "text": "HEAD: Sherlock"
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12123,
-        "text": "HEAD: Sherlock"
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12124,
-        "text": "HEAD: Sherlock"
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12125,
-        "text": "HEAD: Sherlock"
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12126,
-        "text": "HEAD: Sherlock"
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12127,
-        "text": "HEAD: Sherlock"
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12130,
-        "text": "CIQ: w dig"
+        "text": "CIQ: w dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12132,
-        "text": "MOON: Oneiro"
+        "text": "MOON: Oneiro",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12133,
-        "text": "DORG: Ambassador"
+        "text": "DORG: Ambassador",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12134,
@@ -236,199 +286,248 @@
     },
     {
         "id": 12135,
-        "text": "LLET: Oronwen"
+        "text": "LLET: Oronwen",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12136,
-        "text": "BOX 1: Cam"
+        "text": "BOX 1: Cam",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12137,
-        "text": "LYRE 1: Sigli"
+        "text": "LYRE 1: Sigli",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12138,
-        "text": "SLAY 2: Crone"
+        "text": "SLAY 2: Crone",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12140,
-        "text": "LLET: Mawrth"
+        "text": "LLET: Mawrth",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12141,
-        "text": "HILT: sled dig"
+        "text": "HILT: sled dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12142,
-        "text": "W BIRTH: w dig"
+        "text": "W BIRTH: w dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12143,
-        "text": "BANN: furnace"
+        "text": "BANN: furnace",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12144,
-        "text": "WARR: top Kam"
+        "text": "WARR: top Kam",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12145,
-        "text": "SEER: agi crate"
+        "text": "SEER: agi crate",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12146,
-        "text": "BIP: dig"
+        "text": "BIP: dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12147,
-        "text": "PADD: Vannaka"
+        "text": "PADD: Vannaka",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12148,
-        "text": "WARR: dig"
+        "text": "WARR: dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12149,
-        "text": "VARR: Aris"
+        "text": "VARR: Aris",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12150,
-        "text": "DIA E: +abyss law"
+        "text": "DIA E: +abyss law",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12151,
-        "text": "DIA B: Father"
+        "text": "DIA B: Father",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12152,
-        "text": "CATH: Candle"
+        "text": "CATH: Candle",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12153,
-        "text": "NARDAH: +rope"
+        "text": "NARDAH: +rope",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12154,
-        "text": "ARDY: Horacio"
+        "text": "ARDY: Horacio",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12155,
-        "text": "KHAR: Barker"
+        "text": "KHAR: Barker",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12156,
-        "text": "POH 3: stones"
+        "text": "POH 3: stones",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12157,
-        "text": "NMZ: Dominic"
+        "text": "NMZ: Dominic",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12158,
-        "text": "D AMU Cave: in"
+        "text": "D AMU Cave: in",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12159,
-        "text": "ROW 3: Wyson"
+        "text": "ROW 3: Wyson",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19782,
-        "text": "KHAZ: +dive"
+        "text": "KHAZ: +dive",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19783,
-        "text": "ZUL: ne dig"
+        "text": "ZUL: ne dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19784,
-        "text": "DIA E: +abyss soul"
+        "text": "DIA E: +abyss soul",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19785,
-        "text": "LEGS: se dig"
+        "text": "LEGS: se dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19786,
-        "text": "APE ATOLL: w crate"
+        "text": "APE ATOLL: w crate",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19787,
-        "text": "HILT: sled stash"
+        "text": "HILT: sled stash",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19788,
-        "text": "DJR: se stash"
+        "text": "DJR: se stash",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19789,
-        "text": "QPC: stash"
+        "text": "QPC: stash",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19790,
-        "text": "ARDY: stash"
+        "text": "ARDY: stash",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19791,
-        "text": "WATCH: ne stash"
+        "text": "WATCH: ne stash",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19792,
-        "text": "SLAY 1: bank Guard"
+        "text": "SLAY 1: bank Guard",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19793,
-        "text": "BOTD 5: se Regath"
+        "text": "BOTD 5: se Regath",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19794,
-        "text": "BOTD 3: ne Nurse"
+        "text": "BOTD 3: ne Nurse",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19795,
-        "text": "LYRE 3: Lisse"
+        "text": "LYRE 3: Lisse",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19796,
-        "text": "W BIRTH: crab"
+        "text": "W BIRTH: crab",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19797,
-        "text": "DIA A: hellhound"
+        "text": "DIA A: hellhound",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19798,
-        "text": "PRIF: waterfiend"
+        "text": "PRIF: waterfiend",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19799,
-        "text": "MYTH: dragon"
+        "text": "MYTH: dragon",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19800,
-        "text": "SLAY 3: +basilisk"
+        "text": "SLAY 3: +basilisk",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19801,
-        "text": "DIA A: bloodveld"
+        "text": "DIA A: bloodveld",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19802,
-        "text": "SLAY 2: spectre"
+        "text": "SLAY 2: spectre",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19803,
-        "text": "HILT: aviansie"
+        "text": "HILT: aviansie",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19804,
-        "text": "NARDAH: croc"
+        "text": "NARDAH: croc",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19805,
-        "text": "DIA A: ankou"
+        "text": "DIA A: ankou",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19806,
-        "text": "FISH 2: +mangled"
+        "text": "FISH 2: +mangled",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19807,
@@ -437,35 +536,43 @@
     },
     {
         "id": 19808,
-        "text": "NEX MARIM: Daga"
+        "text": "NEX MARIM: Daga",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19809,
-        "text": "W BIRTH: dks"
+        "text": "W BIRTH: dks",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19810,
-        "text": "LEGS: batta"
+        "text": "LEGS: batta",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19811,
-        "text": "PEST: Veteran"
+        "text": "PEST: Veteran",
+        "color": "#FFB7FF00"
     },
     {
         "id": 19813,
-        "text": "POH 5: e dig"
+        "text": "POH 5: e dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 21524,
-        "text": "DIGS 2: 4 Jardric"
+        "text": "DIGS 2: 4 Jardric",
+        "color": "#FFB7FF00"
     },
     {
         "id": 21525,
-        "text": "VM: dig"
+        "text": "VM: dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 22000,
-        "text": "DIGS 3: up"
+        "text": "DIGS 3: up",
+        "color": "#FFB7FF00"
     },
     {
         "id": 23144,
@@ -474,82 +581,102 @@
     },
     {
         "id": 23145,
-        "text": "DLR: se dig"
+        "text": "DLR: se dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 23146,
-        "text": "OBEL 3: e dig"
+        "text": "OBEL 3: e dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 23147,
-        "text": "NEX WEISS: e"
+        "text": "NEX WEISS: e",
+        "color": "#FFB7FF00"
     },
     {
         "id": 23148,
-        "text": "LYRE 3: w dig"
+        "text": "LYRE 3: w dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 23770,
-        "text": "POH 9: ne dig"
+        "text": "POH 9: ne dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 24253,
-        "text": "W BIRTH: stone"
+        "text": "W BIRTH: stone",
+        "color": "#FFB7FF00"
     },
     {
         "id": 24773,
-        "text": "ROW 3: song"
+        "text": "ROW 3: song",
+        "color": "#FFB7FF00"
     },
     {
         "id": 25498,
-        "text": "RESP: portal w dig"
+        "text": "RESP: portal w dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 25499,
-        "text": "BJP: e dig"
+        "text": "BJP: e dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 25786,
-        "text": "POH 5: sw stash"
+        "text": "POH 5: sw stash",
+        "color": "#FFB7FF00"
     },
     {
         "id": 25787,
-        "text": "BOTD 3: sw dig"
+        "text": "BOTD 3: sw dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 26943,
-        "text": "ROW 3: song"
+        "text": "ROW 3: song",
+        "color": "#FFB7FF00"
     },
     {
         "id": 26944,
-        "text": "PHAR 4: s dig"
+        "text": "PHAR 4: s dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 28910,
-        "text": "CIV: temple stash"
+        "text": "CIV: temple stash",
+        "color": "#FFB7FF00"
     },
     {
         "id": 28911,
-        "text": "MOTH: n Funbo"
+        "text": "MOTH: n Funbo",
+        "color": "#FFB7FF00"
     },
     {
         "id": 28912,
-        "text": "QUET Gorge: se dig"
+        "text": "QUET Gorge: se dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 29855,
-        "text": "ATES 2: summit dig"
+        "text": "ATES 2: summit dig",
+        "color": "#FFB7FF00"
     },
     {
         "id": 29856,
-        "text": "ATES 2: nagua"
+        "text": "ATES 2: nagua",
+        "color": "#FFB7FF00"
     },
     {
         "id": 12128,
-        "text": "Challenge: Sherlock"
+        "text": "Challenge: Sherlock",
+        "color": "#FF00FF00"
     },
     {
         "id": 12139,
-        "text": "Challenge"
+        "text": "Challenge",
+        "color": "#FF00FF00"
     }
 ]

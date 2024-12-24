@@ -1,15 +1,18 @@
 [
     {
         "id": 500,
-        "text": "NEX WEISS: Snowflake"
+        "text": "NEX WEISS: Snowflake",
+        "color": "#FFFF5A00"
     },
     {
         "id": 501,
-        "text": "XER 1: Bruce"
+        "text": "XER 1: Bruce",
+        "color": "#FFFF5A00"
     },
     {
         "id": 502,
-        "text": "ZUL: Sacrifice"
+        "text": "ZUL: Sacrifice",
+        "color": "#FFFF5A00"
     },
     {
         "id": 503,
@@ -23,119 +26,148 @@
     },
     {
         "id": 505,
-        "text": "NEX MARIM: Dugopul"
+        "text": "NEX MARIM: Dugopul",
+        "color": "#FFFF5A00"
     },
     {
         "id": 506,
-        "text": "BOX K: Runolf"
+        "text": "BOX K: Runolf",
+        "color": "#FFFF5A00"
     },
     {
         "id": 507,
-        "text": "ZANA: Immenizz"
+        "text": "ZANA: Immenizz",
+        "color": "#FFFF5A00"
     },
     {
         "id": 508,
-        "text": "LEGS: Luminata"
+        "text": "LEGS: Luminata",
+        "color": "#FFFF5A00"
     },
     {
         "id": 509,
-        "text": "DRAK 1: Old man"
+        "text": "DRAK 1: Old man",
+        "color": "#FFFF5A00"
     },
     {
         "id": 510,
-        "text": "QPC: +Radimus"
+        "text": "QPC: +Radimus",
+        "color": "#FFFF5A00"
     },
     {
         "id": 511,
-        "text": "MYTH: +Primula"
+        "text": "MYTH: +Primula",
+        "color": "#FFFF5A00"
     },
     {
         "id": 512,
-        "text": "LLET: Goreu"
+        "text": "LLET: Goreu",
+        "color": "#FFFF5A00"
     },
     {
         "id": 513,
-        "text": "BOX I: Lars"
+        "text": "BOX I: Lars",
+        "color": "#FFFF5A00"
     },
     {
         "id": 514,
-        "text": "NARDAH: Wingstone"
+        "text": "NARDAH: Wingstone",
+        "color": "#FFFF5A00"
     },
     {
         "id": 515,
-        "text": "BOTD 3: Tony"
+        "text": "BOTD 3: Tony",
+        "color": "#FFFF5A00"
     },
     {
         "id": 516,
-        "text": "IORW: s dig"
+        "text": "IORW: s dig",
+        "color": "#FFFF5A00"
     },
     {
         "id": 517,
-        "text": "ZUL: nw dig"
+        "text": "ZUL: nw dig",
+        "color": "#FFFF5A00"
     },
     {
         "id": 518,
-        "text": "DLR: se dig"
+        "text": "DLR: se dig",
+        "color": "#FFFF5A00"
     },
     {
         "id": 519,
-        "text": "MOS LE: island dig"
+        "text": "MOS LE: island dig",
+        "color": "#FFFF5A00"
     },
     {
         "id": 520,
-        "text": "DIA 9: crandor dig"
+        "text": "DIA 9: crandor dig",
+        "color": "#FFFF5A00"
     },
     {
         "id": 521,
-        "text": "ARDY: e dig"
+        "text": "ARDY: e dig",
+        "color": "#FFFF5A00"
     },
     {
         "id": 522,
-        "text": "DRAK 1: +mines dig"
+        "text": "DRAK 1: +mines dig",
+        "color": "#FFFF5A00"
     },
     {
         "id": 523,
-        "text": "PRIF: e dig"
+        "text": "PRIF: e dig",
+        "color": "#FFFF5A00"
     },
     {
         "id": 524,
-        "text": "BKR: tomb dig"
+        "text": "BKR: tomb dig",
+        "color": "#FFFF5A00"
     },
     {
         "id": 525,
-        "text": "POH 5: cc isle dig"
+        "text": "POH 5: cc isle dig",
+        "color": "#FFFF5A00"
     },
     {
         "id": 526,
-        "text": "POH 3: water obel"
+        "text": "POH 3: water obel",
+        "color": "#FFFF5A00"
     },
     {
         "id": 527,
-        "text": "FENK: ship dig"
+        "text": "FENK: ship dig",
+        "color": "#FFFF5A00"
     },
     {
         "id": 528,
-        "text": "PADD: air dig"
+        "text": "PADD: air dig",
+        "color": "#FFFF5A00"
     },
     {
         "id": 529,
-        "text": "APE ATOLL: lumdo dig"
+        "text": "APE ATOLL: lumdo dig",
+        "color": "#FFFF5A00"
     },
     {
         "id": 530,
-        "text": "DJR: nw dig"
+        "text": "DJR: nw dig",
+        "color": "#FFFF5A00"
     },
     {
         "id": 531,
-        "text": "W BIRTH: top dig"
+        "text": "W BIRTH: top dig",
+        "color": "#FFFF5A00"
     },
     {
         "id": 532,
-        "text": "TREE B: dig"
+        "text": "TREE B: dig",
+        "color": "#FFFF5A00"
     },
     {
         "id": 533,
-        "text": "BOTD 5: church dig"
+        "text": "BOTD 5: church dig",
+        "color": "#FFFF5A00"
     },
     {
         "id": 534,
@@ -144,19 +176,23 @@
     },
     {
         "id": 535,
-        "text": "W BIRTH: cove dig"
+        "text": "W BIRTH: cove dig",
+        "color": "#FFFF5A00"
     },
     {
         "id": 536,
-        "text": "CIS: mine dig"
+        "text": "CIS: mine dig",
+        "color": "#FFFF5A00"
     },
     {
         "id": 537,
-        "text": "MOON: s dig"
+        "text": "MOON: s dig",
+        "color": "#FFFF5A00"
     },
     {
         "id": 538,
-        "text": "XER 3: nw dig"
+        "text": "XER 3: nw dig",
+        "color": "#FFFF5A00"
     },
     {
         "id": 539,
@@ -180,43 +216,53 @@
     },
     {
         "id": 543,
-        "text": "DKS: +penguin"
+        "text": "DKS: +penguin",
+        "color": "#FFFF5A00"
     },
     {
         "id": 544,
-        "text": "ARDY: +Wizard"
+        "text": "ARDY: +Wizard",
+        "color": "#FFFF5A00"
     },
     {
         "id": 545,
-        "text": "DEATH: +Thorgel"
+        "text": "DEATH: +Thorgel",
+        "color": "#FFFF5A00"
     },
     {
         "id": 546,
-        "text": "HILT: ne climb"
+        "text": "HILT: ne climb",
+        "color": "#FFFF5A00"
     },
     {
         "id": 547,
-        "text": "BOX C: +Abbot"
+        "text": "BOX C: +Abbot",
+        "color": "#FFFF5A00"
     },
     {
         "id": 548,
-        "text": "TREE 7: monk"
+        "text": "TREE 7: monk",
+        "color": "#FFFF5A00"
     },
     {
         "id": 549,
-        "text": "HOTNCOLD"
+        "text": "HOTNCOLD",
+        "color": "#FFFF5A00"
     },
     {
         "id": 550,
-        "text": "VIGGORA: +ring"
+        "text": "VIGGORA: +ring",
+        "color": "#FFFF5A00"
     },
     {
         "id": 551,
-        "text": "A LIB: Biblia"
+        "text": "A LIB: Biblia",
+        "color": "#FFFF5A00"
     },
     {
         "id": 552,
-        "text": "HILT: kamil"
+        "text": "HILT: kamil",
+        "color": "#FFFF5A00"
     },
     {
         "id": 553,
@@ -225,19 +271,23 @@
     },
     {
         "id": 554,
-        "text": "MUSIC"
+        "text": "MUSIC",
+        "color": "#FFFF5A00"
     },
     {
         "id": 555,
-        "text": "PRIF: onion"
+        "text": "PRIF: onion",
+        "color": "#FFFF5A00"
     },
     {
         "id": 556,
-        "text": "BOX 5: rogue's den"
+        "text": "BOX 5: rogue's den",
+        "color": "#FFFF5A00"
     },
     {
         "id": 557,
-        "text": "WARR: Ghommal"
+        "text": "WARR: Ghommal",
+        "color": "#FFFF5A00"
     },
     {
         "id": 558,
@@ -251,23 +301,28 @@
     },
     {
         "id": 560,
-        "text": "BOX 8: +Juna"
+        "text": "BOX 8: +Juna",
+        "color": "#FFFF5A00"
     },
     {
         "id": 561,
-        "text": "DIA 3: +Vyvin"
+        "text": "DIA 3: +Vyvin",
+        "color": "#FFFF5A00"
     },
     {
         "id": 562,
-        "text": "DIA 8: +viyeldi"
+        "text": "DIA 8: +viyeldi",
+        "color": "#FFFF5A00"
     },
     {
         "id": 563,
-        "text": "HILT: sara encamp"
+        "text": "HILT: sara encamp",
+        "color": "#FFFF5A00"
     },
     {
         "id": 564,
-        "text": "KEY: Keymaster"
+        "text": "KEY: Keymaster",
+        "color": "#FFFF5A00"
     },
     {
         "id": 565,
@@ -281,55 +336,68 @@
     },
     {
         "id": 567,
-        "text": "ECTO: +Robin"
+        "text": "ECTO: +Robin",
+        "color": "#FFFF5A00"
     },
     {
         "id": 568,
-        "text": "XER 3: Lovada"
+        "text": "XER 3: Lovada",
+        "color": "#FFFF5A00"
     },
     {
         "id": 569,
-        "text": "A LIB: Logosia"
+        "text": "A LIB: Logosia",
+        "color": "#FFFF5A00"
     },
     {
         "id": 570,
-        "text": "HEAD: Sherlock"
+        "text": "HEAD: Sherlock",
+        "color": "#FFFF5A00"
     },
     {
         "id": 571,
-        "text": "GLOVE: furnace"
+        "text": "GLOVE: furnace",
+        "color": "#FFFF5A00"
     },
     {
         "id": 572,
-        "text": "FISH: +shadow"
+        "text": "FISH: +shadow",
+        "color": "#FFFF5A00"
     },
     {
         "id": 573,
-        "text": "DIA A: Ewesey"
+        "text": "DIA A: Ewesey",
+        "color": "#FFFF5A00"
     },
     {
         "id": 574,
-        "text": "VARR: museum"
+        "text": "VARR: museum",
+        "color": "#FFFF5A00"
     },
     {
         "id": 575,
-        "text": "DIA D: Zamorak"
+        "text": "DIA D: Zamorak",
+        "color": "#FFFF5A00"
     },
     {
         "id": 576,
-        "text": "TREE 6: n stash"
+        "text": "TREE 6: n stash",
+        "color": "#FFFF5A00"
     },
     {
         "id": 577,
-        "text": "HILT: gwd stash"
+        "text": "HILT: gwd stash",
+        "color": "#FFFF5A00"
     },
     {
         "id": 578,
-        "text": "WARR: stash"
+        "text": "WARR: stash",
+        "color": "#FFFF5A00"
     },
     {
         "id": 579,
-        "text": "IORW: stash"
+        "text": "IORW: stash",
+        "color": "#FFFF5A00"
     },
     {
         "id": 580,
@@ -343,11 +411,13 @@
     },
     {
         "id": 582,
-        "text": "DIA 9: stash"
+        "text": "DIA 9: stash",
+        "color": "#FFFF5A00"
     },
     {
         "id": 583,
-        "text": "LLET: stash"
+        "text": "LLET: stash",
+        "color": "#FFFF5A00"
     },
     {
         "id": 584,
@@ -356,23 +426,28 @@
     },
     {
         "id": 585,
-        "text": "BARRO: stash"
+        "text": "BARRO: stash",
+        "color": "#FFFF5A00"
     },
     {
         "id": 586,
-        "text": "DIA E: +death"
+        "text": "DIA E: +death",
+        "color": "#FFFF5A00"
     },
     {
         "id": 587,
-        "text": "QUET: Cam stash"
+        "text": "QUET: Cam stash",
+        "color": "#FFFF5A00"
     },
     {
         "id": 588,
-        "text": "GOBLIN: +stash"
+        "text": "GOBLIN: +stash",
+        "color": "#FFFF5A00"
     },
     {
         "id": 589,
-        "text": "ZUL: stash"
+        "text": "ZUL: stash",
+        "color": "#FFFF5A00"
     },
     {
         "id": 590,
@@ -381,218 +456,272 @@
     },
     {
         "id": 591,
-        "text": "BOX Q: stash"
+        "text": "BOX Q: stash",
+        "color": "#FFFF5A00"
     },
     {
         "id": 592,
-        "text": "VARR: stash"
+        "text": "VARR: stash",
+        "color": "#FFFF5A00"
     },
     {
         "id": 593,
-        "text": "XER 4: stash"
+        "text": "XER 4: stash",
+        "color": "#FFFF5A00"
     },
     {
         "id": 594,
-        "text": "DIA E: +soul"
+        "text": "DIA E: +soul",
+        "color": "#FFFF5A00"
     },
     {
         "id": 595,
-        "text": "BKQ: stash"
+        "text": "BKQ: stash",
+        "color": "#FFFF5A00"
     },
     {
         "id": 596,
-        "text": "WATCH: stash"
+        "text": "WATCH: stash",
+        "color": "#FFFF5A00"
     },
     {
         "id": 597,
-        "text": "DRAK 1: castle stash"
+        "text": "DRAK 1: castle stash",
+        "color": "#FFFF5A00"
     },
     {
         "id": 598,
-        "text": "PHAR 1: +stash"
+        "text": "PHAR 1: +stash",
+        "color": "#FFFF5A00"
     },
     {
         "id": 599,
-        "text": "QUET: Over stash"
+        "text": "QUET: Over stash",
+        "color": "#FFFF5A00"
     },
     {
         "id": 600,
-        "text": "MUSIC: +d scim"
+        "text": "MUSIC: +d scim",
+        "color": "#FFFF5A00"
     },
     {
         "id": 601,
-        "text": "MUSIC: +god book"
+        "text": "MUSIC: +god book",
+        "color": "#FFFF5A00"
     },
     {
         "id": 602,
-        "text": "MUSIC: +bow"
+        "text": "MUSIC: +bow",
+        "color": "#FFFF5A00"
     },
     {
         "id": 603,
-        "text": "MUSIC: +infernal axe"
+        "text": "MUSIC: +infernal axe",
+        "color": "#FFFF5A00"
     },
     {
         "id": 604,
-        "text": "MUSIC: +grace"
+        "text": "MUSIC: +grace",
+        "color": "#FFFF5A00"
     },
     {
         "id": 605,
-        "text": "MUSIC: +lava bone"
+        "text": "MUSIC: +lava bone",
+        "color": "#FFFF5A00"
     },
     {
         "id": 606,
-        "text": "MUSIC: +arma helm"
+        "text": "MUSIC: +arma helm",
+        "color": "#FFFF5A00"
     },
     {
         "id": 607,
-        "text": "MUSIC: +defender"
+        "text": "MUSIC: +defender",
+        "color": "#FFFF5A00"
     },
     {
         "id": 608,
-        "text": "MUSIC: +token"
+        "text": "MUSIC: +token",
+        "color": "#FFFF5A00"
     },
     {
         "id": 609,
-        "text": "MUSIC: +ale"
+        "text": "MUSIC: +ale",
+        "color": "#FFFF5A00"
     },
     {
         "id": 610,
-        "text": "MUSIC: +anchor"
+        "text": "MUSIC: +anchor",
+        "color": "#FFFF5A00"
     },
     {
         "id": 611,
-        "text": "MUSIC: +basalt"
+        "text": "MUSIC: +basalt",
+        "color": "#FFFF5A00"
     },
     {
         "id": 612,
-        "text": "MUSIC: +maul"
+        "text": "MUSIC: +maul",
+        "color": "#FFFF5A00"
     },
     {
         "id": 613,
-        "text": "MUSIC: +torso"
+        "text": "MUSIC: +torso",
+        "color": "#FFFF5A00"
     },
     {
         "id": 614,
-        "text": "MUSIC: +bgloves"
+        "text": "MUSIC: +bgloves",
+        "color": "#FFFF5A00"
     },
     {
         "id": 615,
-        "text": "MUSIC: +gauntlets"
+        "text": "MUSIC: +gauntlets",
+        "color": "#FFFF5A00"
     },
     {
         "id": 616,
-        "text": "MUSIC: +numulite"
+        "text": "MUSIC: +numulite",
+        "color": "#FFFF5A00"
     },
     {
         "id": 617,
-        "text": "MUSIC: +r platebody"
+        "text": "MUSIC: +r platebody",
+        "color": "#FFFF5A00"
     },
     {
         "id": 618,
-        "text": "MUSIC: +flail"
+        "text": "MUSIC: +flail",
+        "color": "#FFFF5A00"
     },
     {
         "id": 619,
-        "text": "BOTD 2: +anglerfish"
+        "text": "BOTD 2: +anglerfish",
+        "color": "#FFFF5A00"
     },
     {
         "id": 620,
-        "text": "DLS: +blood rune"
+        "text": "DLS: +blood rune",
+        "color": "#FFFF5A00"
     },
     {
         "id": 621,
-        "text": "CRAFT: burn magic"
+        "text": "CRAFT: burn magic",
+        "color": "#FFFF5A00"
     },
     {
         "id": 622,
-        "text": "CRAFT: burn red"
+        "text": "CRAFT: burn red",
+        "color": "#FFFF5A00"
     },
     {
         "id": 623,
-        "text": "QUET: +tecu"
+        "text": "QUET: +tecu",
+        "color": "#FFFF5A00"
     },
     {
         "id": 624,
-        "text": "TREE B: +chop red"
+        "text": "TREE B: +chop red",
+        "color": "#FFFF5A00"
     },
     {
         "id": 625,
-        "text": "W BIRTH: +graceful"
+        "text": "W BIRTH: +graceful",
+        "color": "#FFFF5A00"
     },
     {
         "id": 626,
-        "text": "DORG: +light orb"
+        "text": "DORG: +light orb",
+        "color": "#FFFF5A00"
     },
     {
         "id": 627,
-        "text": "BOTD 5: +block"
+        "text": "BOTD 5: +block",
+        "color": "#FFFF5A00"
     },
     {
         "id": 628,
-        "text": "LYRE 3: +amulet"
+        "text": "LYRE 3: +amulet",
+        "color": "#FFFF5A00"
     },
     {
         "id": 629,
-        "text": "MORT: +burn fiyr"
+        "text": "MORT: +burn fiyr",
+        "color": "#FFFF5A00"
     },
     {
         "id": 630,
-        "text": "CRAFT: eel"
+        "text": "CRAFT: eel",
+        "color": "#FFFF5A00"
     },
     {
         "id": 631,
-        "text": "SLAY 2: +whip"
+        "text": "SLAY 2: +whip",
+        "color": "#FFFF5A00"
     },
     {
         "id": 632,
-        "text": "CRAFT: rune dart"
+        "text": "CRAFT: rune dart",
+        "color": "#FFFF5A00"
     },
     {
         "id": 633,
-        "text": "MORT: +kill fiyr"
+        "text": "MORT: +kill fiyr",
+        "color": "#FFFF5A00"
     },
     {
         "id": 634,
-        "text": "DJR: shaman"
+        "text": "DJR: shaman",
+        "color": "#FFFF5A00"
     },
     {
         "id": 635,
-        "text": "ARC HT: +reanimate"
+        "text": "ARC HT: +reanimate",
+        "color": "#FFFF5A00"
     },
     {
         "id": 636,
-        "text": "HILT: mage"
+        "text": "HILT: mage",
+        "color": "#FFFF5A00"
     },
     {
         "id": 637,
-        "text": "SLAY 5: +rune"
+        "text": "SLAY 5: +rune",
+        "color": "#FFFF5A00"
     },
     {
         "id": 638,
-        "text": "CRAFT: ranging mix"
+        "text": "CRAFT: ranging mix",
+        "color": "#FFFF5A00"
     },
     {
         "id": 639,
-        "text": "CRAFT: anti-venom"
+        "text": "CRAFT: anti-venom",
+        "color": "#FFFF0000"
     },
     {
         "id": 640,
-        "text": "LLET: pp Mawrth"
+        "text": "LLET: pp Mawrth",
+        "color": "#FFFF5A00"
     },
     {
         "id": 641,
-        "text": "SLAY 2: nechryael"
+        "text": "SLAY 2: nechryael",
+        "color": "#FFFF5A00"
     },
     {
         "id": 642,
-        "text": "PEST: +rune med"
+        "text": "PEST: +rune med",
+        "color": "#FFFF5A00"
     },
     {
         "id": 643,
-        "text": "ARDY: gem"
+        "text": "ARDY: gem",
+        "color": "#FFFF5A00"
     },
     {
         "id": 644,
-        "text": "POH 1: TREE 7"
+        "text": "POH 1: TREE 7",
+        "color": "#FFFF5A00"
     }
 ]
