@@ -17,7 +17,7 @@ medium:
   - [Spade, Max cape, Music cape(t), Master scroll book]
   - [Games necklace, Necklace of passage, Skills necklace, Xeric's talisman]
   - [Ring of dueling, Ring of wealth, Kharyrll teleport (tablet), Pendant of ates]
-  - [Stamina potion(4), Ring of the elements, Divine rune pouch, Steel key ring]
+  - [Chugging barrel, Ring of the elements, Divine rune pouch, Steel key ring]
   - [~, ~, Skull sceptre, Soul rune]
   - [~, ~, Reward casket (medium), Cosmic rune]
   spellbook: lunar
@@ -26,3 +26,9 @@ medium:
   - Dust rune
   - Steam rune
   - Astral rune
+  potions:
+  - Divine super combat potion(4)
+  - Stamina potion(4)
+  - Stamina mix(2)
+  - Super energy mix(2)
+  - Prayer mix(2)

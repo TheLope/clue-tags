@@ -22,11 +22,11 @@ def define_env(env):
                 </a>
                 """
 
-    def item_render(item):
+    def item_render(item, transparent=False):
         return f"""
                 <a href="{ wiki_url }/w/{ item.replace(' ', '_') }"
                     title="{ item }">
-                    <img src="{ wiki_url }/images/{ item.replace(' ', '_') }.png">
+                    <img class="{'transparent' if transparent else 'img'}" src="{ wiki_url }/images/{ item.replace(' ', '_') }.png">
                 </a>
                 """
 
@@ -113,6 +113,42 @@ def define_env(env):
                    </table>
                    """
 
+    def barrel_td(runes, index):
+        if index >= len(runes):
+            return f"""
+                        <td class="vial">
+                        { item_render("Vial", True) }
+                    </td>
+                    """
+        else:
+            return f"""
+                        <td>
+                        { item_render(runes[index]) }
+                    </td>
+                    """
+
+    @env.macro
+    def barrel(tier):
+        potions = env.variables[tier]['potions']
+
+        if not potions:
+            return ''
+
+        r = f"""
+            <table class="chuggingbarreltable">
+                <tbody>
+                    <tr>
+            """
+
+        for index in range(5):
+            r += barrel_td(potions, index)
+
+        return r + """
+                           </tr>
+                       </tbody>
+                   </table>
+                   """
+
     @env.macro
     def setup(tier):
         return f"""
@@ -138,11 +174,14 @@ def define_env(env):
         </table>
     </div>
     <div class="right-container">
-        <div class="half-container-top">
+        <div class="quarter-container-top">
             { spellbook(tier) }
         </div>
-        <div class="half-container-bottom">
+        <div class="quarter-container-bottom">
             { rune_pouch(tier) }
+        </div>
+        <div class="quarter-container-bottom">
+            { barrel(tier) }
         </div>
     </div>
 </div>

@@ -39,10 +39,10 @@ div {
   flex-wrap: wrap;
 }
 
-.half-container-top {
+.quarter-container-top {
   flex: 0 0 100%;
-  max-height: 50%;
-  min-height: 50%;
+  max-height: 25%;
+  min-height: 25%;
   max-width: 100%;
   padding: .5em;
   display: flex;
@@ -50,10 +50,10 @@ div {
   justify-content: center;
 }
 
-.half-container-bottom {
+.quarter-container-bottom {
   flex: 0 0 100%;
-  max-height: 50%;
-  min-height: 50%;
+  max-height: 25%;
+  min-height: 25%;
   max-width: 100%;
   padding: .5em;
   display: flex;
@@ -141,7 +141,7 @@ img {
     src: local("RuneScape Plain 12"),url(https://oldschool.runescape.wiki/images/RuneScape_Small.woff2?1ee0e) format('woff2')
 }
 
-.inventorytable .inv-quantity-text,.lootingbagtable .inv-quantity-text,.runepouchtable .inv-quantity-text,.equipment .inv-quantity-text {
+.inventorytable .inv-quantity-text,.lootingbagtable .inv-quantity-text,.runepouchtable .inv-quantity-text,.chuggingbarreltable .inv-quantity-text,.equipment .inv-quantity-text {
     font-family: 'RuneScape Small';
     font-size: 12pt;
     position: absolute;
@@ -153,7 +153,7 @@ img {
 }
 
 @media (-webkit-min-device-pixel-ratio: 2),(min-resolution:192dpi) {
-    .inventorytable img,.lootingbagtable img,.runepouchtable img,.equipment img {
+    .inventorytable img,.lootingbagtable img,.runepouchtable img,.chuggingbarreltable img, .equipment img {
         image-rendering:pixelated;
         image-rendering: crisp-edges
     }
@@ -177,6 +177,10 @@ img {
 
 .equipment .inv-quantity-text {
     top: -3px
+}
+
+.chuggingbarreltable .inv-quantity-text {
+    left: -1px
 }
 
 table {
@@ -287,7 +291,7 @@ table {
     top: 158px
 }
 
-.inventorytable,.lootingbagtable,.runepouchtable {
+.inventorytable,.lootingbagtable,.runepouchtable,.chuggingbarreltable {
     background-repeat: no-repeat;
     background-position: top left;
     height: auto;
@@ -297,7 +301,7 @@ table {
     margin-bottom: 7px
 }
 
-.inventorytable td,.lootingbagtable td,.runepouchtable td {
+.inventorytable td,.lootingbagtable td,.runepouchtable td,.chuggingbarreltable td {
     padding: 0;
     border: 0;
     text-align: center;
@@ -328,4 +332,18 @@ table {
 
 .divinerunepouch td.middle-rune + td.middle-rune {
     padding-left: 0
+}
+
+.chuggingbarreltable {
+    background-image: url(./Chugging_barrel_background.png);
+    width: 200px;
+    padding: 24px 7px
+}
+
+.chuggingbarreltable td {
+    width: 31px;
+}
+
+img.transparent {
+    opacity: 0.25;
 }

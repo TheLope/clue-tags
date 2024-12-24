@@ -17,7 +17,7 @@ beginner:
   - [Spade, Max cape, Pike, Trout]
   - [Strange device (beginner), Necklace of passage, Skills necklace, Amulet of eternal glory]
   - [Gold ring, Combat bracelet, Senntisten teleport (tablet), Lassar teleport (tablet)]
-  - [Stamina potion(4), Ring of the elements, Divine rune pouch, Draynor manor teleport (tablet)]
+  - [Chugging barrel, Ring of the elements, Divine rune pouch, Draynor manor teleport (tablet)]
   - [~, Leather body, Skull sceptre, Iron ore]
   - [~, Leather chaps, Reward casket (beginner), Iron dagger]
   spellbook: standard
@@ -25,3 +25,7 @@ beginner:
   - Law rune
   - Dust rune
   - Steam rune
+  potions:
+  - Stamina potion(4)
+  - Stamina mix(2)
+  - Super energy mix(2)
