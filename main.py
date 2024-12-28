@@ -76,12 +76,26 @@ def define_env(env):
 
     @env.macro
     def spellbook(tier):
-        spellbook = env.variables[tier]['spellbook']
+        spells = env.variables[tier]['spellbook']
 
-        if not spellbook:
+        if not spells:
             return ''
 
-        return f"""<img class="icon" src="{ wiki_url }/images/{ spellbook.title() }_spellbook.png"/>"""
+        r = f"""
+            <table class="spellstable storage-center">
+                <tbody>
+                    <tr>
+            """
+
+        for index in range(len(spells)):
+            middle = index > 0
+            r += rune_pouch_td(spells, index, middle)
+
+        return r + """
+                           </tr>
+                       </tbody>
+                   </table>
+                   """
 
     def rune_pouch_td(runes, index, middle):
         return f"""
@@ -98,7 +112,7 @@ def define_env(env):
             return ''
 
         r = f"""
-            <table class="runepouchtable {'divinerunepouch' if len(runes) == 4 else ''}">
+            <table class="runepouchtable storage-center {'divinerunepouch' if len(runes) == 4 else ''}">
                 <tbody>
                     <tr>
             """
@@ -116,35 +130,41 @@ def define_env(env):
     @env.macro
     def setup(tier):
         return f"""
-<div class="main-container">
-    <div class="left-container">
-        <table class="equipment">
-            <tbody>
-                <tr>
-                    <td>
-                        <div class="equipment-div">
-                            { equipment(tier) }
-                        </div>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-    <div class="left-container">
-        <table class="inventorytable">
-            <tbody>
-                { inventory(tier) }
-            </tbody>
-        </table>
-    </div>
-    <div class="right-container">
-        <div class="half-container-top">
-            { spellbook(tier) }
-        </div>
-        <div class="half-container-bottom">
-            { rune_pouch(tier) }
-        </div>
-    </div>
+<div>
+    <table class="">
+        <tbody>
+            <tr>
+                <td>
+                    <table class="equipment equipment-center">
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <div class="equipment-div">
+                                        { equipment(tier) }
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+                <td>
+                    <table class="inventorytable storage-center">
+                        <tbody>
+                            { inventory(tier) }
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    { spellbook(tier) }
+                </td>
+                <td>
+                    { rune_pouch(tier) }
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </div>
 """
 

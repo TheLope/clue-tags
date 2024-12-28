@@ -20,7 +20,9 @@ medium:
   - [Stamina potion(4), Ring of the elements, Divine rune pouch, Steel key ring]
   - [~, ~, Skull sceptre, Soul rune]
   - [~, ~, Reward casket (medium), Cosmic rune]
-  spellbook: lunar
+  spellbook:
+  - Lunar spellbook
+  - Spellbook Swap
   rune_pouch:
   - Law rune
   - Dust rune
