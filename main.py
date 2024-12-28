@@ -131,7 +131,19 @@ def define_env(env):
     def banktags(tier):
         with open(f'tags/{ tier }/bank.txt') as f: tags = f.read()
 
-        return tags
+        return f"""
+<td colspan="2">
+    <textarea id="banktags" style="display:none;">
+        { tags }
+    </textarea>
+    <div class="tooltip">
+        <button id="copy" class="equipment">
+            <span id="copyTooltip" class="tooltiptext">Copy to clipboard</span>
+            Copy Banktag Loadout
+        </button>
+    </div>
+</td>
+"""
 
     @env.macro
     def setup(tier):
@@ -170,17 +182,7 @@ def define_env(env):
                 </td>
             </tr>
             <tr style="text-align:center">
-                <td colspan="2">
-                    <textarea id="banktags" style="display:none;">
-                        { banktags(tier) }
-                    </textarea>
-                    <div class="tooltip">
-                        <button id="copy" class="equipment">
-                            <span id="copyTooltip" class="tooltiptext">Copy to clipboard</span>
-                            Copy Banktag Loadout
-                        </button>
-                    </div>
-                </td>
+                { banktags(tier) }
             </tr>
         </tbody>
     </table>
