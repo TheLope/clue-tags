@@ -94,7 +94,7 @@ img {
     src: local("RuneScape Plain 12"),url(https://oldschool.runescape.wiki/images/RuneScape_Small.woff2?1ee0e) format('woff2')
 }
 
-.inventorytable .inv-quantity-text,.lootingbagtable .inv-quantity-text,.runepouchtable .inv-quantity-text,.equipment .inv-quantity-text {
+.inventorytable .inv-quantity-text,.runepouchtable .inv-quantity-text,.spellstable .inv-quantity-text,.equipment .inv-quantity-text {
     font-family: 'RuneScape Small';
     font-size: 12pt;
     position: absolute;
@@ -106,7 +106,7 @@ img {
 }
 
 @media (-webkit-min-device-pixel-ratio: 2),(min-resolution:192dpi) {
-    .inventorytable img,.lootingbagtable img,.runepouchtable img,.equipment img {
+    .inventorytable img,.runepouchtable img,.spellstable img,.equipment img {
         image-rendering:pixelated;
         image-rendering: crisp-edges
     }
@@ -255,7 +255,7 @@ table {
     margin-bottom: 7px
 }
 
-.inventorytable.storage-center, .lootingbagtable.storage-center, .runepouchtable.storage-center {
+.inventorytable.storage-center, .runepouchtable.storage-center, .spellstable.storage-center {
     margin-left: auto;
     margin-right: auto
 }

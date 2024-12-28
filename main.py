@@ -128,6 +128,12 @@ def define_env(env):
                    """
 
     @env.macro
+    def banktags(tier):
+        with open(f'tags/{ tier }/bank.txt') as f: tags = f.read()
+
+        return tags
+
+    @env.macro
     def setup(tier):
         return f"""
 <div>
@@ -163,6 +169,19 @@ def define_env(env):
                     { rune_pouch(tier) }
                 </td>
             </tr>
+            <tr style="text-align:center">
+                <td colspan="2">
+                    <textarea id="banktags" style="display:none;">
+                        { banktags(tier) }
+                    </textarea>
+                    <div class="tooltip">
+                        <button id="copy" class="equipment">
+                            <span id="copyTooltip" class="tooltiptext">Copy to clipboard</span>
+                            Copy Banktag Loadout
+                        </button>
+                    </div>
+                </td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -180,11 +199,6 @@ def define_env(env):
 { title(f"{ tier.title() } Bank Tags", f"{ image }_detail") }
 
 { setup(tier) }
-
-_Copy button is provided on the right_
-``` json title=""
---8<-- "tags/{ tier }/bank.txt"
-```
 """
 
     @env.macro
