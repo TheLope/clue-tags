@@ -20,7 +20,8 @@ beginner:
   - [Stamina potion(4), Ring of the elements, Divine rune pouch, Draynor manor teleport (tablet)]
   - [~, Leather body, Skull sceptre, Iron ore]
   - [~, Leather chaps, Reward casket (beginner), Iron dagger]
-  spellbook: standard
+  spellbook:
+  - Standard spellbook
   rune_pouch:
   - Law rune
   - Dust rune

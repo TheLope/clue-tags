@@ -20,7 +20,8 @@ easy:
   - [Stamina potion(4), Ring of the elements, Divine rune pouch, Draynor manor teleport (tablet)]
   - [~, ~, Perfected quetzal whistle, Khazard teleport (tablet)]
   - [~, ~, Reward casket (easy), Catherby teleport (tablet)]
-  spellbook: standard
+  spellbook:
+  - Standard spellbook
   rune_pouch:
   - Law rune
   - Dust rune

@@ -20,7 +20,9 @@ hard:
   - [Divine super combat potion(4), Stamina potion(4), Divine rune pouch, Blood rune/100]
   - [~, ~, Karamja gloves 4, Soul rune/100]
   - [~, ~, ~, Cosmic rune/100]
-  spellbook: lunar
+  spellbook:
+  - Lunar spellbook
+  - Spellbook Swap
   rune_pouch:
   - Law rune
   - Dust rune

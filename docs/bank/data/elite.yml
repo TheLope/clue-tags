@@ -20,7 +20,9 @@ elite:
   - [Divine ranging potion(4), Stamina potion(4), Divine rune pouch, Blood rune]
   - [~, ~, Sled, Soul rune]
   - [~, ~, ~, Cosmic rune]
-  spellbook: lunar
+  spellbook:
+  - Lunar spellbook
+  - Spellbook Swap
   rune_pouch:
   - Law rune
   - Dust rune

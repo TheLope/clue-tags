@@ -92,4 +92,5 @@ plugins:
         - docs/bank/data/master.yml
         - docs/bank/data/mimic.yml
 extra_javascript:
+  - javascripts/banktags.js
   - javascripts/convert.js

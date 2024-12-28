@@ -5,8 +5,8 @@ Recommended gear setups with Bank Tags for all tiers
 ## How To
 
 1. Import Bank Tags
-    - Copy contents of one of the provided bank tags to your clipboard
-    - Right click the *New tag tab* button
+    - Click the *Copy Banktag Loadout* button for one of the provided setups (see *Tags* below)
+    - In your bank, right click the *New tag tab* button
     - Select *Import tag tab*
         - ![Bank Tag Import](images/config.png)
 
