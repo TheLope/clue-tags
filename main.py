@@ -1,4 +1,5 @@
 import json
+import os
 import re
 
 
@@ -203,15 +204,56 @@ def define_env(env):
 { setup(tier) }
 """
 
+    def get_certain_keys(data, keys):
+        result = []
+        for item in data:
+            new_item = {}
+            for key in keys:
+                if key in item:
+                    new_item[key] = item[key]
+            if all(key in new_item for key in keys):
+                result.append(new_item)
+        return result
+
+    def create_filtered_details(tier):
+        with open(f'tags/{ tier }/details.json', 'r') as f:
+            data = json.load(f)
+
+        path = f"tags/{ tier }/filtered"
+        if not os.path.exists(path):
+            os.mkdir(path)
+
+        for filter in ["text", "color", "items"]:
+            keys_to_get = ["id", filter]
+            result = get_certain_keys(data, keys_to_get)
+            f = open(f"tags/{ tier }/filtered/{ filter }.json", "w")
+            f.write(json.dumps(result, indent=4))
+            f.close()
+
     @env.macro
     def details(tier):
+        create_filtered_details(tier)
         return f"""
 { title(f"{ tier.title() } Clue Details", f"Clue_scroll_({ tier })_detail") }
 
 _Copy button is provided on the right_
-``` json title=""
---8<-- "tags/{ tier }/details.json"
-```
+
+=== "All"
+    ``` json title=""
+    --8<-- "tags/{ tier }/details.json"
+    ```
+=== "Text"
+    ``` json title=""
+    --8<-- "tags/{ tier }/filtered/text.json"
+    ```
+=== "Colors"
+    ``` json title=""
+    --8<-- "tags/{ tier }/filtered/color.json"
+    ```
+=== "Items"
+    ``` json title=""
+    --8<-- "tags/{ tier }/filtered/items.json"
+    ```
 """
 
     @env.macro

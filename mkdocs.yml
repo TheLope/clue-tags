@@ -24,6 +24,7 @@ theme:
   features:
     - navigation.footer
     - content.code.copy
+    - content.tabs.link
     - navigation.indexes
     - navigation.sections
     - navigation.instant.prefetch
@@ -67,6 +68,8 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
 extra:
   social:
     - icon: fontawesome/brands/x-twitter
