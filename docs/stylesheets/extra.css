@@ -299,3 +299,31 @@ table {
     height: 62px;
     padding: 27px 7px 7px
 }
+
+.beginner-color {
+    color: #C8C8C8
+}
+.easy-color {
+    color: #4CCA27
+}
+.medium-color {
+    color: #4BB7FF
+}
+.hard-color {
+    color: #C15FFF
+}
+.hard-uri-color {
+    color: #FF00AF
+}
+.elite-color {
+    color: #B7FF00
+}
+.elite-challenge-color {
+    color: #00FF00
+}
+.master-color {
+    color: #FF5A00
+}
+.wilderness-color {
+    color: #FF0000
+}

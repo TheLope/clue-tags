@@ -236,6 +236,8 @@ def define_env(env):
         return f"""
 { title(f"{ tier.title() } Clue Details", f"Clue_scroll_({ tier })_detail") }
 
+You may filter the details to import text, color, and items all together, or each separately via the tabs below
+
 _Copy button is provided on the right_
 
 === "All"

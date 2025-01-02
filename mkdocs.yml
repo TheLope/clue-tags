@@ -8,16 +8,6 @@ theme:
     # Palette toggle for dark mode
     - scheme: slate
       primary: black
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-
-    # Palette toggle for light mode
-    - scheme: default
-      primary: black
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
   icon:
     logo: clue/clue
     repo: fontawesome/brands/github
