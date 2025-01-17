@@ -1,24 +1,24 @@
 master:
   equipment:
-    head: Masori mask (f)
-    cape: Dizana's max cape
-    neck: Necklace of anguish
-    ammo: Holy blessing
+    head: Torva full helm
+    cape: Infernal cape
+    neck: Amulet of rancour
+    ammo: Unholy blessing
     ammo2: ~
-    weapon: Toxic blowpipe
-    torso: Masori body (f)
-    legs: Masori chaps (f)
-    shield: ~
-    gloves: Combat bracelet
-    boots: Pegasian boots
-    ring: Slayer ring (eternal)
+    weapon: Holy ghrazi rapier
+    torso: Fighter torso
+    legs: Morytania legs 4
+    shield: Ghommal's avernic defender 6
+    gloves: Ferocious gloves
+    boots: Primordial boots
+    ring: Ultor ring
   inventory:
   - [Clue scroll (master), Achievement diary cape (t), Music cape(t), Book of the dead]
-  - [Spade, Max cape, Morytania legs 4, Master scroll book]
+  - [Spade, Max cape, Kandarin headgear 4, Master scroll book]
   - [Strange device, Enchanted lyre, Eternal teleport crystal, Xeric's talisman]
-  - [Kandarin headgear 4, Zamorak godsword, Ghommal's hilt 6, Drakan's medallion]
-  - [Divine bastion potion(4), Stamina potion(4), Divine rune pouch, Blood rune]
-  - [~, ~, ~, Soul rune]
+  - [Slayer ring (eternal), Combat bracelet, Drakan's medallion, Death rune]
+  - [Dragon claws, Divine super combat potion(4), Divine rune pouch, Blood rune]
+  - [~, ~, Super restore(4), Soul rune]
   - [~, ~, ~, Cosmic rune]
   spellbook:
   - Lunar spellbook
