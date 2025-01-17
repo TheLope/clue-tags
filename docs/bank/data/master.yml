@@ -5,10 +5,10 @@ master:
     neck: Amulet of rancour
     ammo: Unholy blessing
     ammo2: ~
-    weapon: Holy ghrazi rapier
+    weapon: Dragon claws
     torso: Fighter torso
     legs: Morytania legs 4
-    shield: Ghommal's avernic defender 6
+    shield: ~
     gloves: Ferocious gloves
     boots: Primordial boots
     ring: Ultor ring
@@ -17,8 +17,8 @@ master:
   - [Spade, Max cape, Kandarin headgear 4, Master scroll book]
   - [Strange device, Enchanted lyre, Eternal teleport crystal, Xeric's talisman]
   - [Slayer ring (eternal), Combat bracelet, Drakan's medallion, Death rune]
-  - [Dragon claws, Divine super combat potion(4), Divine rune pouch, Blood rune]
-  - [~, ~, Super restore(4), Soul rune]
+  - [Holy ghrazi rapier, Divine super combat potion(4), Divine rune pouch, Blood rune]
+  - [Ghommal's avernic defender 6, ~, ~, Soul rune]
   - [~, ~, ~, Cosmic rune]
   spellbook:
   - Lunar spellbook
