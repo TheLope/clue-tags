@@ -1,658 +1,822 @@
 [
     {
         "id": 2677,
-        "text": "LUMB: up duke chest"
+        "text": "LUMB: up duke chest",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2678,
-        "text": "LUMB: se tower crate"
+        "text": "LUMB: se tower crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2679,
-        "text": "DIA B: goblin box"
+        "text": "DIA B: goblin box",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2680,
-        "text": "GLORY 4: up e chest"
+        "text": "GLORY 4: up e chest",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2681,
-        "text": "LUMB: Hans"
+        "text": "LUMB: Hans",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2682,
-        "text": "DUEL 1: sw crate"
+        "text": "DUEL 1: sw crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2683,
-        "text": "GLORY 4: n Zeke"
+        "text": "GLORY 4: n Zeke",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2684,
-        "text": "GLORY 4: nw Ellis"
+        "text": "GLORY 4: nw Ellis",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2685,
-        "text": "COMB 2: ne box"
+        "text": "COMB 2: ne box",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2686,
-        "text": "DIA D: s Bartend"
+        "text": "DIA D: s Bartend",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2687,
-        "text": "DIA D: e bank up"
+        "text": "DIA D: e bank up",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2688,
-        "text": "DIA D: armor crate"
+        "text": "DIA D: armor crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2689,
-        "text": "SKIL 4: s drawer"
+        "text": "SKIL 4: s drawer",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2690,
-        "text": "SKULL: nw crate"
+        "text": "SKULL: nw crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2691,
-        "text": "FALLY: ne up drawer"
+        "text": "FALLY: ne up drawer",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2692,
-        "text": "FALLY: nw crate"
+        "text": "FALLY: nw crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2693,
-        "text": "DIA 3: Squire"
+        "text": "DIA 3: Squire",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2694,
-        "text": "SKIL 3: climb drawer"
+        "text": "SKIL 3: climb drawer",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2695,
-        "text": "POH 2: e fish crate"
+        "text": "POH 2: e fish crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2696,
-        "text": "EXPL: s Bartend"
+        "text": "EXPL: s Bartend",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2697,
-        "text": "GLORY 3: Ned"
+        "text": "GLORY 3: Ned",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2698,
-        "text": "POH 3: e Doric"
+        "text": "POH 3: e Doric",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2699,
-        "text": "POH 3: sw Gaius"
+        "text": "POH 3: sw Gaius",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2700,
-        "text": "CATH: se drawer"
+        "text": "CATH: se drawer",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2701,
-        "text": "CATH: s Arhein"
+        "text": "CATH: s Arhein",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2702,
-        "text": "CAMELOT: court Kay"
+        "text": "CAMELOT: court Kay",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2703,
-        "text": "CAMELOT: up chest"
+        "text": "CAMELOT: up chest",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2704,
-        "text": "ARDY: nw crate"
+        "text": "ARDY: nw crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2705,
-        "text": "ARDY: box"
+        "text": "ARDY: box",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2706,
-        "text": "ARDY: general crate"
+        "text": "ARDY: general crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2707,
-        "text": "SKIL 1: s crate"
+        "text": "SKIL 1: s crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2708,
-        "text": "VARR: clothes up"
+        "text": "VARR: clothes up",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2709,
-        "text": "VARR: court crate"
+        "text": "VARR: court crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2710,
-        "text": "DIA 1: up drawer"
+        "text": "DIA 1: up drawer",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2711,
-        "text": "ARDY: church up"
+        "text": "ARDY: church up",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2712,
-        "text": "ROW 3: house sw"
+        "text": "ROW 3: house sw",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2713,
-        "text": "COMB 2: w dig"
+        "text": "COMB 2: w dig",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2716,
-        "text": "SENN: gate n dig"
+        "text": "SENN: gate n dig",
+        "color": "#FF4CCA27"
     },
     {
         "id": 2719,
-        "text": "SKULL: stone r dig"
+        "text": "SKULL: stone r dig",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3490,
-        "text": "GAME 1: ne drawer"
+        "text": "GAME 1: ne drawer",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3491,
-        "text": "YANIL: ne crate"
+        "text": "YANIL: ne crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3492,
-        "text": "POH 8: se drawer"
+        "text": "POH 8: se drawer",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3493,
-        "text": "SKIL 2: disk chest"
+        "text": "SKIL 2: disk chest",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3494,
-        "text": "POH 2: witch up"
+        "text": "POH 2: witch up",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3495,
-        "text": "POH 2: e up chest"
+        "text": "POH 2: e up chest",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3496,
-        "text": "POH 2: e Tobias"
+        "text": "POH 2: e Tobias",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3497,
-        "text": "ROW 3: house n up"
+        "text": "ROW 3: house n up",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3498,
-        "text": "ROW 3: house s"
+        "text": "ROW 3: house s",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3499,
-        "text": "POH 3: sw box"
+        "text": "POH 3: sw box",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3500,
-        "text": "POH 3: s drawer"
+        "text": "POH 3: s drawer",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3501,
-        "text": "DUEL 1: s box"
+        "text": "DUEL 1: s box",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3502,
-        "text": "MANOR: top crate"
+        "text": "MANOR: top crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3503,
-        "text": "GAME 1: army box"
+        "text": "GAME 1: army box",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3504,
-        "text": "KHAZ: se crate"
+        "text": "KHAZ: se crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3505,
-        "text": "ARDY: n drawer"
+        "text": "ARDY: n drawer",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3506,
-        "text": "COMB 4: nw crate"
+        "text": "COMB 4: nw crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3507,
-        "text": "CATH: up drawer"
+        "text": "CATH: up drawer",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3508,
-        "text": "SEER: sw up drawer"
+        "text": "SEER: sw up drawer",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3509,
-        "text": "SEER: w crate"
+        "text": "SEER: w crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3510,
-        "text": "DIA F: n dig"
+        "text": "DIA F: n dig",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3512,
-        "text": "GLORY 3: n drawer"
+        "text": "GLORY 3: n drawer",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3513,
-        "text": "MUSIC: ne Louisa"
+        "text": "MUSIC: ne Louisa",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3514,
-        "text": "DUEL 1: e Jeed"
+        "text": "DUEL 1: e Jeed",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3515,
-        "text": "GE: castle crate"
+        "text": "GE: castle crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3516,
-        "text": "COMB 4: nw dig"
+        "text": "COMB 4: nw dig",
+        "color": "#FF4CCA27"
     },
     {
         "id": 3518,
-        "text": "PASS 1: s dig"
+        "text": "PASS 1: s dig",
+        "color": "#FF4CCA27"
     },
     {
         "id": 7236,
-        "text": "FALLY: n dig"
+        "text": "FALLY: n dig",
+        "color": "#FF4CCA27"
     },
     {
         "id": 7238,
-        "text": "DIA C: ne crate"
+        "text": "DIA C: ne crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10180,
-        "text": "ROTE 2: e stash"
+        "text": "ROTE 2: e stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10182,
-        "text": "PASS 1: n stash"
+        "text": "PASS 1: n stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10184,
-        "text": "GLORY 3: w stash"
+        "text": "GLORY 3: w stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10186,
-        "text": "ROTE 3: e stash"
+        "text": "ROTE 3: e stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10188,
-        "text": "QPC: stash"
+        "text": "QPC: stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10190,
-        "text": "AIQ: stash"
+        "text": "AIQ: stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10192,
-        "text": "TREE 7: s stash"
+        "text": "TREE 7: s stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10194,
-        "text": "ROTE 4: mine stash"
+        "text": "ROTE 4: mine stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10196,
-        "text": "MANOR: sw stash"
+        "text": "MANOR: sw stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10198,
-        "text": "GLORY 3: ne stash"
+        "text": "GLORY 3: ne stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10200,
-        "text": "GLORY 3: n stash"
+        "text": "GLORY 3: n stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10202,
-        "text": "POH 2: mine stash"
+        "text": "POH 2: mine stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10204,
-        "text": "GE: castle stash"
+        "text": "GE: castle stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10206,
-        "text": "SKIL 1: mill stash"
+        "text": "SKIL 1: mill stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10208,
-        "text": "SKIL 2: party stash"
+        "text": "SKIL 2: party stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10210,
-        "text": "POH 3: ne stash"
+        "text": "POH 3: ne stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10212,
-        "text": "GAME 1: down naked"
+        "text": "GAME 1: down naked",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10214,
-        "text": "DIA 5: e stash"
+        "text": "DIA 5: e stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10216,
-        "text": "DIA 1: zoo stash"
+        "text": "DIA 1: zoo stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10218,
-        "text": "ROTE 1: stash"
+        "text": "ROTE 1: stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10220,
-        "text": "SKIL 1: stash"
+        "text": "SKIL 1: stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10222,
-        "text": "HEAD: se stash"
+        "text": "HEAD: se stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10224,
-        "text": "KHAZ: e naked"
+        "text": "KHAZ: e naked",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10226,
-        "text": "MUSIC: e stash"
+        "text": "MUSIC: e stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10228,
-        "text": "SENN: exam stash"
+        "text": "SENN: exam stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10230,
-        "text": "LUMBER: stash"
+        "text": "LUMBER: stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 10232,
-        "text": "DUEL 1: stash"
+        "text": "DUEL 1: stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12162,
-        "text": "VARR: court stash"
+        "text": "VARR: court stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12164,
-        "text": "FALLY: sw stash"
+        "text": "FALLY: sw stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12166,
-        "text": "ROTE 2: nw l book"
+        "text": "ROTE 2: nw l book",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12167,
-        "text": "PASS 1: s book"
+        "text": "PASS 1: s book",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12168,
-        "text": "GLORY 3: witch robe"
+        "text": "GLORY 3: witch robe",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12169,
-        "text": "SKIL 2: party Lucy"
+        "text": "SKIL 2: party Lucy",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12170,
-        "text": "SKULL: stone l dig"
+        "text": "SKULL: stone l dig",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12172,
-        "text": "SKULL: ne chest"
+        "text": "SKULL: ne chest",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12173,
-        "text": "GLORY 1: w Doris"
+        "text": "GLORY 1: w Doris",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12174,
-        "text": "GLORY 1: s coffin"
+        "text": "GLORY 1: s coffin",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12175,
-        "text": "DIGS: se bush"
+        "text": "DIGS: se bush",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12176,
-        "text": "VARR: w down"
+        "text": "VARR: w down",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12177,
-        "text": "COMB 3: se book"
+        "text": "COMB 3: se book",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12178,
-        "text": "COMB 3: mine crate"
+        "text": "COMB 3: mine crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12179,
-        "text": "ROTE 4: mine dig"
+        "text": "ROTE 4: mine dig",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12181,
-        "text": "FALLY: ne Cassie"
+        "text": "FALLY: ne Cassie",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12182,
-        "text": "DIA 3: up Ambass"
+        "text": "DIA 3: up Ambass",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12183,
-        "text": "FALLY: w Hairdress"
+        "text": "FALLY: w Hairdress",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12184,
-        "text": "POH 3: s Jatix"
+        "text": "POH 3: s Jatix",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12185,
-        "text": "GAME 1: pub crate"
+        "text": "GAME 1: pub crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12186,
-        "text": "EXPL: w Sarah"
+        "text": "EXPL: w Sarah",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12187,
-        "text": "FALLY: n Rusty"
+        "text": "FALLY: n Rusty",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12188,
-        "text": "EXPL: sw drawer"
+        "text": "EXPL: sw drawer",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12189,
-        "text": "POH 2: mine wheel"
+        "text": "POH 2: mine wheel",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12190,
-        "text": "LUMBER: basket Lady"
+        "text": "LUMBER: basket Lady",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12191,
-        "text": "POH 3: climb"
+        "text": "POH 3: climb",
+        "color": "#FF4CCA27"
     },
     {
         "id": 12192,
-        "text": "DIA 2: Shantay bucket"
+        "text": "DIA 2: Shantay bucket",
+        "color": "#FF4CCA27"
     },
     {
         "id": 19814,
-        "text": "LUMB: dig"
+        "text": "LUMB: dig",
+        "color": "#FF4CCA27"
     },
     {
         "id": 19816,
-        "text": "PADD: ne Vannaka"
+        "text": "PADD: ne Vannaka",
+        "color": "#FF4CCA27"
     },
     {
         "id": 19817,
-        "text": "VARR: sw Apothecary"
+        "text": "VARR: sw Apothecary",
+        "color": "#FF4CCA27"
     },
     {
         "id": 19818,
-        "text": "POH 5: s drawer"
+        "text": "POH 5: s drawer",
+        "color": "#FF4CCA27"
     },
     {
         "id": 19819,
-        "text": "FALLY: sw Herquin"
+        "text": "FALLY: sw Herquin",
+        "color": "#FF4CCA27"
     },
     {
         "id": 19820,
-        "text": "XER 2: church Jean"
+        "text": "XER 2: church Jean",
+        "color": "#FF4CCA27"
     },
     {
         "id": 19821,
-        "text": "BOTD 2: ne Tynan"
+        "text": "BOTD 2: ne Tynan",
+        "color": "#FF4CCA27"
     },
     {
         "id": 19822,
-        "text": "POH 2: w Chemist"
+        "text": "POH 2: w Chemist",
+        "color": "#FF4CCA27"
     },
     {
         "id": 19823,
-        "text": "MANOR: Lep"
+        "text": "MANOR: Lep",
+        "color": "#FF4CCA27"
     },
     {
         "id": 19824,
-        "text": "ROTE 1: se Face"
+        "text": "ROTE 1: se Face",
+        "color": "#FF4CCA27"
     },
     {
         "id": 19825,
-        "text": "SKIL 5: salt Konoo"
+        "text": "SKIL 5: salt Konoo",
+        "color": "#FF4CCA27"
     },
     {
         "id": 19826,
-        "text": "XER 4: dig"
+        "text": "XER 4: dig",
+        "color": "#FF4CCA27"
     },
     {
         "id": 19828,
-        "text": "DIA F: se up Ermin"
+        "text": "DIA F: se up Ermin",
+        "color": "#FF4CCA27"
     },
     {
         "id": 19829,
-        "text": "BOTD 1: w crate"
+        "text": "BOTD 1: w crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 19830,
-        "text": "DIA B: Doomsayer"
+        "text": "DIA B: Doomsayer",
+        "color": "#FF4CCA27"
     },
     {
         "id": 19831,
-        "text": "GE: s stash"
+        "text": "GE: s stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 19833,
-        "text": "DIA D: rune stash"
+        "text": "DIA D: rune stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 22001,
-        "text": "TREE 5: se dig"
+        "text": "TREE 5: se dig",
+        "color": "#FF4CCA27"
     },
     {
         "id": 23149,
-        "text": "POH 3: crystal box"
+        "text": "POH 3: crystal box",
+        "color": "#FF4CCA27"
     },
     {
         "id": 23150,
-        "text": "ROTE 2: nw r book"
+        "text": "ROTE 2: nw r book",
+        "color": "#FF4CCA27"
     },
     {
         "id": 23151,
-        "text": "DIA B: nw farm"
+        "text": "DIA B: nw farm",
+        "color": "#FF4CCA27"
     },
     {
         "id": 23152,
-        "text": "DIA D: armor crate"
+        "text": "DIA D: armor crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 23153,
-        "text": "POH 2: sw crate"
+        "text": "POH 2: sw crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 23154,
-        "text": "FALLY: nw crate"
+        "text": "FALLY: nw crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 23155,
-        "text": "ROW 3: song"
+        "text": "ROW 3: song",
+        "color": "#FF4CCA27"
     },
     {
         "id": 23156,
-        "text": "ROW 3: song"
+        "text": "ROW 3: song",
+        "color": "#FF4CCA27"
     },
     {
         "id": 23157,
-        "text": "ROW 3: song"
+        "text": "ROW 3: song",
+        "color": "#FF4CCA27"
     },
     {
         "id": 23158,
-        "text": "ROW 3: song"
+        "text": "ROW 3: song",
+        "color": "#FF4CCA27"
     },
     {
         "id": 23159,
-        "text": "ROW 3: song"
+        "text": "ROW 3: song",
+        "color": "#FF4CCA27"
     },
     {
         "id": 23160,
-        "text": "ROW 3: song"
+        "text": "ROW 3: song",
+        "color": "#FF4CCA27"
     },
     {
         "id": 23161,
-        "text": "TREE 7: pisc Charles"
+        "text": "TREE 7: pisc Charles",
+        "color": "#FF4CCA27"
     },
     {
         "id": 23162,
-        "text": "GLORY 3: n Morgan"
+        "text": "GLORY 3: n Morgan",
+        "color": "#FF4CCA27"
     },
     {
         "id": 23163,
-        "text": "SKIL 3: climb Wayne"
+        "text": "SKIL 3: climb Wayne",
+        "color": "#FF4CCA27"
     },
     {
         "id": 23164,
-        "text": "SENN: w Leaflet"
+        "text": "SENN: w Leaflet",
+        "color": "#FF4CCA27"
     },
     {
         "id": 23165,
-        "text": "GAME 1: e Turael"
+        "text": "GAME 1: e Turael",
+        "color": "#FF4CCA27"
     },
     {
         "id": 23166,
-        "text": "DIA D: s Cook"
+        "text": "DIA D: s Cook",
+        "color": "#FF4CCA27"
     },
     {
         "id": 25788,
-        "text": "RADA 1: minecart C n"
+        "text": "RADA 1: minecart C n",
+        "color": "#FF4CCA27"
     },
     {
         "id": 25789,
-        "text": "XER 2: ne crate"
+        "text": "XER 2: ne crate",
+        "color": "#FF4CCA27"
     },
     {
         "id": 28913,
-        "text": "OTHER 13: up barrel"
+        "text": "OTHER 13: up barrel",
+        "color": "#FF4CCA27"
     },
     {
         "id": 28914,
-        "text": "CIV: museum stash"
+        "text": "CIV: museum stash",
+        "color": "#FF4CCA27"
     },
     {
         "id": 29853,
-        "text": "POH A: sw dig"
+        "text": "POH A: sw dig",
+        "color": "#FF4CCA27"
     },
     {
         "id": 29854,
-        "text": "QUET Gorge: nw dig"
+        "text": "QUET Gorge: nw dig",
+        "color": "#FF4CCA27"
     }
 ]
