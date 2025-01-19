@@ -7,18 +7,18 @@ master:
     ammo2: ~
     weapon: Dragon claws
     torso: Fighter torso
-    legs: Morytania legs 4
+    legs: Torva platelegs
     shield: ~
     gloves: Ferocious gloves
     boots: Primordial boots
     ring: Ultor ring
   inventory:
-  - [Clue scroll (master), Achievement diary cape (t), Music cape(t), Book of the dead]
-  - [Spade, Max cape, Kandarin headgear 4, Master scroll book]
+  - [Clue scroll (master), Achievement diary cape (t), Quest point cape (t), Book of the dead]
+  - [Spade, Max cape, Music cape(t), Master scroll book]
   - [Strange device, Enchanted lyre, Eternal teleport crystal, Xeric's talisman]
-  - [Slayer ring (eternal), Combat bracelet, Drakan's medallion, Death rune]
+  - [Kandarin headgear 4, Morytania legs 4, Combat bracelet, Drakan's medallion]
   - [Holy ghrazi rapier, Divine super combat potion(4), Divine rune pouch, Blood rune]
-  - [Ghommal's avernic defender 6, ~, ~, Soul rune]
+  - [Ghommal's avernic defender 6, ~, Death rune, Soul rune]
   - [~, ~, ~, Cosmic rune]
   spellbook:
   - Lunar spellbook
