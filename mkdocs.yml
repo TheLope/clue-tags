@@ -22,8 +22,9 @@ theme:
     - navigation.top
 nav:
   - Home: index.md
+  - FAQ: faq.md
   - Clue Details:
-    - details/index.md
+    - Clue Details: details/index.md
     - Beginner: details/beginner.md
     - Easy: details/easy.md
     - Medium: details/medium.md
@@ -32,7 +33,7 @@ nav:
     - Master: details/master.md
     - Converter: details/converter.md
   - Bank Tags:
-    - bank/index.md
+    - Bank Tags: bank/index.md
     - Beginner: bank/beginner.md
     - Easy: bank/easy.md
     - Medium: bank/medium.md
@@ -40,7 +41,6 @@ nav:
     - Elite: bank/elite.md
     - Master: bank/master.md
     - Mimic: bank/mimic.md
-  - FAQ: faq.md
 repo_url: https://github.com/TheLope/clue-tags
 repo_name: TheLope/clue-tags
 markdown_extensions:

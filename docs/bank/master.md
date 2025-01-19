@@ -1,4 +1,5 @@
 ---
+title: Master Bank Tags
 icon: clue/master
 ---
 

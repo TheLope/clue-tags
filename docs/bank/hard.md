@@ -1,4 +1,5 @@
 ---
+title: Hard Bank Tags
 icon: clue/hard
 ---
 

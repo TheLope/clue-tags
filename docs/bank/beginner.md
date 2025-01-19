@@ -1,4 +1,5 @@
 ---
+title: Beginner Bank Tags
 icon: clue/beginner
 ---
 

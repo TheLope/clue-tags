@@ -8,7 +8,7 @@ hide:
 
 ## :clue-clue: Clue Details
 
-The Clue Details plugin allows us to provide hints on the clue scroll item
+The Clue Details plugin allows us to provide custom overlays for clue scrolls
 
 [Get Started :material-location-enter:](details/index.md){ .md-button }
 

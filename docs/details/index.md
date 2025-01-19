@@ -1,10 +1,10 @@
 {{ title("Clue Details", "Clue_scroll_(Song_of_the_Elves)_detail") }}
 
-The Clue Details plugin allows us to provide hints on the clue scroll item
+The Clue Details plugin allows us to provide custom overlays for clue scrolls
 
-1. Easy, Medium, Hard, and Elite tags are loaded automatically
+1. Easy, Medium, Hard, and Elite details are shown automatically
     - These clues have unique item IDs for each clue step
-2. Beginner and Master tags <u>require the clue to be opened once</u>
+2. Beginner and Master details <u>require the clue to be opened once</u>
 
 ## How To
 
@@ -13,7 +13,7 @@ The Clue Details plugin allows us to provide hints on the clue scroll item
     1. Options:
         1. Copy contents of one of the provided clue details lists to your clipboard (see *Tags* below)
         2. If you have tags in the *Custom Item Tags* format, please use the <a href="converter">converter</a>
-    2. Prior to importing, if you would like to overwrite your existing Inventory Tag colors, or Ground Items colors, enable the releated options in the plugin configuration shown below
+    2. Prior to importing, if you would like to overwrite your existing Inventory Tag colors, or Ground Items colors, enable the related options in the plugin configuration shown below
         - _Color Legend_: <span class="beginner-color">Beginner</span> <span class="easy-color">Easy</span> <span class="medium-color">Medium</span> <span class="hard-color">Hard</span> <span class="hard-uri-color">Hard Uri</span> <span class="elite-color">Elite</span> <span class="elite-challenge-color">Elite Challenge</span> <span class="master-color">Master</span> <span class="wilderness-color">Wilderness</span>
         - ![Overlay Colors](images/overlay_colors.png)
             - I recommend disabling "Color clue tags" to make these the tags more readable as shown below

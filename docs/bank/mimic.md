@@ -1,4 +1,5 @@
 ---
+title: Mimic Bank Tags
 icon: clue/mimic
 ---
 
