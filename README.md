@@ -6,7 +6,7 @@ Otherwise, internal links are provided below
 
 ## Clue Details
 
-The Clue Details plugin allows us to provide hints on the clue scroll item
+The Clue Details plugin allows us to provide custom overlays for clue scrolls
 
 ### [How To](docs/details/index.md)
 

@@ -1,4 +1,5 @@
 ---
+title: Hard Clue Details
 icon: clue/hard
 ---
 

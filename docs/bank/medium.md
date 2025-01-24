@@ -1,4 +1,5 @@
 ---
+title: Medium Bank Tags
 icon: clue/medium
 ---
 

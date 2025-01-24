@@ -1,4 +1,5 @@
 ---
+title: Easy Bank Tags
 icon: clue/easy
 ---
 

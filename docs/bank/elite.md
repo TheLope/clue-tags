@@ -1,4 +1,5 @@
 ---
+title: Elite Bank Tags
 icon: clue/elite
 ---
 
