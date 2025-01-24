@@ -16,7 +16,7 @@ The Clue Details plugin allows us to provide custom overlays for clue scrolls
     2. Prior to importing, if you would like to overwrite your existing Inventory Tag colors, or Ground Items colors, enable the related options in the plugin configuration shown below
         - _Color Legend_: <span class="beginner-color">Beginner</span> <span class="easy-color">Easy</span> <span class="medium-color">Medium</span> <span class="hard-color">Hard</span> <span class="hard-uri-color">Hard Uri</span> <span class="elite-color">Elite</span> <span class="elite-challenge-color">Elite Challenge</span> <span class="master-color">Master</span> <span class="wilderness-color">Wilderness</span>
         - ![Overlay Colors](images/overlay_colors.png)
-            - I recommend disabling "Color clue tags" to make these the tags more readable as shown below
+            - You may find disabling "Color clue tags" makes the tags more readable, as shown below
     3. Click the Import button the top of the sidebar panel
         - ![Item Tag Config](images/config.png)
 3. In the plugin configuration, select *Show clue tags*
