@@ -1,6 +1,6 @@
-{{ title("Custom Swaps", "Spellbook_Swap") }}
+# :material-swap-horizontal: Custom Swaps
 
-The Custom Menu Swaps plugin allows us to provide hotkey shortcuts for items with minimenus
+The Custom Menu Swaps plugin allows us to provide hotkey shortcuts for items with minimenus.
 
 ## How To
 
@@ -82,3 +82,10 @@ The Custom Menu Swaps plugin allows us to provide hotkey shortcuts for items wit
         ``` title=""
         --8<-- "docs/swaps/hotkeys/I.txt"
         ```
+
+
+4. Holding the configured hotkey before clicking an item allows the player to skip the teleport menu/minimenu
+
+    The below image shows the user holding the ```1``` hotkey with the Max cape
+
+    - ![Custom Swaps Example](images/example.png)
