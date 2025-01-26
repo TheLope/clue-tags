@@ -16,12 +16,12 @@
     },
     {
         "id": 12076,
-        "text": "FISH 1: shadow",
+        "text": "MAX 2: shadow",
         "color": "#FFB7FF00"
     },
     {
         "id": 12077,
-        "text": "WARR: stash",
+        "text": "MAX 1: stash",
         "color": "#FFB7FF00"
     },
     {
@@ -46,17 +46,17 @@
     },
     {
         "id": 12082,
-        "text": "POH 3: hero stash",
+        "text": "MAX B: hero stash",
         "color": "#FFB7FF00"
     },
     {
         "id": 12083,
-        "text": "FISH 2: cave stash",
+        "text": "MAX 5: cave stash",
         "color": "#FFB7FF00"
     },
     {
         "id": 12085,
-        "text": "POH A: +gp dtooth",
+        "text": "MAX E: +gp dtooth",
         "color": "#FFB7FF00"
     },
     {
@@ -326,7 +326,7 @@
     },
     {
         "id": 12144,
-        "text": "WARR: top Kam",
+        "text": "MAX 1: top Kam",
         "color": "#FFB7FF00"
     },
     {
@@ -346,7 +346,7 @@
     },
     {
         "id": 12148,
-        "text": "WARR: dig",
+        "text": "MAX 1: dig",
         "color": "#FFB7FF00"
     },
     {
@@ -386,7 +386,7 @@
     },
     {
         "id": 12156,
-        "text": "POH 3: stones",
+        "text": "MAX B: stones",
         "color": "#FFB7FF00"
     },
     {
@@ -526,7 +526,7 @@
     },
     {
         "id": 19806,
-        "text": "FISH 2: +mangled",
+        "text": "MAX 5: +mangled",
         "color": "#FFB7FF00"
     },
     {
@@ -556,7 +556,7 @@
     },
     {
         "id": 19813,
-        "text": "POH 5: e dig",
+        "text": "MAX D: e dig",
         "color": "#FFB7FF00"
     },
     {
@@ -601,7 +601,7 @@
     },
     {
         "id": 23770,
-        "text": "POH 9: ne dig",
+        "text": "MAX I: ne dig",
         "color": "#FFB7FF00"
     },
     {
@@ -626,7 +626,7 @@
     },
     {
         "id": 25786,
-        "text": "POH 5: sw stash",
+        "text": "MAX D: sw stash",
         "color": "#FFB7FF00"
     },
     {

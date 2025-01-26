@@ -126,12 +126,12 @@
     },
     {
         "id": 525,
-        "text": "POH 5: cc isle dig",
+        "text": "MAX D: cc isle dig",
         "color": "#FFFF5A00"
     },
     {
         "id": 526,
-        "text": "POH 3: water obel",
+        "text": "MAX B: water obel",
         "color": "#FFFF5A00"
     },
     {
@@ -286,7 +286,7 @@
     },
     {
         "id": 557,
-        "text": "WARR: Ghommal",
+        "text": "MAX 1: Ghommal",
         "color": "#FFFF5A00"
     },
     {
@@ -361,7 +361,7 @@
     },
     {
         "id": 572,
-        "text": "FISH: +shadow",
+        "text": "MAX 2: +shadow",
         "color": "#FFFF5A00"
     },
     {
@@ -391,7 +391,7 @@
     },
     {
         "id": 578,
-        "text": "WARR: stash",
+        "text": "MAX 1: stash",
         "color": "#FFFF5A00"
     },
     {
@@ -451,7 +451,7 @@
     },
     {
         "id": 590,
-        "text": "OTHER 121: -stash",
+        "text": "MAX 7: -stash",
         "color": "#FFFF0000"
     },
     {
@@ -721,7 +721,7 @@
     },
     {
         "id": 644,
-        "text": "POH 1: TREE 7",
+        "text": "MAX 9: TREE 7",
         "color": "#FFFF5A00"
     }
 ]

@@ -86,7 +86,7 @@
     },
     {
         "id": 2778,
-        "text": "POH 2: e Gerrant",
+        "text": "MAX A: e Gerrant",
         "color": "#FFC15FFF"
     },
     {
@@ -226,7 +226,7 @@
     },
     {
         "id": 3546,
-        "text": "POH 8: Gu'T",
+        "text": "MAX H: Gu'T",
         "color": "#FFC15FFF"
     },
     {
@@ -261,7 +261,7 @@
     },
     {
         "id": 3560,
-        "text": "POH A: +gp tyras dig",
+        "text": "MAX E: +gp tyras dig",
         "color": "#FFC15FFF"
     },
     {
@@ -271,7 +271,7 @@
     },
     {
         "id": 3564,
-        "text": "POH A: +gp tyras General",
+        "text": "MAX E: +gp tyras General",
         "color": "#FFC15FFF"
     },
     {
@@ -296,7 +296,7 @@
     },
     {
         "id": 3573,
-        "text": "FISH 2: house up",
+        "text": "MAX 5: house up",
         "color": "#FFC15FFF"
     },
     {
@@ -371,7 +371,7 @@
     },
     {
         "id": 7252,
-        "text": "POH 8: dungeon",
+        "text": "MAX H: dungeon",
         "color": "#FFC15FFF"
     },
     {
@@ -441,7 +441,7 @@
     },
     {
         "id": 10236,
-        "text": "FISH 1: stash",
+        "text": "MAX 2: stash",
         "color": "#FFFF00AF"
     },
     {
@@ -576,7 +576,7 @@
     },
     {
         "id": 12578,
-        "text": "POH 7: Saniboch",
+        "text": "MAX G: Saniboch",
         "color": "#FFC15FFF"
     },
     {
@@ -756,12 +756,12 @@
     },
     {
         "id": 19898,
-        "text": "POH 9: sw Eluned",
+        "text": "MAX I: sw Eluned",
         "color": "#FFC15FFF"
     },
     {
         "id": 19900,
-        "text": "FISH 2: Otto",
+        "text": "MAX 5: Otto",
         "color": "#FFC15FFF"
     },
     {
@@ -811,7 +811,7 @@
     },
     {
         "id": 23168,
-        "text": "OTHER 121: dig",
+        "text": "MAX 7: dig",
         "color": "#FFC15FFF"
     },
     {
@@ -901,7 +901,7 @@
     },
     {
         "id": 28916,
-        "text": "OTHER 13: Soar Lead",
+        "text": "MAX 8: Soar Lead",
         "color": "#FFC15FFF"
     },
     {

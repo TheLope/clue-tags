@@ -91,7 +91,7 @@
     },
     {
         "id": 2695,
-        "text": "POH 2: e fish crate",
+        "text": "MAX A: e fish crate",
         "color": "#FF4CCA27"
     },
     {
@@ -106,12 +106,12 @@
     },
     {
         "id": 2698,
-        "text": "POH 3: e Doric",
+        "text": "MAX B: e Doric",
         "color": "#FF4CCA27"
     },
     {
         "id": 2699,
-        "text": "POH 3: sw Gaius",
+        "text": "MAX B: sw Gaius",
         "color": "#FF4CCA27"
     },
     {
@@ -206,7 +206,7 @@
     },
     {
         "id": 3492,
-        "text": "POH 8: se drawer",
+        "text": "MAX H: se drawer",
         "color": "#FF4CCA27"
     },
     {
@@ -216,17 +216,17 @@
     },
     {
         "id": 3494,
-        "text": "POH 2: witch up",
+        "text": "MAX A: witch up",
         "color": "#FF4CCA27"
     },
     {
         "id": 3495,
-        "text": "POH 2: e up chest",
+        "text": "MAX A: e up chest",
         "color": "#FF4CCA27"
     },
     {
         "id": 3496,
-        "text": "POH 2: e Tobias",
+        "text": "MAX A: e Tobias",
         "color": "#FF4CCA27"
     },
     {
@@ -241,12 +241,12 @@
     },
     {
         "id": 3499,
-        "text": "POH 3: sw box",
+        "text": "MAX B: sw box",
         "color": "#FF4CCA27"
     },
     {
         "id": 3500,
-        "text": "POH 3: s drawer",
+        "text": "MAX B: s drawer",
         "color": "#FF4CCA27"
     },
     {
@@ -396,7 +396,7 @@
     },
     {
         "id": 10202,
-        "text": "POH 2: mine stash",
+        "text": "MAX A: mine stash",
         "color": "#FF4CCA27"
     },
     {
@@ -416,7 +416,7 @@
     },
     {
         "id": 10210,
-        "text": "POH 3: ne stash",
+        "text": "MAX B: ne stash",
         "color": "#FF4CCA27"
     },
     {
@@ -566,7 +566,7 @@
     },
     {
         "id": 12184,
-        "text": "POH 3: s Jatix",
+        "text": "MAX B: s Jatix",
         "color": "#FF4CCA27"
     },
     {
@@ -591,7 +591,7 @@
     },
     {
         "id": 12189,
-        "text": "POH 2: mine wheel",
+        "text": "MAX A: mine wheel",
         "color": "#FF4CCA27"
     },
     {
@@ -601,7 +601,7 @@
     },
     {
         "id": 12191,
-        "text": "POH 3: climb",
+        "text": "MAX B: climb",
         "color": "#FF4CCA27"
     },
     {
@@ -626,7 +626,7 @@
     },
     {
         "id": 19818,
-        "text": "POH 5: s drawer",
+        "text": "MAX D: s drawer",
         "color": "#FF4CCA27"
     },
     {
@@ -646,7 +646,7 @@
     },
     {
         "id": 19822,
-        "text": "POH 2: w Chemist",
+        "text": "MAX A: w Chemist",
         "color": "#FF4CCA27"
     },
     {
@@ -701,7 +701,7 @@
     },
     {
         "id": 23149,
-        "text": "POH 3: crystal box",
+        "text": "MAX B: crystal box",
         "color": "#FF4CCA27"
     },
     {
@@ -721,7 +721,7 @@
     },
     {
         "id": 23153,
-        "text": "POH 2: sw crate",
+        "text": "MAX A: sw crate",
         "color": "#FF4CCA27"
     },
     {
@@ -801,7 +801,7 @@
     },
     {
         "id": 28913,
-        "text": "OTHER 13: up barrel",
+        "text": "MAX 8: up barrel",
         "color": "#FF4CCA27"
     },
     {
@@ -811,7 +811,7 @@
     },
     {
         "id": 29853,
-        "text": "POH A: sw dig",
+        "text": "MAX E: sw dig",
         "color": "#FF4CCA27"
     },
     {

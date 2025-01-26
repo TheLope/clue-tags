@@ -14,16 +14,15 @@ Here are explanations for otherwise unclear hints
 
 ### General shorthand
 
-| Shorthand | Explanation                      |
-| --------- | -------------------------------- |
-| +         | Bank first                       |
-| -         | Degear for wildy                 |
-| GLIDE     | Seed pod&rarr;climb up to glider |
-| RESP      | Respawn: set to Edgeville        |
-| FISH      | Max Cape&rarr;Fishing Teleports  |
-| OTHER     | Max Cape&rarr;Other Teleports    |
-| GVS       | Goblin village sphere            |
-| BOX       | POH jewellery box                |
+| Shorthand | Explanation                                                |
+| --------- | ---------------------------------------------------------- |
+| +         | Bank first                                                 |
+| -         | Degear for wildy                                           |
+| MAX       | Max cape. See [Custom Swaps](./swaps/index.md) for hotkeys |
+| GLIDE     | Seed pod&rarr;climb up to glider                           |
+| RESP      | Respawn: set to Edgeville                                  |
+| GVS       | Goblin village sphere                                      |
+| BOX       | POH jewellery box                                          |
 
 ### Ancient Magicks
 
