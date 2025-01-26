@@ -1,0 +1,4 @@
+Carnivorous*,Max cape
+Aldarin,construct*
+Karamja,Achievement*
+Farming guild,Skills necklace*

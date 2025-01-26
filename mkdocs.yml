@@ -41,6 +41,8 @@ nav:
     - Elite: bank/elite.md
     - Master: bank/master.md
     - Mimic: bank/mimic.md
+  - Custom Swaps:
+    - Custom Swaps: swaps/index.md
 repo_url: https://github.com/TheLope/clue-tags
 repo_name: TheLope/clue-tags
 markdown_extensions:
