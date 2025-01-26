@@ -11,7 +11,7 @@
     },
     {
         "id": 2805,
-        "text": "POH 7: isle dig",
+        "text": "MAX G: isle dig",
         "color": "#FF4BB7FF"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
         "id": 2811,
-        "text": "FISH 2: +rope",
+        "text": "MAX 5: +rope",
         "color": "#FF4BB7FF"
     },
     {
@@ -181,7 +181,7 @@
     },
     {
         "id": 3590,
-        "text": "POH 7: sw dig",
+        "text": "MAX G: sw dig",
         "color": "#FF4BB7FF"
     },
     {
@@ -216,7 +216,7 @@
     },
     {
         "id": 3602,
-        "text": "POH 2: chem dig",
+        "text": "MAX A: chem dig",
         "color": "#FF4BB7FF"
     },
     {
@@ -361,7 +361,7 @@
     },
     {
         "id": 7303,
-        "text": "POH 4: camp",
+        "text": "MAX C: camp",
         "color": "#FF4BB7FF"
     },
     {
@@ -516,7 +516,7 @@
     },
     {
         "id": 12039,
-        "text": "POH 6: potato",
+        "text": "MAX F: potato",
         "color": "#FF4BB7FF"
     },
     {
@@ -556,7 +556,7 @@
     },
     {
         "id": 12055,
-        "text": "FISH 2: Otto",
+        "text": "MAX 5: Otto",
         "color": "#FF4BB7FF"
     },
     {
@@ -571,12 +571,12 @@
     },
     {
         "id": 12061,
-        "text": "POH 2: e Tobias",
+        "text": "MAX A: e Tobias",
         "color": "#FF4BB7FF"
     },
     {
         "id": 12063,
-        "text": "POH 2: w Taria",
+        "text": "MAX A: w Taria",
         "color": "#FF4BB7FF"
     },
     {
@@ -686,7 +686,7 @@
     },
     {
         "id": 19768,
-        "text": "POH 4: Kebab",
+        "text": "MAX C: Kebab",
         "color": "#FF4BB7FF"
     },
     {
