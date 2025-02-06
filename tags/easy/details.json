@@ -12,12 +12,18 @@
     {
         "id": 2679,
         "text": "DIA B: goblin box",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 2680,
         "text": "GLORY 4: up e chest",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            19707
+        ]
     },
     {
         "id": 2681,
@@ -27,47 +33,74 @@
     {
         "id": 2682,
         "text": "DUEL 1: sw crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            2552
+        ]
     },
     {
         "id": 2683,
         "text": "GLORY 4: n Zeke",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            19707
+        ]
     },
     {
         "id": 2684,
         "text": "GLORY 4: nw Ellis",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            19707
+        ]
     },
     {
         "id": 2685,
         "text": "COMB 2: ne box",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11118
+        ]
     },
     {
         "id": 2686,
         "text": "DIA D: s Bartend",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 2687,
         "text": "DIA D: e bank up",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 2688,
         "text": "DIA D: armor crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 2689,
         "text": "SKIL 4: s drawer",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11105
+        ]
     },
     {
         "id": 2690,
         "text": "SKULL: nw crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            21276
+        ]
     },
     {
         "id": 2691,
@@ -82,37 +115,58 @@
     {
         "id": 2693,
         "text": "DIA 3: Squire",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 2694,
         "text": "SKIL 3: climb drawer",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11105
+        ]
     },
     {
         "id": 2695,
         "text": "MAX A: e fish crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 2696,
         "text": "EXPL: s Bartend",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13128
+        ]
     },
     {
         "id": 2697,
         "text": "GLORY 3: Ned",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            19707
+        ]
     },
     {
         "id": 2698,
         "text": "MAX B: e Doric",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 2699,
         "text": "MAX B: sw Gaius",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 2700,
@@ -152,7 +206,10 @@
     {
         "id": 2707,
         "text": "SKIL 1: s crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11105
+        ]
     },
     {
         "id": 2708,
@@ -167,7 +224,10 @@
     {
         "id": 2710,
         "text": "DIA 1: up drawer",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 2711,
@@ -177,27 +237,45 @@
     {
         "id": 2712,
         "text": "ROW 3: house sw",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11980
+        ]
     },
     {
         "id": 2713,
         "text": "COMB 2: w dig",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11118,
+            952
+        ]
     },
     {
         "id": 2716,
         "text": "SENN: gate n dig",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            12782,
+            952
+        ]
     },
     {
         "id": 2719,
         "text": "SKULL: stone r dig",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            21276,
+            952
+        ]
     },
     {
         "id": 3490,
         "text": "GAME 1: ne drawer",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            3853
+        ]
     },
     {
         "id": 3491,
@@ -207,62 +285,99 @@
     {
         "id": 3492,
         "text": "MAX H: se drawer",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 3493,
         "text": "SKIL 2: disk chest",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11105,
+            981
+        ]
     },
     {
         "id": 3494,
         "text": "MAX A: witch up",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 3495,
         "text": "MAX A: e up chest",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 3496,
         "text": "MAX A: e Tobias",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 3497,
         "text": "ROW 3: house n up",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11980
+        ]
     },
     {
         "id": 3498,
         "text": "ROW 3: house s",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11980
+        ]
     },
     {
         "id": 3499,
         "text": "MAX B: sw box",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 3500,
         "text": "MAX B: s drawer",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 3501,
         "text": "DUEL 1: s box",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            2552
+        ]
     },
     {
         "id": 3502,
         "text": "MANOR: top crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            19615
+        ]
     },
     {
         "id": 3503,
         "text": "GAME 1: army box",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            3853
+        ]
     },
     {
         "id": 3504,
@@ -277,7 +392,10 @@
     {
         "id": 3506,
         "text": "COMB 4: nw crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11118
+        ]
     },
     {
         "id": 3507,
@@ -297,22 +415,35 @@
     {
         "id": 3510,
         "text": "DIA F: n dig",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13069,
+            952
+        ]
     },
     {
         "id": 3512,
         "text": "GLORY 3: n drawer",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            19707
+        ]
     },
     {
         "id": 3513,
         "text": "MUSIC: ne Louisa",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13222
+        ]
     },
     {
         "id": 3514,
         "text": "DUEL 1: e Jeed",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            2552
+        ]
     },
     {
         "id": 3515,
@@ -322,47 +453,75 @@
     {
         "id": 3516,
         "text": "COMB 4: nw dig",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11118,
+            952
+        ]
     },
     {
         "id": 3518,
         "text": "PASS 1: s dig",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 7236,
         "text": "FALLY: n dig",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 7238,
         "text": "DIA C: ne crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 10180,
         "text": "ROTE 2: e stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            26818
+        ]
     },
     {
         "id": 10182,
         "text": "PASS 1: n stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            21146
+        ]
     },
     {
         "id": 10184,
         "text": "GLORY 3: w stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            19707
+        ]
     },
     {
         "id": 10186,
         "text": "ROTE 3: e stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            26818
+        ]
     },
     {
         "id": 10188,
         "text": "QPC: stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13068
+        ]
     },
     {
         "id": 10190,
@@ -377,27 +536,42 @@
     {
         "id": 10194,
         "text": "ROTE 4: mine stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            26818
+        ]
     },
     {
         "id": 10196,
         "text": "MANOR: sw stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            19615
+        ]
     },
     {
         "id": 10198,
         "text": "GLORY 3: ne stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            19707
+        ]
     },
     {
         "id": 10200,
         "text": "GLORY 3: n stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            19707
+        ]
     },
     {
         "id": 10202,
         "text": "MAX A: mine stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 10204,
@@ -407,47 +581,75 @@
     {
         "id": 10206,
         "text": "SKIL 1: mill stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11105
+        ]
     },
     {
         "id": 10208,
         "text": "SKIL 2: party stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11105
+        ]
     },
     {
         "id": 10210,
         "text": "MAX B: ne stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 10212,
         "text": "GAME 1: down naked",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            3853
+        ]
     },
     {
         "id": 10214,
         "text": "DIA 5: e stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 10216,
         "text": "DIA 1: zoo stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 10218,
         "text": "ROTE 1: stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            26818
+        ]
     },
     {
         "id": 10220,
         "text": "SKIL 1: stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11968,
+            11105
+        ]
     },
     {
         "id": 10222,
         "text": "HEAD: se stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13140
+        ]
     },
     {
         "id": 10224,
@@ -457,22 +659,34 @@
     {
         "id": 10226,
         "text": "MUSIC: e stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13222
+        ]
     },
     {
         "id": 10228,
         "text": "SENN: exam stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            12782
+        ]
     },
     {
         "id": 10230,
         "text": "LUMBER: stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            12642
+        ]
     },
     {
         "id": 10232,
         "text": "DUEL 1: stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            2552
+        ]
     },
     {
         "id": 12162,
@@ -487,42 +701,67 @@
     {
         "id": 12166,
         "text": "ROTE 2: nw l book",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            26818
+        ]
     },
     {
         "id": 12167,
         "text": "PASS 1: s book",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            21146
+        ]
     },
     {
         "id": 12168,
         "text": "GLORY 3: witch robe",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            19707
+        ]
     },
     {
         "id": 12169,
         "text": "SKIL 2: party Lucy",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11105
+        ]
     },
     {
         "id": 12170,
         "text": "SKULL: stone l dig",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            21276,
+            952
+        ]
     },
     {
         "id": 12172,
         "text": "SKULL: ne chest",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            21276
+        ]
     },
     {
         "id": 12173,
         "text": "GLORY 1: w Doris",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            19707
+        ]
     },
     {
         "id": 12174,
         "text": "GLORY 1: s coffin",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            19707
+        ]
     },
     {
         "id": 12175,
@@ -537,17 +776,27 @@
     {
         "id": 12177,
         "text": "COMB 3: se book",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11118
+        ]
     },
     {
         "id": 12178,
         "text": "COMB 3: mine crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11118
+        ]
     },
     {
         "id": 12179,
         "text": "ROTE 4: mine dig",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            26818,
+            952
+        ]
     },
     {
         "id": 12181,
@@ -557,7 +806,10 @@
     {
         "id": 12182,
         "text": "DIA 3: up Ambass",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 12183,
@@ -567,17 +819,26 @@
     {
         "id": 12184,
         "text": "MAX B: s Jatix",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 12185,
         "text": "GAME 1: pub crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            3853
+        ]
     },
     {
         "id": 12186,
         "text": "EXPL: w Sarah",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13128
+        ]
     },
     {
         "id": 12187,
@@ -587,37 +848,58 @@
     {
         "id": 12188,
         "text": "EXPL: sw drawer",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13128
+        ]
     },
     {
         "id": 12189,
         "text": "MAX A: mine wheel",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 12190,
         "text": "LUMBER: basket Lady",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            12642
+        ]
     },
     {
         "id": 12191,
         "text": "MAX B: climb",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 12192,
         "text": "DIA 2: Shantay bucket",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 19814,
         "text": "LUMB: dig",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 19816,
         "text": "PADD: ne Vannaka",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            12781
+        ]
     },
     {
         "id": 19817,
@@ -627,7 +909,10 @@
     {
         "id": 19818,
         "text": "MAX D: s drawer",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 19819,
@@ -637,52 +922,83 @@
     {
         "id": 19820,
         "text": "XER 2: church Jean",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13393
+        ]
     },
     {
         "id": 19821,
         "text": "BOTD 2: ne Tynan",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            25818
+        ]
     },
     {
         "id": 19822,
         "text": "MAX A: w Chemist",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 19823,
         "text": "MANOR: Lep",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            19615
+        ]
     },
     {
         "id": 19824,
         "text": "ROTE 1: se Face",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            26818
+        ]
     },
     {
         "id": 19825,
         "text": "SKIL 5: salt Konoo",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11105
+        ]
     },
     {
         "id": 19826,
         "text": "XER 4: dig",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13393,
+            952
+        ]
     },
     {
         "id": 19828,
         "text": "DIA F: se up Ermin",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 19829,
         "text": "BOTD 1: w crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            25818
+        ]
     },
     {
         "id": 19830,
         "text": "DIA B: Doomsayer",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 19831,
@@ -692,37 +1008,58 @@
     {
         "id": 19833,
         "text": "DIA D: rune stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 22001,
         "text": "TREE 5: se dig",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 23149,
         "text": "MAX B: crystal box",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 23150,
         "text": "ROTE 2: nw r book",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            26818
+        ]
     },
     {
         "id": 23151,
         "text": "DIA B: nw farm",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 23152,
         "text": "DIA D: armor crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 23153,
         "text": "MAX A: sw crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 23154,
@@ -732,32 +1069,50 @@
     {
         "id": 23155,
         "text": "ROW 3: song",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11980
+        ]
     },
     {
         "id": 23156,
         "text": "ROW 3: song",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11980
+        ]
     },
     {
         "id": 23157,
         "text": "ROW 3: song",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11980
+        ]
     },
     {
         "id": 23158,
         "text": "ROW 3: song",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11980
+        ]
     },
     {
         "id": 23159,
         "text": "ROW 3: song",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11980
+        ]
     },
     {
         "id": 23160,
         "text": "ROW 3: song",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11980
+        ]
     },
     {
         "id": 23161,
@@ -767,42 +1122,66 @@
     {
         "id": 23162,
         "text": "GLORY 3: n Morgan",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            19707
+        ]
     },
     {
         "id": 23163,
         "text": "SKIL 3: climb Wayne",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            11105
+        ]
     },
     {
         "id": 23164,
         "text": "SENN: w Leaflet",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            12782
+        ]
     },
     {
         "id": 23165,
         "text": "GAME 1: e Turael",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            3853
+        ]
     },
     {
         "id": 23166,
         "text": "DIA D: s Cook",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 25788,
         "text": "RADA 1: minecart C n",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            22947
+        ]
     },
     {
         "id": 25789,
         "text": "XER 2: ne crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13393
+        ]
     },
     {
         "id": 28913,
         "text": "MAX 8: up barrel",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 28914,
@@ -812,11 +1191,19 @@
     {
         "id": 29853,
         "text": "MAX E: sw dig",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            13280,
+            952
+        ]
     },
     {
         "id": 29854,
         "text": "QUET Gorge: nw dig",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            29275,
+            952
+        ]
     }
 ]

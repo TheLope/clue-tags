@@ -2,37 +2,58 @@
     {
         "id": 0,
         "text": "GLORY 4: Ranael",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            19707
+        ]
     },
     {
         "id": 1,
         "text": "PASS 1: down Sedridor",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            21146
+        ]
     },
     {
         "id": 2,
         "text": "DIA D: Apothecary",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 3,
         "text": "MAX B: e Doric",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 4,
         "text": "ROTE 1: se Brian",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            26818
+        ]
     },
     {
         "id": 5,
         "text": "MANOR: Veronica",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            19615
+        ]
     },
     {
         "id": 6,
         "text": "SKIL 4: Gertrude",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            11105
+        ]
     },
     {
         "id": 7,
@@ -42,7 +63,10 @@
     {
         "id": 8,
         "text": "GLORY 3: Fortunato",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            19707
+        ]
     },
     {
         "id": 9,
@@ -52,7 +76,10 @@
     {
         "id": 10,
         "text": "HOTNCOLD",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            23183
+        ]
     },
     {
         "id": 11,
@@ -62,22 +89,34 @@
     {
         "id": 12,
         "text": "SKULL: Hunding",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            9013
+        ]
     },
     {
         "id": 13,
         "text": "DIA D: Charlie",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 14,
         "text": "DIA 2: Shantay",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 15,
         "text": "VARR: Aris stash",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            1635
+        ]
     },
     {
         "id": 16,
@@ -92,12 +131,18 @@
     {
         "id": 18,
         "text": "DIA B: s stash",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 19,
         "text": "ROTE 4: mine stash",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            26818
+        ]
     },
     {
         "id": 20,
@@ -107,66 +152,109 @@
     {
         "id": 21,
         "text": "COMB 2: w dig",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            11118,
+            952
+        ]
     },
     {
         "id": 22,
         "text": "SENN: gate n dig",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            12782,
+            952
+        ]
     },
     {
         "id": 23,
         "text": "DIA G: dig",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            13069,
+            952
+        ]
     },
     {
         "id": 24,
         "text": "SKULL: stone r dig",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            9013,
+            952
+        ]
     },
     {
         "id": 25,
         "text": "DIS: dig",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 26,
         "text": "trout: Charlie",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            333
+        ]
     },
     {
         "id": 27,
         "text": "pike: Charlie",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            351
+        ]
     },
     {
         "id": 28,
         "text": "herring: Charlie",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            345
+        ]
     },
     {
         "id": 29,
         "text": "raw trout: Charlie",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            335
+        ]
     },
     {
         "id": 30,
         "text": "ore: Charlie",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            440
+        ]
     },
     {
         "id": 31,
         "text": "dagger: Charlie",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            1203
+        ]
     },
     {
         "id": 32,
         "text": "body: Charlie",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            1129
+        ]
     },
     {
         "id": 33,
         "text": "chaps: Charlie",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            1095
+        ]
     }
 ]

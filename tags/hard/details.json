@@ -2,72 +2,121 @@
     {
         "id": 2722,
         "text": "LUMBER: crate",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            12642
+        ]
     },
     {
         "id": 2723,
         "text": "BUR 3: -rune dig",
-        "color": "#FFFF0000"
+        "color": "#FFFF0000",
+        "itemIds": [
+            21166,
+            952
+        ]
     },
     {
         "id": 2725,
         "text": "ICE: -n dig",
-        "color": "#FFFF0000"
+        "color": "#FFFF0000",
+        "itemIds": [
+            24963,
+            952
+        ]
     },
     {
         "id": 2727,
         "text": "RESP: -web",
-        "color": "#FFFF0000"
+        "color": "#FFFF0000",
+        "itemIds": [
+            21129
+        ]
     },
     {
         "id": 2729,
         "text": "RESP: -hut",
-        "color": "#FFFF0000"
+        "color": "#FFFF0000",
+        "itemIds": [
+            21129
+        ]
     },
     {
         "id": 2731,
         "text": "ANNA: -dig",
-        "color": "#FFFF0000"
+        "color": "#FFFF0000",
+        "itemIds": [
+            12775,
+            952
+        ]
     },
     {
         "id": 2733,
         "text": "REV: s hill",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            21802
+        ]
     },
     {
         "id": 2735,
         "text": "BURN 3: -altar",
-        "color": "#FFFF0000"
+        "color": "#FFFF0000",
+        "itemIds": [
+            21166
+        ]
     },
     {
         "id": 2737,
         "text": "BURN 3: kbd",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            21166
+        ]
     },
     {
         "id": 2739,
         "text": "ICE: -hideout",
-        "color": "#FFFF0000"
+        "color": "#FFFF0000",
+        "itemIds": [
+            24963
+        ]
     },
     {
         "id": 2741,
         "text": "ANNA: s dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            12775,
+            952
+        ]
     },
     {
         "id": 2743,
         "text": "CARR: ne dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            12776,
+            952
+        ]
     },
     {
         "id": 2745,
         "text": "BURN 2: ne dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            21166,
+            952
+        ]
     },
     {
         "id": 2747,
         "text": "W CRAB: w dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            24251,
+            952
+        ]
     },
     {
         "id": 2773,
@@ -77,7 +126,11 @@
     {
         "id": 2774,
         "text": "RESP: dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            21129,
+            952
+        ]
     },
     {
         "id": 2776,
@@ -87,12 +140,19 @@
     {
         "id": 2778,
         "text": "MAX A: e Gerrant",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 2780,
         "text": "GLORY 3: w dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            19707,
+            952
+        ]
     },
     {
         "id": 2782,
@@ -102,27 +162,44 @@
     {
         "id": 2783,
         "text": "CLOAK: zoo",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13124
+        ]
     },
     {
         "id": 2785,
         "text": "GLORY 3: mill",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            19707
+        ]
     },
     {
         "id": 2786,
         "text": "CARR: se dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            12776,
+            952
+        ]
     },
     {
         "id": 2788,
         "text": "REV: -ne dig",
-        "color": "#FFFF0000"
+        "color": "#FFFF0000",
+        "itemIds": [
+            21802,
+            952
+        ]
     },
     {
         "id": 2790,
         "text": "PADD: moss dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 2792,
@@ -132,12 +209,18 @@
     {
         "id": 2793,
         "text": "COMB 3: Abbot",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            11118
+        ]
     },
     {
         "id": 2794,
         "text": "GLORY 1: Oziach",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            19707
+        ]
     },
     {
         "id": 2796,
@@ -152,7 +235,10 @@
     {
         "id": 2799,
         "text": "GVS: Bent",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            11060
+        ]
     },
     {
         "id": 3520,
@@ -162,7 +248,10 @@
     {
         "id": 3522,
         "text": "W ARDY: nw dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 3524,
@@ -172,47 +261,80 @@
     {
         "id": 3525,
         "text": "BURN 2: sw crate",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            21166
+        ]
     },
     {
         "id": 3526,
         "text": "TROL: dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 3528,
         "text": "NEX TROLL: e dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 3530,
         "text": "DIA 8: isle",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 3532,
         "text": "DIA 8: +jung sw",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13069,
+            1351,
+            6317
+        ]
     },
     {
         "id": 3534,
         "text": "DIA 8: +jung mid",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13069,
+            1351,
+            6317
+        ]
     },
     {
         "id": 3536,
         "text": "DURA: se dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13103,
+            952
+        ]
     },
     {
         "id": 3538,
         "text": "DKP: se dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 3540,
         "text": "GLIDE Gand: w dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            19564,
+            952
+        ]
     },
     {
         "id": 3542,
@@ -222,17 +344,26 @@
     {
         "id": 3544,
         "text": "BKR: sw dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 3546,
         "text": "MAX H: Gu'T",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 3548,
         "text": "GLIDE L Undri: cave",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            19564
+        ]
     },
     {
         "id": 3550,
@@ -242,37 +373,62 @@
     {
         "id": 3552,
         "text": "BIQ: sw dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 3554,
         "text": "DUEL 1: e behind",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            2552
+        ]
     },
     {
         "id": 3556,
         "text": "OBEL 4: s dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 3558,
         "text": "OBEL 6: -nw dig",
-        "color": "#FFFF0000"
+        "color": "#FFFF0000",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 3560,
         "text": "MAX E: +gp tyras dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13280,
+            952,
+            995
+        ]
     },
     {
         "id": 3562,
         "text": "IORW: s dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            12410,
+            952
+        ]
     },
     {
         "id": 3564,
         "text": "MAX E: +gp tyras General",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13280,
+            995
+        ]
     },
     {
         "id": 3566,
@@ -282,132 +438,214 @@
     {
         "id": 3568,
         "text": "DUEL 1: ne Hamid",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            2552
+        ]
     },
     {
         "id": 3570,
         "text": "GLIDE Sind: talk",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            19564
+        ]
     },
     {
         "id": 3572,
         "text": "CLOAK 2: up book",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13124
+        ]
     },
     {
         "id": 3573,
         "text": "MAX 5: house up",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 3574,
         "text": "COMB 4: coal",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            11118
+        ]
     },
     {
         "id": 3575,
         "text": "POD: up e",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            19564
+        ]
     },
     {
         "id": 3577,
         "text": "DIA F: Trainer",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 3579,
         "text": "CRAFT: entrana",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 3580,
         "text": "DIA 9: eggs",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 7239,
         "text": "ICE: -se dig",
-        "color": "#FFFF0000"
+        "color": "#FFFF0000",
+        "itemIds": [
+            24963,
+            952
+        ]
     },
     {
         "id": 7241,
         "text": "BLR: sw dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 7243,
         "text": "TREE 8: nw dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 7245,
         "text": "MORT: dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            12406,
+            952
+        ]
     },
     {
         "id": 7247,
         "text": "GEM: up",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13103
+        ]
     },
     {
         "id": 7248,
         "text": "CAMU 2: n crate",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            6707
+        ]
     },
     {
         "id": 7249,
         "text": "PASS 1: down book",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            21146
+        ]
     },
     {
         "id": 7250,
         "text": "SEER: +key",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            4446
+        ]
     },
     {
         "id": 7251,
         "text": "SKIL 2: cart",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            11105
+        ]
     },
     {
         "id": 7252,
         "text": "MAX H: dungeon",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 7253,
         "text": "PASS 3: se crate",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            21146
+        ]
     },
     {
         "id": 7254,
         "text": "COMB 4: hay",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            11118
+        ]
     },
     {
         "id": 7255,
         "text": "DIA 1: w drawer",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 7256,
         "text": "PASS 2: gate",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            21146
+        ]
     },
     {
         "id": 7258,
         "text": "CAMU 2: nw dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            6707,
+            952
+        ]
     },
     {
         "id": 7260,
         "text": "CEME: sw dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 7262,
         "text": "DUEL 3: sw dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            2552,
+            952
+        ]
     },
     {
         "id": 7264,
@@ -417,12 +655,18 @@
     {
         "id": 7266,
         "text": "DKS: w dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 7268,
         "text": "DIA F: Coach",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 7270,
@@ -432,7 +676,10 @@
     {
         "id": 7272,
         "text": "DIA 6: Cap'n",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 10234,
@@ -442,7 +689,10 @@
     {
         "id": 10236,
         "text": "MAX 2: stash",
-        "color": "#FFFF00AF"
+        "color": "#FFFF00AF",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 10238,
@@ -457,17 +707,26 @@
     {
         "id": 10242,
         "text": "PHAR 1: stash",
-        "color": "#FFFF00AF"
+        "color": "#FFFF00AF",
+        "itemIds": [
+            9044
+        ]
     },
     {
         "id": 10244,
         "text": "BURN 2: n stash",
-        "color": "#FFFF00AF"
+        "color": "#FFFF00AF",
+        "itemIds": [
+            21166
+        ]
     },
     {
         "id": 10246,
         "text": "GLORY 2: stash",
-        "color": "#FFFF00AF"
+        "color": "#FFFF00AF",
+        "itemIds": [
+            19707
+        ]
     },
     {
         "id": 10248,
@@ -477,7 +736,10 @@
     {
         "id": 10250,
         "text": "GLIDE Sind: stash",
-        "color": "#FFFF00AF"
+        "color": "#FFFF00AF",
+        "itemIds": [
+            19564
+        ]
     },
     {
         "id": 10252,
@@ -492,7 +754,10 @@
     {
         "id": 12544,
         "text": "DURA: se stash",
-        "color": "#FFFF00AF"
+        "color": "#FFFF00AF",
+        "itemIds": [
+            13103
+        ]
     },
     {
         "id": 12546,
@@ -502,42 +767,66 @@
     {
         "id": 12548,
         "text": "DUEL 2: s stash",
-        "color": "#FFFF00AF"
+        "color": "#FFFF00AF",
+        "itemIds": [
+            2552
+        ]
     },
     {
         "id": 12550,
         "text": "PHAR 2: stash",
-        "color": "#FFFF00AF"
+        "color": "#FFFF00AF",
+        "itemIds": [
+            9044
+        ]
     },
     {
         "id": 12552,
         "text": "WATSON: stash",
-        "color": "#FFFF00AF"
+        "color": "#FFFF00AF",
+        "itemIds": [
+            21389
+        ]
     },
     {
         "id": 12554,
         "text": "CLP: dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 12556,
         "text": "AJS: dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 12558,
         "text": "AIR: n dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 12560,
         "text": "DIA 9: crandor",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 12562,
         "text": "LEGS: e n",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13115
+        ]
     },
     {
         "id": 12564,
@@ -547,7 +836,11 @@
     {
         "id": 12566,
         "text": "SKIL 2: +pick mlm",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            11105,
+            1273
+        ]
     },
     {
         "id": 12568,
@@ -557,27 +850,42 @@
     {
         "id": 12570,
         "text": "COMB 1: Martin",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            11118
+        ]
     },
     {
         "id": 12572,
         "text": "GLORY 3: Wise",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            19707
+        ]
     },
     {
         "id": 12574,
         "text": "CLOAK: Omad",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13124
+        ]
     },
     {
         "id": 12576,
         "text": "DIA B: Doom",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 12578,
         "text": "MAX G: Saniboch",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 12581,
@@ -587,72 +895,117 @@
     {
         "id": 12584,
         "text": "DIA 3: Vyvin",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 12587,
         "text": "PHAR 1: Mummy",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            9044
+        ]
     },
     {
         "id": 12590,
         "text": "SKULL: dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            21276,
+            952
+        ]
     },
     {
         "id": 19840,
         "text": "DJR: ne dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 19842,
         "text": "XER 3: sw dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13393,
+            952
+        ]
     },
     {
         "id": 19844,
         "text": "LEGS: e s",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13115
+        ]
     },
     {
         "id": 19846,
         "text": "ROW 1: n Magnus",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            11980
+        ]
     },
     {
         "id": 19848,
         "text": "COMB 2: chicken",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            11118
+        ]
     },
     {
         "id": 19850,
         "text": "LEGS: se dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13115,
+            952
+        ]
     },
     {
         "id": 19852,
         "text": "ZUL: Zul-Cheray",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            12938
+        ]
     },
     {
         "id": 19853,
         "text": "SKIL 4: Chef",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            11105
+        ]
     },
     {
         "id": 19854,
         "text": "CLOAK: nw Kojo",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13124
+        ]
     },
     {
         "id": 19856,
         "text": "LYRE 3: Mawnis",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            3690
+        ]
     },
     {
         "id": 19857,
         "text": "PASS 1: up Mizgog",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            21146
+        ]
     },
     {
         "id": 19858,
@@ -662,62 +1015,99 @@
     {
         "id": 19860,
         "text": "DIA 2: foundry",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 19862,
         "text": "AIQ: dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 19864,
         "text": "AIR: s dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 19866,
         "text": "ALP: dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 19868,
         "text": "BIP: dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 19870,
         "text": "BJR: dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 19872,
         "text": "DIA 9: w dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13069,
+            952
+        ]
     },
     {
         "id": 19874,
         "text": "CKP: dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 19876,
         "text": "DIP: dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 19878,
         "text": "DKS: e dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 19880,
         "text": "CIS: w dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 19882,
         "text": "GLORY 1: down",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            19707
+        ]
     },
     {
         "id": 19884,
@@ -727,12 +1117,19 @@
     {
         "id": 19886,
         "text": "DIA B: Guide",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13069
+        ]
     },
     {
         "id": 19888,
         "text": "DIA E: +abyss",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13069,
+            11095
+        ]
     },
     {
         "id": 19890,
@@ -742,12 +1139,18 @@
     {
         "id": 19892,
         "text": "MOS LE: Tranqil",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            12411
+        ]
     },
     {
         "id": 19894,
         "text": "HILT: Brambickle",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            25936
+        ]
     },
     {
         "id": 19896,
@@ -757,17 +1160,26 @@
     {
         "id": 19898,
         "text": "MAX I: sw Eluned",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 19900,
         "text": "MAX 5: Otto",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 19902,
         "text": "ECTO: ne Pete",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            4251
+        ]
     },
     {
         "id": 19904,
@@ -792,7 +1204,11 @@
     {
         "id": 21526,
         "text": "VM: w dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            21541,
+            952
+        ]
     },
     {
         "id": 21527,
@@ -802,27 +1218,45 @@
     {
         "id": 23045,
         "text": "SKIL 6: sw far",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            11105
+        ]
     },
     {
         "id": 23167,
         "text": "BANN: ne dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13144,
+            952
+        ]
     },
     {
         "id": 23168,
         "text": "MAX 7: dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13280,
+            952
+        ]
     },
     {
         "id": 23169,
         "text": "ICE: -s dig",
-        "color": "#FFFF0000"
+        "color": "#FFFF0000",
+        "itemIds": [
+            24963,
+            952
+        ]
     },
     {
         "id": 23170,
         "text": "BANN: Arnold",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13144
+        ]
     },
     {
         "id": 23172,
@@ -832,52 +1266,83 @@
     {
         "id": 23174,
         "text": "ROW 3: song",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            11980
+        ]
     },
     {
         "id": 23175,
         "text": "ROW 3: song",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            11980
+        ]
     },
     {
         "id": 23176,
         "text": "ROW 3: song",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            11980
+        ]
     },
     {
         "id": 23177,
         "text": "ROW 3: song",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            11980
+        ]
     },
     {
         "id": 23178,
         "text": "ROW 3: song",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            11980
+        ]
     },
     {
         "id": 23179,
         "text": "ROW 3: song",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            11980
+        ]
     },
     {
         "id": 23180,
         "text": "ROW 3: song",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            11980
+        ]
     },
     {
         "id": 23181,
         "text": "ROW 3: song",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            11980
+        ]
     },
     {
         "id": 24493,
         "text": "SLEPE: talk",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            22400
+        ]
     },
     {
         "id": 25790,
         "text": "BOTD 3: sw dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            25818,
+            952
+        ]
     },
     {
         "id": 25791,
@@ -887,136 +1352,49 @@
     {
         "id": 25792,
         "text": "ROW 3: song",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            11980
+        ]
     },
     {
         "id": 26566,
         "text": "BLQ: dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 28915,
         "text": "AJP: dig",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ]
     },
     {
         "id": 28916,
         "text": "MAX 8: Soar Lead",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13280
+        ]
     },
     {
         "id": 28918,
         "text": "ROW 3: song",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            11980
+        ]
     },
     {
         "id": 29859,
         "text": "ATES 2: e stash",
-        "color": "#FFFF00AF"
-    },
-    {
-        "id": 7269,
-        "text": "6",
-        "color": "#FFC15FFF"
-    },
-    {
-        "id": 7271,
-        "text": "13",
-        "color": "#FFC15FFF"
-    },
-    {
-        "id": 7273,
-        "text": "33",
-        "color": "#FFC15FFF"
-    },
-    {
-        "id": 12567,
-        "text": "12",
-        "color": "#FFC15FFF"
-    },
-    {
-        "id": 12569,
-        "text": "40",
-        "color": "#FFC15FFF"
-    },
-    {
-        "id": 12571,
-        "text": "2",
-        "color": "#FFC15FFF"
-    },
-    {
-        "id": 12573,
-        "text": "28",
-        "color": "#FFC15FFF"
-    },
-    {
-        "id": 12575,
-        "text": "129",
-        "color": "#FFC15FFF"
-    },
-    {
-        "id": 12577,
-        "text": "95",
-        "color": "#FFC15FFF"
-    },
-    {
-        "id": 19847,
-        "text": "8",
-        "color": "#FFC15FFF"
-    },
-    {
-        "id": 19855,
-        "text": "22",
-        "color": "#FFC15FFF"
-    },
-    {
-        "id": 19859,
-        "text": "13112221",
-        "color": "#FFC15FFF"
-    },
-    {
-        "id": 19883,
-        "text": "666",
-        "color": "#FFC15FFF"
-    },
-    {
-        "id": 19885,
-        "text": "24",
-        "color": "#FFC15FFF"
-    },
-    {
-        "id": 19889,
-        "text": "13",
-        "color": "#FFC15FFF"
-    },
-    {
-        "id": 19893,
-        "text": "7",
-        "color": "#FFC15FFF"
-    },
-    {
-        "id": 19899,
-        "text": "53000",
-        "color": "#FFC15FFF"
-    },
-    {
-        "id": 19901,
-        "text": "3",
-        "color": "#FFC15FFF"
-    },
-    {
-        "id": 19905,
-        "text": "150",
-        "color": "#FFC15FFF"
-    },
-    {
-        "id": 19907,
-        "text": "5",
-        "color": "#FFC15FFF"
-    },
-    {
-        "id": 19909,
-        "text": "64",
-        "color": "#FFC15FFF"
+        "color": "#FFFF00AF",
+        "itemIds": [
+            29893
+        ]
     }
 ]
