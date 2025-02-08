@@ -13,6 +13,7 @@
         "color": "#FF4BB7FF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -44,6 +45,7 @@
         "color": "#FF4BB7FF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -70,7 +72,8 @@
         "text": "DIA 9: crand n",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -78,7 +81,8 @@
         "text": "DIA 7: altar nw",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -87,6 +91,7 @@
         "color": "#FF4BB7FF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -117,7 +122,8 @@
         "text": "GLORY 3: cows",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -126,6 +132,7 @@
         "color": "#FF4BB7FF",
         "itemIds": [
             13069,
+            19476,
             952
         ]
     },
@@ -147,7 +154,8 @@
         "text": "ALS: dog",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13068
+            13068,
+            9813
         ]
     },
     {
@@ -206,7 +214,8 @@
         "text": "DIA D: Lowe",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -232,7 +241,8 @@
         "text": "DIA F: Referee",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -240,7 +250,8 @@
         "text": "MUSIC: Donovan",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13222
+            13222,
+            13221
         ]
     },
     {
@@ -284,6 +295,7 @@
         "color": "#FF4BB7FF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -336,6 +348,7 @@
         "color": "#FF4BB7FF",
         "itemIds": [
             13069,
+            19476,
             952
         ]
     },
@@ -358,7 +371,8 @@
         "text": "ALS: crate",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13068
+            13068,
+            9813
         ]
     },
     {
@@ -397,7 +411,8 @@
         "text": "DIA 6: pirate",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -484,7 +499,8 @@
         "text": "DIA 6: w Kangai",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -492,7 +508,8 @@
         "text": "AKS: ne Fycie",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13068
+            13068,
+            9813
         ]
     },
     {
@@ -521,7 +538,8 @@
         "text": "QPC: Carol",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13068
+            13068,
+            9813
         ]
     },
     {
@@ -529,7 +547,8 @@
         "text": "DIA 1: n Edmond",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -537,7 +556,8 @@
         "text": "DIA D: King",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -576,6 +596,7 @@
         "color": "#FF4BB7FF",
         "itemIds": [
             13069,
+            19476,
             952
         ]
     },
@@ -585,6 +606,7 @@
         "color": "#FF4BB7FF",
         "itemIds": [
             13222,
+            13221,
             952
         ]
     },
@@ -609,7 +631,8 @@
         "text": "QPC: Jeb",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13068
+            13068,
+            9813
         ]
     },
     {
@@ -664,6 +687,7 @@
         "color": "#FF4BB7FF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -673,6 +697,7 @@
         "color": "#FF4BB7FF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -707,7 +732,8 @@
         "text": "DIA 7: altar n",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -761,7 +787,8 @@
         "text": "DIA F: agi stash",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -811,7 +838,8 @@
         "text": "DIA 2: stash",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -842,7 +870,8 @@
         "text": "DIA 9: sword",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -967,7 +996,8 @@
         "text": "DIA D: Baraek",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1029,7 +1059,8 @@
         "text": "DJR: e Captain",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13068
+            13068,
+            9813
         ]
     },
     {
@@ -1050,7 +1081,8 @@
         "text": "CIS: mine",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13068
+            13068,
+            9813
         ]
     },
     {
@@ -1071,7 +1103,8 @@
         "text": "DIA B: Father",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1094,7 +1127,8 @@
         "text": "DIA D: Tramp",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1102,7 +1136,8 @@
         "text": "DIA 5: Flax",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1110,7 +1145,8 @@
         "text": "DIA 3: Squire",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1126,7 +1162,8 @@
         "text": "DIA E: abyss soul",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1175,7 +1212,8 @@
         "text": "DIA B: Tutor",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1183,7 +1221,8 @@
         "text": "DIA C: down",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1259,7 +1298,8 @@
         "text": "DIA 9: crand s",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1622,7 +1662,8 @@
         "text": "DIA D: church",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1630,7 +1671,8 @@
         "text": "DIA 1: up",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1668,7 +1710,8 @@
         "text": "ALP: up",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13068
+            13068,
+            9813
         ]
     },
     {

@@ -327,7 +327,8 @@
         "text": "DIA 8: isle",
         "color": "#FFC15FFF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -336,6 +337,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13069,
+            19476,
             1351,
             6317
         ]
@@ -346,6 +348,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13069,
+            19476,
             1351,
             6317
         ]
@@ -365,6 +368,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -382,7 +386,8 @@
         "text": "BIP: grotto",
         "color": "#FFC15FFF",
         "itemIds": [
-            13068
+            13068,
+            9813
         ]
     },
     {
@@ -391,6 +396,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -421,6 +427,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -553,7 +560,8 @@
         "text": "DIA F: Trainer",
         "color": "#FFC15FFF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -569,7 +577,8 @@
         "text": "DIA 9: eggs",
         "color": "#FFC15FFF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -587,6 +596,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -694,7 +704,8 @@
         "text": "DIA 1: w drawer",
         "color": "#FFC15FFF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -753,6 +764,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -761,7 +773,8 @@
         "text": "DIA F: Coach",
         "color": "#FFC15FFF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -774,7 +787,8 @@
         "text": "DIA 6: Cap'n",
         "color": "#FFC15FFF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -795,7 +809,8 @@
         "text": "ALP: stash",
         "color": "#FFFF00AF",
         "itemIds": [
-            13068
+            13068,
+            9813
         ]
     },
     {
@@ -803,7 +818,8 @@
         "text": "ALQ: naked",
         "color": "#FFFF00AF",
         "itemIds": [
-            13068
+            13068,
+            9813
         ]
     },
     {
@@ -844,7 +860,8 @@
         "text": "AJR: n stash",
         "color": "#FFFF00AF",
         "itemIds": [
-            13068
+            13068,
+            9813
         ]
     },
     {
@@ -915,6 +932,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -924,6 +942,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -933,6 +952,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -941,7 +961,8 @@
         "text": "DIA 9: crandor",
         "color": "#FFC15FFF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1015,7 +1036,8 @@
         "text": "DIA B: Doom",
         "color": "#FFC15FFF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1036,7 +1058,8 @@
         "text": "DIA 3: Vyvin",
         "color": "#FFC15FFF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1062,6 +1085,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -1175,7 +1199,8 @@
         "text": "DIA 2: foundry",
         "color": "#FFC15FFF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1184,6 +1209,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -1193,6 +1219,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -1202,6 +1229,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -1211,6 +1239,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -1220,6 +1249,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -1229,6 +1259,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13069,
+            19476,
             952
         ]
     },
@@ -1238,6 +1269,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -1247,6 +1279,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -1256,6 +1289,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -1265,6 +1299,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -1291,7 +1326,8 @@
         "text": "DIA B: Guide",
         "color": "#FFC15FFF",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1300,6 +1336,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13069,
+            19476,
             11095
         ]
     },
@@ -1358,7 +1395,8 @@
         "text": "BIQ: nw Weird",
         "color": "#FFC15FFF",
         "itemIds": [
-            13068
+            13068,
+            9813
         ]
     },
     {
@@ -1366,7 +1404,8 @@
         "text": "BJR: King",
         "color": "#FFC15FFF",
         "itemIds": [
-            13068
+            13068,
+            9813
         ]
     },
     {
@@ -1582,6 +1621,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -1591,6 +1631,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },

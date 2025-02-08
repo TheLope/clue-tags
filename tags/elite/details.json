@@ -49,7 +49,8 @@
         "text": "QPC: Jeb stash",
         "color": "#FFB7FF00",
         "itemIds": [
-            13068
+            13068,
+            9813
         ]
     },
     {
@@ -104,6 +105,7 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -188,6 +190,7 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -222,6 +225,7 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -258,6 +262,7 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13069,
+            19476,
             952
         ]
     },
@@ -266,7 +271,8 @@
         "text": "ALQ: ship",
         "color": "#FFB7FF00",
         "itemIds": [
-            13068
+            13068,
+            9813
         ]
     },
     {
@@ -420,6 +426,7 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -528,6 +535,7 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -556,6 +564,7 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13069,
+            19476,
             11095
         ]
     },
@@ -564,7 +573,8 @@
         "text": "DIA B: Father",
         "color": "#FFB7FF00",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -652,6 +662,7 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13069,
+            19476,
             11095
         ]
     },
@@ -682,7 +693,8 @@
         "text": "DJR: se stash",
         "color": "#FFB7FF00",
         "itemIds": [
-            13068
+            13068,
+            9813
         ]
     },
     {
@@ -690,7 +702,8 @@
         "text": "QPC: stash",
         "color": "#FFB7FF00",
         "itemIds": [
-            13068
+            13068,
+            9813
         ]
     },
     {
@@ -748,7 +761,8 @@
         "text": "DIA A: hellhound",
         "color": "#FFB7FF00",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -782,7 +796,8 @@
         "text": "DIA A: bloodveld",
         "color": "#FFB7FF00",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -814,7 +829,8 @@
         "text": "DIA A: ankou",
         "color": "#FFB7FF00",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -906,6 +922,7 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
@@ -975,6 +992,7 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },

@@ -14,7 +14,8 @@
         "text": "DIA B: goblin box",
         "color": "#FF4CCA27",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -79,7 +80,8 @@
         "text": "DIA D: s Bartend",
         "color": "#FF4CCA27",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -87,7 +89,8 @@
         "text": "DIA D: e bank up",
         "color": "#FF4CCA27",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -95,7 +98,8 @@
         "text": "DIA D: armor crate",
         "color": "#FF4CCA27",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -134,7 +138,8 @@
         "text": "DIA 3: Squire",
         "color": "#FF4CCA27",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -253,7 +258,8 @@
         "text": "DIA 1: up drawer",
         "color": "#FF4CCA27",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -493,6 +499,7 @@
         "color": "#FF4CCA27",
         "itemIds": [
             13069,
+            19476,
             952
         ]
     },
@@ -509,7 +516,8 @@
         "text": "MUSIC: ne Louisa",
         "color": "#FF4CCA27",
         "itemIds": [
-            13222
+            13222,
+            13221
         ]
     },
     {
@@ -567,7 +575,8 @@
         "text": "DIA C: ne crate",
         "color": "#FF4CCA27",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -611,7 +620,8 @@
         "text": "QPC: stash",
         "color": "#FF4CCA27",
         "itemIds": [
-            13068
+            13068,
+            9813
         ]
     },
     {
@@ -619,7 +629,8 @@
         "text": "AIQ: stash",
         "color": "#FF4CCA27",
         "itemIds": [
-            13068
+            13068,
+            9813
         ]
     },
     {
@@ -726,7 +737,8 @@
         "text": "DIA 5: e stash",
         "color": "#FF4CCA27",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -734,7 +746,8 @@
         "text": "DIA 1: zoo stash",
         "color": "#FF4CCA27",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -777,7 +790,8 @@
         "text": "MUSIC: e stash",
         "color": "#FF4CCA27",
         "itemIds": [
-            13222
+            13222,
+            13221
         ]
     },
     {
@@ -950,7 +964,8 @@
         "text": "DIA 3: up Ambass",
         "color": "#FF4CCA27",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1031,7 +1046,8 @@
         "text": "DIA 2: Shantay bucket",
         "color": "#FF4CCA27",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1135,7 +1151,8 @@
         "text": "DIA F: se up Ermin",
         "color": "#FF4CCA27",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1151,7 +1168,8 @@
         "text": "DIA B: Doomsayer",
         "color": "#FF4CCA27",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1164,7 +1182,8 @@
         "text": "DIA D: rune stash",
         "color": "#FF4CCA27",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1196,7 +1215,8 @@
         "text": "DIA B: nw farm",
         "color": "#FF4CCA27",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1204,7 +1224,8 @@
         "text": "DIA D: armor crate",
         "color": "#FF4CCA27",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -1346,7 +1367,8 @@
         "text": "DIA D: s Cook",
         "color": "#FF4CCA27",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {

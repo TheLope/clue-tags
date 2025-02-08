@@ -24,7 +24,8 @@
         "text": "DIA D: Apothecary",
         "color": "#FFC8C8C8",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -108,7 +109,8 @@
         "text": "DIA D: Charlie",
         "color": "#FFC8C8C8",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -116,7 +118,8 @@
         "text": "DIA 2: Shantay",
         "color": "#FFC8C8C8",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -142,7 +145,8 @@
         "text": "DIA B: s stash",
         "color": "#FFC8C8C8",
         "itemIds": [
-            13069
+            13069,
+            19476
         ]
     },
     {
@@ -187,6 +191,7 @@
         "color": "#FFC8C8C8",
         "itemIds": [
             13069,
+            19476,
             952
         ]
     },
@@ -205,6 +210,7 @@
         "color": "#FFC8C8C8",
         "itemIds": [
             13068,
+            9813,
             952
         ]
     },
