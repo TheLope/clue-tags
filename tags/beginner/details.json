@@ -101,7 +101,7 @@
         "text": "SKULL: Hunding",
         "color": "#FFC8C8C8",
         "itemIds": [
-            9013
+            21276
         ]
     },
     {
@@ -200,7 +200,7 @@
         "text": "SKULL: stone r dig",
         "color": "#FFC8C8C8",
         "itemIds": [
-            9013,
+            21276,
             952
         ]
     },

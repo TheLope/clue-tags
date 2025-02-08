@@ -384,7 +384,9 @@
         "text": "HILT: ne climb",
         "color": "#FFFF5A00",
         "itemIds": [
-            25936
+            25936,
+            25934,
+            25932
         ]
     },
     {
@@ -421,7 +423,9 @@
         "text": "HILT: kamil",
         "color": "#FFFF5A00",
         "itemIds": [
-            25936
+            25936,
+            25934,
+            25932
         ]
     },
     {
@@ -512,7 +516,9 @@
         "text": "HILT: sara encamp",
         "color": "#FFFF5A00",
         "itemIds": [
-            25936
+            25936,
+            25934,
+            25932
         ]
     },
     {
@@ -617,7 +623,9 @@
         "text": "HILT: gwd stash",
         "color": "#FFFF5A00",
         "itemIds": [
-            25936
+            25936,
+            25934,
+            25932
         ]
     },
     {
@@ -1136,7 +1144,9 @@
         "text": "HILT: mage",
         "color": "#FFFF5A00",
         "itemIds": [
-            25936
+            25936,
+            25934,
+            25932
         ]
     },
     {
