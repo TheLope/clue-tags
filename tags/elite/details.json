@@ -9,7 +9,7 @@
         "text": "LYRE 3: rune stash",
         "color": "#FFB7FF00",
         "itemIds": [
-            3690
+            23458
         ]
     },
     {
@@ -163,7 +163,7 @@
         "text": "LYRE 3: e dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            3690,
+            23458,
             952
         ]
     },
@@ -479,7 +479,7 @@
         "text": "LYRE 1: Sigli",
         "color": "#FFB7FF00",
         "itemIds": [
-            3690
+            23458
         ]
     },
     {
@@ -763,7 +763,7 @@
         "text": "LYRE 3: Lisse",
         "color": "#FFB7FF00",
         "itemIds": [
-            3690
+            23458
         ]
     },
     {
@@ -965,7 +965,7 @@
         "text": "LYRE 3: w dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            3690,
+            23458,
             952
         ]
     },
