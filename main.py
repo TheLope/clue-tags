@@ -223,7 +223,7 @@ def define_env(env):
         if not os.path.exists(path):
             os.mkdir(path)
 
-        for filter in ["text", "color", "items"]:
+        for filter in ["text", "color", "itemIds"]:
             keys_to_get = ["id", filter]
             result = get_certain_keys(data, keys_to_get)
             f = open(f"tags/{ tier }/filtered/{ filter }.json", "w")
@@ -254,7 +254,7 @@ _Copy button is provided on the right_
     ```
 === "Items"
     ``` json title=""
-    --8<-- "tags/{ tier }/filtered/items.json"
+    --8<-- "tags/{ tier }/filtered/itemIds.json"
     ```
 """
 
