@@ -4,6 +4,7 @@
         "text": "LUMBER: crate",
         "color": "#FFC15FFF",
         "itemIds": [
+            21389,
             12642
         ]
     },
@@ -59,6 +60,7 @@
         "text": "REV: s hill",
         "color": "#FFC15FFF",
         "itemIds": [
+            21389,
             21802
         ]
     },
@@ -215,6 +217,7 @@
         "text": "REV: -ne dig",
         "color": "#FFFF0000",
         "itemIds": [
+            21389,
             21802,
             952
         ]
@@ -477,6 +480,7 @@
         "text": "IORW: s dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            21389,
             12410,
             952
         ]
@@ -613,6 +617,7 @@
         "text": "MORT: dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            21389,
             12406,
             952
         ]
@@ -1145,6 +1150,7 @@
         "text": "ZUL: Zul-Cheray",
         "color": "#FFC15FFF",
         "itemIds": [
+            21389,
             12938
         ]
     },
@@ -1350,6 +1356,7 @@
         "text": "MOS LE: Tranqil",
         "color": "#FFC15FFF",
         "itemIds": [
+            21389,
             12411
         ]
     },

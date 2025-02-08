@@ -17,6 +17,7 @@
         "text": "REV: -nw stash",
         "color": "#FFFF0000",
         "itemIds": [
+            21389,
             21802
         ]
     },
@@ -96,6 +97,7 @@
         "text": "MOS LE: island",
         "color": "#FFB7FF00",
         "itemIds": [
+            21389,
             12411
         ]
     },
@@ -236,6 +238,7 @@
         "text": "MORT: +gp tomb",
         "color": "#FFB7FF00",
         "itemIds": [
+            21389,
             12406,
             995
         ]
@@ -291,6 +294,7 @@
         "text": "TAI BWO: ne",
         "color": "#FFB7FF00",
         "itemIds": [
+            21389,
             12409
         ]
     },
@@ -299,6 +303,7 @@
         "text": "IORW: nw",
         "color": "#FFB7FF00",
         "itemIds": [
+            21389,
             12410
         ]
     },
@@ -592,6 +597,7 @@
         "text": "NARDAH: +rope",
         "color": "#FFB7FF00",
         "itemIds": [
+            21389,
             12402,
             954
         ]
@@ -657,6 +663,7 @@
         "text": "ZUL: ne dig",
         "color": "#FFB7FF00",
         "itemIds": [
+            21389,
             12938,
             952
         ]
@@ -831,6 +838,7 @@
         "text": "NARDAH: croc",
         "color": "#FFB7FF00",
         "itemIds": [
+            21389,
             12402
         ]
     },

@@ -403,6 +403,7 @@
         "text": "TAI BWO: crate",
         "color": "#FF4BB7FF",
         "itemIds": [
+            21389,
             12409
         ]
     },
@@ -525,6 +526,7 @@
         "text": "TAI BWO: Gabooty",
         "color": "#FF4BB7FF",
         "itemIds": [
+            21389,
             12409
         ]
     },
@@ -759,6 +761,7 @@
         "text": "TAI BWO: stash",
         "color": "#FF4BB7FF",
         "itemIds": [
+            21389,
             12409
         ]
     },
@@ -887,6 +890,7 @@
         "text": "FELDIP: se dig",
         "color": "#FF4BB7FF",
         "itemIds": [
+            21389,
             12404,
             952
         ]
@@ -942,6 +946,7 @@
         "text": "PISC: row s",
         "color": "#FF4BB7FF",
         "itemIds": [
+            21389,
             12408
         ]
     },
@@ -950,6 +955,7 @@
         "text": "PISC: row n",
         "color": "#FF4BB7FF",
         "itemIds": [
+            21389,
             12408
         ]
     },
@@ -1276,6 +1282,7 @@
         "text": "FELDIP: s Madame",
         "color": "#FF4BB7FF",
         "itemIds": [
+            21389,
             12404
         ]
     },

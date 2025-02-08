@@ -20,6 +20,7 @@
         "text": "ZUL: Sacrifice",
         "color": "#FFFF5A00",
         "itemIds": [
+            21389,
             12938
         ]
     },
@@ -108,6 +109,7 @@
         "text": "NARDAH: Wingstone",
         "color": "#FFFF5A00",
         "itemIds": [
+            21389,
             12402
         ]
     },
@@ -124,6 +126,7 @@
         "text": "IORW: s dig",
         "color": "#FFFF5A00",
         "itemIds": [
+            21389,
             12410,
             952
         ]
@@ -133,6 +136,7 @@
         "text": "ZUL: nw dig",
         "color": "#FFFF5A00",
         "itemIds": [
+            21389,
             12938,
             952
         ]
@@ -152,6 +156,7 @@
         "text": "MOS LE: island dig",
         "color": "#FFFF5A00",
         "itemIds": [
+            21389,
             12411,
             952
         ]
@@ -474,6 +479,7 @@
         "text": "REV: -maze",
         "color": "#FFFF0000",
         "itemIds": [
+            21389,
             21802
         ]
     },
@@ -526,6 +532,7 @@
         "text": "KEY: Keymaster",
         "color": "#FFFF5A00",
         "itemIds": [
+            21389,
             13249
         ]
     },
@@ -641,6 +648,7 @@
         "text": "IORW: stash",
         "color": "#FFFF5A00",
         "itemIds": [
+            21389,
             12410
         ]
     },
@@ -714,6 +722,7 @@
         "text": "ZUL: stash",
         "color": "#FFFF5A00",
         "itemIds": [
+            21389,
             12938
         ]
     },
@@ -1079,6 +1088,7 @@
         "text": "MORT: +burn fiyr",
         "color": "#FFFF5A00",
         "itemIds": [
+            21389,
             12406,
             3448,
             3404
@@ -1117,6 +1127,7 @@
         "text": "MORT: +kill fiyr",
         "color": "#FFFF5A00",
         "itemIds": [
+            21389,
             12406,
             25432
         ]

@@ -807,6 +807,7 @@
         "text": "LUMBER: stash",
         "color": "#FF4CCA27",
         "itemIds": [
+            21389,
             12642
         ]
     },
@@ -1030,6 +1031,7 @@
         "text": "LUMBER: basket Lady",
         "color": "#FF4CCA27",
         "itemIds": [
+            21389,
             12642
         ]
     },
