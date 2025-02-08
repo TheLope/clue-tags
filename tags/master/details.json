@@ -141,6 +141,7 @@
         "text": "DLR: se dig",
         "color": "#FFFF5A00",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -195,6 +196,7 @@
         "text": "BKR: tomb dig",
         "color": "#FFFF5A00",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -244,6 +246,7 @@
         "text": "DJR: nw dig",
         "color": "#FFFF5A00",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -294,6 +297,7 @@
         "text": "CIS: mine dig",
         "color": "#FFFF5A00",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -353,6 +357,7 @@
         "text": "DKS: +penguin",
         "color": "#FFFF5A00",
         "itemIds": [
+            13068,
             10595
         ]
     },
@@ -729,7 +734,10 @@
     {
         "id": 595,
         "text": "BKQ: stash",
-        "color": "#FFFF5A00"
+        "color": "#FFFF5A00",
+        "itemIds": [
+            13068
+        ]
     },
     {
         "id": 596,
@@ -945,6 +953,7 @@
         "text": "DLS: +blood rune",
         "color": "#FFFF5A00",
         "itemIds": [
+            13068,
             565
         ]
     },
@@ -1070,7 +1079,10 @@
     {
         "id": 634,
         "text": "DJR: shaman",
-        "color": "#FFFF5A00"
+        "color": "#FFFF5A00",
+        "itemIds": [
+            13068
+        ]
     },
     {
         "id": 635,

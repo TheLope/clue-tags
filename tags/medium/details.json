@@ -12,6 +12,7 @@
         "text": "CLS: n dig",
         "color": "#FF4BB7FF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -42,7 +43,7 @@
         "text": "CIQ: nw dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            9813,
+            13068,
             952
         ]
     },
@@ -85,6 +86,7 @@
         "text": "AIQ: n dig",
         "color": "#FF4BB7FF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -143,7 +145,10 @@
     {
         "id": 2833,
         "text": "ALS: dog",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "itemIds": [
+            13068
+        ]
     },
     {
         "id": 2835,
@@ -278,6 +283,7 @@
         "text": "BKR: sw dig",
         "color": "#FF4BB7FF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -350,7 +356,10 @@
     {
         "id": 3598,
         "text": "ALS: crate",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "itemIds": [
+            13068
+        ]
     },
     {
         "id": 3599,
@@ -481,7 +490,10 @@
     {
         "id": 3618,
         "text": "AKS: ne Fycie",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "itemIds": [
+            13068
+        ]
     },
     {
         "id": 7274,
@@ -651,6 +663,7 @@
         "text": "AKS: n dig",
         "color": "#FF4BB7FF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -659,6 +672,7 @@
         "text": "DKP: dig",
         "color": "#FF4BB7FF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -1013,7 +1027,10 @@
     {
         "id": 19734,
         "text": "DJR: e Captain",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "itemIds": [
+            13068
+        ]
     },
     {
         "id": 19736,
@@ -1031,7 +1048,10 @@
     {
         "id": 19740,
         "text": "CIS: mine",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "itemIds": [
+            13068
+        ]
     },
     {
         "id": 19742,
@@ -1646,7 +1666,10 @@
     {
         "id": 7299,
         "text": "ALP: up",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "itemIds": [
+            13068
+        ]
     },
     {
         "id": 7302,

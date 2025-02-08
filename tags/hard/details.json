@@ -364,6 +364,7 @@
         "text": "DKP: se dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -379,13 +380,17 @@
     {
         "id": 3542,
         "text": "BIP: grotto",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13068
+        ]
     },
     {
         "id": 3544,
         "text": "BKR: sw dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -415,6 +420,7 @@
         "text": "BIQ: sw dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -580,6 +586,7 @@
         "text": "BLR: sw dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -745,6 +752,7 @@
         "text": "DKS: w dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -785,12 +793,18 @@
     {
         "id": 10238,
         "text": "ALP: stash",
-        "color": "#FFFF00AF"
+        "color": "#FFFF00AF",
+        "itemIds": [
+            13068
+        ]
     },
     {
         "id": 10240,
         "text": "ALQ: naked",
-        "color": "#FFFF00AF"
+        "color": "#FFFF00AF",
+        "itemIds": [
+            13068
+        ]
     },
     {
         "id": 10242,
@@ -828,7 +842,10 @@
     {
         "id": 10248,
         "text": "AJR: n stash",
-        "color": "#FFFF00AF"
+        "color": "#FFFF00AF",
+        "itemIds": [
+            13068
+        ]
     },
     {
         "id": 10250,
@@ -897,6 +914,7 @@
         "text": "CLP: dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -905,6 +923,7 @@
         "text": "AJS: dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -913,6 +932,7 @@
         "text": "AIR: n dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -1041,6 +1061,7 @@
         "text": "DJR: ne dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -1162,6 +1183,7 @@
         "text": "AIQ: dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -1170,6 +1192,7 @@
         "text": "AIR: s dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -1178,6 +1201,7 @@
         "text": "ALP: dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -1186,6 +1210,7 @@
         "text": "BIP: dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -1194,6 +1219,7 @@
         "text": "BJR: dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -1211,6 +1237,7 @@
         "text": "CKP: dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -1219,6 +1246,7 @@
         "text": "DIP: dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -1227,6 +1255,7 @@
         "text": "DKS: e dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -1235,6 +1264,7 @@
         "text": "CIS: w dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -1326,12 +1356,18 @@
     {
         "id": 19904,
         "text": "BIQ: nw Weird",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13068
+        ]
     },
     {
         "id": 19906,
         "text": "BJR: King",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13068
+        ]
     },
     {
         "id": 19908,
@@ -1545,6 +1581,7 @@
         "text": "BLQ: dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13068,
             952
         ]
     },
@@ -1553,6 +1590,7 @@
         "text": "AJP: dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13068,
             952
         ]
     },
