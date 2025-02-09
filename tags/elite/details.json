@@ -551,8 +551,11 @@
     },
     {
         "id": 12147,
-        "text": "PADD: Vannaka",
-        "color": "#FFB7FF00"
+        "text": "GSA 1: Vannaka",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            30638
+        ]
     },
     {
         "id": 12148,

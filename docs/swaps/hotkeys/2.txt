@@ -18,3 +18,4 @@ Ghorrock dungeon,Ring of shadows
 Waterbirth island,Enchanted lyre*
 The fisher's*,Book of the dead
 Temple,Camulet
+Obor*,Giantsoul amulet

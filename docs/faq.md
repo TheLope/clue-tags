@@ -19,11 +19,12 @@ Here are explanations for otherwise unclear hints
 | +         | Bank first                                                 |
 | -         | Degear for wildy                                           |
 | MAX       | Max cape. See [Custom Swaps](./swaps/index.md) for hotkeys |
+| BOX       | POH jewellery box                                          |
 | FISH      | Fishing Guild Teleport                                     |
 | GLIDE     | Seed pod&rarr;climb up to glider                           |
-| RESP      | Respawn: set to Edgeville                                  |
+| GSA       | Giantsoul amulet                                           |
 | GVS       | Goblin village sphere                                      |
-| BOX       | POH jewellery box                                          |
+| RESP      | Respawn: set to Edgeville                                  |
 
 ### Ancient Magicks
 
