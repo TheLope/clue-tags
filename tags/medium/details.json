@@ -87,11 +87,10 @@
     },
     {
         "id": 2819,
-        "text": "AIQ: n dig",
+        "text": "GSA 3: up dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13068,
-            9813,
+            30638,
             952
         ]
     },
@@ -1174,10 +1173,10 @@
     },
     {
         "id": 19760,
-        "text": "XER 4: giant",
+        "text": "GSA 2: giant",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13393
+            30638
         ]
     },
     {

@@ -224,9 +224,10 @@
     },
     {
         "id": 2790,
-        "text": "PADD: moss dig",
+        "text": "GSA 1: moss dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            30638,
             952
         ]
     },
