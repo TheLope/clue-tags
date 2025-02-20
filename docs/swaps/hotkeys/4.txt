@@ -14,3 +14,4 @@ Jaltevas,Pharaoh's sceptre
 Lassar undercity,Ring of shadows
 Jatiszo,Enchanted lyre*
 Jewellery of*,Book of the dead
+North Aldarin,Pendant of ates
