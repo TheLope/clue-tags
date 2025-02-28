@@ -198,12 +198,18 @@
     {
         "id": 2700,
         "text": "CATH: se drawer",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            24961
+        ]
     },
     {
         "id": 2701,
         "text": "CATH: s Arhein",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            24961
+        ]
     },
     {
         "id": 2702,
@@ -355,7 +361,7 @@
     },
     {
         "id": 3494,
-        "text": "MAX A: witch up",
+        "text": "MAX A: se stair",
         "color": "#FF4CCA27",
         "itemIds": [
             13280
@@ -458,7 +464,10 @@
     {
         "id": 3504,
         "text": "KHAZ: se crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            24957
+        ]
     },
     {
         "id": 3505,
@@ -481,7 +490,10 @@
     {
         "id": 3507,
         "text": "CATH: up drawer",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            24961
+        ]
     },
     {
         "id": 3508,
@@ -559,6 +571,11 @@
         "text": "PASS 1: s dig",
         "color": "#FF4CCA27",
         "itemIds": [
+            21146,
+            21149,
+            21151,
+            21153,
+            21155,
             952
         ]
     },
@@ -783,7 +800,10 @@
     {
         "id": 10224,
         "text": "KHAZ: e naked",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            24957
+        ]
     },
     {
         "id": 10226,
@@ -913,7 +933,11 @@
     {
         "id": 12175,
         "text": "DIGS: se bush",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "itemIds": [
+            21389,
+            12403
+        ]
     },
     {
         "id": 12176,
@@ -1062,7 +1086,7 @@
     },
     {
         "id": 19816,
-        "text": "GSA 1: ne Vannaka",
+        "text": "GSA 1: nw Vannaka",
         "color": "#FF4CCA27",
         "itemIds": [
             30638
@@ -1391,7 +1415,7 @@
     },
     {
         "id": 28913,
-        "text": "MAX 8: up barrel",
+        "text": "MAX 8: up pot",
         "color": "#FF4CCA27",
         "itemIds": [
             13280
@@ -1399,7 +1423,7 @@
     },
     {
         "id": 28914,
-        "text": "CIV: museum stash",
+        "text": "CIV: ne stash",
         "color": "#FF4CCA27"
     },
     {
