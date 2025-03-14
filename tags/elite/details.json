@@ -1093,5 +1093,15 @@
         "itemIds": [
             29893
         ]
+    },
+    {
+        "id": 12128,
+        "text": "Challenge: Sherlock",
+        "color": "#FF00FF00"
+    },
+    {
+        "id": 12139,
+        "text": "Challenge",
+        "color": "#FF00FF00"
     }
 ]
