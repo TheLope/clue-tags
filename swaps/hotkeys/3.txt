@@ -1,0 +1,20 @@
+Crafting*,Max cape
+Taverley,construct*
+Falador,Achievement*
+Draynor village,Amulet of *glory*
+Fremennik dungeon,slayer ring*
+Monastery,combat bracelet*
+Falador,ring of wealth*
+Ferox enclave,Ring of dueling*
+Eagles' eyrie,necklace of passage*
+Corporeal beast,Games necklace*
+Crafting guild,Skills necklace*
+Lava maze,Burning amulet*
+Xeric's inferno,Xeric's talisman
+Earth altar,ring of the elements
+Jaldraocht,Pharaoh's sceptre
+The scar,Ring of shadows
+Neitiznot,Enchanted lyre*
+History and*,Book of the dead
+Branda and Eldric*,Giantsoul amulet
+Ralos' Rise,Pendant of ates
