@@ -19,3 +19,4 @@ icon: clue/master
 - Items assume the use of the ["3-stepping" method](https://discord.com/channels/922245627092541450/1233850882156789881/1235639466828234814) *See footer for Discord invite*
 - **Combat bracelet**: Taken for Ghommal cryptic step, replace as needed
     - Shilo Village furnace&rarr;Karamja gloves, etc.
+- If you have the Monastery step, you may want to use Fighter torso and Primordial boots to allow for easier prayer bonus management
