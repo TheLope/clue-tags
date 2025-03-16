@@ -6,11 +6,11 @@ master:
     ammo: Unholy blessing
     ammo2: ~
     weapon: Dragon claws
-    torso: Fighter torso
+    torso: Torva platebody
     legs: Torva platelegs
     shield: ~
     gloves: Ferocious gloves
-    boots: Primordial boots
+    boots: Echo boots
     ring: Ultor ring
   inventory:
   - [Clue scroll (master), Achievement diary cape (t), Quest point cape (t), Book of the dead]
