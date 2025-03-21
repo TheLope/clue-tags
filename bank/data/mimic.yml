@@ -1,0 +1,24 @@
+mimic:
+  equipment:
+    head: Torva full helm
+    cape: Infernal cape
+    neck: Amulet of rancour
+    ammo: ~
+    ammo2: ~
+    weapon: Voidwaker
+    torso: Torva platebody
+    legs: Torva platelegs
+    shield: Avernic defender
+    gloves: Ferocious gloves
+    boots: Primordial boots
+    ring: Ultor ring
+  inventory:
+  - [Osmumten's fang, Desert amulet 4, Crafting cape(t), Watson teleport]
+  - [Divine super combat potion(1), Anglerfish, Anglerfish, Anglerfish]
+  - [Mimic, Anglerfish, Anglerfish, Anglerfish]
+  - [~, ~, ~, ~]
+  - [~, ~, ~, ~]
+  - [~, ~, ~, ~]
+  - [~, ~, ~, ~]
+  spellbook: ~
+  rune_pouch: ~
