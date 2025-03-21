@@ -160,7 +160,8 @@
         "text": "MAX A: e Gerrant",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -372,6 +373,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -389,7 +391,8 @@
         "text": "BIP: grotto",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -398,6 +401,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -406,7 +410,8 @@
         "text": "MAX H: Gu'T",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -428,6 +433,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -468,6 +474,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952,
             995
         ]
@@ -488,6 +495,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             995
         ]
     },
@@ -532,7 +540,8 @@
         "text": "MAX 5: house up",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -570,7 +579,8 @@
         "text": "CRAFT: entrana",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -597,6 +607,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -672,7 +683,8 @@
         "text": "MAX H: dungeon",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -765,6 +777,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -801,7 +814,8 @@
         "text": "MAX 2: stash",
         "color": "#FFFF00AF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -809,7 +823,8 @@
         "text": "ALP: stash",
         "color": "#FFFF00AF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -817,7 +832,8 @@
         "text": "ALQ: naked",
         "color": "#FFFF00AF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -858,7 +874,8 @@
         "text": "AJR: n stash",
         "color": "#FFFF00AF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -929,6 +946,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -938,6 +956,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -947,6 +966,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -1039,7 +1059,8 @@
         "text": "MAX G: Saniboch",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -1079,6 +1100,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -1203,6 +1225,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -1212,6 +1235,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -1221,6 +1245,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -1230,6 +1255,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -1239,6 +1265,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -1258,6 +1285,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -1267,6 +1295,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -1276,6 +1305,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -1285,6 +1315,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -1359,7 +1390,8 @@
         "text": "MAX I: sw Eluned",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -1367,7 +1399,8 @@
         "text": "MAX 5: Otto",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -1383,7 +1416,8 @@
         "text": "BIQ: nw Weird",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -1391,7 +1425,8 @@
         "text": "BJR: King",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -1446,6 +1481,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -1607,6 +1643,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -1616,6 +1653,7 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -1624,7 +1662,8 @@
         "text": "MAX 8: Soar Lead",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
