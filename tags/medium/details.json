@@ -23,6 +23,7 @@
         "color": "#FF4BB7FF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -55,6 +56,7 @@
         "color": "#FF4BB7FF",
         "itemIds": [
             13280,
+            13342,
             954
         ]
     },
@@ -329,6 +331,7 @@
         "color": "#FF4BB7FF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -394,6 +397,7 @@
         "color": "#FF4BB7FF",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -653,7 +657,8 @@
         "text": "MAX C: camp",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -917,7 +922,8 @@
         "text": "MAX F: potato",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -990,7 +996,8 @@
         "text": "MAX 5: Otto",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -1015,7 +1022,8 @@
         "text": "MAX A: e Tobias",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -1023,7 +1031,8 @@
         "text": "MAX A: w Taria",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -1206,7 +1215,8 @@
         "text": "MAX C: Kebab",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {

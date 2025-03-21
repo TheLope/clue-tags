@@ -26,7 +26,8 @@
         "text": "FISH: shadow",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -34,7 +35,8 @@
         "text": "MAX 1: stash",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -42,7 +44,8 @@
         "text": "BOX C: stash up",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -72,7 +75,8 @@
         "text": "MAX B: hero stash",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -80,7 +84,8 @@
         "text": "MAX 5: cave stash",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -89,6 +94,7 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13280,
+            13342,
             995
         ]
     },
@@ -117,6 +123,7 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -471,7 +478,8 @@
         "text": "BOX 1: Cam",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -531,7 +539,8 @@
         "text": "MAX 1: top Kam",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -563,6 +572,7 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -623,7 +633,8 @@
         "text": "MAX B: stones",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -860,6 +871,7 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13280,
+            13342,
             11337
         ]
     },
@@ -880,7 +892,8 @@
         "text": "NEX MARIM: Daga",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -907,6 +920,7 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -960,7 +974,8 @@
         "text": "NEX WEISS: e",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -978,6 +993,7 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -1022,7 +1038,8 @@
         "text": "MAX D: sw stash",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {

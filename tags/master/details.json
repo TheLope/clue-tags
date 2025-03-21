@@ -4,7 +4,8 @@
         "text": "NEX WEISS: Snowflake",
         "color": "#FFFF5A00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -42,7 +43,8 @@
         "text": "NEX MARIM: Dugopul",
         "color": "#FFFF5A00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -50,7 +52,8 @@
         "text": "BOX K: Runolf",
         "color": "#FFFF5A00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -101,7 +104,8 @@
         "text": "BOX I: Lars",
         "color": "#FFFF5A00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -216,6 +220,7 @@
         "color": "#FFFF5A00",
         "itemIds": [
             13280,
+            13342,
             952
         ]
     },
@@ -224,7 +229,8 @@
         "text": "MAX B: water obel",
         "color": "#FFFF5A00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -400,6 +406,7 @@
         "color": "#FFFF5A00",
         "itemIds": [
             13280,
+            13342,
             4675
         ]
     },
@@ -463,7 +470,8 @@
         "text": "BOX 5: rogue's den",
         "color": "#FFFF5A00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -471,7 +479,8 @@
         "text": "MAX 1: Ghommal",
         "color": "#FFFF5A00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -496,7 +505,8 @@
         "text": "BOX 8: +Juna",
         "color": "#FFFF5A00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -594,7 +604,8 @@
         "text": "FISH: +shadow",
         "color": "#FFFF5A00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -640,7 +651,8 @@
         "text": "MAX 1: stash",
         "color": "#FFFF5A00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -731,7 +743,8 @@
         "text": "MAX 7: -stash",
         "color": "#FFFF0000",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -739,7 +752,8 @@
         "text": "BOX Q: stash",
         "color": "#FFFF5A00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     },
     {
@@ -1017,6 +1031,7 @@
         "color": "#FFFF5A00",
         "itemIds": [
             13280,
+            13342,
             590,
             1513
         ]
@@ -1027,6 +1042,7 @@
         "color": "#FFFF5A00",
         "itemIds": [
             13280,
+            13342,
             590,
             19669
         ]
@@ -1100,6 +1116,7 @@
         "color": "#FFFF5A00",
         "itemIds": [
             13280,
+            13342,
             13339
         ]
     },
@@ -1118,6 +1135,7 @@
         "color": "#FFFF5A00",
         "itemIds": [
             13280,
+            13342,
             314,
             824
         ]
@@ -1179,6 +1197,7 @@
         "color": "#FFFF5A00",
         "itemIds": [
             13280,
+            13342,
             169,
             11326
         ]
@@ -1189,6 +1208,7 @@
         "color": "#FFFF5A00",
         "itemIds": [
             13280,
+            13342,
             5952,
             12934
         ]
@@ -1231,7 +1251,8 @@
         "text": "MAX 9: TREE 7",
         "color": "#FFFF5A00",
         "itemIds": [
-            13280
+            13280,
+            13342
         ]
     }
 ]
