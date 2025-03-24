@@ -243,8 +243,8 @@
     },
     {
         "id": 528,
-        "text": "PADD: air dig",
-        "color": "#FFFF5A00",
+        "text": "PADD: -air dig",
+        "color": "#FFFF0000",
         "itemIds": [
             952
         ]
@@ -418,7 +418,10 @@
     {
         "id": 549,
         "text": "HOTNCOLD",
-        "color": "#FFFF5A00"
+        "color": "#FFFF5A00",
+        "itemIds": [
+            19939
+        ]
     },
     {
         "id": 550,
@@ -476,11 +479,15 @@
     },
     {
         "id": 557,
-        "text": "MAX 1: Ghommal",
+        "text": "COMB 1: Ghommal",
         "color": "#FFFF5A00",
         "itemIds": [
-            13280,
-            13342
+            11972,
+            11974,
+            11118,
+            11120,
+            11122,
+            11124
         ]
     },
     {
@@ -726,8 +733,11 @@
     },
     {
         "id": 588,
-        "text": "GOBLIN: +stash",
-        "color": "#FFFF5A00"
+        "text": "GVS: +stash",
+        "color": "#FFFF5A00",
+        "itemIds": [
+            11060
+        ]
     },
     {
         "id": 589,
