@@ -626,7 +626,10 @@
     {
         "id": 12155,
         "text": "KHAR: Barker",
-        "color": "#FFB7FF00"
+        "color": "#FFB7FF00",
+        "itemIds": [
+            12779
+        ]
     },
     {
         "id": 12156,
