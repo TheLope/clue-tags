@@ -748,8 +748,12 @@
     },
     {
         "id": 19791,
-        "text": "WATCH: ne stash",
-        "color": "#FFB7FF00"
+        "text": "MAX H: climb stash",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13280,
+            13342
+        ]
     },
     {
         "id": 19792,
