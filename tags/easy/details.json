@@ -2,12 +2,20 @@
     {
         "id": 2677,
         "text": "LUMB: up duke chest",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286874
+        ]
     },
     {
         "id": 2678,
         "text": "LUMB: se tower crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286874
+        ]
     },
     {
         "id": 2679,
@@ -29,7 +37,11 @@
     {
         "id": 2681,
         "text": "LUMB: Hans",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286874
+        ]
     },
     {
         "id": 2682,
@@ -126,12 +138,20 @@
     {
         "id": 2691,
         "text": "FALLY: ne up drawer",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286877
+        ]
     },
     {
         "id": 2692,
         "text": "FALLY: nw crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286877
+        ]
     },
     {
         "id": 2693,
@@ -217,27 +237,47 @@
     {
         "id": 2702,
         "text": "CAMELOT: court Kay",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286882
+        ]
     },
     {
         "id": 2703,
         "text": "CAMELOT: up chest",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286882
+        ]
     },
     {
         "id": 2704,
         "text": "ARDY: nw crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286889
+        ]
     },
     {
         "id": 2705,
         "text": "ARDY: box",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286889
+        ]
     },
     {
         "id": 2706,
         "text": "ARDY: general crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286889
+        ]
     },
     {
         "id": 2707,
@@ -255,12 +295,20 @@
     {
         "id": 2708,
         "text": "VARR: clothes up",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286871
+        ]
     },
     {
         "id": 2709,
         "text": "VARR: court crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286871
+        ]
     },
     {
         "id": 2710,
@@ -274,7 +322,11 @@
     {
         "id": 2711,
         "text": "ARDY: church up",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286889
+        ]
     },
     {
         "id": 2712,
@@ -338,7 +390,11 @@
     {
         "id": 3491,
         "text": "YANIL: ne crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286895
+        ]
     },
     {
         "id": 3492,
@@ -481,7 +537,11 @@
     {
         "id": 3505,
         "text": "ARDY: n drawer",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286889
+        ]
     },
     {
         "id": 3506,
@@ -507,12 +567,20 @@
     {
         "id": 3508,
         "text": "SEER: sw up drawer",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286882
+        ]
     },
     {
         "id": 3509,
         "text": "SEER: w crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286882
+        ]
     },
     {
         "id": 3510,
@@ -559,7 +627,11 @@
     {
         "id": 3515,
         "text": "GE: castle crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286871
+        ]
     },
     {
         "id": 3516,
@@ -594,6 +666,10 @@
         "color": "#FF4CCA27",
         "itemIds": [
             952
+        ],
+        "widgetIds": [
+            10747962,
+            14286877
         ]
     },
     {
@@ -708,7 +784,11 @@
     {
         "id": 10204,
         "text": "GE: castle stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286871
+        ]
     },
     {
         "id": 10206,
@@ -860,12 +940,20 @@
     {
         "id": 12162,
         "text": "VARR: court stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286871
+        ]
     },
     {
         "id": 12164,
         "text": "FALLY: sw stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286877
+        ]
     },
     {
         "id": 12166,
@@ -953,7 +1041,11 @@
     {
         "id": 12176,
         "text": "VARR: w down",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286871
+        ]
     },
     {
         "id": 12177,
@@ -993,7 +1085,11 @@
     {
         "id": 12181,
         "text": "FALLY: ne Cassie",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286877
+        ]
     },
     {
         "id": 12182,
@@ -1007,7 +1103,11 @@
     {
         "id": 12183,
         "text": "FALLY: w Hairdress",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286877
+        ]
     },
     {
         "id": 12184,
@@ -1044,7 +1144,11 @@
     {
         "id": 12187,
         "text": "FALLY: n Rusty",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286877
+        ]
     },
     {
         "id": 12188,
@@ -1096,6 +1200,10 @@
         "color": "#FF4CCA27",
         "itemIds": [
             952
+        ],
+        "widgetIds": [
+            10747962,
+            14286874
         ]
     },
     {
@@ -1109,7 +1217,11 @@
     {
         "id": 19817,
         "text": "VARR: sw Apothecary",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286871
+        ]
     },
     {
         "id": 19818,
@@ -1123,7 +1235,11 @@
     {
         "id": 19819,
         "text": "FALLY: sw Herquin",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286877
+        ]
     },
     {
         "id": 19820,
@@ -1217,7 +1333,11 @@
     {
         "id": 19831,
         "text": "GE: s stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286871
+        ]
     },
     {
         "id": 19833,
@@ -1283,7 +1403,11 @@
     {
         "id": 23154,
         "text": "FALLY: nw crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286877
+        ]
     },
     {
         "id": 23155,
@@ -1443,7 +1567,11 @@
     {
         "id": 28914,
         "text": "CIV: ne stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            10747962,
+            14286891
+        ]
     },
     {
         "id": 29853,

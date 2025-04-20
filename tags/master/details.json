@@ -239,6 +239,11 @@
         "color": "#FFFF5A00",
         "itemIds": [
             952
+        ],
+        "widgetIds": [
+            10747962,
+            14286992,
+            14287007
         ]
     },
     {
@@ -255,6 +260,11 @@
         "color": "#FFFF5A00",
         "itemIds": [
             952
+        ],
+        "widgetIds": [
+            10747962,
+            14286992,
+            14287013
         ]
     },
     {
@@ -273,6 +283,10 @@
         "color": "#FFFF5A00",
         "itemIds": [
             952
+        ],
+        "widgetIds": [
+            10747962,
+            14286963
         ]
     },
     {
@@ -307,6 +321,10 @@
         "color": "#FFFF5A00",
         "itemIds": [
             952
+        ],
+        "widgetIds": [
+            10747962,
+            14286963
         ]
     },
     {
@@ -325,6 +343,10 @@
         "color": "#FFFF5A00",
         "itemIds": [
             952
+        ],
+        "widgetIds": [
+            10747962,
+            14286959
         ]
     },
     {
@@ -383,7 +405,12 @@
     {
         "id": 544,
         "text": "ARDY: +Wizard",
-        "color": "#FFFF5A00"
+        "color": "#FFFF5A00",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286889
+        ]
     },
     {
         "id": 545,
@@ -431,7 +458,12 @@
     {
         "id": 551,
         "text": "A LIB: Biblia",
-        "color": "#FFFF5A00"
+        "color": "#FFFF5A00",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286998
+        ]
     },
     {
         "id": 552,
@@ -588,7 +620,12 @@
     {
         "id": 569,
         "text": "A LIB: Logosia",
-        "color": "#FFFF5A00"
+        "color": "#FFFF5A00",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286998
+        ]
     },
     {
         "id": 570,
@@ -608,7 +645,7 @@
     },
     {
         "id": 572,
-        "text": "FISH: +shadow",
+        "text": "MAX 2: +shadow",
         "color": "#FFFF5A00",
         "itemIds": [
             13280,
@@ -627,7 +664,12 @@
     {
         "id": 574,
         "text": "VARR: museum",
-        "color": "#FFFF5A00"
+        "color": "#FFFF5A00",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286871
+        ]
     },
     {
         "id": 575,
@@ -712,7 +754,12 @@
     {
         "id": 585,
         "text": "BARRO: stash",
-        "color": "#FFFF5A00"
+        "color": "#FFFF5A00",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14287012
+        ]
     },
     {
         "id": 586,
@@ -769,7 +816,12 @@
     {
         "id": 592,
         "text": "VARR: stash",
-        "color": "#FFFF5A00"
+        "color": "#FFFF5A00",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286871
+        ]
     },
     {
         "id": 593,
@@ -800,7 +852,12 @@
     {
         "id": 596,
         "text": "WATCH: stash",
-        "color": "#FFFF5A00"
+        "color": "#FFFF5A00",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286895
+        ]
     },
     {
         "id": 597,
@@ -1077,7 +1134,11 @@
     {
         "id": 625,
         "text": "W BIRTH: +graceful",
-        "color": "#FFFF5A00"
+        "color": "#FFFF5A00",
+        "widgetIds": [
+            10747962,
+            14286963
+        ]
     },
     {
         "id": 626,
@@ -1176,6 +1237,11 @@
         "itemIds": [
             13507,
             561
+        ],
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286996
         ]
     },
     {
@@ -1254,6 +1320,11 @@
         "color": "#FFFF5A00",
         "itemIds": [
             13124
+        ],
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286889
         ]
     },
     {

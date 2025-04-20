@@ -103,6 +103,11 @@
         "itemIds": [
             12775,
             952
+        ],
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286949
         ]
     },
     {
@@ -112,6 +117,11 @@
         "itemIds": [
             12776,
             952
+        ],
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286948
         ]
     },
     {
@@ -139,7 +149,12 @@
     {
         "id": 2773,
         "text": "LUMB: down",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286874
+        ]
     },
     {
         "id": 2774,
@@ -153,7 +168,12 @@
     {
         "id": 2776,
         "text": "VARR: w bank",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286871
+        ]
     },
     {
         "id": 2778,
@@ -181,7 +201,12 @@
     {
         "id": 2782,
         "text": "LUMB: up",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286874
+        ]
     },
     {
         "id": 2783,
@@ -211,6 +236,11 @@
         "itemIds": [
             12776,
             952
+        ],
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286948
         ]
     },
     {
@@ -235,7 +265,12 @@
     {
         "id": 2792,
         "text": "LUMB: Hans",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286874
+        ]
     },
     {
         "id": 2793,
@@ -266,12 +301,22 @@
     {
         "id": 2796,
         "text": "VARR: Prysin",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286871
+        ]
     },
     {
         "id": 2797,
         "text": "VARR: Wilough",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286871
+        ]
     },
     {
         "id": 2799,
@@ -284,7 +329,12 @@
     {
         "id": 3520,
         "text": "YANIL: anvil",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286895
+        ]
     },
     {
         "id": 3522,
@@ -292,12 +342,21 @@
         "color": "#FFC15FFF",
         "itemIds": [
             952
+        ],
+        "widgetIds": [
+            10747962,
+            14286992,
+            14287008
         ]
     },
     {
         "id": 3524,
         "text": "OURAN: s crate",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "widgetIds": [
+            10747962,
+            14286995
+        ]
     },
     {
         "id": 3525,
@@ -317,6 +376,11 @@
         "color": "#FFC15FFF",
         "itemIds": [
             952
+        ],
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286902
         ]
     },
     {
@@ -502,7 +566,12 @@
     {
         "id": 3566,
         "text": "SENN: Examiner",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286944
+        ]
     },
     {
         "id": 3568,
@@ -663,6 +732,11 @@
         "color": "#FFC15FFF",
         "itemIds": [
             4446
+        ],
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286882
         ]
     },
     {
@@ -748,6 +822,11 @@
         "color": "#FFC15FFF",
         "itemIds": [
             952
+        ],
+        "widgetIds": [
+            10747962,
+            14286992,
+            14287010
         ]
     },
     {
@@ -894,7 +973,12 @@
     {
         "id": 12542,
         "text": "SENN: stash",
-        "color": "#FFFF00AF"
+        "color": "#FFFF00AF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286944
+        ]
     },
     {
         "id": 12544,
@@ -1009,7 +1093,12 @@
     {
         "id": 12568,
         "text": "BARRO: Old",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14287012
+        ]
     },
     {
         "id": 12570,
@@ -1066,7 +1155,11 @@
     {
         "id": 12581,
         "text": "CATH: fruit",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "widgetIds": [
+            10747962,
+            14286982
+        ]
     },
     {
         "id": 12584,
@@ -1334,8 +1427,12 @@
     },
     {
         "id": 19884,
-        "text": "MARIM: Awowo",
-        "color": "#FFC15FFF"
+        "text": "NEX MARIM: Awowo",
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13280,
+            13342
+        ]
     },
     {
         "id": 19886,
@@ -1505,7 +1602,11 @@
     {
         "id": 23172,
         "text": "BARB: Gunnjorn",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "widgetIds": [
+            10747962,
+            14286967
+        ]
     },
     {
         "id": 23174,

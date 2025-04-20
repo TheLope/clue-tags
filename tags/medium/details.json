@@ -161,7 +161,12 @@
     {
         "id": 2835,
         "text": "ARDY: guard",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286889
+        ]
     },
     {
         "id": 2837,
@@ -179,7 +184,12 @@
     {
         "id": 2839,
         "text": "YANIL: man",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286895
+        ]
     },
     {
         "id": 2841,
@@ -199,7 +209,12 @@
     {
         "id": 2843,
         "text": "LUMB: Cook",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286874
+        ]
     },
     {
         "id": 2845,
@@ -234,7 +249,12 @@
     {
         "id": 2851,
         "text": "LASS: Oracle",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286946
+        ]
     },
     {
         "id": 2853,
@@ -485,7 +505,12 @@
     {
         "id": 3614,
         "text": "SALVE: Ulizius",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14287006
+        ]
     },
     {
         "id": 3615,
@@ -541,7 +566,12 @@
     {
         "id": 7278,
         "text": "W ARDY: Jethick",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14287008
+        ]
     },
     {
         "id": 7280,
@@ -598,6 +628,10 @@
         "color": "#FF4BB7FF",
         "itemIds": [
             952
+        ],
+        "widgetIds": [
+            10747962,
+            14286995
         ]
     },
     {
@@ -718,6 +752,11 @@
         "color": "#FF4BB7FF",
         "itemIds": [
             952
+        ],
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286946
         ]
     },
     {
@@ -757,8 +796,13 @@
     },
     {
         "id": 10256,
-        "text": "FENKEN: cave",
-        "color": "#FF4BB7FF"
+        "text": "FENK: cave",
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14287007
+        ]
     },
     {
         "id": 10258,
@@ -795,7 +839,11 @@
     {
         "id": 10264,
         "text": "BARB: agi stash",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286967
+        ]
     },
     {
         "id": 10266,
@@ -809,7 +857,12 @@
     {
         "id": 10268,
         "text": "YANIL: e stash",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286895
+        ]
     },
     {
         "id": 10270,
@@ -843,7 +896,11 @@
     {
         "id": 10276,
         "text": "CATH: archer stash",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286982
+        ]
     },
     {
         "id": 10278,
@@ -865,17 +922,30 @@
     {
         "id": 12023,
         "text": "CATH: stash",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286982
+        ]
     },
     {
         "id": 12025,
         "text": "SEER: stash",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286882
+        ]
     },
     {
         "id": 12027,
         "text": "CATH: shore",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286982
+        ]
     },
     {
         "id": 12029,
@@ -919,10 +989,15 @@
     },
     {
         "id": 12037,
-        "text": "FENKEN: n dig",
+        "text": "FENK: n dig",
         "color": "#FF4BB7FF",
         "itemIds": [
             952
+        ],
+        "widgetIds": [
+            10747962,
+            14286992,
+            14287007
         ]
     },
     {
@@ -1046,17 +1121,31 @@
     {
         "id": 12065,
         "text": "FALLY: Kaylee",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286877
+        ]
     },
     {
         "id": 12067,
         "text": "CATH: Hickton",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286982
+        ]
     },
     {
         "id": 12069,
         "text": "CAMELOT: Sir Kay",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286882
+        ]
     },
     {
         "id": 12071,
@@ -1085,7 +1174,12 @@
     {
         "id": 19736,
         "text": "YANIL: Dominic",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286895
+        ]
     },
     {
         "id": 19738,
@@ -1107,7 +1201,12 @@
     {
         "id": 19742,
         "text": "A LIB: Horphis",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286998
+        ]
     },
     {
         "id": 19744,
@@ -1196,7 +1295,12 @@
     {
         "id": 19762,
         "text": "A LIB: Grackle",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286998
+        ]
     },
     {
         "id": 19764,
@@ -1265,7 +1369,12 @@
     {
         "id": 19778,
         "text": "A LIB: stash",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286998
+        ]
     },
     {
         "id": 19780,
@@ -1445,6 +1554,11 @@
         "color": "#FF4BB7FF",
         "itemIds": [
             952
+        ],
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286891
         ]
     },
     {
@@ -1704,7 +1818,12 @@
     {
         "id": 2838,
         "text": "SEER: w",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286882
+        ]
     },
     {
         "id": 2840,
@@ -1724,7 +1843,12 @@
     {
         "id": 7297,
         "text": "SENN: e",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            10747962,
+            14286992,
+            14286944
+        ]
     },
     {
         "id": 7299,

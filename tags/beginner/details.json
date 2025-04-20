@@ -69,7 +69,11 @@
     {
         "id": 7,
         "text": "FALLY: w Hairdress",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "widgetIds": [
+            10747962,
+            14286877
+        ]
     },
     {
         "id": 8,
@@ -82,7 +86,11 @@
     {
         "id": 9,
         "text": "LUMB: Hans",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "widgetIds": [
+            10747962,
+            14286874
+        ]
     },
     {
         "id": 10,
@@ -95,7 +103,11 @@
     {
         "id": 11,
         "text": "LUMB: Cook",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "widgetIds": [
+            10747962,
+            14286874
+        ]
     },
     {
         "id": 12,
@@ -129,17 +141,29 @@
         "color": "#FFC8C8C8",
         "itemIds": [
             1635
+        ],
+        "widgetIds": [
+            10747962,
+            14286871
         ]
     },
     {
         "id": 16,
         "text": "GE: Bow",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "widgetIds": [
+            10747962,
+            14286871
+        ]
     },
     {
         "id": 17,
         "text": "VARR: Iffie stash",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "widgetIds": [
+            10747962,
+            14286871
+        ]
     },
     {
         "id": 18,
@@ -161,7 +185,11 @@
     {
         "id": 20,
         "text": "FALLY: mace Spin",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "widgetIds": [
+            10747962,
+            14286877
+        ]
     },
     {
         "id": 21,
