@@ -453,6 +453,9 @@
         "itemIds": [
             19564,
             952
+        ],
+        "widgetIds": [
+            9043984
         ]
     },
     {
@@ -489,6 +492,9 @@
         "color": "#FFC15FFF",
         "itemIds": [
             19564
+        ],
+        "widgetIds": [
+            9043989
         ]
     },
     {
@@ -602,6 +608,9 @@
         "color": "#FFC15FFF",
         "itemIds": [
             19564
+        ],
+        "widgetIds": [
+            9043975
         ]
     },
     {
@@ -974,6 +983,9 @@
         "color": "#FFFF00AF",
         "itemIds": [
             19564
+        ],
+        "widgetIds": [
+            9043975
         ]
     },
     {
