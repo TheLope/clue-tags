@@ -8,7 +8,10 @@
             12642
         ],
         "widgetIds": [
-            39125037
+            {
+                "componentId": 39125037,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -67,7 +70,10 @@
             21802
         ],
         "widgetIds": [
-            39125049
+            {
+                "componentId": 39125049,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -111,9 +117,18 @@
             952
         ],
         "widgetIds": [
-            10747962,
-            14286992,
-            14286949
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286949,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -125,9 +140,18 @@
             952
         ],
         "widgetIds": [
-            10747962,
-            14286992,
-            14286948
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286948,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -157,9 +181,18 @@
         "text": "LUMB: down",
         "color": "#FFC15FFF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286874
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286874,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -176,9 +209,18 @@
         "text": "VARR: w bank",
         "color": "#FFC15FFF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286871
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286871,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -209,9 +251,18 @@
         "text": "LUMB: up",
         "color": "#FFC15FFF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286874
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286874,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -244,9 +295,18 @@
             952
         ],
         "widgetIds": [
-            10747962,
-            14286992,
-            14286948
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286948,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -272,9 +332,18 @@
         "text": "LUMB: Hans",
         "color": "#FFC15FFF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286874
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286874,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -308,9 +377,18 @@
         "text": "VARR: Prysin",
         "color": "#FFC15FFF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286871
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286871,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -318,9 +396,18 @@
         "text": "VARR: Wilough",
         "color": "#FFC15FFF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286871
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286871,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -336,9 +423,18 @@
         "text": "YANIL: anvil",
         "color": "#FFC15FFF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286895
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286895,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -349,9 +445,18 @@
             952
         ],
         "widgetIds": [
-            10747962,
-            14286992,
-            14287008
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14287008,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -359,8 +464,14 @@
         "text": "OURAN: s crate",
         "color": "#FFC15FFF",
         "widgetIds": [
-            10747962,
-            14286995
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286995,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -383,9 +494,18 @@
             952
         ],
         "widgetIds": [
-            10747962,
-            14286992,
-            14286902
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286902,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -446,7 +566,10 @@
             952
         ],
         "widgetIds": [
-            24969339
+            {
+                "componentId": 24969339,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -458,7 +581,10 @@
             952
         ],
         "widgetIds": [
-            9043984
+            {
+                "componentId": 9043984,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -470,7 +596,10 @@
             13342
         ],
         "widgetIds": [
-            24969259
+            {
+                "componentId": 24969259,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -483,7 +612,10 @@
             952
         ],
         "widgetIds": [
-            24969279
+            {
+                "componentId": 24969279,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -503,7 +635,10 @@
             19564
         ],
         "widgetIds": [
-            9043989
+            {
+                "componentId": 9043989,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -521,7 +656,10 @@
             952
         ],
         "widgetIds": [
-            24969261
+            {
+                "componentId": 24969261,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -576,7 +714,10 @@
             952
         ],
         "widgetIds": [
-            39125029
+            {
+                "componentId": 39125029,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -594,9 +735,18 @@
         "text": "SENN: Examiner",
         "color": "#FFC15FFF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286944
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286944,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -622,7 +772,10 @@
             19564
         ],
         "widgetIds": [
-            9043975
+            {
+                "componentId": 9043975,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -709,7 +862,10 @@
             952
         ],
         "widgetIds": [
-            24969287
+            {
+                "componentId": 24969287,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -730,7 +886,10 @@
             952
         ],
         "widgetIds": [
-            39125013
+            {
+                "componentId": 39125013,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -769,9 +928,18 @@
             4446
         ],
         "widgetIds": [
-            10747962,
-            14286992,
-            14286882
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286882,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -859,9 +1027,18 @@
             952
         ],
         "widgetIds": [
-            10747962,
-            14286992,
-            14287010
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14287010,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -895,7 +1072,10 @@
             952
         ],
         "widgetIds": [
-            24969345
+            {
+                "componentId": 24969345,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -944,7 +1124,10 @@
             13342
         ],
         "widgetIds": [
-            24969251
+            {
+                "componentId": 24969251,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -956,7 +1139,10 @@
             13342
         ],
         "widgetIds": [
-            24969253
+            {
+                "componentId": 24969253,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1001,7 +1187,10 @@
             13342
         ],
         "widgetIds": [
-            24969239
+            {
+                "componentId": 24969239,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1012,7 +1201,10 @@
             19564
         ],
         "widgetIds": [
-            9043975
+            {
+                "componentId": 9043975,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1025,9 +1217,18 @@
         "text": "SENN: stash",
         "color": "#FFFF00AF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286944
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286944,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1075,7 +1276,10 @@
             23387
         ],
         "widgetIds": [
-            39125053
+            {
+                "componentId": 39125053,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1088,7 +1292,10 @@
             952
         ],
         "widgetIds": [
-            24969315
+            {
+                "componentId": 24969315,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1101,7 +1308,10 @@
             952
         ],
         "widgetIds": [
-            24969241
+            {
+                "componentId": 24969241,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1114,7 +1324,10 @@
             952
         ],
         "widgetIds": [
-            24969231
+            {
+                "componentId": 24969231,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1158,9 +1371,18 @@
         "text": "BARRO: Old",
         "color": "#FFC15FFF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14287012
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14287012,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1220,8 +1442,14 @@
         "text": "CATH: fruit",
         "color": "#FFC15FFF",
         "widgetIds": [
-            10747962,
-            14286982
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286982,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1260,7 +1488,10 @@
             952
         ],
         "widgetIds": [
-            24969335
+            {
+                "componentId": 24969335,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1323,7 +1554,10 @@
             12938
         ],
         "widgetIds": [
-            39125041
+            {
+                "componentId": 39125041,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1391,7 +1625,10 @@
             952
         ],
         "widgetIds": [
-            24969229
+            {
+                "componentId": 24969229,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1404,7 +1641,10 @@
             952
         ],
         "widgetIds": [
-            24969231
+            {
+                "componentId": 24969231,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1417,7 +1657,10 @@
             952
         ],
         "widgetIds": [
-            24969251
+            {
+                "componentId": 24969251,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1430,7 +1673,10 @@
             952
         ],
         "widgetIds": [
-            24969259
+            {
+                "componentId": 24969259,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1443,7 +1689,10 @@
             952
         ],
         "widgetIds": [
-            24969271
+            {
+                "componentId": 24969271,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1466,7 +1715,10 @@
             952
         ],
         "widgetIds": [
-            24969307
+            {
+                "componentId": 24969307,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1479,7 +1731,10 @@
             952
         ],
         "widgetIds": [
-            24969323
+            {
+                "componentId": 24969323,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1492,7 +1747,10 @@
             952
         ],
         "widgetIds": [
-            24969345
+            {
+                "componentId": 24969345,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1505,7 +1763,10 @@
             952
         ],
         "widgetIds": [
-            24969297
+            {
+                "componentId": 24969297,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1563,7 +1824,10 @@
             12411
         ],
         "widgetIds": [
-            39125033
+            {
+                "componentId": 39125033,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1616,7 +1880,10 @@
             13342
         ],
         "widgetIds": [
-            24969261
+            {
+                "componentId": 24969261,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1628,7 +1895,10 @@
             13342
         ],
         "widgetIds": [
-            24969271
+            {
+                "componentId": 24969271,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1641,7 +1911,10 @@
         "text": "HIDEOUT: Queen",
         "color": "#FFC15FFF",
         "widgetIds": [
-            24969355
+            {
+                "componentId": 24969355,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1712,8 +1985,14 @@
         "text": "BARB: Gunnjorn",
         "color": "#FFC15FFF",
         "widgetIds": [
-            10747962,
-            14286967
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286967,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1856,7 +2135,10 @@
             952
         ],
         "widgetIds": [
-            24969285
+            {
+                "componentId": 24969285,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1869,7 +2151,10 @@
             952
         ],
         "widgetIds": [
-            24969235
+            {
+                "componentId": 24969235,
+                "childIndex": -1
+            }
         ]
     },
     {

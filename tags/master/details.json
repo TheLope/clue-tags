@@ -25,7 +25,10 @@
             12938
         ],
         "widgetIds": [
-            39125041
+            {
+                "componentId": 39125041,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -120,7 +123,10 @@
             12402
         ],
         "widgetIds": [
-            39124997
+            {
+                "componentId": 39124997,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -141,7 +147,10 @@
             952
         ],
         "widgetIds": [
-            39125029
+            {
+                "componentId": 39125029,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -154,7 +163,10 @@
             952
         ],
         "widgetIds": [
-            39125041
+            {
+                "componentId": 39125041,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -167,7 +179,10 @@
             952
         ],
         "widgetIds": [
-            24969351
+            {
+                "componentId": 24969351,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -180,7 +195,10 @@
             952
         ],
         "widgetIds": [
-            39125033
+            {
+                "componentId": 39125033,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -232,7 +250,10 @@
             952
         ],
         "widgetIds": [
-            24969279
+            {
+                "componentId": 24969279,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -262,9 +283,18 @@
             952
         ],
         "widgetIds": [
-            10747962,
-            14286992,
-            14287007
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14287007,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -283,9 +313,18 @@
             952
         ],
         "widgetIds": [
-            10747962,
-            14286992,
-            14287013
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14287013,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -298,7 +337,10 @@
             952
         ],
         "widgetIds": [
-            24969335
+            {
+                "componentId": 24969335,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -309,8 +351,14 @@
             952
         ],
         "widgetIds": [
-            10747962,
-            14286963
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286963,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -347,8 +395,14 @@
             952
         ],
         "widgetIds": [
-            10747962,
-            14286963
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286963,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -361,7 +415,10 @@
             952
         ],
         "widgetIds": [
-            24969297
+            {
+                "componentId": 24969297,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -372,8 +429,14 @@
             952
         ],
         "widgetIds": [
-            10747962,
-            14286959
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286959,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -429,7 +492,10 @@
             10595
         ],
         "widgetIds": [
-            24969345
+            {
+                "componentId": 24969345,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -437,9 +503,18 @@
         "text": "ARDY: +Wizard",
         "color": "#FFFF5A00",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286889
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286889,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -490,9 +565,18 @@
         "text": "A LIB: Biblia",
         "color": "#FFFF5A00",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286998
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286998,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -614,7 +698,10 @@
             13249
         ],
         "widgetIds": [
-            39125045
+            {
+                "componentId": 39125045,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -654,9 +741,18 @@
         "text": "A LIB: Logosia",
         "color": "#FFFF5A00",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286998
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286998,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -698,9 +794,18 @@
         "text": "VARR: museum",
         "color": "#FFFF5A00",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286871
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286871,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -745,7 +850,10 @@
             12410
         ],
         "widgetIds": [
-            39125029
+            {
+                "componentId": 39125029,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -791,9 +899,18 @@
         "text": "BARRO: stash",
         "color": "#FFFF5A00",
         "widgetIds": [
-            10747962,
-            14286992,
-            14287012
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14287012,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -830,7 +947,10 @@
             12938
         ],
         "widgetIds": [
-            39125041
+            {
+                "componentId": 39125041,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -856,9 +976,18 @@
         "text": "VARR: stash",
         "color": "#FFFF5A00",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286871
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286871,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -887,7 +1016,10 @@
             9813
         ],
         "widgetIds": [
-            24969277
+            {
+                "componentId": 24969277,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -895,9 +1027,18 @@
         "text": "WATCH: stash",
         "color": "#FFFF5A00",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286895
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286895,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1133,7 +1274,10 @@
             7936
         ],
         "widgetIds": [
-            24969353
+            {
+                "componentId": 24969353,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1180,8 +1324,14 @@
         "text": "W BIRTH: +graceful",
         "color": "#FFFF5A00",
         "widgetIds": [
-            10747962,
-            14286963
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286963,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1225,7 +1375,10 @@
             3404
         ],
         "widgetIds": [
-            39125013
+            {
+                "componentId": 39125013,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1268,7 +1421,10 @@
             25432
         ],
         "widgetIds": [
-            39125013
+            {
+                "componentId": 39125013,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1280,7 +1436,10 @@
             9813
         ],
         "widgetIds": [
-            24969335
+            {
+                "componentId": 24969335,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1292,9 +1451,18 @@
             561
         ],
         "widgetIds": [
-            10747962,
-            14286992,
-            14286996
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286996,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1375,9 +1543,18 @@
             13124
         ],
         "widgetIds": [
-            10747962,
-            14286992,
-            14286889
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286889,
+                "childIndex": -1
+            }
         ]
     },
     {

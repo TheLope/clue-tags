@@ -71,8 +71,14 @@
         "text": "FALLY: w Hairdress",
         "color": "#FFC8C8C8",
         "widgetIds": [
-            10747962,
-            14286877
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286877,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -88,8 +94,14 @@
         "text": "LUMB: Hans",
         "color": "#FFC8C8C8",
         "widgetIds": [
-            10747962,
-            14286874
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286874,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -105,8 +117,14 @@
         "text": "LUMB: Cook",
         "color": "#FFC8C8C8",
         "widgetIds": [
-            10747962,
-            14286874
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286874,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -143,8 +161,14 @@
             1635
         ],
         "widgetIds": [
-            10747962,
-            14286871
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286871,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -152,8 +176,14 @@
         "text": "GE: Bow",
         "color": "#FFC8C8C8",
         "widgetIds": [
-            10747962,
-            14286871
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286871,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -161,8 +191,14 @@
         "text": "VARR: Iffie stash",
         "color": "#FFC8C8C8",
         "widgetIds": [
-            10747962,
-            14286871
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286871,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -187,8 +223,14 @@
         "text": "FALLY: mace Spin",
         "color": "#FFC8C8C8",
         "widgetIds": [
-            10747962,
-            14286877
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286877,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -243,7 +285,10 @@
             952
         ],
         "widgetIds": [
-            24969329
+            {
+                "componentId": 24969329,
+                "childIndex": -1
+            }
         ]
     },
     {

@@ -17,7 +17,10 @@
             952
         ],
         "widgetIds": [
-            24969321
+            {
+                "componentId": 24969321,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -53,7 +56,10 @@
             952
         ],
         "widgetIds": [
-            24969293
+            {
+                "componentId": 24969293,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -164,7 +170,10 @@
             9813
         ],
         "widgetIds": [
-            24969257
+            {
+                "componentId": 24969257,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -172,9 +181,18 @@
         "text": "ARDY: guard",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286889
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286889,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -195,9 +213,18 @@
         "text": "YANIL: man",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286895
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286895,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -220,9 +247,18 @@
         "text": "LUMB: Cook",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286874
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286874,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -260,9 +296,18 @@
         "text": "LASS: Oracle",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286946
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286946,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -328,7 +373,10 @@
             952
         ],
         "widgetIds": [
-            24969279
+            {
+                "componentId": 24969279,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -408,7 +456,10 @@
             9813
         ],
         "widgetIds": [
-            24969257
+            {
+                "componentId": 24969257,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -444,7 +495,10 @@
             12409
         ],
         "widgetIds": [
-            39125025
+            {
+                "componentId": 39125025,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -525,9 +579,18 @@
         "text": "SALVE: Ulizius",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14287006
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14287006,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -564,7 +627,10 @@
             9813
         ],
         "widgetIds": [
-            24969249
+            {
+                "componentId": 24969249,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -584,7 +650,10 @@
             12409
         ],
         "widgetIds": [
-            39125025
+            {
+                "componentId": 39125025,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -592,9 +661,18 @@
         "text": "W ARDY: Jethick",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14287008
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14287008,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -654,8 +732,14 @@
             952
         ],
         "widgetIds": [
-            10747962,
-            14286995
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286995,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -760,7 +844,10 @@
             952
         ],
         "widgetIds": [
-            24969249
+            {
+                "componentId": 24969249,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -773,7 +860,10 @@
             952
         ],
         "widgetIds": [
-            24969339
+            {
+                "componentId": 24969339,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -784,9 +874,18 @@
             952
         ],
         "widgetIds": [
-            10747962,
-            14286992,
-            14286946
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286946,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -829,9 +928,18 @@
         "text": "FENK: cave",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14287007
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14287007,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -851,7 +959,10 @@
             12409
         ],
         "widgetIds": [
-            39125025
+            {
+                "componentId": 39125025,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -874,8 +985,14 @@
         "text": "BARB: agi stash",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286967
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286967,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -892,9 +1009,18 @@
         "text": "YANIL: e stash",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286895
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286895,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -930,7 +1056,10 @@
             12403
         ],
         "widgetIds": [
-            39125001
+            {
+                "componentId": 39125001,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -938,8 +1067,14 @@
         "text": "CATH: archer stash",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286982
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286982,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -964,8 +1099,14 @@
         "text": "CATH: stash",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286982
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286982,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -973,9 +1114,18 @@
         "text": "SEER: stash",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286882
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286882,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -983,8 +1133,14 @@
         "text": "CATH: shore",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286982
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286982,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1014,7 +1170,10 @@
             952
         ],
         "widgetIds": [
-            39125005
+            {
+                "componentId": 39125005,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1038,9 +1197,18 @@
             952
         ],
         "widgetIds": [
-            10747962,
-            14286992,
-            14287007
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14287007,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1078,7 +1246,10 @@
             12408
         ],
         "widgetIds": [
-            39125021
+            {
+                "componentId": 39125021,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1090,7 +1261,10 @@
             12408
         ],
         "widgetIds": [
-            39125021
+            {
+                "componentId": 39125021,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1116,7 +1290,10 @@
             12403
         ],
         "widgetIds": [
-            39125001
+            {
+                "componentId": 39125001,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1177,9 +1354,18 @@
         "text": "FALLY: Kaylee",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286877
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286877,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1187,8 +1373,14 @@
         "text": "CATH: Hickton",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286982
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286982,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1196,9 +1388,18 @@
         "text": "CAMELOT: Sir Kay",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286882
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286882,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1225,7 +1426,10 @@
             9813
         ],
         "widgetIds": [
-            24969335
+            {
+                "componentId": 24969335,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1233,9 +1437,18 @@
         "text": "YANIL: Dominic",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286895
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286895,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1255,7 +1468,10 @@
             9813
         ],
         "widgetIds": [
-            24969297
+            {
+                "componentId": 24969297,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1263,9 +1479,18 @@
         "text": "A LIB: Horphis",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286998
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286998,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1357,9 +1582,18 @@
         "text": "A LIB: Grackle",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286998
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286998,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1431,9 +1665,18 @@
         "text": "A LIB: stash",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286998
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286998,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1469,7 +1712,10 @@
             12404
         ],
         "widgetIds": [
-            39125005
+            {
+                "componentId": 39125005,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1619,9 +1865,18 @@
             952
         ],
         "widgetIds": [
-            10747962,
-            14286992,
-            14286891
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286891,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1883,9 +2138,18 @@
         "text": "SEER: w",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286882
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286882,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1908,9 +2172,18 @@
         "text": "SENN: e",
         "color": "#FF4BB7FF",
         "widgetIds": [
-            10747962,
-            14286992,
-            14286944
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286992,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286944,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -1922,7 +2195,10 @@
             9813
         ],
         "widgetIds": [
-            24969251
+            {
+                "componentId": 24969251,
+                "childIndex": -1
+            }
         ]
     },
     {
