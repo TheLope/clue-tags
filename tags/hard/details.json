@@ -702,6 +702,16 @@
             13342,
             952,
             995
+        ],
+        "widgetIds": [
+            {
+                "componentId": 57999364,
+                "childIndex": 18
+            },
+            {
+                "componentId": 4718595,
+                "childIndex": -1
+            }
         ]
     },
     {
@@ -728,6 +738,16 @@
             13280,
             13342,
             995
+        ],
+        "widgetIds": [
+            {
+                "componentId": 57999364,
+                "childIndex": 18
+            },
+            {
+                "componentId": 4718595,
+                "childIndex": -1
+            }
         ]
     },
     {

@@ -127,6 +127,16 @@
             13280,
             13342,
             995
+        ],
+        "widgetIds": [
+            {
+                "componentId": 57999364,
+                "childIndex": 12
+            },
+            {
+                "componentId": 4718598,
+                "childIndex": -1
+            }
         ]
     },
     {
