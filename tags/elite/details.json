@@ -1349,6 +1349,16 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947,
+                "childIndex": -1
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 287
+            }
         ]
     },
     {
@@ -1404,6 +1414,16 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947,
+                "childIndex": -1
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 323
+            }
         ]
     },
     {

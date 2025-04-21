@@ -1756,6 +1756,16 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947,
+                "childIndex": -1
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 322
+            }
         ]
     },
     {
@@ -1768,6 +1778,16 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947,
+                "childIndex": -1
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 191
+            }
         ]
     },
     {
@@ -1780,6 +1800,16 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947,
+                "childIndex": -1
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 214
+            }
         ]
     },
     {
@@ -1792,6 +1822,16 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947,
+                "childIndex": -1
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 86
+            }
         ]
     },
     {
@@ -1804,6 +1844,16 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947,
+                "childIndex": -1
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 88
+            }
         ]
     },
     {
@@ -1816,6 +1866,16 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947,
+                "childIndex": -1
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 142
+            }
         ]
     },
     {

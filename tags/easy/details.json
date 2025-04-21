@@ -1629,6 +1629,16 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947,
+                "childIndex": -1
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 672
+            }
         ]
     },
     {
@@ -1641,6 +1651,16 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947,
+                "childIndex": -1
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 215
+            }
         ]
     },
     {
@@ -1653,6 +1673,16 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947,
+                "childIndex": -1
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 619
+            }
         ]
     },
     {
@@ -1665,6 +1695,16 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947,
+                "childIndex": -1
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 489
+            }
         ]
     },
     {
@@ -1677,6 +1717,16 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947,
+                "childIndex": -1
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 439
+            }
         ]
     },
     {
@@ -1689,6 +1739,16 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947,
+                "childIndex": -1
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 7
+            }
         ]
     },
     {
