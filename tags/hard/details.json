@@ -1628,11 +1628,24 @@
     },
     {
         "id": 19860,
-        "text": "DIA 2: foundry",
+        "text": "GF: e dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13069,
-            19476
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747942,
+                "childIndex": -1
+            },
+            {
+                "componentId": 46333957,
+                "childIndex": -1
+            },
+            {
+                "componentId": 4980758,
+                "childIndex": 8
+            }
         ]
     },
     {
@@ -1833,7 +1846,21 @@
     {
         "id": 19890,
         "text": "BF: Drunken",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "widgetIds": [
+            {
+                "componentId": 10747942,
+                "childIndex": -1
+            },
+            {
+                "componentId": 46333957,
+                "childIndex": -1
+            },
+            {
+                "componentId": 4980758,
+                "childIndex": 2
+            }
+        ]
     },
     {
         "id": 19892,
