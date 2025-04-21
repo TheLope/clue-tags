@@ -72,12 +72,10 @@
         "color": "#FFC8C8C8",
         "widgetIds": [
             {
-                "componentId": 10747962,
-                "childIndex": -1
+                "componentId": 10747962
             },
             {
-                "componentId": 14286877,
-                "childIndex": -1
+                "componentId": 14286877
             }
         ]
     },
@@ -95,12 +93,10 @@
         "color": "#FFC8C8C8",
         "widgetIds": [
             {
-                "componentId": 10747962,
-                "childIndex": -1
+                "componentId": 10747962
             },
             {
-                "componentId": 14286874,
-                "childIndex": -1
+                "componentId": 14286874
             }
         ]
     },
@@ -118,12 +114,10 @@
         "color": "#FFC8C8C8",
         "widgetIds": [
             {
-                "componentId": 10747962,
-                "childIndex": -1
+                "componentId": 10747962
             },
             {
-                "componentId": 14286874,
-                "childIndex": -1
+                "componentId": 14286874
             }
         ]
     },
@@ -162,12 +156,10 @@
         ],
         "widgetIds": [
             {
-                "componentId": 10747962,
-                "childIndex": -1
+                "componentId": 10747962
             },
             {
-                "componentId": 14286871,
-                "childIndex": -1
+                "componentId": 14286871
             }
         ]
     },
@@ -177,12 +169,10 @@
         "color": "#FFC8C8C8",
         "widgetIds": [
             {
-                "componentId": 10747962,
-                "childIndex": -1
+                "componentId": 10747962
             },
             {
-                "componentId": 14286871,
-                "childIndex": -1
+                "componentId": 14286871
             }
         ]
     },
@@ -192,12 +182,10 @@
         "color": "#FFC8C8C8",
         "widgetIds": [
             {
-                "componentId": 10747962,
-                "childIndex": -1
+                "componentId": 10747962
             },
             {
-                "componentId": 14286871,
-                "childIndex": -1
+                "componentId": 14286871
             }
         ]
     },
@@ -224,12 +212,10 @@
         "color": "#FFC8C8C8",
         "widgetIds": [
             {
-                "componentId": 10747962,
-                "childIndex": -1
+                "componentId": 10747962
             },
             {
-                "componentId": 14286877,
-                "childIndex": -1
+                "componentId": 14286877
             }
         ]
     },
@@ -286,8 +272,7 @@
         ],
         "widgetIds": [
             {
-                "componentId": 24969329,
-                "childIndex": -1
+                "componentId": 24969329
             }
         ]
     },
