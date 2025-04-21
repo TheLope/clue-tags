@@ -36,15 +36,21 @@
     },
     {
         "id": 12076,
-        "text": "SKIL 1: shadow",
+        "text": "FISH: shadow",
         "color": "#FFB7FF00",
         "itemIds": [
-            11968,
-            11970,
-            11105,
-            11107,
-            11109,
-            11111
+            4657,
+            28327
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962,
+                "childIndex": -1
+            },
+            {
+                "componentId": 14286979,
+                "childIndex": -1
+            }
         ]
     },
     {
