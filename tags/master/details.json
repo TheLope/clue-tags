@@ -831,7 +831,12 @@
     {
         "id": 580,
         "text": "ENTRANA: -stash",
-        "color": "#FFFF0000"
+        "color": "#FFFF0000",
+        "widgetIds": [
+            {
+                "componentId": 30736400
+            }
+        ]
     },
     {
         "id": 581,
