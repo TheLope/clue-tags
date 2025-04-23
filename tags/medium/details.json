@@ -304,7 +304,13 @@
     {
         "id": 2848,
         "text": "TREE 9: Hajedy",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            {
+                "componentId": 12255235,
+                "childIndex": 8
+            }
+        ]
     },
     {
         "id": 2849,
@@ -369,7 +375,13 @@
     {
         "id": 2857,
         "text": "TREE 1: King",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            {
+                "componentId": 12255235,
+                "childIndex": 0
+            }
+        ]
     },
     {
         "id": 2858,
@@ -522,7 +534,13 @@
     {
         "id": 3601,
         "text": "TREE 3: se crate",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "widgetIds": [
+            {
+                "componentId": 12255235,
+                "childIndex": 2
+            }
+        ]
     },
     {
         "id": 3602,
@@ -1340,6 +1358,12 @@
         "color": "#FF4BB7FF",
         "itemIds": [
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 12255235,
+                "childIndex": 12
+            }
         ]
     },
     {

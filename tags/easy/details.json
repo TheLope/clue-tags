@@ -914,6 +914,10 @@
         "widgetIds": [
             {
                 "componentId": 10747946
+            },
+            {
+                "componentId": 12255235,
+                "childIndex": 6
             }
         ]
     },
@@ -1764,6 +1768,12 @@
         "color": "#FF4CCA27",
         "itemIds": [
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 12255235,
+                "childIndex": 4
+            }
         ]
     },
     {
@@ -1952,7 +1962,13 @@
     {
         "id": 23161,
         "text": "TREE 7: pisc Charles",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 12255235,
+                "childIndex": 6
+            }
+        ]
     },
     {
         "id": 23162,
