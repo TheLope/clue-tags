@@ -89,6 +89,10 @@
         "widgetIds": [
             {
                 "componentId": 10747946
+            },
+            {
+                "componentId": 38666244,
+                "childIndex": 7
             }
         ]
     },
@@ -653,6 +657,12 @@
         "itemIds": [
             13280,
             13342
+        ],
+        "widgetIds": [
+            {
+                "componentId": 38666242,
+                "childIndex": 5
+            }
         ]
     },
     {
