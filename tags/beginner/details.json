@@ -160,6 +160,9 @@
             },
             {
                 "componentId": 14286871
+            },
+            {
+                "componentId": 10747946
             }
         ]
     },
@@ -173,6 +176,9 @@
             },
             {
                 "componentId": 14286871
+            },
+            {
+                "componentId": 10747946
             }
         ]
     },
@@ -186,6 +192,9 @@
             },
             {
                 "componentId": 14286871
+            },
+            {
+                "componentId": 10747946
             }
         ]
     },
@@ -196,6 +205,11 @@
         "itemIds": [
             13069,
             19476
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -204,6 +218,11 @@
         "color": "#FFC8C8C8",
         "itemIds": [
             26818
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -216,6 +235,9 @@
             },
             {
                 "componentId": 14286877
+            },
+            {
+                "componentId": 10747946
             }
         ]
     },

@@ -1067,7 +1067,12 @@
     {
         "id": 10234,
         "text": "OBEL 2: stash",
-        "color": "#FFFF00AF"
+        "color": "#FFFF00AF",
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
+        ]
     },
     {
         "id": 10236,
@@ -1076,6 +1081,11 @@
         "itemIds": [
             13280,
             13342
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -1089,6 +1099,9 @@
         "widgetIds": [
             {
                 "componentId": 24969251
+            },
+            {
+                "componentId": 10747946
             }
         ]
     },
@@ -1103,6 +1116,9 @@
         "widgetIds": [
             {
                 "componentId": 24969253
+            },
+            {
+                "componentId": 10747946
             }
         ]
     },
@@ -1112,7 +1128,13 @@
         "color": "#FFFF00AF",
         "itemIds": [
             9044
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
+
     },
     {
         "id": 10244,
@@ -1124,7 +1146,13 @@
             21171,
             21173,
             21175
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
+
     },
     {
         "id": 10246,
@@ -1137,7 +1165,13 @@
             1710,
             1708,
             1706
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
+
     },
     {
         "id": 10248,
@@ -1150,6 +1184,9 @@
         "widgetIds": [
             {
                 "componentId": 24969239
+            },
+            {
+                "componentId": 10747946
             }
         ]
     },
@@ -1163,13 +1200,21 @@
         "widgetIds": [
             {
                 "componentId": 9043975
+            },
+            {
+                "componentId": 10747946
             }
         ]
     },
     {
         "id": 10252,
         "text": "DURA: stash",
-        "color": "#FFFF00AF"
+        "color": "#FFFF00AF",
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
+        ]
     },
     {
         "id": 12542,
@@ -1184,6 +1229,9 @@
             },
             {
                 "componentId": 14286944
+            },
+            {
+                "componentId": 10747946
             }
         ]
     },
@@ -1193,12 +1241,22 @@
         "color": "#FFFF00AF",
         "itemIds": [
             13103
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
         "id": 12546,
         "text": "OBEL 6: -stash",
-        "color": "#FFFF0000"
+        "color": "#FFFF0000",
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
+        ]
     },
     {
         "id": 12548,
@@ -1213,6 +1271,11 @@
             2562,
             2564,
             2566
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -1221,6 +1284,11 @@
         "color": "#FFFF00AF",
         "itemIds": [
             9044
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -1234,6 +1302,9 @@
         "widgetIds": [
             {
                 "componentId": 39125053
+            },
+            {
+                "componentId": 10747946
             }
         ]
     },
@@ -2225,6 +2296,11 @@
         "color": "#FFFF00AF",
         "itemIds": [
             29893
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     }
 ]
