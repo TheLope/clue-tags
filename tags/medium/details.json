@@ -715,6 +715,11 @@
         "color": "#FF4BB7FF",
         "itemIds": [
             13132
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -846,6 +851,11 @@
         "color": "#FF4BB7FF",
         "itemIds": [
             13132
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
