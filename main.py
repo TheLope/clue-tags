@@ -223,7 +223,7 @@ def define_env(env):
         if not os.path.exists(path):
             os.mkdir(path)
 
-        for filter in ["text", "color", "itemIds"]:
+        for filter in ["text", "color", "itemIds", "widgetIds"]:
             keys_to_get = ["id", filter]
             result = get_certain_keys(data, keys_to_get)
             f = open(f"tags/{ tier }/filtered/{ filter }.json", "w")
@@ -236,7 +236,7 @@ def define_env(env):
         return f"""
 { title(f"{ tier.title() } Clue Details", f"Clue_scroll_({ tier })_detail") }
 
-You may filter the details to import text, color, and items all together, or each separately via the tabs below
+You may filter the details to import text, color, items, and widgets all together, or each separately via the tabs below
 
 _Copy button is provided on the right_
 
@@ -255,6 +255,10 @@ _Copy button is provided on the right_
 === "Items"
     ``` json title=""
     --8<-- "tags/{ tier }/filtered/itemIds.json"
+    ```
+=== "Widgets"
+    ``` json title=""
+    --8<-- "tags/{ tier }/filtered/widgetIds.json"
     ```
 """
 

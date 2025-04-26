@@ -2,12 +2,28 @@
     {
         "id": 2677,
         "text": "LUMB: up duke chest",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286874
+            }
+        ]
     },
     {
         "id": 2678,
         "text": "LUMB: se tower crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286874
+            }
+        ]
     },
     {
         "id": 2679,
@@ -24,12 +40,25 @@
         "color": "#FF4CCA27",
         "itemIds": [
             19707
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
         "id": 2681,
         "text": "LUMB: Hans",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286874
+            }
+        ]
     },
     {
         "id": 2682,
@@ -52,6 +81,11 @@
         "color": "#FF4CCA27",
         "itemIds": [
             19707
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -60,6 +94,11 @@
         "color": "#FF4CCA27",
         "itemIds": [
             19707
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -73,6 +112,11 @@
             11120,
             11122,
             11124
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -121,17 +165,38 @@
         "color": "#FF4CCA27",
         "itemIds": [
             21276
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
         "id": 2691,
         "text": "FALLY: ne up drawer",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286877
+            }
+        ]
     },
     {
         "id": 2692,
         "text": "FALLY: nw crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286877
+            }
+        ]
     },
     {
         "id": 2693,
@@ -170,6 +235,11 @@
         "color": "#FF4CCA27",
         "itemIds": [
             13128
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -178,6 +248,11 @@
         "color": "#FF4CCA27",
         "itemIds": [
             19707
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -217,27 +292,67 @@
     {
         "id": 2702,
         "text": "CAMELOT: court Kay",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286882
+            }
+        ]
     },
     {
         "id": 2703,
         "text": "CAMELOT: up chest",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286882
+            }
+        ]
     },
     {
         "id": 2704,
         "text": "ARDY: nw crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286889
+            }
+        ]
     },
     {
         "id": 2705,
         "text": "ARDY: box",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286889
+            }
+        ]
     },
     {
         "id": 2706,
         "text": "ARDY: general crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286889
+            }
+        ]
     },
     {
         "id": 2707,
@@ -255,12 +370,28 @@
     {
         "id": 2708,
         "text": "VARR: clothes up",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286871
+            }
+        ]
     },
     {
         "id": 2709,
         "text": "VARR: court crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286871
+            }
+        ]
     },
     {
         "id": 2710,
@@ -274,7 +405,15 @@
     {
         "id": 2711,
         "text": "ARDY: church up",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286889
+            }
+        ]
     },
     {
         "id": 2712,
@@ -300,6 +439,11 @@
             11122,
             11124,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -318,6 +462,11 @@
         "itemIds": [
             21276,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -338,7 +487,15 @@
     {
         "id": 3491,
         "text": "YANIL: ne crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286895
+            }
+        ]
     },
     {
         "id": 3492,
@@ -481,7 +638,15 @@
     {
         "id": 3505,
         "text": "ARDY: n drawer",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286889
+            }
+        ]
     },
     {
         "id": 3506,
@@ -494,6 +659,11 @@
             11120,
             11122,
             11124
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -507,12 +677,28 @@
     {
         "id": 3508,
         "text": "SEER: sw up drawer",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286882
+            }
+        ]
     },
     {
         "id": 3509,
         "text": "SEER: w crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286882
+            }
+        ]
     },
     {
         "id": 3510,
@@ -530,6 +716,11 @@
         "color": "#FF4CCA27",
         "itemIds": [
             19707
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -559,7 +750,15 @@
     {
         "id": 3515,
         "text": "GE: castle crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286871
+            }
+        ]
     },
     {
         "id": 3516,
@@ -573,6 +772,11 @@
             11122,
             11124,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -594,6 +798,14 @@
         "color": "#FF4CCA27",
         "itemIds": [
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286877
+            }
         ]
     },
     {
@@ -611,6 +823,11 @@
         "color": "#FF4CCA27",
         "itemIds": [
             26818
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -623,6 +840,11 @@
             21151,
             21153,
             21155
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -631,6 +853,14 @@
         "color": "#FF4CCA27",
         "itemIds": [
             19707
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            },
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -639,6 +869,11 @@
         "color": "#FF4CCA27",
         "itemIds": [
             26818
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -648,6 +883,11 @@
         "itemIds": [
             13068,
             9813
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -657,12 +897,29 @@
         "itemIds": [
             13068,
             9813
+        ],
+        "widgetIds": [
+            {
+                "componentId": 24969229
+            },
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
         "id": 10192,
         "text": "TREE 7: s stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            },
+            {
+                "componentId": 12255235,
+                "childIndex": 6
+            }
+        ]
     },
     {
         "id": 10194,
@@ -670,6 +927,11 @@
         "color": "#FF4CCA27",
         "itemIds": [
             26818
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -678,6 +940,11 @@
         "color": "#FF4CCA27",
         "itemIds": [
             19615
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -686,6 +953,14 @@
         "color": "#FF4CCA27",
         "itemIds": [
             19707
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            },
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -694,6 +969,14 @@
         "color": "#FF4CCA27",
         "itemIds": [
             19707
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            },
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -703,12 +986,28 @@
         "itemIds": [
             13280,
             13342
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
         "id": 10204,
         "text": "GE: castle stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286871
+            },
+            {
+                "componentId": 10747946
+            }
+        ]
     },
     {
         "id": 10206,
@@ -721,6 +1020,11 @@
             11107,
             11109,
             11111
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -734,6 +1038,11 @@
             11107,
             11109,
             11111
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -743,6 +1052,11 @@
         "itemIds": [
             13280,
             13342
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -758,6 +1072,11 @@
             3863,
             3865,
             3867
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -767,6 +1086,11 @@
         "itemIds": [
             13069,
             19476
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -776,6 +1100,11 @@
         "itemIds": [
             13069,
             19476
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -784,6 +1113,11 @@
         "color": "#FF4CCA27",
         "itemIds": [
             26818
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -798,6 +1132,11 @@
             11107,
             11109,
             11111
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -806,6 +1145,14 @@
         "color": "#FF4CCA27",
         "itemIds": [
             13140
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            },
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -814,6 +1161,11 @@
         "color": "#FF4CCA27",
         "itemIds": [
             24957
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -823,6 +1175,11 @@
         "itemIds": [
             13222,
             13221
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -831,6 +1188,11 @@
         "color": "#FF4CCA27",
         "itemIds": [
             12782
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -840,6 +1202,14 @@
         "itemIds": [
             21389,
             12642
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39125037
+            },
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -855,17 +1225,44 @@
             2562,
             2564,
             2566
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
         "id": 12162,
         "text": "VARR: court stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286871
+            },
+            {
+                "componentId": 10747946
+            }
+        ]
     },
     {
         "id": 12164,
         "text": "FALLY: sw stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286877
+            },
+            {
+                "componentId": 10747946
+            }
+        ]
     },
     {
         "id": 12166,
@@ -893,6 +1290,11 @@
         "color": "#FF4CCA27",
         "itemIds": [
             19707
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -915,6 +1317,11 @@
         "itemIds": [
             21276,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -923,6 +1330,11 @@
         "color": "#FF4CCA27",
         "itemIds": [
             21276
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -931,6 +1343,11 @@
         "color": "#FF4CCA27",
         "itemIds": [
             19707
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -939,6 +1356,11 @@
         "color": "#FF4CCA27",
         "itemIds": [
             19707
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -948,12 +1370,25 @@
         "itemIds": [
             21389,
             12403
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39125001
+            }
         ]
     },
     {
         "id": 12176,
         "text": "VARR: w down",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286871
+            }
+        ]
     },
     {
         "id": 12177,
@@ -966,6 +1401,11 @@
             11120,
             11122,
             11124
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -979,6 +1419,11 @@
             11120,
             11122,
             11124
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -993,7 +1438,15 @@
     {
         "id": 12181,
         "text": "FALLY: ne Cassie",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286877
+            }
+        ]
     },
     {
         "id": 12182,
@@ -1007,7 +1460,15 @@
     {
         "id": 12183,
         "text": "FALLY: w Hairdress",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286877
+            }
+        ]
     },
     {
         "id": 12184,
@@ -1039,12 +1500,25 @@
         "color": "#FF4CCA27",
         "itemIds": [
             13128
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
         "id": 12187,
         "text": "FALLY: n Rusty",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286877
+            }
+        ]
     },
     {
         "id": 12188,
@@ -1052,6 +1526,11 @@
         "color": "#FF4CCA27",
         "itemIds": [
             13128
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -1070,6 +1549,11 @@
         "itemIds": [
             21389,
             12642
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39125037
+            }
         ]
     },
     {
@@ -1096,6 +1580,14 @@
         "color": "#FF4CCA27",
         "itemIds": [
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286874
+            }
         ]
     },
     {
@@ -1109,7 +1601,15 @@
     {
         "id": 19817,
         "text": "VARR: sw Apothecary",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286871
+            }
+        ]
     },
     {
         "id": 19818,
@@ -1123,7 +1623,15 @@
     {
         "id": 19819,
         "text": "FALLY: sw Herquin",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286877
+            }
+        ]
     },
     {
         "id": 19820,
@@ -1139,6 +1647,11 @@
         "color": "#FF4CCA27",
         "itemIds": [
             25818
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -1203,6 +1716,11 @@
         "color": "#FF4CCA27",
         "itemIds": [
             25818
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -1217,7 +1735,18 @@
     {
         "id": 19831,
         "text": "GE: s stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286871
+            },
+            {
+                "componentId": 10747946
+            }
+        ]
     },
     {
         "id": 19833,
@@ -1226,6 +1755,11 @@
         "itemIds": [
             13069,
             19476
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -1234,6 +1768,12 @@
         "color": "#FF4CCA27",
         "itemIds": [
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 12255235,
+                "childIndex": 4
+            }
         ]
     },
     {
@@ -1283,7 +1823,15 @@
     {
         "id": 23154,
         "text": "FALLY: nw crate",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286877
+            }
+        ]
     },
     {
         "id": 23155,
@@ -1295,6 +1843,15 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 672
+            }
         ]
     },
     {
@@ -1307,6 +1864,15 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 215
+            }
         ]
     },
     {
@@ -1319,6 +1885,15 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 619
+            }
         ]
     },
     {
@@ -1331,6 +1906,15 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 489
+            }
         ]
     },
     {
@@ -1343,6 +1927,15 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 439
+            }
         ]
     },
     {
@@ -1355,12 +1948,27 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 7
+            }
         ]
     },
     {
         "id": 23161,
         "text": "TREE 7: pisc Charles",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 12255235,
+                "childIndex": 6
+            }
+        ]
     },
     {
         "id": 23162,
@@ -1368,6 +1976,11 @@
         "color": "#FF4CCA27",
         "itemIds": [
             19707
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -1421,6 +2034,11 @@
         "color": "#FF4CCA27",
         "itemIds": [
             22947
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -1443,7 +2061,18 @@
     {
         "id": 28914,
         "text": "CIV: ne stash",
-        "color": "#FF4CCA27"
+        "color": "#FF4CCA27",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286891
+            },
+            {
+                "componentId": 10747946
+            }
+        ]
     },
     {
         "id": 29853,

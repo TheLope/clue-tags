@@ -69,7 +69,15 @@
     {
         "id": 7,
         "text": "FALLY: w Hairdress",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286877
+            }
+        ]
     },
     {
         "id": 8,
@@ -82,7 +90,15 @@
     {
         "id": 9,
         "text": "LUMB: Hans",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286874
+            }
+        ]
     },
     {
         "id": 10,
@@ -95,7 +111,15 @@
     {
         "id": 11,
         "text": "LUMB: Cook",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286874
+            }
+        ]
     },
     {
         "id": 12,
@@ -129,17 +153,50 @@
         "color": "#FFC8C8C8",
         "itemIds": [
             1635
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286871
+            },
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
         "id": 16,
         "text": "GE: Bow",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286871
+            },
+            {
+                "componentId": 10747946
+            }
+        ]
     },
     {
         "id": 17,
         "text": "VARR: Iffie stash",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286871
+            },
+            {
+                "componentId": 10747946
+            }
+        ]
     },
     {
         "id": 18,
@@ -148,6 +205,11 @@
         "itemIds": [
             13069,
             19476
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -156,12 +218,28 @@
         "color": "#FFC8C8C8",
         "itemIds": [
             26818
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
         "id": 20,
         "text": "FALLY: mace Spin",
-        "color": "#FFC8C8C8"
+        "color": "#FFC8C8C8",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286877
+            },
+            {
+                "componentId": 10747946
+            }
+        ]
     },
     {
         "id": 21,
@@ -213,6 +291,11 @@
             13280,
             13342,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 24969329
+            }
         ]
     },
     {

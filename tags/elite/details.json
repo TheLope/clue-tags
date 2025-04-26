@@ -2,7 +2,21 @@
     {
         "id": 12073,
         "text": "W ARDY: stash",
-        "color": "#FFB7FF00"
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286992
+            },
+            {
+                "componentId": 14287008
+            },
+            {
+                "componentId": 10747946
+            }
+        ]
     },
     {
         "id": 12074,
@@ -10,6 +24,11 @@
         "color": "#FFB7FF00",
         "itemIds": [
             23458
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -17,8 +36,12 @@
         "text": "REV: -nw stash",
         "color": "#FFFF0000",
         "itemIds": [
-            21389,
             21802
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -26,8 +49,19 @@
         "text": "FISH: shadow",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342
+            4657,
+            28327
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286979
+            },
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -37,6 +71,11 @@
         "itemIds": [
             13280,
             13342
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -46,6 +85,15 @@
         "itemIds": [
             13280,
             13342
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            },
+            {
+                "componentId": 38666244,
+                "childIndex": 7
+            }
         ]
     },
     {
@@ -55,6 +103,11 @@
         "itemIds": [
             13068,
             9813
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -63,12 +116,31 @@
         "color": "#FFB7FF00",
         "itemIds": [
             21268
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
         "id": 12081,
         "text": "TROL: stash",
-        "color": "#FFB7FF00"
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286992
+            },
+            {
+                "componentId": 14286902
+            },
+            {
+                "componentId": 10747946
+            }
+        ]
     },
     {
         "id": 12082,
@@ -77,6 +149,11 @@
         "itemIds": [
             13280,
             13342
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -86,6 +163,11 @@
         "itemIds": [
             13280,
             13342
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -96,6 +178,15 @@
             13280,
             13342,
             995
+        ],
+        "widgetIds": [
+            {
+                "componentId": 57999364,
+                "childIndex": 12
+            },
+            {
+                "componentId": 4718598
+            }
         ]
     },
     {
@@ -105,6 +196,11 @@
         "itemIds": [
             21389,
             12411
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39125033
+            }
         ]
     },
     {
@@ -115,6 +211,11 @@
             13068,
             9813,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 24969345
+            }
         ]
     },
     {
@@ -158,7 +259,15 @@
     {
         "id": 12092,
         "text": "MOON: w around",
-        "color": "#FFB7FF00"
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286959
+            }
+        ]
     },
     {
         "id": 12093,
@@ -185,7 +294,18 @@
     {
         "id": 12096,
         "text": "APE ATOLL: w",
-        "color": "#FFB7FF00"
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286992
+            },
+            {
+                "componentId": 14287013
+            }
+        ]
     },
     {
         "id": 12097,
@@ -203,6 +323,11 @@
             13068,
             9813,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 24969249
+            }
         ]
     },
     {
@@ -248,6 +373,11 @@
             21389,
             12406,
             995
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39125013
+            }
         ]
     },
     {
@@ -261,12 +391,31 @@
     {
         "id": 12105,
         "text": "W BIRTH: cove",
-        "color": "#FFB7FF00"
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286963
+            }
+        ]
     },
     {
         "id": 12106,
         "text": "APE ATOLL: Lumdo e",
-        "color": "#FFB7FF00"
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286992
+            },
+            {
+                "componentId": 14287013
+            }
+        ]
     },
     {
         "id": 12107,
@@ -285,6 +434,11 @@
         "itemIds": [
             13068,
             9813
+        ],
+        "widgetIds": [
+            {
+                "componentId": 24969253
+            }
         ]
     },
     {
@@ -303,6 +457,11 @@
         "itemIds": [
             21389,
             12409
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39125025
+            }
         ]
     },
     {
@@ -312,6 +471,11 @@
         "itemIds": [
             21389,
             12410
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39125029
+            }
         ]
     },
     {
@@ -442,12 +606,25 @@
             13068,
             9813,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 24969293
+            }
         ]
     },
     {
         "id": 12132,
         "text": "MOON: Oneiro",
-        "color": "#FFB7FF00"
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286959
+            }
+        ]
     },
     {
         "id": 12133,
@@ -480,6 +657,12 @@
         "itemIds": [
             13280,
             13342
+        ],
+        "widgetIds": [
+            {
+                "componentId": 38666242,
+                "childIndex": 5
+            }
         ]
     },
     {
@@ -524,6 +707,14 @@
         "color": "#FFB7FF00",
         "itemIds": [
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286963
+            }
         ]
     },
     {
@@ -546,7 +737,18 @@
     {
         "id": 12145,
         "text": "SEER: agi crate",
-        "color": "#FFB7FF00"
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286992
+            },
+            {
+                "componentId": 14286882
+            }
+        ]
     },
     {
         "id": 12146,
@@ -556,6 +758,11 @@
             13068,
             9813,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 24969259
+            }
         ]
     },
     {
@@ -579,7 +786,18 @@
     {
         "id": 12149,
         "text": "VARR: Aris",
-        "color": "#FFB7FF00"
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286992
+            },
+            {
+                "componentId": 14286871
+            }
+        ]
     },
     {
         "id": 12150,
@@ -603,7 +821,15 @@
     {
         "id": 12152,
         "text": "CATH: Candle",
-        "color": "#FFB7FF00"
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286982
+            }
+        ]
     },
     {
         "id": 12153,
@@ -613,6 +839,11 @@
             21389,
             12402,
             954
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39124997
+            }
         ]
     },
     {
@@ -621,14 +852,33 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13124
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286992
+            },
+            {
+                "componentId": 14286889
+            }
         ]
     },
     {
         "id": 12155,
         "text": "KHAR: Barker",
         "color": "#FFB7FF00",
-        "itemIds": [
-            12779
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286992
+            },
+            {
+                "componentId": 14286945
+            }
         ]
     },
     {
@@ -673,6 +923,14 @@
             7534,
             7535,
             11854
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286971
+            }
         ]
     },
     {
@@ -683,6 +941,11 @@
             21389,
             12938,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39125041
+            }
         ]
     },
     {
@@ -707,7 +970,18 @@
     {
         "id": 19786,
         "text": "APE ATOLL: w crate",
-        "color": "#FFB7FF00"
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286992
+            },
+            {
+                "componentId": 14287013
+            }
+        ]
     },
     {
         "id": 19787,
@@ -718,6 +992,11 @@
             25934,
             25932,
             4083
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -727,6 +1006,14 @@
         "itemIds": [
             13068,
             9813
+        ],
+        "widgetIds": [
+            {
+                "componentId": 24969335
+            },
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -736,6 +1023,11 @@
         "itemIds": [
             13068,
             9813
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -744,6 +1036,20 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13124
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286992
+            },
+            {
+                "componentId": 14286889
+            },
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -753,6 +1059,11 @@
         "itemIds": [
             13280,
             13342
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -790,7 +1101,15 @@
     {
         "id": 19796,
         "text": "W BIRTH: crab",
-        "color": "#FFB7FF00"
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286963
+            }
+        ]
     },
     {
         "id": 19797,
@@ -861,6 +1180,11 @@
         "itemIds": [
             21389,
             12402
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39124997
+            }
         ]
     },
     {
@@ -906,7 +1230,15 @@
     {
         "id": 19809,
         "text": "W BIRTH: dks",
-        "color": "#FFB7FF00"
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286963
+            }
+        ]
     },
     {
         "id": 19810,
@@ -966,6 +1298,11 @@
             13068,
             9813,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 24969351
+            }
         ]
     },
     {
@@ -1007,7 +1344,15 @@
     {
         "id": 24253,
         "text": "W BIRTH: stone",
-        "color": "#FFB7FF00"
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286963
+            }
+        ]
     },
     {
         "id": 24773,
@@ -1019,6 +1364,15 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 287
+            }
         ]
     },
     {
@@ -1038,6 +1392,11 @@
             13068,
             9813,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 24969267
+            }
         ]
     },
     {
@@ -1047,6 +1406,11 @@
         "itemIds": [
             13280,
             13342
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
@@ -1068,6 +1432,15 @@
             11984,
             11986,
             11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947
+            },
+            {
+                "componentId": 15663110,
+                "childIndex": 323
+            }
         ]
     },
     {
@@ -1082,7 +1455,21 @@
     {
         "id": 28910,
         "text": "CIV: temple stash",
-        "color": "#FFB7FF00"
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286992
+            },
+            {
+                "componentId": 14286891
+            },
+            {
+                "componentId": 10747946
+            }
+        ]
     },
     {
         "id": 28911,
