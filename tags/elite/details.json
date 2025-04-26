@@ -272,7 +272,11 @@
     {
         "id": 12093,
         "text": "OBEL 6: -volcano",
-        "color": "#FFFF0000"
+        "color": "#FFFF0000",
+        "itemIds": [
+            13280,
+            13342
+        ]
     },
     {
         "id": 12094,
@@ -1310,6 +1314,8 @@
         "text": "OBEL 3: e dig",
         "color": "#FFB7FF00",
         "itemIds": [
+            13280,
+            13342,
             952
         ]
     },

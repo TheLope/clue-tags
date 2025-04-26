@@ -33,7 +33,11 @@
     {
         "id": 503,
         "text": "OBEL 6: -Edward",
-        "color": "#FFFF0000"
+        "color": "#FFFF0000",
+        "itemIds": [
+            13280,
+            13342
+        ]
     },
     {
         "id": 504,
@@ -452,6 +456,8 @@
         "text": "OBEL 6: -volcano dig",
         "color": "#FFFF0000",
         "itemIds": [
+            13280,
+            13342,
             952
         ]
     },
@@ -469,6 +475,8 @@
         "text": "OBEL 6: -n dig",
         "color": "#FFFF0000",
         "itemIds": [
+            13280,
+            13342,
             952
         ]
     },
