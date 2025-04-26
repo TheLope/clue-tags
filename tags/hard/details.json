@@ -1990,6 +1990,10 @@
         "id": 19910,
         "text": "HIDEOUT: Queen",
         "color": "#FFC15FFF",
+        "itemIds": [
+            13280,
+            13342
+        ],
         "widgetIds": [
             {
                 "componentId": 24969355

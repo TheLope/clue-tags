@@ -208,8 +208,8 @@
         "text": "DKS: nw dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -320,8 +320,8 @@
         "text": "AKS: nw dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -432,8 +432,8 @@
         "text": "ALQ: ship",
         "color": "#FFB7FF00",
         "itemIds": [
-            13068,
-            9813
+            13280,
+            13342
         ],
         "widgetIds": [
             {
@@ -603,8 +603,8 @@
         "text": "CIQ: w dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -755,8 +755,8 @@
         "text": "BIP: dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -1004,8 +1004,8 @@
         "text": "DJR: se stash",
         "color": "#FFB7FF00",
         "itemIds": [
-            13068,
-            9813
+            13280,
+            13342
         ],
         "widgetIds": [
             {
@@ -1295,8 +1295,8 @@
         "text": "DLR: se dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -1389,8 +1389,8 @@
         "text": "BJP: e dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             952
         ],
         "widgetIds": [

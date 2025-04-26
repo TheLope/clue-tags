@@ -182,8 +182,8 @@
         "text": "DLR: se dig",
         "color": "#FFFF5A00",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -251,8 +251,8 @@
         "text": "BKR: tomb dig",
         "color": "#FFFF5A00",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -331,8 +331,8 @@
         "text": "DJR: nw dig",
         "color": "#FFFF5A00",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -412,8 +412,8 @@
         "text": "CIS: mine dig",
         "color": "#FFFF5A00",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -486,8 +486,8 @@
         "text": "DKS: +penguin",
         "color": "#FFFF5A00",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             10595
         ],
         "widgetIds": [
@@ -1128,8 +1128,8 @@
         "text": "BKQ: stash",
         "color": "#FFFF5A00",
         "itemIds": [
-            13068,
-            9813
+            13280,
+            13342
         ],
         "widgetIds": [
             {
@@ -1402,8 +1402,8 @@
         "text": "DLS: +blood rune",
         "color": "#FFFF5A00",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             7936
         ],
         "widgetIds": [
@@ -1568,8 +1568,8 @@
         "text": "DJR: shaman",
         "color": "#FFFF5A00",
         "itemIds": [
-            13068,
-            9813
+            13280,
+            13342
         ],
         "widgetIds": [
             {

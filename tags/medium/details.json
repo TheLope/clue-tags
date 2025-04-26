@@ -17,8 +17,8 @@
         "text": "CLS: n dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -55,8 +55,8 @@
         "text": "CIQ: nw dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -189,8 +189,8 @@
         "text": "ALS: dog",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13068,
-            9813
+            13280,
+            13342
         ],
         "widgetIds": [
             {
@@ -423,8 +423,8 @@
         "text": "BKR: sw dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -516,8 +516,8 @@
         "text": "ALS: crate",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13068,
-            9813
+            13280,
+            13342
         ],
         "widgetIds": [
             {
@@ -712,8 +712,8 @@
         "text": "AKS: ne Fycie",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13068,
-            9813
+            13280,
+            13342
         ],
         "widgetIds": [
             {
@@ -936,8 +936,8 @@
         "text": "AKS: n dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -951,8 +951,8 @@
         "text": "DKP: dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -1588,8 +1588,8 @@
         "text": "DJR: e Captain",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13068,
-            9813
+            13280,
+            13342
         ],
         "widgetIds": [
             {
@@ -1626,8 +1626,8 @@
         "text": "CIS: mine",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13068,
-            9813
+            13280,
+            13342
         ],
         "widgetIds": [
             {
@@ -2449,8 +2449,8 @@
         "text": "ALP: up",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13068,
-            9813
+            13280,
+            13342
         ],
         "widgetIds": [
             {
