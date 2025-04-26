@@ -636,6 +636,8 @@
         "text": "OBEL 4: s dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13280,
+            13342,
             952
         ]
     },
@@ -644,6 +646,8 @@
         "text": "OBEL 6: -nw dig",
         "color": "#FFFF0000",
         "itemIds": [
+            13280,
+            13342,
             952
         ]
     },
@@ -844,6 +848,8 @@
         "text": "TREE 8: nw dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -1030,7 +1036,11 @@
     {
         "id": 7264,
         "text": "OBEL 2: ne s",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13280,
+            13342
+        ]
     },
     {
         "id": 7266,
@@ -1060,6 +1070,10 @@
         "id": 7270,
         "text": "TREE 1: up Bolkoy",
         "color": "#FFC15FFF",
+        "itemIds": [
+            13280,
+            13342
+        ],
         "widgetIds": [
             {
                 "componentId": 12255235,
@@ -1080,6 +1094,10 @@
         "id": 10234,
         "text": "OBEL 2: stash",
         "color": "#FFFF00AF",
+        "itemIds": [
+            13280,
+            13342
+        ],
         "widgetIds": [
             {
                 "componentId": 10747946
@@ -1264,6 +1282,10 @@
         "id": 12546,
         "text": "OBEL 6: -stash",
         "color": "#FFFF0000",
+        "itemIds": [
+            13280,
+            13342
+        ],
         "widgetIds": [
             {
                 "componentId": 10747946
@@ -1390,7 +1412,11 @@
     {
         "id": 12564,
         "text": "OBEL 2: ne n",
-        "color": "#FFC15FFF"
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13280,
+            13342
+        ]
     },
     {
         "id": 12566,
@@ -1648,6 +1674,10 @@
         "id": 19858,
         "text": "TREE 1: Tree",
         "color": "#FFC15FFF",
+        "itemIds": [
+            13280,
+            13342
+        ],
         "widgetIds": [
             {
                 "componentId": 12255235,
@@ -1906,6 +1936,10 @@
         "id": 19896,
         "text": "TREE A: Lammy",
         "color": "#FFC15FFF",
+        "itemIds": [
+            13280,
+            13342
+        ],
         "widgetIds": [
             {
                 "componentId": 12255235,
@@ -1976,6 +2010,10 @@
         "id": 19910,
         "text": "HIDEOUT: Queen",
         "color": "#FFC15FFF",
+        "itemIds": [
+            13280,
+            13342
+        ],
         "widgetIds": [
             {
                 "componentId": 24969355
@@ -2247,6 +2285,10 @@
         "id": 25791,
         "text": "TREE A: dungeon",
         "color": "#FFC15FFF",
+        "itemIds": [
+            13280,
+            13342
+        ],
         "widgetIds": [
             {
                 "componentId": 12255235,

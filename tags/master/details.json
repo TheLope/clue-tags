@@ -33,7 +33,11 @@
     {
         "id": 503,
         "text": "OBEL 6: -Edward",
-        "color": "#FFFF0000"
+        "color": "#FFFF0000",
+        "itemIds": [
+            13280,
+            13342
+        ]
     },
     {
         "id": 504,
@@ -182,8 +186,8 @@
         "text": "DLR: se dig",
         "color": "#FFFF5A00",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -251,8 +255,8 @@
         "text": "BKR: tomb dig",
         "color": "#FFFF5A00",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -331,8 +335,8 @@
         "text": "DJR: nw dig",
         "color": "#FFFF5A00",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -362,6 +366,8 @@
         "text": "TREE B: dig",
         "color": "#FFFF5A00",
         "itemIds": [
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -410,8 +416,8 @@
         "text": "CIS: mine dig",
         "color": "#FFFF5A00",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -450,6 +456,8 @@
         "text": "OBEL 6: -volcano dig",
         "color": "#FFFF0000",
         "itemIds": [
+            13280,
+            13342,
             952
         ]
     },
@@ -467,6 +475,8 @@
         "text": "OBEL 6: -n dig",
         "color": "#FFFF0000",
         "itemIds": [
+            13280,
+            13342,
             952
         ]
     },
@@ -484,8 +494,8 @@
         "text": "DKS: +penguin",
         "color": "#FFFF5A00",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             10595
         ],
         "widgetIds": [
@@ -545,6 +555,10 @@
         "id": 548,
         "text": "TREE 7: monk",
         "color": "#FFFF5A00",
+        "itemIds": [
+            13280,
+            13342
+        ],
         "widgetIds": [
             {
                 "componentId": 12255235,
@@ -836,6 +850,10 @@
         "id": 576,
         "text": "TREE 6: n stash",
         "color": "#FFFF5A00",
+        "itemIds": [
+            13280,
+            13342
+        ],
         "widgetIds": [
             {
                 "componentId": 10747946
@@ -1118,8 +1136,8 @@
         "text": "BKQ: stash",
         "color": "#FFFF5A00",
         "itemIds": [
-            13068,
-            9813
+            13280,
+            13342
         ],
         "widgetIds": [
             {
@@ -1392,8 +1410,8 @@
         "text": "DLS: +blood rune",
         "color": "#FFFF5A00",
         "itemIds": [
-            13068,
-            9813,
+            13280,
+            13342,
             7936
         ],
         "widgetIds": [
@@ -1437,6 +1455,8 @@
         "text": "TREE B: +chop red",
         "color": "#FFFF5A00",
         "itemIds": [
+            13280,
+            13342,
             28220,
             28143
         ],
@@ -1556,8 +1576,8 @@
         "text": "DJR: shaman",
         "color": "#FFFF5A00",
         "itemIds": [
-            13068,
-            9813
+            13280,
+            13342
         ],
         "widgetIds": [
             {
