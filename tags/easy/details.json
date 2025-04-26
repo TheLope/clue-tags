@@ -911,6 +911,10 @@
         "id": 10192,
         "text": "TREE 7: s stash",
         "color": "#FF4CCA27",
+        "itemIds": [
+            13280,
+            13342
+        ],
         "widgetIds": [
             {
                 "componentId": 10747946
@@ -1767,6 +1771,8 @@
         "text": "TREE 5: se dig",
         "color": "#FF4CCA27",
         "itemIds": [
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -1963,6 +1969,10 @@
         "id": 23161,
         "text": "TREE 7: pisc Charles",
         "color": "#FF4CCA27",
+        "itemIds": [
+            13280,
+            13342
+        ],
         "widgetIds": [
             {
                 "componentId": 12255235,

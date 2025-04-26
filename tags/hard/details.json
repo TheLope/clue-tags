@@ -844,6 +844,8 @@
         "text": "TREE 8: nw dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -1060,6 +1062,10 @@
         "id": 7270,
         "text": "TREE 1: up Bolkoy",
         "color": "#FFC15FFF",
+        "itemIds": [
+            13280,
+            13342
+        ],
         "widgetIds": [
             {
                 "componentId": 12255235,
@@ -1648,6 +1654,10 @@
         "id": 19858,
         "text": "TREE 1: Tree",
         "color": "#FFC15FFF",
+        "itemIds": [
+            13280,
+            13342
+        ],
         "widgetIds": [
             {
                 "componentId": 12255235,
@@ -1906,6 +1916,10 @@
         "id": 19896,
         "text": "TREE A: Lammy",
         "color": "#FFC15FFF",
+        "itemIds": [
+            13280,
+            13342
+        ],
         "widgetIds": [
             {
                 "componentId": 12255235,
@@ -2247,6 +2261,10 @@
         "id": 25791,
         "text": "TREE A: dungeon",
         "color": "#FFC15FFF",
+        "itemIds": [
+            13280,
+            13342
+        ],
         "widgetIds": [
             {
                 "componentId": 12255235,

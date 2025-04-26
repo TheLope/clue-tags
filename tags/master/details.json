@@ -362,6 +362,8 @@
         "text": "TREE B: dig",
         "color": "#FFFF5A00",
         "itemIds": [
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -545,6 +547,10 @@
         "id": 548,
         "text": "TREE 7: monk",
         "color": "#FFFF5A00",
+        "itemIds": [
+            13280,
+            13342
+        ],
         "widgetIds": [
             {
                 "componentId": 12255235,
@@ -836,6 +842,10 @@
         "id": 576,
         "text": "TREE 6: n stash",
         "color": "#FFFF5A00",
+        "itemIds": [
+            13280,
+            13342
+        ],
         "widgetIds": [
             {
                 "componentId": 10747946
@@ -1437,6 +1447,8 @@
         "text": "TREE B: +chop red",
         "color": "#FFFF5A00",
         "itemIds": [
+            13280,
+            13342,
             28220,
             28143
         ],
