@@ -413,16 +413,17 @@
     },
     {
         "id": 536,
-        "text": "CIS: mine dig",
+        "text": "ARC HT: mine dig",
         "color": "#FFFF5A00",
         "itemIds": [
-            13280,
-            13342,
             952
         ],
         "widgetIds": [
             {
-                "componentId": 24969297
+                "componentId": 14286992
+            },
+            {
+                "componentId": 14286996
             }
         ]
     },
