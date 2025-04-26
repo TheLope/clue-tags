@@ -1623,15 +1623,14 @@
     },
     {
         "id": 19740,
-        "text": "CIS: mine",
+        "text": "ARC HT: Clerris",
         "color": "#FF4BB7FF",
-        "itemIds": [
-            13280,
-            13342
-        ],
         "widgetIds": [
             {
-                "componentId": 24969297
+                "componentId": 14286992
+            },
+            {
+                "componentId": 14286996
             }
         ]
     },
