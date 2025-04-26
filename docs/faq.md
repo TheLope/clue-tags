@@ -20,6 +20,7 @@ Here are explanations for otherwise unclear hints
 | -         | Degear for wildy                                           |
 | MAX       | Max cape. See [Custom Swaps](./swaps/index.md) for hotkeys |
 | BOX       | POH jewellery box                                          |
+| ETC       | Eternal teleport crystal                                   |
 | FISH      | Fishing Guild Teleport                                     |
 | GLIDE     | Seed pod&rarr;climb up to glider                           |
 | GSA       | Giantsoul amulet                                           |

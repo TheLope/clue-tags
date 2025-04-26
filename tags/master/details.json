@@ -108,7 +108,7 @@
     },
     {
         "id": 512,
-        "text": "LLET: Goreu",
+        "text": "ETC 1: Goreu",
         "color": "#FFFF5A00",
         "itemIds": [
             23946
@@ -243,7 +243,7 @@
     },
     {
         "id": 523,
-        "text": "PRIF: e dig",
+        "text": "ETC 2: e dig",
         "color": "#FFFF5A00",
         "itemIds": [
             23946,
@@ -625,7 +625,7 @@
     },
     {
         "id": 555,
-        "text": "PRIF: onion",
+        "text": "ETC 2: onion",
         "color": "#FFFF5A00",
         "itemIds": [
             23946
@@ -953,7 +953,7 @@
     },
     {
         "id": 583,
-        "text": "LLET: stash",
+        "text": "ETC 1: stash",
         "color": "#FFFF5A00",
         "itemIds": [
             23946
@@ -1653,7 +1653,7 @@
     },
     {
         "id": 640,
-        "text": "LLET: pp Mawrth",
+        "text": "ETC 1: pp Mawrth",
         "color": "#FFFF5A00",
         "itemIds": [
             23946

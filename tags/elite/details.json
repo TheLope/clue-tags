@@ -230,7 +230,7 @@
     },
     {
         "id": 12089,
-        "text": "LLET: se dig",
+        "text": "ETC 1: se dig",
         "color": "#FFB7FF00",
         "itemIds": [
             23946,
@@ -648,7 +648,7 @@
     },
     {
         "id": 12135,
-        "text": "LLET: Oronwen",
+        "text": "ETC 1: Oronwen",
         "color": "#FFB7FF00",
         "itemIds": [
             23946
@@ -687,7 +687,7 @@
     },
     {
         "id": 12140,
-        "text": "LLET: Mawrth",
+        "text": "ETC 1: Mawrth",
         "color": "#FFB7FF00",
         "itemIds": [
             23946
@@ -1126,10 +1126,11 @@
     },
     {
         "id": 19798,
-        "text": "PRIF: waterfiend",
+        "text": "MAX I: waterfiend",
         "color": "#FFB7FF00",
         "itemIds": [
-            23946
+            13280,
+            13342
         ]
     },
     {

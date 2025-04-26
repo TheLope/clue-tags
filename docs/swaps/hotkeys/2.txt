@@ -22,3 +22,4 @@ Obor*,Giantsoul amulet
 Twilight Temple,Pendant of ates
 *Farm*,Ardougne cloak 4
 Mount Karuulm, Rada's blessing 4
+Prif*, Eternal teleport crystal
