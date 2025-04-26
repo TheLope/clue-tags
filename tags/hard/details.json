@@ -250,7 +250,7 @@
     },
     {
         "id": 2783,
-        "text": "CLOAK: zoo",
+        "text": "CLOAK 1: zoo",
         "color": "#FFC15FFF",
         "itemIds": [
             13124
@@ -1476,7 +1476,7 @@
     },
     {
         "id": 12574,
-        "text": "CLOAK: Omad",
+        "text": "CLOAK 1: Omad",
         "color": "#FFC15FFF",
         "itemIds": [
             13124
@@ -1644,7 +1644,7 @@
     },
     {
         "id": 19854,
-        "text": "CLOAK: nw Kojo",
+        "text": "CLOAK 1: nw Kojo",
         "color": "#FFC15FFF",
         "itemIds": [
             13124
