@@ -1271,7 +1271,11 @@
     {
         "id": 21524,
         "text": "DIGS 2: 4 Jardric",
-        "color": "#FFB7FF00"
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13280,
+            13342
+        ]
     },
     {
         "id": 21525,
@@ -1285,7 +1289,11 @@
     {
         "id": 22000,
         "text": "DIGS 3: up",
-        "color": "#FFB7FF00"
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13280,
+            13342
+        ]
     },
     {
         "id": 23144,

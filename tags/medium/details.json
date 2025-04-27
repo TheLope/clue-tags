@@ -1941,7 +1941,11 @@
     {
         "id": 23137,
         "text": "DIGS 1: row 4",
-        "color": "#FF4BB7FF"
+        "color": "#FF4BB7FF",
+        "itemIds": [
+            13280,
+            13342
+        ]
     },
     {
         "id": 23138,

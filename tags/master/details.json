@@ -74,7 +74,11 @@
     {
         "id": 507,
         "text": "ZANA: Immenizz",
-        "color": "#FFFF5A00"
+        "color": "#FFFF5A00",
+        "itemIds": [
+            13280,
+            13342
+        ]
     },
     {
         "id": 508,
