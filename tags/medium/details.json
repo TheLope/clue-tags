@@ -2100,6 +2100,12 @@
         "color": "#FF4BB7FF",
         "itemIds": [
             29275
+        ],
+        "widgetIds": [
+            {
+                "componentId": 57278479,
+                "childIndex": 6
+            }
         ]
     },
     {
