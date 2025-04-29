@@ -1501,6 +1501,12 @@
         "itemIds": [
             29275,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 57278479,
+                "childIndex": 9
+            }
         ]
     },
     {

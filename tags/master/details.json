@@ -1074,6 +1074,10 @@
         "widgetIds": [
             {
                 "componentId": 10747946
+            },
+            {
+                "componentId": 57278479,
+                "childIndex": 4
             }
         ]
     },
@@ -1259,6 +1263,10 @@
         "widgetIds": [
             {
                 "componentId": 10747946
+            },
+            {
+                "componentId": 57278479,
+                "childIndex": 10
             }
         ]
     },
@@ -1500,10 +1508,16 @@
     },
     {
         "id": 623,
-        "text": "QUET: +tecu",
+        "text": "QUET: +tecu Cam",
         "color": "#FFFF5A00",
         "itemIds": [
             29275
+        ],
+        "widgetIds": [
+            {
+                "componentId": 57278479,
+                "childIndex": 4
+            }
         ]
     },
     {
