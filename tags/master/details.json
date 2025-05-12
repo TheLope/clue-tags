@@ -1146,8 +1146,12 @@
     },
     {
         "id": 592,
-        "text": "VARR: stash",
+        "text": "VARR: +ZGS",
         "color": "#FFFF5A00",
+        "itemIds": [
+            11808,
+            20374
+        ],
         "widgetIds": [
             {
                 "componentId": 10747962
