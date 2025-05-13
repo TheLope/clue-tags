@@ -811,6 +811,11 @@
         "itemIds": [
             13115,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
