@@ -586,7 +586,7 @@
     },
     {
         "id": 3538,
-        "text": "MAX E: +gp ship dig",
+        "text": "MAX E: ship dig",
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
@@ -732,7 +732,7 @@
     },
     {
         "id": 3560,
-        "text": "MAX E: +gp tyras dig",
+        "text": "MAX E: tyras dig",
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
@@ -767,7 +767,7 @@
     },
     {
         "id": 3564,
-        "text": "MAX E: +gp tyras General",
+        "text": "MAX E: tyras General",
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
