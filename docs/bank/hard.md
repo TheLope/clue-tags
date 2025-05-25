@@ -15,3 +15,4 @@ icon: clue/hard
     - Ensure Protect Item prayer is enabled
     - Significant items lost in the event of a PK death:
         - Max cape
+        - This assumes price of Dragon boots is less than Master scroll book
