@@ -118,17 +118,17 @@
     },
     {
         "id": 2821,
-        "text": "SKIL 3: balloon",
+        "text": "LUMBER: basket dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            11968,
-            11970,
-            11105,
-            11107,
-            11109,
-            11111
+            21389,
+            12642,
+            952
         ],
         "widgetIds": [
+            {
+                "componentId": 39125037
+            },
             {
                 "componentId": 30736401
             }
