@@ -1,19 +1,19 @@
 mimic:
   equipment:
-    head: Torva full helm
+    head: Oathplate helm
     cape: Infernal cape
     neck: Amulet of rancour
     ammo: ~
     ammo2: ~
-    weapon: Voidwaker
-    torso: Torva platebody
-    legs: Torva platelegs
-    shield: Avernic defender
+    weapon: Dragon claws
+    torso: Oathplate chest
+    legs: Oathplate legs
+    shield: ~
     gloves: Ferocious gloves
     boots: Primordial boots
-    ring: Ultor ring
+    ring: Bellator ring
   inventory:
-  - [Osmumten's fang, Desert amulet 4, Crafting cape(t), Watson teleport]
+  - [Scythe of vitur, Desert amulet 4, Crafting cape(t), Watson teleport]
   - [Divine super combat potion(1), Anglerfish, Anglerfish, Anglerfish]
   - [Mimic, Anglerfish, Anglerfish, Anglerfish]
   - [~, ~, ~, ~]
