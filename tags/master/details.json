@@ -1128,11 +1128,10 @@
     },
     {
         "id": 591,
-        "text": "BOX Q: stash",
+        "text": "GLORY 3: stash",
         "color": "#FFFF5A00",
         "itemIds": [
-            13280,
-            13342
+            19707
         ],
         "widgetIds": [
             {
