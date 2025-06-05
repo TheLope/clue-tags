@@ -13,6 +13,7 @@ icon: clue/master
 - **Blessing**: Holy blessing taken with Oathplate, otherwise take Unholy
     - If no Zammy item in setup, bank for one for the *outside K'ril Tsutsaroth's chamber* step
 - To reduce inventory space, remove items as needed:
+    - **Amulet of eternal glory**: Used for 3 steps, should always be banked when withdrawing for falo, sherlock etc.
     - **Morytania legs 4**: Equip  instead of Torva platelegs for -1 max hit, or bank
     - **Death runes**: Used for Vengeance for extra DPS
     - **Quest point cape**: Used for 3 steps
