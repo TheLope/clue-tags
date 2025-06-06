@@ -1,24 +1,24 @@
 elite:
   equipment:
-    head: Slayer helmet (i)
-    cape: Dizana's max cape
-    neck: Necklace of anguish
+    head: Torva full helm
+    cape: Infernal cape
+    neck: Amulet of rancour
     ammo: Rada's blessing 4
-    ammo2: Dragon arrow 5
-    weapon: Toxic blowpipe
-    torso: Masori body (f)
-    legs: Masori chaps (f)
+    ammo2: ~
+    weapon: Dragon claws
+    torso: Oathplate chest
+    legs: Torva platelegs
     shield: ~
-    gloves: Zaryte vambraces
-    boots: Pegasian boots
-    ring: Ring of shadows
+    gloves: Ferocious gloves
+    boots: Primordial boots
+    ring: Ultor ring
   inventory:
   - [Clue scroll (elite), Achievement diary cape (t), Quest point cape (t), Book of the dead]
   - [Spade, Max cape, Morytania legs 4, Master scroll book]
   - [Kandarin headgear 4, Enchanted lyre(i), Eternal teleport crystal, Camulet]
   - [Slayer ring (eternal), Ring of wealth, Ghommal's hilt 6, Pendant of ates]
-  - [Divine ranging potion(4), Stamina potion(4), Divine rune pouch, Blood rune]
-  - [~, ~, Desert amulet 4, Aether rune]
+  - [Divine super combat potion(4), Super restore(4), Divine rune pouch, Blood rune]
+  - [Noxious halberd, ~, Desert amulet 4, Aether rune]
   - [~, ~, ~, Sled]
   spellbook:
   - Lunar spellbook
