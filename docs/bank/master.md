@@ -18,7 +18,27 @@ icon: clue/master
     - **Death runes**: Used for Vengeance for extra DPS
     - **Quest point cape**: Used for 3 steps
 ### Cryptic clues
-- Items assume the use of the ["3-stepping" method](https://discord.com/channels/922245627092541450/1233850882156789881/1235639466828234814) *See footer for Discord invite*
-- **Combat bracelet**: Taken for Ghommal cryptic step, replace as needed
-    - Shilo Village furnace&rarr;Karamja gloves, Biblia&rarr;Arceuus library teleport (tablet), etc.
-- If you have the Monastery step, you may want to use Fighter torso and Primordial boots to allow for easier prayer bonus management
+- Items assume the use of the ["3-stepping" method](https://discord.com/channels/922245627092541450/1233850882156789881/1235639466828234814). *See footer for Discord invite*
+- **Combat bracelet**: Replace as needed for your cryptic clue
+-  ??? info "Fastest cryptic steps"
+    | Step                   | Ticks | Slots | Items/Notes                               | Clue Details ID |
+    | ---------------------- | ----- | ----- | ----------------------------------------- | --------------- |
+    | Ghommal                | 9     | 1     | Combat bracelet                           | 557             |
+    | Abbot Langley          | 15    | 2     | Combat bracelet & Ancient staff           | 547             |
+    | Logosia                | 23    | 1     | Arceuus library teleport (tablet)         | 569             |
+    | Biblia                 | 22    | 0     | Assuming from Logosia                     | 551             |
+    | Juna                   | 15    | 1     | Games necklace. Assuming Void range setup | 560             |
+    | Lovada                 | 24    | 1     | Xerics amulet                             | 568             |
+    | Shilo Village          | 26    | 1     | Karamja gloves                            | 571             |
+    | Entrana                | 33    | 0     | Spirit tree                               | 548             |
+    | Rogues Den             | 31    | 1     | Games necklace                            | 556             |
+    | Prifddinas             | 34    | 1     | Eternal teleport crystal                  | 555             |
+    | Mage of Zamorak        | 32    | 1     | Diary cape. Inq mace and/or Oathplate     | 575             |
+    | Ewesey                 | 37    | 1     | Watson teleport                           | 573             |
+    | Robin                  | 28    | 2     | Ectophial & Bowfa. Assuming range setup   | 567             |
+    | Wizard Cromperty       | 26    | N/A   | Requires banking or Shadow setup          | 544             |
+    | Varrock Museum         | 44    | 1     | Diary cape                                | 574             |
+    | Sir Vyvin              | 32    | 2     | Diary cape                                | 561             |
+    | Saradomin's Encampment | 43    | 1     | Hilt. 35 ticks from crossbow              | 563             |
+    | GWD crossbow           | 46    | 1     | Hilt                                      | 546             |
+    | Demonic Ruins          | 34    | N/A   | Annakarl. Death abuse                     | 566             |
