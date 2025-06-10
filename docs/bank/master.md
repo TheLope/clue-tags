@@ -28,17 +28,17 @@ icon: clue/master
     | Logosia                | 23    | 1     | Arceuus library teleport (tablet)         | 569             |
     | Biblia                 | 22    | 0     | Assuming from Logosia                     | 551             |
     | Juna                   | 15    | 1     | Games necklace. Assuming Void range setup | 560             |
-    | Lovada                 | 24    | 1     | Xerics amulet                             | 568             |
+    | Lovada                 | 24    | 0     | Xerics amulet                             | 568             |
     | Shilo Village          | 26    | 1     | Karamja gloves                            | 571             |
     | Entrana                | 33    | 0     | Spirit tree                               | 548             |
     | Rogues Den             | 31    | 1     | Games necklace                            | 556             |
-    | Prifddinas             | 34    | 1     | Eternal teleport crystal                  | 555             |
-    | Mage of Zamorak        | 32    | 1     | Diary cape. Inq mace and/or Oathplate     | 575             |
-    | Ewesey                 | 37    | 1     | Watson teleport                           | 573             |
+    | Prifddinas             | 34    | 0     | Eternal teleport crystal                  | 555             |
+    | Mage of Zamorak        | 32    | 0     | Diary cape. Inq mace and/or Oathplate     | 575             |
+    | Ewesey                 | 37    | 0     | Watson teleport                           | 573             |
     | Robin                  | 28    | 2     | Ectophial & Bowfa. Assuming range setup   | 567             |
     | Wizard Cromperty       | 26    | N/A   | Requires banking or Shadow setup          | 544             |
-    | Varrock Museum         | 44    | 1     | Diary cape                                | 574             |
-    | Sir Vyvin              | 32    | 2     | Diary cape                                | 561             |
-    | Saradomin's Encampment | 43    | 1     | Hilt. 35 ticks from crossbow              | 563             |
-    | GWD crossbow           | 46    | 1     | Hilt                                      | 546             |
+    | Varrock Museum         | 44    | 0     | Diary cape                                | 574             |
+    | Sir Vyvin              | 32    | 2     | Diary cape. White Knight armour.          | 561             |
+    | Saradomin's Encampment | 43    | 0     | Hilt. 35 ticks from crossbow              | 563             |
+    | GWD crossbow           | 46    | 0     | Hilt                                      | 546             |
     | Demonic Ruins          | 34    | N/A   | Annakarl. Death abuse                     | 566             |
