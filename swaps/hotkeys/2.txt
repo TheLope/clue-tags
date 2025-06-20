@@ -1,0 +1,25 @@
+Fishing*,Max cape
+Rimmington,construct*
+Desert,Achievement*
+Karamja,Amulet of *glory*
+Slayer tower,slayer ring*
+Champions' guild,combat bracelet*
+Grand exchange,ring of wealth*
+Castle wars,ring of dueling*
+The outpost,necklace of passage*
+Barbarian outpost,Games necklace*
+Mining guild,Skills necklace*
+Bandit camp,Burning amulet*
+Xeric's glade,Xeric's talisman
+Water altar,Ring of the elements
+Enakhra's temple entrance,Camulet
+Jaleustrophos,Pharaoh's sceptre
+Ghorrock dungeon,Ring of shadows
+Waterbirth island,Enchanted lyre*
+The fisher's*,Book of the dead
+Temple,Camulet
+Obor*,Giantsoul amulet
+Twilight Temple,Pendant of ates
+*Farm*,Ardougne cloak 4
+Mount Karuulm, Rada's blessing 4
+Prif*, Eternal teleport crystal
