@@ -17,3 +17,4 @@ icon: clue/hard
     - Restore prior to fights to meet the following:
         - 100% Special Attack for Saradomin wizard/Double agent
         - 50% Special Attack for Zamorak wizard
+- Book of the dead is only used for 1 step, drop as needed

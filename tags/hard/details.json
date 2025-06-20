@@ -254,6 +254,17 @@
         "itemIds": [
             21129,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286992
+            },
+            {
+                "componentId": 14287005
+            }
         ]
     },
     {
@@ -366,7 +377,7 @@
     },
     {
         "id": 2790,
-        "text": "GSA 1: moss dig",
+        "text": "+GSA 1: moss dig",
         "color": "#FFC15FFF",
         "itemIds": [
             30638,
@@ -449,7 +460,7 @@
     },
     {
         "id": 2799,
-        "text": "GVS: Bent",
+        "text": "+GVS: Bent",
         "color": "#FFC15FFF",
         "itemIds": [
             11060
@@ -1234,7 +1245,7 @@
     },
     {
         "id": 10242,
-        "text": "PHAR 1: stash",
+        "text": "+PHAR 1: stash",
         "color": "#FFFF00AF",
         "itemIds": [
             9044,
@@ -1401,7 +1412,7 @@
     },
     {
         "id": 12550,
-        "text": "PHAR 2: stash",
+        "text": "+PHAR 2: stash",
         "color": "#FFFF00AF",
         "itemIds": [
             9044,
@@ -1615,7 +1626,7 @@
     },
     {
         "id": 12587,
-        "text": "PHAR 1: Mummy",
+        "text": "+PHAR 1: Mummy",
         "color": "#FFC15FFF",
         "itemIds": [
             9044,
@@ -1624,7 +1635,7 @@
     },
     {
         "id": 12590,
-        "text": "SKULL: dig",
+        "text": "+SKULL: dig",
         "color": "#FFC15FFF",
         "itemIds": [
             21276,
@@ -1651,7 +1662,8 @@
         "text": "XER 3: sw dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13393,
+            13280,
+            13342,
             952
         ]
     },
@@ -1744,7 +1756,7 @@
     },
     {
         "id": 19856,
-        "text": "LYRE 3: Mawnis",
+        "text": "+LYRE 3: Mawnis",
         "color": "#FFC15FFF",
         "itemIds": [
             23458
@@ -2016,7 +2028,7 @@
     },
     {
         "id": 19894,
-        "text": "HILT: Brambickle",
+        "text": "+HILT: Brambickle",
         "color": "#FFC15FFF",
         "itemIds": [
             25936,
@@ -2059,7 +2071,7 @@
     },
     {
         "id": 19902,
-        "text": "ECTO: ne Pete",
+        "text": "+ECTO: ne Pete",
         "color": "#FFC15FFF",
         "itemIds": [
             4251
@@ -2372,7 +2384,7 @@
     },
     {
         "id": 24493,
-        "text": "SLEPE: talk",
+        "text": "+SLEPE: talk",
         "color": "#FFC15FFF",
         "itemIds": [
             22400
@@ -2485,7 +2497,7 @@
     },
     {
         "id": 29859,
-        "text": "ATES 2: e stash",
+        "text": "+ATES 2: e stash",
         "color": "#FFFF00AF",
         "itemIds": [
             29893

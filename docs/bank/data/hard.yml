@@ -13,12 +13,12 @@ hard:
     boots: Dragon boots
     ring: Ultor ring
   inventory:
-  - [Clue scroll (hard), Achievement diary cape (t), Ardougne cloak 4, Western banner 4]
+  - [Clue scroll (hard), Achievement diary cape (t), Ardougne cloak 4, Book of the dead]
   - [Spade, Max cape, Royal seed pod, Master scroll book]
   - [Burning amulet, Necklace of passage, Skills necklace, Camulet]
   - [Ring of dueling, Ring of wealth, Combat bracelet, Amulet of glory(6)]
-  - [Divine super combat potion(4), Stamina potion(4), Divine rune pouch, Blood rune/1025]
-  - [~, ~, Karamja gloves 4, Aether rune/1025]
+  - [Divine super combat potion(4), Karamja gloves 4, Divine rune pouch, Blood rune/1025]
+  - [~, ~, Western banner 4, Aether rune/1025]
   - [~, ~, ~, Coins_10000/10250]
   spellbook:
   - Lunar spellbook
