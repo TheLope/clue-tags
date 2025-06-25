@@ -23,6 +23,7 @@ icon: clue/master
 -  ??? info "Fastest cryptic steps"
     | Step                   | Ticks | Slots | Items/Notes                               | Clue Details ID |
     | ---------------------- | ----- | ----- | ----------------------------------------- | --------------- |
+    | Key Master             | 7     | 1     | Key master teleport                       | 564             |
     | Ghommal                | 9     | 1     | Combat bracelet                           | 557             |
     | Abbot Langley          | 15    | 2     | Combat bracelet & Ancient staff           | 547             |
     | Logosia                | 23    | 1     | Arceuus library teleport (tablet)         | 569             |
