@@ -46,7 +46,9 @@
         "color": "#FFFF0000",
         "itemIds": [
             21129,
-            21800
+            21800,
+            13280,
+            13111
         ]
     },
     {
@@ -492,7 +494,9 @@
             21820,
             13280,
             13342,
-            23742
+            23742,
+            13111,
+            24644
         ]
     },
     {
@@ -760,7 +764,7 @@
     },
     {
         "id": 564,
-        "text": "KEY: Keymaster",
+        "text": "KEY: Key Master",
         "color": "#FFFF5A00",
         "itemIds": [
             21389,
@@ -768,7 +772,7 @@
         ],
         "widgetIds": [
             {
-                "componentId": 39125045
+                "componentId": 39125048
             }
         ]
     },
@@ -810,6 +814,9 @@
         "id": 569,
         "text": "A LIB: Logosia",
         "color": "#FFFF5A00",
+        "itemIds": [
+            19613
+        ],
         "widgetIds": [
             {
                 "componentId": 10747962
@@ -857,11 +864,20 @@
     },
     {
         "id": 573,
-        "text": "DIA A: Ewesey",
+        "text": "WATS: Ewesey",
         "color": "#FFFF5A00",
         "itemIds": [
-            13069,
-            19476
+            19476,
+            21389
+        ],
+        "widgetIds": [
+            {
+                "componentId": 12255235,
+                "childIndex": 9
+            },
+            {
+                "componentId": 39125050
+            }
         ]
     },
     {
@@ -977,7 +993,10 @@
             21820,
             13280,
             13342,
-            23742
+            23742,
+            24644,
+            13111,
+            1523
         ],
         "widgetIds": [
             {
@@ -1192,7 +1211,6 @@
                 "componentId": 10747946
             }
         ]
-
     },
     {
         "id": 595,

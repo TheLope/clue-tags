@@ -1330,11 +1330,16 @@
     },
     {
         "id": 23147,
-        "text": "NEX WEISS: e",
+        "text": "ROS 2: up dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342
+            28327,
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
