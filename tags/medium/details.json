@@ -2189,15 +2189,14 @@
     },
     {
         "id": 30935,
-        "text": "QUET Aubur: crate",
+        "text": "ATES 6: s crate",
         "color": "#FF4BB7FF",
         "itemIds": [
-            29275
+            29893
         ],
         "widgetIds": [
             {
-                "componentId": 57278479,
-                "childIndex": 6
+                "componentId": 10747946
             }
         ]
     },
