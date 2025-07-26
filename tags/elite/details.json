@@ -1532,6 +1532,14 @@
         ]
     },
     {
+        "id": 30932,
+        "text": "ATES 5: nagua",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            29893
+        ]
+    },
+    {
         "id": 12128,
         "text": "Challenge: Sherlock",
         "color": "#FF00FF00"
