@@ -2507,5 +2507,22 @@
                 "componentId": 10747946
             }
         ]
+    },
+    {
+        "id": 30929,
+        "text": "QUET Kasto: Sulisal",
+        "color": "#FFC15FFF",
+        "itemIds": [
+            29275
+        ]
+    },
+    {
+        "id": 30931,
+        "text": "QUET Aubur: sw dig",
+        "color": "#FFC15FFF",
+        "itemIds": [
+            29275,
+            952
+        ]
     }
 ]
