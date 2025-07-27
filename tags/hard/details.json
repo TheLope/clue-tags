@@ -2507,5 +2507,28 @@
                 "componentId": 10747946
             }
         ]
+    },
+    {
+        "id": 30929,
+        "text": "QUET Kasto: Sulisal",
+        "color": "#FFC15FFF",
+        "itemIds": [
+            29275
+        ],
+        "widgetIds": [
+            {
+                "componentId": 57278476,
+                "childIndex": 13
+            }
+        ]
+    },
+    {
+        "id": 30931,
+        "text": "+ATES 6: nw dig",
+        "color": "#FFC15FFF",
+        "itemIds": [
+            29893,
+            952
+        ]
     }
 ]

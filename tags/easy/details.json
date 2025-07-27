@@ -2104,6 +2104,26 @@
         "itemIds": [
             29275,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 57278476,
+                "childIndex": 9
+            }
+        ]
+    },
+    {
+        "id": 30928,
+        "text": "QUET Aubur: w Ranulph",
+        "color": "#FF4CCA27",
+        "itemIds": [
+            29275
+        ],
+        "widgetIds": [
+            {
+                "componentId": 57278476,
+                "childIndex": 12
+            }
         ]
     }
 ]

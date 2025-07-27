@@ -2108,7 +2108,7 @@
         ],
         "widgetIds": [
             {
-                "componentId": 57278479,
+                "componentId": 57278476,
                 "childIndex": 6
             }
         ]
@@ -2171,6 +2171,28 @@
             {
                 "componentId": 10747946
             }
+        ]
+    },
+    {
+        "id": 30933,
+        "text": "QUET Tal: Teicuh",
+        "color": "#FF4BB7FF",
+        "itemIds": [
+            29275
+        ],
+        "widgetIds": [
+            {
+                "componentId": 57278476,
+                "childIndex": 11
+            }
+        ]
+    },
+    {
+        "id": 30935,
+        "text": "ATES 6: s crate",
+        "color": "#FF4BB7FF",
+        "itemIds": [
+            29893
         ]
     },
     {
@@ -2386,6 +2408,11 @@
     {
         "id": 25785,
         "text": "598",
+        "color": "#FF4BB7FF"
+    },
+    {
+        "id": 30934,
+        "text": "4097",
         "color": "#FF4BB7FF"
     },
     {

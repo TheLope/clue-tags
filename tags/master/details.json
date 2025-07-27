@@ -1095,7 +1095,7 @@
                 "componentId": 10747946
             },
             {
-                "componentId": 57278479,
+                "componentId": 57278476,
                 "childIndex": 4
             }
         ]
@@ -1286,7 +1286,7 @@
                 "componentId": 10747946
             },
             {
-                "componentId": 57278479,
+                "componentId": 57278476,
                 "childIndex": 10
             }
         ]
@@ -1536,7 +1536,7 @@
         ],
         "widgetIds": [
             {
-                "componentId": 57278479,
+                "componentId": 57278476,
                 "childIndex": 4
             }
         ]
