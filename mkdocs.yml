@@ -70,7 +70,7 @@ extra:
       link: https://x.com/The_Lope
       name: The_Lope on X
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/zkcn6Y5a
+      link: https://discord.gg/loghunters
       name: Log Hunters on Discord
   analytics:
     provider: google

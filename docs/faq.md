@@ -2,7 +2,7 @@
 icon: material/help-box
 ---
 
-## 1. Help and Dicussion
+## 1. Help and Discussion
 
 If you have specific questions that are not answered here, have suggestions for improvements, or want to get involved in the community, please see the footer for a Discord invite
 
