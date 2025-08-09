@@ -361,5 +361,55 @@
         "itemIds": [
             1095
         ]
+    },
+    {
+        "id": 34,
+        "text": "MANOR: nw dig",
+        "color": "#FFFF5A00",
+        "itemIds": [
+            23183,
+            952,
+            19615
+        ]
+    },
+    {
+        "id": 35,
+        "text": "GLORY 3: wheat dig",
+        "color": "#FFFF5A00",
+        "itemIds": [
+            23183,
+            952,
+            19707
+        ]
+    },
+    {
+        "id": 36,
+        "text": "LASS: dig",
+        "color": "#FFFF5A00",
+        "itemIds": [
+            23183,
+            952,
+            12780
+        ]
+    },
+    {
+        "id": 37,
+        "text": "MANOR: cows dig",
+        "color": "#FFFF5A00",
+        "itemIds": [
+            23183,
+            952,
+            19615
+        ]
+    },
+    {
+        "id": 38,
+        "text": "ROTE 4: mine ne dig",
+        "color": "#FFFF5A00",
+        "itemIds": [
+            23183,
+            952,
+            26818
+        ]
     }
 ]
