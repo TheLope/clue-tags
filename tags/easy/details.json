@@ -614,17 +614,15 @@
     },
     {
         "id": 3503,
-        "text": "GAME 1: army box",
+        "text": "COMB 1: army box",
         "color": "#FF4CCA27",
         "itemIds": [
-            3853,
-            3855,
-            3857,
-            3859,
-            3861,
-            3863,
-            3865,
-            3867
+            11972,
+            11974,
+            11118,
+            11120,
+            11122,
+            11124
         ]
     },
     {
@@ -1343,7 +1341,7 @@
     },
     {
         "id": 12173,
-        "text": "GLORY 1: w Doris",
+        "text": "GLORY 1: nw Doris",
         "color": "#FF4CCA27",
         "itemIds": [
             19707
@@ -2051,6 +2049,10 @@
         "widgetIds": [
             {
                 "componentId": 10747960
+            },
+            {
+                "componentId": 12255235,
+                "childIndex": 11
             }
         ]
     },
