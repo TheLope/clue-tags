@@ -1266,7 +1266,9 @@
         "text": "PHAR 1: +stash",
         "color": "#FFFF5A00",
         "itemIds": [
-            9044
+            9044,
+            26948,
+            26950
         ],
         "widgetIds": [
             {
