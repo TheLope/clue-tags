@@ -92,6 +92,12 @@
             13280,
             13342,
             23742
+        ],
+        "widgetIds": [
+            {
+                "componentId": 1114125,
+                "childIndex": 8
+            }
         ]
     },
     {
@@ -180,6 +186,10 @@
             },
             {
                 "componentId": 14286949
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 2
             }
         ]
     },
@@ -200,6 +210,10 @@
             },
             {
                 "componentId": 14286948
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 2
             }
         ]
     },
@@ -244,6 +258,10 @@
             },
             {
                 "componentId": 14286874
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             }
         ]
     },
@@ -264,6 +282,10 @@
             },
             {
                 "componentId": 14287005
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             }
         ]
     },
@@ -280,6 +302,10 @@
             },
             {
                 "componentId": 14286871
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             }
         ]
     },
@@ -319,6 +345,10 @@
             },
             {
                 "componentId": 14286874
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             }
         ]
     },
@@ -360,6 +390,10 @@
             },
             {
                 "componentId": 14286948
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 2
             }
         ]
     },
@@ -397,6 +431,10 @@
             },
             {
                 "componentId": 14286874
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             }
         ]
     },
@@ -439,6 +477,10 @@
             },
             {
                 "componentId": 14286871
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             }
         ]
     },
@@ -455,6 +497,10 @@
             },
             {
                 "componentId": 14286871
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             }
         ]
     },
@@ -479,6 +525,10 @@
             },
             {
                 "componentId": 14286895
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             }
         ]
     },
@@ -498,6 +548,10 @@
             },
             {
                 "componentId": 14287008
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             }
         ]
     },
@@ -542,6 +596,10 @@
             },
             {
                 "componentId": 14286902
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             }
         ]
     },
@@ -562,6 +620,12 @@
         "itemIds": [
             13069,
             19476
+        ],
+        "widgetIds": [
+            {
+                "componentId": 12255235,
+                "childIndex": 7
+            }
         ]
     },
     {
@@ -584,6 +648,12 @@
             19476,
             1351,
             6317
+        ],
+        "widgetIds": [
+            {
+                "componentId": 12255235,
+                "childIndex": 7
+            }
         ]
     },
     {
@@ -808,6 +878,10 @@
             },
             {
                 "componentId": 14286944
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 2
             }
         ]
     },
@@ -884,6 +958,12 @@
         "itemIds": [
             13069,
             19476
+        ],
+        "widgetIds": [
+            {
+                "componentId": 12255235,
+                "childIndex": 14
+            }
         ]
     },
     {
@@ -1009,6 +1089,10 @@
             },
             {
                 "componentId": 14286882
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             }
         ]
     },
@@ -1105,6 +1189,10 @@
             },
             {
                 "componentId": 14287010
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             }
         ]
     },
@@ -1355,6 +1443,10 @@
             },
             {
                 "componentId": 10747946
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 2
             }
         ]
     },
@@ -1520,6 +1612,12 @@
         "itemIds": [
             13280,
             13342
+        ],
+        "widgetIds": [
+            {
+                "componentId": 12255235,
+                "childIndex": 1
+            }
         ]
     },
     {
@@ -1549,6 +1647,10 @@
             },
             {
                 "componentId": 14287012
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             }
         ]
     },
@@ -1747,6 +1849,12 @@
             11107,
             11109,
             11111
+        ],
+        "widgetIds": [
+            {
+                "componentId": 38666245,
+                "childIndex": 8
+            }
         ]
     },
     {
@@ -1977,6 +2085,12 @@
         "itemIds": [
             13280,
             13342
+        ],
+        "widgetIds": [
+            {
+                "componentId": 1114125,
+                "childIndex": 7
+            }
         ]
     },
     {
@@ -1986,6 +2100,12 @@
         "itemIds": [
             13069,
             19476
+        ],
+        "widgetIds": [
+            {
+                "componentId": 12255235,
+                "childIndex": 10
+            }
         ]
     },
     {
@@ -1995,7 +2115,8 @@
         "itemIds": [
             13069,
             19476,
-            11095
+            11095,
+            1273
         ]
     },
     {
@@ -2147,6 +2268,12 @@
         "itemIds": [
             13280,
             13342
+        ],
+        "widgetIds": [
+            {
+                "componentId": 12255235,
+                "childIndex": 0
+            }
         ]
     },
     {
