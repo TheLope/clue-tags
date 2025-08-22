@@ -1945,11 +1945,17 @@
     },
     {
         "id": 23137,
-        "text": "DIGS 1: row 4",
+        "text": "DIGS 2: zip",
         "color": "#FF4BB7FF",
         "itemIds": [
             13280,
             13342
+        ],
+        "widgetIds": [
+            {
+                "componentId": 12255235,
+                "childIndex": 1
+            }
         ]
     },
     {
