@@ -1250,14 +1250,17 @@
     },
     {
         "id": 597,
-        "text": "DRAK 1: castle stash",
-        "color": "#FFFF5A00",
+        "text": "SPID: castle stash",
         "itemIds": [
-            22400
+            21389,
+            29782
         ],
         "widgetIds": [
             {
                 "componentId": 10747946
+            },
+            {
+                "componentId": 39125055
             }
         ]
     },
@@ -1753,7 +1756,7 @@
     },
     {
         "id": 641,
-        "text": "SLAY 2: +nechryael",
+        "text": "+SLAY 2: nechryael",
         "color": "#FFFF5A00",
         "itemIds": [
             21268,
@@ -2999,12 +3002,18 @@
     },
     {
         "id": 728,
-        "text": "+HCS: tents dig",
+        "text": "SPID: tents dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
             952,
-            24709
+            21389,
+            29782
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39125055
+            }
         ]
     },
     {

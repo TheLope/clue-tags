@@ -25,7 +25,6 @@ Here are explanations for otherwise unclear hints
 | GLIDE     | Seed pod&rarr;climb up to glider                           |
 | GSA       | Giantsoul amulet                                           |
 | GVS       | Goblin village sphere                                      |
-| HCS       | Hallowed crystal shard                                     |
 | RESP      | Respawn: set to Edgeville                                  |
 | SOUL      | Soul Wars minigame teleport                                |
 

@@ -2263,7 +2263,7 @@
     },
     {
         "id": 21527,
-        "text": "DIGS 1: row 4",
+        "text": "DIGS 2: zip",
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
@@ -2272,7 +2272,7 @@
         "widgetIds": [
             {
                 "componentId": 12255235,
-                "childIndex": 0
+                "childIndex": 1
             }
         ]
     },
