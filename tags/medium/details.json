@@ -347,11 +347,10 @@
     },
     {
         "id": 2853,
-        "text": "DIA F: Referee",
+        "text": "SLAY 1: Referee",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13069,
-            19476
+            21268
         ]
     },
     {

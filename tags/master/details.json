@@ -674,11 +674,17 @@
     },
     {
         "id": 556,
-        "text": "BOX 5: rogue's den",
+        "text": "GAME 1: rogue's den",
         "color": "#FFFF5A00",
         "itemIds": [
-            13280,
-            13342
+            3853,
+            3855,
+            3857,
+            3859,
+            3861,
+            3863,
+            3865,
+            3867
         ],
         "widgetIds": [
             {
@@ -1085,7 +1091,7 @@
     },
     {
         "id": 587,
-        "text": "QUET: Cam stash",
+        "text": "+QUET: Cam stash",
         "color": "#FFFF5A00",
         "itemIds": [
             29275
@@ -1281,7 +1287,7 @@
     },
     {
         "id": 599,
-        "text": "QUET: Over stash",
+        "text": "+QUET: Over stash",
         "color": "#FFFF5A00",
         "itemIds": [
             29275
@@ -1488,11 +1494,10 @@
     },
     {
         "id": 619,
-        "text": "BOTD 2: +anglerfish",
+        "text": "BOTD 2: +angler",
         "color": "#FFFF5A00",
         "itemIds": [
-            25818,
-            13441
+            25818
         ]
     },
     {
@@ -1534,10 +1539,10 @@
     },
     {
         "id": 623,
-        "text": "+QUET: tecu Cam",
+        "text": "+ATES 3: tecu Cam",
         "color": "#FFFF5A00",
         "itemIds": [
-            29275
+            29893
         ],
         "widgetIds": [
             {

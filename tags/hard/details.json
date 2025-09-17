@@ -1111,11 +1111,21 @@
     },
     {
         "id": 7252,
-        "text": "MAX H: dungeon",
+        "text": "WATCH: dungeon",
         "color": "#FFC15FFF",
-        "itemIds": [
-            13280,
-            13342
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286992
+            },
+            {
+                "componentId": 14286895
+            },
+            {
+                "componentId": 10747946
+            }
         ]
     },
     {
