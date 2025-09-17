@@ -2960,7 +2960,7 @@
     },
     {
         "id": 726,
-        "text": "MAX E: +gp dtooth n",
+        "text": "MAX E: +gp 6 dtooth n",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
@@ -2981,7 +2981,7 @@
     },
     {
         "id": 727,
-        "text": "MAX E: +gp dtooth s",
+        "text": "MAX E: +gp 6 dtooth s",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
@@ -3183,7 +3183,7 @@
     },
     {
         "id": 741,
-        "text": "MAX E: +gp tyras dig",
+        "text": "MAX E: +gp 9 dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
