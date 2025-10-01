@@ -3578,22 +3578,6 @@
         ]
     },
     {
-        "id": 768,
-        "text": "ARC HT: mine ne dig",
-        "color": "#FFFF5A00",
-        "itemIds": [
-            952
-        ],
-        "widgetIds": [
-            {
-                "componentId": 14286992
-            },
-            {
-                "componentId": 14286996
-            }
-        ]
-    },
-    {
         "id": 769,
         "text": "ARC HT: mine ne dig",
         "color": "#FFFF5A00",
