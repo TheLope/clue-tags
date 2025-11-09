@@ -2,4 +2,4 @@
 icon: osrs/transportation
 ---
 
-{{ converter() }}
+{{ widgets_converter() }}

@@ -31,8 +31,8 @@ nav:
     - Hard: details/hard.md
     - Elite: details/elite.md
     - Master: details/master.md
-    - Converter: details/converter.md
-    - Restore pre-sailing highlights: details/pre-sailing-converter.md
+    - Custom Item Tags Converter: details/tags-converter.md
+    - Pre-sailing Widgets Converter: details/widgets-converter.md
   - Bank Tags:
     - Bank Tags: bank/index.md
     - Beginner: bank/beginner.md

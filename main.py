@@ -263,9 +263,9 @@ _Copy button is provided on the right_
 """
 
     @env.macro
-    def converter():
+    def tags_converter():
         return f"""
-{ title("Converter", f"Transportation_logo") }
+{ title("Custom Item Tags Converter", f"Transportation_logo") }
 
 This tool provides a conversion from the old Custom Item Tags format to the new Clue Details format.
 
@@ -291,9 +291,9 @@ This tool provides a conversion from the old Custom Item Tags format to the new 
 """
 
     @env.macro
-    def pre_sailing_converter():
+    def widgets_converter():
         return f"""
-{ title("Restore pre-sailing highlights", f"Transportation_logo") }
+{ title("Pre-sailing Widgets Converter", f"Transportation_logo") }
 
 This tool can be used to fix widget highlights from before the pre-sailing content update on November 5th.
 <ul>
