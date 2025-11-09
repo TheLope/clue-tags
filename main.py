@@ -289,3 +289,41 @@ This tool provides a conversion from the old Custom Item Tags format to the new 
     </button>
 </div>
 """
+
+    @env.macro
+    def pre_sailing_converter():
+        return f"""
+{ title("Restore pre-sailing highlights", f"Transportation_logo") }
+
+This tool can be used to fix widget highlights from before the pre-sailing content update on November 5th.
+<ul>
+    <li>
+        <input type="checkbox" id="fix-spells" checked />
+        <label for="fix-spells">Fix spell highlights (<strong style="color: red;">WARNING</strong>: This will break any spells you have manually tagged after the update</label>
+    </li>
+    <li>
+        <input type="checkbox" id="remove-charter-map" checked />
+        <label for="remove-charter-map">Remove charter ship map highlights (only keep the list highlights)</label>
+    </li>
+</ul>
+
+<textarea id="tags-before" class="equipment textarea" placeholder="Paste old clue tags here">
+</textarea>
+
+<div class="tooltip">
+    <button id="convert-pre-sailing" class="equipment">
+        <span id="convertTooltip" class="tooltiptext">Fix highlights</span>
+        Fix
+    </button>
+</div>
+
+<textarea id="tags-after" class="equipment textarea" placeholder="Fixed Clue Details here">
+</textarea>
+
+<div class="tooltip">
+    <button id="copy" class="equipment">
+        <span id="copyTooltip" class="tooltiptext">Copy to clipboard</span>
+        Copy
+    </button>
+</div>
+"""

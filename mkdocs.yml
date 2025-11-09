@@ -32,6 +32,7 @@ nav:
     - Elite: details/elite.md
     - Master: details/master.md
     - Converter: details/converter.md
+    - Restore pre-sailing highlights: details/pre-sailing-converter.md
   - Bank Tags:
     - Bank Tags: bank/index.md
     - Beginner: bank/beginner.md
@@ -91,3 +92,4 @@ plugins:
 extra_javascript:
   - javascripts/banktags.js
   - javascripts/convert.js
+  - javascripts/convertPreSailingWidgets.js
