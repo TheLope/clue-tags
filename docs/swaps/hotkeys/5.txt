@@ -7,3 +7,4 @@ Woodcutting guild,Skills necklace*
 Xeric's honour,Xeric's talisman
 The stranglewood,Ring of shadows
 A dark*,Book of the dead
+*Kastori,Pendant of ates

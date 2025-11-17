@@ -19,7 +19,7 @@ Rellekka,Enchanted lyre*
 Lunch by*,Book of the dead
 Surface,Camulet
 Bryophyta*,Giantsoul amulet
-The Darkfrost,Pendant of ates
+Darkfrost,Pendant of ates
 *Monastery*,Ardougne cloak 4
 Kourend Woodland, Rada's blessing 4
 Lletya, Eternal teleport crystal
