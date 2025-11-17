@@ -222,7 +222,7 @@
     },
     {
         "id": 2695,
-        "text": "MAX A: e fish crate",
+        "text": "MAX B: e fish crate",
         "color": "#FF4CCA27",
         "itemIds": [
             13280,
@@ -257,7 +257,7 @@
     },
     {
         "id": 2698,
-        "text": "MAX B: e Doric",
+        "text": "MAX C: e Doric",
         "color": "#FF4CCA27",
         "itemIds": [
             13280,
@@ -266,7 +266,7 @@
     },
     {
         "id": 2699,
-        "text": "MAX B: sw Gaius",
+        "text": "MAX C: sw Gaius",
         "color": "#FF4CCA27",
         "itemIds": [
             13280,
@@ -499,7 +499,7 @@
     },
     {
         "id": 3492,
-        "text": "MAX H: se drawer",
+        "text": "MAX I: se drawer",
         "color": "#FF4CCA27",
         "itemIds": [
             13280,
@@ -522,7 +522,7 @@
     },
     {
         "id": 3494,
-        "text": "MAX A: se stair",
+        "text": "MAX B: se stair",
         "color": "#FF4CCA27",
         "itemIds": [
             13280,
@@ -531,7 +531,7 @@
     },
     {
         "id": 3495,
-        "text": "MAX A: e up chest",
+        "text": "MAX B: e up chest",
         "color": "#FF4CCA27",
         "itemIds": [
             13280,
@@ -540,7 +540,7 @@
     },
     {
         "id": 3496,
-        "text": "MAX A: e Tobias",
+        "text": "MAX B: e Tobias",
         "color": "#FF4CCA27",
         "itemIds": [
             13280,
@@ -573,7 +573,7 @@
     },
     {
         "id": 3499,
-        "text": "MAX B: sw box",
+        "text": "MAX C: sw box",
         "color": "#FF4CCA27",
         "itemIds": [
             13280,
@@ -582,7 +582,7 @@
     },
     {
         "id": 3500,
-        "text": "MAX B: s drawer",
+        "text": "MAX C: s drawer",
         "color": "#FF4CCA27",
         "itemIds": [
             13280,
@@ -983,7 +983,7 @@
     },
     {
         "id": 10202,
-        "text": "MAX A: mine stash",
+        "text": "MAX B: mine stash",
         "color": "#FF4CCA27",
         "itemIds": [
             13280,
@@ -1049,7 +1049,7 @@
     },
     {
         "id": 10210,
-        "text": "MAX B: ne stash",
+        "text": "MAX C: ne stash",
         "color": "#FF4CCA27",
         "itemIds": [
             13280,
@@ -1474,7 +1474,7 @@
     },
     {
         "id": 12184,
-        "text": "MAX B: s Jatix",
+        "text": "MAX C: s Jatix",
         "color": "#FF4CCA27",
         "itemIds": [
             13280,
@@ -1537,7 +1537,7 @@
     },
     {
         "id": 12189,
-        "text": "MAX A: mine wheel",
+        "text": "MAX B: mine wheel",
         "color": "#FF4CCA27",
         "itemIds": [
             13280,
@@ -1563,7 +1563,7 @@
     },
     {
         "id": 12191,
-        "text": "MAX B: climb",
+        "text": "MAX C: climb",
         "color": "#FF4CCA27",
         "itemIds": [
             13280,
@@ -1618,7 +1618,7 @@
     },
     {
         "id": 19818,
-        "text": "MAX D: s drawer",
+        "text": "MAX E: s drawer",
         "color": "#FF4CCA27",
         "itemIds": [
             13280,
@@ -1661,7 +1661,7 @@
     },
     {
         "id": 19822,
-        "text": "MAX A: w Chemist",
+        "text": "MAX B: w Chemist",
         "color": "#FF4CCA27",
         "itemIds": [
             13280,
@@ -1785,7 +1785,7 @@
     },
     {
         "id": 23149,
-        "text": "MAX B: crystal box",
+        "text": "MAX C: crystal box",
         "color": "#FF4CCA27",
         "itemIds": [
             13280,
@@ -1820,7 +1820,7 @@
     },
     {
         "id": 23153,
-        "text": "MAX A: sw crate",
+        "text": "MAX B: sw crate",
         "color": "#FF4CCA27",
         "itemIds": [
             13280,
@@ -2091,7 +2091,7 @@
     },
     {
         "id": 29853,
-        "text": "MAX E: sw dig",
+        "text": "MAX F: sw dig",
         "color": "#FF4CCA27",
         "itemIds": [
             13280,
