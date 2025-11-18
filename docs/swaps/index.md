@@ -82,6 +82,10 @@ The Custom Menu Swaps plugin allows us to provide hotkey shortcuts for items wit
         ``` title=""
         --8<-- "docs/swaps/hotkeys/I.txt"
         ```
+    === "J"
+        ``` title=""
+        --8<-- "docs/swaps/hotkeys/J.txt"
+        ```
 
 
 4. Holding the configured hotkey before clicking an item allows the player to skip the teleport menu/minimenu
