@@ -275,7 +275,7 @@
     },
     {
         "id": 525,
-        "text": "MAX D: cc isle dig",
+        "text": "MAX E: cc isle dig",
         "color": "#FFFF5A00",
         "itemIds": [
             13280,
@@ -1821,7 +1821,7 @@
     },
     {
         "id": 646,
-        "text": "MAX B: se dig",
+        "text": "MAX C: se dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
@@ -1889,7 +1889,7 @@
     },
     {
         "id": 652,
-        "text": "MAX A: mine dig",
+        "text": "MAX B: mine dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
@@ -2004,7 +2004,7 @@
     },
     {
         "id": 660,
-        "text": "MAX C: smoke dig",
+        "text": "MAX D: smoke dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
@@ -2688,7 +2688,7 @@
     },
     {
         "id": 706,
-        "text": "MAX G: sw dig",
+        "text": "MAX H: sw dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
@@ -2965,7 +2965,7 @@
     },
     {
         "id": 726,
-        "text": "MAX E: +gp 6 dtooth n",
+        "text": "MAX F: +gp 6 dtooth n",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
@@ -2983,7 +2983,7 @@
     },
     {
         "id": 727,
-        "text": "MAX E: +gp 6 dtooth s",
+        "text": "MAX F: +gp 6 dtooth s",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
@@ -3079,7 +3079,7 @@
     },
     {
         "id": 733,
-        "text": "MAX E: theatre dig",
+        "text": "MAX F: theatre dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
@@ -3182,7 +3182,7 @@
     },
     {
         "id": 741,
-        "text": "MAX E: +gp 9 dig",
+        "text": "MAX F: +gp 9 dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,

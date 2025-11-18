@@ -154,7 +154,7 @@
     },
     {
         "id": 12082,
-        "text": "MAX B: hero stash",
+        "text": "MAX C: hero stash",
         "color": "#FFB7FF00",
         "itemIds": [
             13280,
@@ -182,7 +182,7 @@
     },
     {
         "id": 12085,
-        "text": "MAX E: +gp 6 dtooth",
+        "text": "MAX F: +gp 6 dtooth",
         "color": "#FFB7FF00",
         "itemIds": [
             13280,
@@ -958,7 +958,7 @@
     },
     {
         "id": 12156,
-        "text": "MAX B: stones",
+        "text": "MAX C: stones",
         "color": "#FFB7FF00",
         "itemIds": [
             13280,
@@ -1155,7 +1155,7 @@
     },
     {
         "id": 19791,
-        "text": "MAX H: climb stash",
+        "text": "MAX I: climb stash",
         "color": "#FFB7FF00",
         "itemIds": [
             13280,
@@ -1223,7 +1223,7 @@
     },
     {
         "id": 19798,
-        "text": "MAX I: waterfiend",
+        "text": "MAX J: waterfiend",
         "color": "#FFB7FF00",
         "itemIds": [
             13280,
@@ -1368,7 +1368,7 @@
     },
     {
         "id": 19813,
-        "text": "MAX D: e dig",
+        "text": "MAX E: e dig",
         "color": "#FFB7FF00",
         "itemIds": [
             13280,
@@ -1465,7 +1465,7 @@
     },
     {
         "id": 23770,
-        "text": "MAX I: ne dig",
+        "text": "MAX J: ne dig",
         "color": "#FFB7FF00",
         "itemIds": [
             13280,
@@ -1545,7 +1545,7 @@
     },
     {
         "id": 25786,
-        "text": "MAX D: sw stash",
+        "text": "MAX E: sw stash",
         "color": "#FFB7FF00",
         "itemIds": [
             13280,

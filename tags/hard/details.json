@@ -311,7 +311,7 @@
     },
     {
         "id": 2778,
-        "text": "MAX A: e Gerrant",
+        "text": "MAX B: e Gerrant",
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
@@ -667,7 +667,7 @@
     },
     {
         "id": 3538,
-        "text": "MAX E: 8 dig",
+        "text": "MAX F: 8 dig",
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
@@ -727,7 +727,7 @@
     },
     {
         "id": 3546,
-        "text": "MAX H: Gu'T",
+        "text": "MAX I: Gu'T",
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
@@ -810,7 +810,7 @@
     },
     {
         "id": 3560,
-        "text": "MAX E: 9 dig",
+        "text": "MAX F: 9 dig",
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
@@ -842,7 +842,7 @@
     },
     {
         "id": 3564,
-        "text": "MAX E: 9 General",
+        "text": "MAX F: 9 General",
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
@@ -1700,7 +1700,7 @@
     },
     {
         "id": 12578,
-        "text": "MAX G: Saniboch",
+        "text": "MAX H: Saniboch",
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
@@ -2178,7 +2178,7 @@
     },
     {
         "id": 19898,
-        "text": "MAX I: sw Eluned",
+        "text": "MAX J: sw Eluned",
         "color": "#FFC15FFF",
         "itemIds": [
             13280,

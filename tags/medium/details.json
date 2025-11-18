@@ -29,7 +29,7 @@
     },
     {
         "id": 2805,
-        "text": "MAX G: isle dig",
+        "text": "MAX H: isle dig",
         "color": "#FF4BB7FF",
         "itemIds": [
             13280,
@@ -464,7 +464,7 @@
     },
     {
         "id": 3590,
-        "text": "MAX G: sw dig",
+        "text": "MAX H: sw dig",
         "color": "#FF4BB7FF",
         "itemIds": [
             13280,
@@ -555,7 +555,7 @@
     },
     {
         "id": 3602,
-        "text": "MAX A: chem dig",
+        "text": "MAX B: chem dig",
         "color": "#FF4BB7FF",
         "itemIds": [
             13280,
@@ -897,7 +897,7 @@
     },
     {
         "id": 7303,
-        "text": "MAX C: camp",
+        "text": "MAX D: camp",
         "color": "#FF4BB7FF",
         "itemIds": [
             13280,
@@ -1371,7 +1371,7 @@
     },
     {
         "id": 12039,
-        "text": "MAX F: potato",
+        "text": "MAX G: potato",
         "color": "#FF4BB7FF",
         "itemIds": [
             13280,
@@ -1511,7 +1511,7 @@
     },
     {
         "id": 12061,
-        "text": "MAX A: e Tobias",
+        "text": "MAX B: e Tobias",
         "color": "#FF4BB7FF",
         "itemIds": [
             13280,
@@ -1520,7 +1520,7 @@
     },
     {
         "id": 12063,
-        "text": "MAX A: w Taria",
+        "text": "MAX B: w Taria",
         "color": "#FF4BB7FF",
         "itemIds": [
             13280,
@@ -1786,7 +1786,7 @@
     },
     {
         "id": 19768,
-        "text": "MAX C: Kebab",
+        "text": "MAX D: Kebab",
         "color": "#FF4BB7FF",
         "itemIds": [
             13280,
