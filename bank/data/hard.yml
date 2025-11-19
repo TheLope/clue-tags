@@ -1,0 +1,30 @@
+hard:
+  equipment:
+    head: Torva full helm
+    cape: Infernal cape
+    neck: Amulet of rancour
+    ammo: ~
+    ammo2: ~
+    weapon: Dragon claws
+    torso: Fighter torso
+    legs: Morytania legs 4
+    shield: ~
+    gloves: Barrows gloves
+    boots: Dragon boots
+    ring: Ultor ring
+  inventory:
+  - [Clue scroll (hard), Achievement diary cape (t), Ardougne cloak 4, Book of the dead]
+  - [Spade, Construct. cape(t), Royal seed pod, Master scroll book]
+  - [Burning amulet, Necklace of passage, Skills necklace, Camulet]
+  - [Ring of dueling, Ring of wealth, Combat bracelet, Amulet of glory(6)]
+  - [Divine super combat potion(4), Karamja gloves 4, Divine rune pouch, Blood rune/1025]
+  - [~, ~, Western banner 4, Aether rune/1025]
+  - [~, ~, ~, Coins_10000/10250]
+  spellbook:
+  - Lunar spellbook
+  - Spellbook Swap
+  rune_pouch:
+  - Law rune
+  - Dust rune
+  - Steam rune
+  - Astral rune

@@ -1,0 +1,25 @@
+Warrior*,Max cape
+Home,construct*
+Ardougne,Achievement*
+Edgeville,Amulet of *glory*
+Stronghold,slayer ring*
+Warriors' guild,combat bracelet*
+Miscellania,ring of wealth*
+Emir's Arena,ring of dueling*
+Wizards' tower,necklace of passage*
+Burthorpe,Games necklace*
+Fishing guild,Skills necklace*
+Chaos temple,Burning amulet*
+Xeric's lookout,Xeric's talisman
+Air altar,Ring of the elements
+Enakhra's temple,Camulet
+Jalsavrah,Pharaoh's sceptre
+The Ancient Vault,Ring of shadows
+Rellekka,Enchanted lyre*
+Lunch by*,Book of the dead
+Surface,Camulet
+Bryophyta*,Giantsoul amulet
+Darkfrost,Pendant of ates
+*Monastery*,Ardougne cloak 4
+Kourend Woodland, Rada's blessing 4
+Lletya, Eternal teleport crystal

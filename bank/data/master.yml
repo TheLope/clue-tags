@@ -1,0 +1,30 @@
+master:
+  equipment:
+    head: Torva full helm
+    cape: Infernal cape
+    neck: Amulet of rancour
+    ammo: Holy blessing
+    ammo2: ~
+    weapon: Dragon claws
+    torso: Oathplate chest
+    legs: Torva platelegs
+    shield: ~
+    gloves: Ferocious gloves
+    boots: Avernic treads (max)
+    ring: Ultor ring
+  inventory:
+  - [Clue scroll (master), Achievement diary cape (t), Quest point cape (t), Book of the dead]
+  - [Spade, Construct. cape(t), Music cape(t), Master scroll book]
+  - [Strange device, Enchanted lyre(i), Eternal teleport crystal, Xeric's talisman]
+  - [Kandarin headgear 4, Morytania legs 4, Combat bracelet, Drakan's medallion]
+  - [Blade of saeldor (c), Divine super combat potion(4), Divine rune pouch, Blood rune]
+  - [Ghommal's avernic defender 6, ~, Amulet of eternal glory, Aether rune]
+  - [~, ~, ~, Death rune]
+  spellbook:
+  - Lunar spellbook
+  - Spellbook Swap
+  rune_pouch:
+  - Law rune
+  - Dust rune
+  - Steam rune
+  - Astral rune
