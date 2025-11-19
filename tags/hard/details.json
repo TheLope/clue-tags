@@ -947,11 +947,15 @@
     },
     {
         "id": 3579,
-        "text": "CRAFT: entrana",
+        "text": "GLORY 2: entrana",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342
+            11978,
+            11976,
+            1712,
+            1710,
+            1708,
+            1706
         ],
         "widgetIds": [
             {
