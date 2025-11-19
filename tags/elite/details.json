@@ -41,7 +41,8 @@
         "color": "#FFFF0000",
         "itemIds": [
             21802,
-            13280,
+            19476,
+            13069,
             21800
         ],
         "widgetIds": [
@@ -72,11 +73,10 @@
     },
     {
         "id": 12077,
-        "text": "MAX 1: stash",
+        "text": "ATK: stash",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342
+            9748
         ],
         "widgetIds": [
             {
@@ -89,8 +89,7 @@
         "text": "BOX C: stash up",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -154,11 +153,10 @@
     },
     {
         "id": 12082,
-        "text": "MAX C: hero stash",
+        "text": "CON 3: hero stash",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -168,11 +166,10 @@
     },
     {
         "id": 12083,
-        "text": "MAX 5: cave stash",
+        "text": "BOX 6: cave stash",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -182,11 +179,10 @@
     },
     {
         "id": 12085,
-        "text": "MAX F: +gp 6 dtooth",
+        "text": "CON 6: +gp 6 dtooth",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             995
         ],
         "widgetIds": [
@@ -215,8 +211,7 @@
         "text": "DKS: nw dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -230,8 +225,7 @@
         "text": "NEX HARM: e dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ]
     },
@@ -281,8 +275,7 @@
         "text": "OBEL 6: -volcano",
         "color": "#FFFF0000",
         "itemIds": [
-            13342,
-            13280,
+            9790,
             27652,
             21800,
             952,
@@ -305,7 +298,8 @@
         "color": "#FFFF0000",
         "itemIds": [
             21129,
-            13280,
+            19476,
+            13069,
             27652,
             21800,
             952,
@@ -343,7 +337,8 @@
         "color": "#FFFF0000",
         "itemIds": [
             24963,
-            13280,
+            19476,
+            13069,
             27652,
             21800,
             952,
@@ -356,8 +351,7 @@
         "text": "AKS: nw dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -389,7 +383,8 @@
         "itemIds": [
             13111,
             952,
-            13280,
+            19476,
+            13069,
             27652,
             21800,
             21820,
@@ -483,8 +478,7 @@
         "text": "ALQ: ship",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -499,7 +493,8 @@
         "itemIds": [
             12775,
             952,
-            13280,
+            19476,
+            13069,
             27652,
             21800,
             23742,
@@ -659,8 +654,7 @@
         "text": "CIQ: w dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -696,7 +690,8 @@
         "color": "#FFFF0000",
         "itemIds": [
             21129,
-            13280,
+            19476,
+            13069,
             21800,
             13111
         ]
@@ -714,8 +709,7 @@
         "text": "BOX 1: Cam",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -750,7 +744,7 @@
     },
     {
         "id": 12141,
-        "text": "HILT: sled dig",
+        "text": "HILT: +sled dig",
         "color": "#FFB7FF00",
         "itemIds": [
             25936,
@@ -786,11 +780,10 @@
     },
     {
         "id": 12144,
-        "text": "MAX 1: top Kam",
+        "text": "ATK: top Kam",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342
+            9748
         ]
     },
     {
@@ -818,8 +811,7 @@
         "text": "BIP: dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -838,11 +830,10 @@
     },
     {
         "id": 12148,
-        "text": "MAX 1: dig",
+        "text": "ATK: dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342,
+            9748,
             952
         ]
     },
@@ -958,11 +949,10 @@
     },
     {
         "id": 12156,
-        "text": "MAX C: stones",
+        "text": "CON 3: stones",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342
+            9790
         ]
     },
     {
@@ -1082,7 +1072,7 @@
     },
     {
         "id": 19787,
-        "text": "HILT: sled stash",
+        "text": "HILT: +sled stash",
         "color": "#FFB7FF00",
         "itemIds": [
             25936,
@@ -1101,8 +1091,7 @@
         "text": "DJR: se stash",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -1155,11 +1144,10 @@
     },
     {
         "id": 19791,
-        "text": "MAX I: climb stash",
+        "text": "CON 9: climb stash",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -1223,11 +1211,10 @@
     },
     {
         "id": 19798,
-        "text": "MAX J: waterfiend",
+        "text": "CON A: waterfiend",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342
+            9790
         ]
     },
     {
@@ -1300,11 +1287,10 @@
     },
     {
         "id": 19806,
-        "text": "MAX 5: +mangled",
+        "text": "+FISH: mangled",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342,
+            9799,
             11337,
             1515,
             28220,
@@ -1328,8 +1314,7 @@
         "text": "NEX MARIM: Daga",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342
+            9790
         ]
     },
     {
@@ -1368,11 +1353,10 @@
     },
     {
         "id": 19813,
-        "text": "MAX E: e dig",
+        "text": "CON 5: e dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ]
     },
@@ -1381,8 +1365,7 @@
         "text": "DIGS 2: 4 Jardric",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342
+            9790
         ]
     },
     {
@@ -1399,8 +1382,7 @@
         "text": "DIGS 3: up",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342
+            9790
         ]
     },
     {
@@ -1409,7 +1391,8 @@
         "color": "#FFFF0000",
         "itemIds": [
             21129,
-            13280,
+            19476,
+            13069,
             21800,
             952,
             13111
@@ -1420,8 +1403,7 @@
         "text": "DLR: se dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -1435,8 +1417,7 @@
         "text": "OBEL 3: e dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ]
     },
@@ -1445,6 +1426,7 @@
         "text": "NEX WEISS: e dig",
         "color": "#FFB7FF00",
         "itemIds": [
+            9790,
             28327,
             952
         ],
@@ -1465,11 +1447,10 @@
     },
     {
         "id": 23770,
-        "text": "MAX J: ne dig",
+        "text": "CON A: ne dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ]
     },
@@ -1533,8 +1514,7 @@
         "text": "BJP: e dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -1545,11 +1525,10 @@
     },
     {
         "id": 25786,
-        "text": "MAX E: sw stash",
+        "text": "CON 5: sw stash",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
