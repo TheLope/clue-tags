@@ -73,10 +73,10 @@
     },
     {
         "id": 12077,
-        "text": "STR: stash",
+        "text": "ATK: stash",
         "color": "#FFB7FF00",
         "itemIds": [
-            9751
+            9748
         ],
         "widgetIds": [
             {
@@ -780,10 +780,10 @@
     },
     {
         "id": 12144,
-        "text": "STR: top Kam",
+        "text": "ATK: top Kam",
         "color": "#FFB7FF00",
         "itemIds": [
-            9751
+            9748
         ]
     },
     {
@@ -830,10 +830,10 @@
     },
     {
         "id": 12148,
-        "text": "STR: dig",
+        "text": "ATK: dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            9751,
+            9748,
             952
         ]
     },
