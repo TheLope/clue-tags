@@ -222,10 +222,11 @@
     },
     {
         "id": 2695,
-        "text": "CON 2: e fish crate",
+        "text": "MAX B: e fish crate",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790
+            13280,
+            13342
         ]
     },
     {
@@ -256,18 +257,20 @@
     },
     {
         "id": 2698,
-        "text": "CON 3: e Doric",
+        "text": "MAX C: e Doric",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790
+            13280,
+            13342
         ]
     },
     {
         "id": 2699,
-        "text": "CON 3: sw Gaius",
+        "text": "MAX C: sw Gaius",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790
+            13280,
+            13342
         ]
     },
     {
@@ -496,10 +499,11 @@
     },
     {
         "id": 3492,
-        "text": "CON 9: se drawer",
+        "text": "MAX I: se drawer",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790
+            13280,
+            13342
         ]
     },
     {
@@ -518,26 +522,29 @@
     },
     {
         "id": 3494,
-        "text": "CON 2: se stair",
+        "text": "MAX B: se stair",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790
+            13280,
+            13342
         ]
     },
     {
         "id": 3495,
-        "text": "CON 2: e up chest",
+        "text": "MAX B: e up chest",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790
+            13280,
+            13342
         ]
     },
     {
         "id": 3496,
-        "text": "CON 2: e Tobias",
+        "text": "MAX B: e Tobias",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790
+            13280,
+            13342
         ]
     },
     {
@@ -566,18 +573,20 @@
     },
     {
         "id": 3499,
-        "text": "CON 3: sw box",
+        "text": "MAX C: sw box",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790
+            13280,
+            13342
         ]
     },
     {
         "id": 3500,
-        "text": "CON 3: s drawer",
+        "text": "MAX C: s drawer",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790
+            13280,
+            13342
         ]
     },
     {
@@ -884,7 +893,8 @@
         "text": "AIQ: stash",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790
+            13280,
+            13342
         ],
         "widgetIds": [
             {
@@ -900,7 +910,8 @@
         "text": "TREE 7: s stash",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790
+            13280,
+            13342
         ],
         "widgetIds": [
             {
@@ -972,10 +983,11 @@
     },
     {
         "id": 10202,
-        "text": "CON 2: mine stash",
+        "text": "MAX B: mine stash",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790
+            13280,
+            13342
         ],
         "widgetIds": [
             {
@@ -1037,10 +1049,11 @@
     },
     {
         "id": 10210,
-        "text": "CON 3: ne stash",
+        "text": "MAX C: ne stash",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790
+            13280,
+            13342
         ],
         "widgetIds": [
             {
@@ -1461,10 +1474,11 @@
     },
     {
         "id": 12184,
-        "text": "CON 3: s Jatix",
+        "text": "MAX C: s Jatix",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790
+            13280,
+            13342
         ]
     },
     {
@@ -1523,10 +1537,11 @@
     },
     {
         "id": 12189,
-        "text": "CON 2: mine wheel",
+        "text": "MAX B: mine wheel",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790
+            13280,
+            13342
         ]
     },
     {
@@ -1548,10 +1563,11 @@
     },
     {
         "id": 12191,
-        "text": "CON 3: climb",
+        "text": "MAX C: climb",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790
+            13280,
+            13342
         ]
     },
     {
@@ -1602,10 +1618,11 @@
     },
     {
         "id": 19818,
-        "text": "CON 5: s drawer",
+        "text": "MAX E: s drawer",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790
+            13280,
+            13342
         ]
     },
     {
@@ -1644,10 +1661,11 @@
     },
     {
         "id": 19822,
-        "text": "CON 2: w Chemist",
+        "text": "MAX B: w Chemist",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790
+            13280,
+            13342
         ]
     },
     {
@@ -1754,7 +1772,8 @@
         "text": "TREE 5: se dig",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790,
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
@@ -1766,10 +1785,11 @@
     },
     {
         "id": 23149,
-        "text": "CON 3: crystal box",
+        "text": "MAX C: crystal box",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790
+            13280,
+            13342
         ]
     },
     {
@@ -1800,10 +1820,11 @@
     },
     {
         "id": 23153,
-        "text": "CON 2: sw crate",
+        "text": "MAX B: sw crate",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790
+            13280,
+            13342
         ]
     },
     {
@@ -1950,7 +1971,8 @@
         "text": "TREE 7: pisc Charles",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790
+            13280,
+            13342
         ],
         "widgetIds": [
             {
@@ -2044,10 +2066,11 @@
     },
     {
         "id": 28913,
-        "text": "QUET: w up pot",
+        "text": "MAX 8: up pot",
         "color": "#FF4CCA27",
         "itemIds": [
-            29275
+            13280,
+            13342
         ]
     },
     {
@@ -2068,10 +2091,11 @@
     },
     {
         "id": 29853,
-        "text": "CON 6: sw dig",
+        "text": "MAX F: sw dig",
         "color": "#FF4CCA27",
         "itemIds": [
-            9790,
+            13280,
+            13342,
             952
         ]
     },
