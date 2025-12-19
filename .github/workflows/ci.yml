@@ -3,28 +3,48 @@ on:
   push:
     branches:
       - master
-      - main
+      - unmaxed
+  workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Configure Git Credentials
-        run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+      # 1. Checkout Master to the ROOT (this creates the .git folder the deployer needs)
+      - name: Checkout Master
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      # 2. Checkout Unmaxed branch into a subfolder
+      - name: Checkout Unmaxed
+        uses: actions/checkout@v4
+        with:
+          ref: unmaxed
+          path: unmaxed-source
+
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
-      - uses: actions/cache@v4
+
+      - run: pip install mkdocs-material mkdocs-macros-plugin
+
+      # 3. Build Master Site from root into site_final
+      - name: Build Master Site
+        run: mkdocs build --site-dir site_final
+
+      # 4. Build Unmaxed Site into site_final/unmaxed
+      - name: Build Unmaxed Site
+        run: |
+          cd unmaxed-source
+          mkdocs build --site-dir ../site_final/unmaxed
+
+      # 5. Deploy site_final to gh-pages
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          key: mkdocs-material-${{ env.cache_id }}
-          path: .cache
-          restore-keys: |
-            mkdocs-material-
-      - run: pip install mkdocs-material
-      - run: pip install mkdocs-macros-plugin
-      - run: mkdocs gh-deploy --force
+          folder: site_final
+          branch: gh-pages
