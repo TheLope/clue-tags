@@ -1,0 +1,24 @@
+mimic:
+  equipment:
+    head: Oathplate helm
+    cape: Infernal cape
+    neck: Amulet of rancour
+    ammo: ~
+    ammo2: ~
+    weapon: Dragon claws
+    torso: Oathplate chest
+    legs: Oathplate legs
+    shield: ~
+    gloves: Ferocious gloves
+    boots: Avernic treads (max)
+    ring: Bellator ring
+  inventory:
+  - [Scythe of vitur, Desert amulet 4, Crafting cape(t), Watson teleport]
+  - [Divine super combat potion(1), Anglerfish, Anglerfish, Anglerfish]
+  - [Mimic, Anglerfish, Anglerfish, Anglerfish]
+  - [~, ~, ~, ~]
+  - [~, ~, ~, ~]
+  - [~, ~, ~, ~]
+  - [~, ~, ~, ~]
+  spellbook: ~
+  rune_pouch: ~

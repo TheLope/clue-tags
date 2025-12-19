@@ -1,0 +1,30 @@
+medium:
+  equipment:
+    head: Torva full helm
+    cape: Ardougne cloak 4
+    neck: Amulet of eternal glory
+    ammo: Rada's blessing 4
+    ammo2: ~
+    weapon: Voidwaker
+    torso: Torva platebody
+    legs: Morytania legs 4
+    shield: Book of the dead
+    gloves: Combat bracelet
+    boots: Fremennik sea boots 4
+    ring: Slayer ring (eternal)
+  inventory:
+  - [Clue scroll (medium), Achievement diary cape (t), Quest point cape (t), Steel key ring]
+  - [Spade, Construct. cape(t), Music cape(t), Master scroll book]
+  - [Games necklace, Necklace of passage, Skills necklace, Xeric's talisman]
+  - [Ring of dueling, Ring of wealth, Giantsoul amulet, Pendant of ates]
+  - [Stamina potion(4), Ring of the elements, Divine rune pouch, Kharyrll teleport (tablet)]
+  - [~, ~, Skull sceptre, Aether rune]
+  - [~, ~, Reward casket (medium), Perfected quetzal whistle]
+  spellbook:
+  - Lunar spellbook
+  - Spellbook Swap
+  rune_pouch:
+  - Law rune
+  - Dust rune
+  - Steam rune
+  - Astral rune

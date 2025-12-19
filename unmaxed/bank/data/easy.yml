@@ -1,0 +1,28 @@
+easy:
+  equipment:
+    head: Kandarin headgear 4
+    cape: Graceful cape
+    neck: Amulet of eternal glory
+    ammo: Rada's blessing 4
+    ammo2: ~
+    weapon: Skull sceptre
+    torso: Graceful top
+    legs: Graceful legs
+    shield: Book of the dead
+    gloves: Combat bracelet
+    boots: Graceful boots
+    ring: Explorer's ring 4
+  inventory:
+  - [Clue scroll (easy), Achievement diary cape (t), Quest point cape (t), Disk of returning]
+  - [Spade, Construct. cape(t), Music cape(t), Master scroll book]
+  - [Games necklace, Necklace of passage, Skills necklace, Xeric's talisman]
+  - [Ring of dueling, Ring of wealth, Giantsoul amulet, Senntisten teleport (tablet)]
+  - [Stamina potion(4), Ring of the elements, Divine rune pouch, Draynor manor teleport (tablet)]
+  - [~, ~, Perfected quetzal whistle, Khazard teleport (tablet)]
+  - [~, ~, Reward casket (easy), Catherby teleport (tablet)]
+  spellbook:
+  - Standard spellbook
+  rune_pouch:
+  - Law rune
+  - Dust rune
+  - Steam rune

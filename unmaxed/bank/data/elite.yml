@@ -1,0 +1,30 @@
+elite:
+  equipment:
+    head: Torva full helm
+    cape: Infernal cape
+    neck: Amulet of rancour
+    ammo: Rada's blessing 4
+    ammo2: ~
+    weapon: Dragon claws
+    torso: Oathplate chest
+    legs: Torva platelegs
+    shield: ~
+    gloves: Ferocious gloves
+    boots: Avernic treads (max)
+    ring: Ultor ring
+  inventory:
+  - [Clue scroll (elite), Achievement diary cape (t), Quest point cape (t), Book of the dead]
+  - [Spade, Construct. cape(t), Strength cape(t), Master scroll book]
+  - [Kandarin headgear 4, Enchanted lyre(i), Eternal teleport crystal, Camulet]
+  - [Slayer ring (eternal), Ring of wealth, Ghommal's hilt 6, Pendant of ates]
+  - [Divine super combat potion(4), Super restore(4), Divine rune pouch, Blood rune]
+  - [Noxious halberd, ~, Desert amulet 4, Aether rune]
+  - [~, ~, ~, Morytania legs 4]
+  spellbook:
+  - Lunar spellbook
+  - Spellbook Swap
+  rune_pouch:
+  - Law rune
+  - Dust rune
+  - Steam rune
+  - Astral rune

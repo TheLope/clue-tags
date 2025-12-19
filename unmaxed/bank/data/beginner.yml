@@ -1,0 +1,28 @@
+beginner:
+  equipment:
+    head: Chef's hat
+    cape: Red cape
+    neck: Gold necklace
+    ammo: ~
+    ammo2: ~
+    weapon: Bronze axe
+    torso: Graceful top
+    legs: Graceful legs
+    shield: ~
+    gloves: Graceful gloves
+    boots: Leather boots
+    ring: Ring of endurance
+  inventory:
+  - [Clue scroll (beginner), Achievement diary cape (t), Raw trout, Raw herring]
+  - [Spade, Construct. cape(t), Pike, Trout]
+  - [Strange device (beginner), Necklace of passage, Skills necklace, Amulet of eternal glory]
+  - [Gold ring, Combat bracelet, Lassar teleport (tablet), Senntisten teleport (tablet)]
+  - [Stamina potion(4), Ring of the elements, Divine rune pouch, Draynor manor teleport (tablet)]
+  - [~, Leather body, Skull sceptre, Iron ore]
+  - [~, Leather chaps, Reward casket (beginner), Iron dagger]
+  spellbook:
+  - Standard spellbook
+  rune_pouch:
+  - Law rune
+  - Dust rune
+  - Steam rune
