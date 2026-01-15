@@ -1669,6 +1669,52 @@
         ]
     },
     {
+        "id": 31269,
+        "text": "Re 12: W",
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 61210645,
+                "childIndex": 14
+            },
+            {
+                "componentId": 10551361
+            },
+            {
+                "componentId": 14286994
+            },
+            {
+                "componentId": 14286928
+            }
+        ]
+    },
+    {
+        "id": 31270,
+        "text": "CJQ: +shield n",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13280,
+            13342,
+            31398
+        ]
+    },
+    {
+        "id": 31271,
+        "text": "Re 12: L",
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10551361
+            },
+            {
+                "componentId": 14286994
+            },
+            {
+                "componentId": 14286928
+            }
+        ]
+    },
+    {
         "id": 12128,
         "text": "Challenge: Sherlock",
         "color": "#FF00FF00"

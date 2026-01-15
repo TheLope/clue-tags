@@ -913,7 +913,7 @@
     },
     {
         "id": 576,
-        "text": "TREE 6: n stash",
+        "text": "BOAT Gwenith: ne stash",
         "color": "#FFFF5A00",
         "itemIds": [
             13280,
@@ -3701,6 +3701,53 @@
             952,
             13280,
             13342
+        ]
+    },
+    {
+        "id": 778,
+        "text": "BOAT Brittle: stash",
+        "color": "#FFFF5A00"
+    },
+    {
+        "id": 779,
+        "text": "MUSIC: +keel",
+        "color": "#FFFF5A00",
+        "itemIds": [
+            13222,
+            13221,
+            32017
+        ]
+    },
+    {
+        "id": 780,
+        "text": "CJQ: mine dig",
+        "color": "#FFFF5A00",
+        "itemIds": [
+            952
+        ]
+    },
+    {
+        "id": 781,
+        "text": "Unobtainable: BOAT Serpents",
+        "color": "#FFFF5A00",
+        "itemIds": [
+            952
+        ]
+    },
+    {
+        "id": 782,
+        "text": "BOAT Drumstick: dig",
+        "color": "#FFFF5A00",
+        "itemIds": [
+            952
+        ]
+    },
+    {
+        "id": 783,
+        "text": "BOAT Buccaneer: dig",
+        "color": "#FFFF5A00",
+        "itemIds": [
+            952
         ]
     }
 ]
