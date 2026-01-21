@@ -667,15 +667,26 @@
     },
     {
         "id": 3538,
-        "text": "MAX F: 8 dig",
+        "text": "BOAT Tyras: +gp 8 dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
             952,
             995
         ],
         "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286994
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286928
+            },
             {
                 "componentId": 57999364,
                 "childIndex": 16
@@ -810,18 +821,24 @@
     },
     {
         "id": 3560,
-        "text": "MAX F: 9 dig",
+        "text": "BOAT Tyras: dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
-            952,
-            995
+            952
         ],
         "widgetIds": [
             {
-                "componentId": 57999364,
-                "childIndex": 18
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286994
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286928
             }
         ]
     },
@@ -842,17 +859,21 @@
     },
     {
         "id": 3564,
-        "text": "MAX F: 9 General",
+        "text": "BOAT Tyras: General",
         "color": "#FFC15FFF",
-        "itemIds": [
-            13280,
-            13342,
-            995
-        ],
         "widgetIds": [
             {
-                "componentId": 57999364,
-                "childIndex": 18
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286994
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286928
             }
         ]
     },
@@ -2628,7 +2649,7 @@
     },
     {
         "id": 29859,
-        "text": "+ATES 2: e stash",
+        "text": "ATES 2: e stash",
         "color": "#FFFF00AF",
         "itemIds": [
             29893
@@ -2655,11 +2676,50 @@
     },
     {
         "id": 30931,
-        "text": "+ATES 6: nw dig",
+        "text": "ATES 6: nw dig",
         "color": "#FFC15FFF",
         "itemIds": [
             29893,
             952
+        ]
+    },
+    {
+        "id": 31272,
+        "text": "BOAT Tear: dig",
+        "color": "#FFC15FFF",
+        "itemIds": [
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286994
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286928
+            }
+        ]
+    },
+    {
+        "id": 31273,
+        "text": "TREE E: sw dig",
+        "color": "#FFC15FFF",
+        "itemIds": [
+            13280,
+            13342,
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 12255235,
+                "childIndex": 13
+            }
         ]
     }
 ]

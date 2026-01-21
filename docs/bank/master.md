@@ -17,6 +17,7 @@ icon: clue/master
     - **Morytania legs 4**: Equip  instead of Torva platelegs for -1 max hit, or bank
     - **Death runes**: Used for Vengeance for extra DPS
     - **Quest point cape**: Used for 3 steps
+        - 2 of these may be replaced by a boat docked at Witchaven
 ### Cryptic clues
 - Items assume the use of the ["3-stepping" method](https://discord.com/channels/922245627092541450/1233850882156789881/1235639466828234814). *See footer for Discord invite*
 - **Combat bracelet**: Replace as needed for your cryptic clue

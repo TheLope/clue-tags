@@ -411,7 +411,7 @@
     },
     {
         "id": 535,
-        "text": "W BIRTH: cove dig",
+        "text": "BOAT Buccaneers: row",
         "color": "#FFFF5A00",
         "itemIds": [
             952
@@ -421,7 +421,14 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286965
+                "componentId": 14286994
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286928
             }
         ]
     },
@@ -913,19 +920,21 @@
     },
     {
         "id": 576,
-        "text": "TREE 6: n stash",
+        "text": "BOAT Ynysdail: row w stash",
         "color": "#FFFF5A00",
-        "itemIds": [
-            13280,
-            13342
-        ],
         "widgetIds": [
             {
-                "componentId": 10747946
+                "componentId": 10747962
             },
             {
-                "componentId": 12255235,
-                "childIndex": 5
+                "componentId": 14286994
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286928
             }
         ]
     },
@@ -2296,7 +2305,7 @@
     },
     {
         "id": 682,
-        "text": "W BIRTH: e cove dig",
+        "text": "BOAT Buccaneers: row",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
@@ -2307,7 +2316,14 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286965
+                "componentId": 14286994
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286928
             }
         ]
     },
@@ -2487,9 +2503,9 @@
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
-            952,
             13068,
-            9813
+            9813,
+            952
         ]
     },
     {
@@ -3701,6 +3717,113 @@
             952,
             13280,
             13342
+        ]
+    },
+    {
+        "id": 778,
+        "text": "BOAT Brittle: stash",
+        "color": "#FFFF5A00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286994
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286928
+            }
+        ]
+    },
+    {
+        "id": 779,
+        "text": "MUSIC: +keel",
+        "color": "#FFFF5A00",
+        "itemIds": [
+            13222,
+            13221,
+            32017
+        ]
+    },
+    {
+        "id": 780,
+        "text": "CJQ: mine dig",
+        "color": "#FFFF5A00",
+        "itemIds": [
+            952
+        ]
+    },
+    {
+        "id": 781,
+        "text": "Unobtainable: BOAT Serpents",
+        "color": "#FFFF5A00",
+        "itemIds": [
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286994
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286928
+            }
+        ]
+    },
+    {
+        "id": 782,
+        "text": "BOAT Drumstick: dig",
+        "color": "#FFFF5A00",
+        "itemIds": [
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286994
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286928
+            }
+        ]
+    },
+    {
+        "id": 783,
+        "text": "BOAT Buccaneers: dig",
+        "color": "#FFFF5A00",
+        "itemIds": [
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286994
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286928
+            }
         ]
     }
 ]
