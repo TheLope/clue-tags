@@ -1971,10 +1971,6 @@
         "widgetIds": [
             {
                 "componentId": 10747947
-            },
-            {
-                "componentId": 15663110,
-                "childIndex": 322
             }
         ]
     },
@@ -1992,10 +1988,6 @@
         "widgetIds": [
             {
                 "componentId": 10747947
-            },
-            {
-                "componentId": 15663110,
-                "childIndex": 191
             }
         ]
     },
@@ -2013,10 +2005,6 @@
         "widgetIds": [
             {
                 "componentId": 10747947
-            },
-            {
-                "componentId": 15663110,
-                "childIndex": 214
             }
         ]
     },
@@ -2034,10 +2022,6 @@
         "widgetIds": [
             {
                 "componentId": 10747947
-            },
-            {
-                "componentId": 15663110,
-                "childIndex": 86
             }
         ]
     },
@@ -2055,10 +2039,6 @@
         "widgetIds": [
             {
                 "componentId": 10747947
-            },
-            {
-                "componentId": 15663110,
-                "childIndex": 88
             }
         ]
     },
@@ -2076,10 +2056,6 @@
         "widgetIds": [
             {
                 "componentId": 10747947
-            },
-            {
-                "componentId": 15663110,
-                "childIndex": 142
             }
         ]
     },

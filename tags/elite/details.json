@@ -1510,10 +1510,6 @@
         "widgetIds": [
             {
                 "componentId": 10747947
-            },
-            {
-                "componentId": 15663110,
-                "childIndex": 287
             }
         ]
     },
@@ -1590,10 +1586,6 @@
         "widgetIds": [
             {
                 "componentId": 10747947
-            },
-            {
-                "componentId": 15663110,
-                "childIndex": 323
             }
         ]
     },
