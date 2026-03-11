@@ -32,7 +32,7 @@ nav:
     - Elite: details/elite.md
     - Master: details/master.md
     - Custom Item Tags Converter: details/tags-converter.md
-    - Pre-sailing Widgets Converter: details/widgets-converter.md
+    - Widgets Converter: details/widgets-converter.md
   - Bank Tags:
     - Bank Tags: bank/index.md
     - Beginner: bank/beginner.md
@@ -92,4 +92,4 @@ plugins:
 extra_javascript:
   - javascripts/banktags.js
   - javascripts/convert.js
-  - javascripts/convertPreSailingWidgets.js
+  - javascripts/widgetConverter.js
