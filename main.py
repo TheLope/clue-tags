@@ -293,35 +293,29 @@ This tool provides a conversion from the old Custom Item Tags format to the new 
     @env.macro
     def widgets_converter():
         return f"""
-{ title("Pre-sailing Widgets Converter", f"Transportation_logo") }
+{ title("Widgets Converter", f"Transportation_logo") }
 
-This tool can be used to fix widget highlights from before the pre-sailing content update on November 5th.
-<ul>
-    <li>
-        <input type="checkbox" id="fix-spells" checked />
-        <label for="fix-spells">Fix spell highlights (<strong style="color: red;">WARNING</strong>: This will break any spells you have manually tagged after the update</label>
-    </li>
-    <li>
-        <input type="checkbox" id="remove-charter-map" checked />
-        <label for="remove-charter-map">Remove charter ship map highlights (only keep the list highlights)</label>
-    </li>
-</ul>
+This tool can be used to fix widget highlights between various updates when the highlights to unintended widgets.
+You will need a pre-made mapping file prepared for a specific conversion.
 
 <textarea id="tags-before" class="equipment textarea" placeholder="Paste old clue tags here">
 </textarea>
 
+<textarea id="mapping-file" class="equipment textarea" placeholder="Paste mapping file here">
+</textarea>
+
 <div class="tooltip">
-    <button id="convert-pre-sailing" class="equipment">
-        <span id="convertTooltip" class="tooltiptext">Fix highlights</span>
+    <button id="convert-widgets" class="equipment">
+        <span id="convertTooltip" class="tooltiptext">Convert</span>
         Fix
     </button>
 </div>
 
-<textarea id="tags-after" class="equipment textarea" placeholder="Fixed Clue Details here">
+<textarea id="tags-after" class="equipment textarea" placeholder="Converted Clue Details here">
 </textarea>
 
 <div class="tooltip">
-    <button id="copy" class="equipment">
+    <button id="copy-converted" class="equipment">
         <span id="copyTooltip" class="tooltiptext">Copy to clipboard</span>
         Copy
     </button>
