@@ -49,7 +49,7 @@
     },
     {
         "id": 2727,
-        "text": "RESP: -web",
+        "text": "ROR: -web",
         "color": "#FFFF0000",
         "itemIds": [
             21129,
@@ -65,7 +65,7 @@
     },
     {
         "id": 2729,
-        "text": "RESP: -hut",
+        "text": "ROR: -hut",
         "color": "#FFFF0000",
         "itemIds": [
             21129,
@@ -268,7 +268,7 @@
     },
     {
         "id": 2774,
-        "text": "RESP: dig",
+        "text": "ROR: dig",
         "color": "#FFC15FFF",
         "itemIds": [
             21129,

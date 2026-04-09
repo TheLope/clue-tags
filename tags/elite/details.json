@@ -301,7 +301,7 @@
     },
     {
         "id": 12095,
-        "text": "RESP: -resource s",
+        "text": "ROR: -resource s",
         "color": "#FFFF0000",
         "itemIds": [
             21129,
@@ -702,7 +702,7 @@
     },
     {
         "id": 12134,
-        "text": "RESP: -Mandrith",
+        "text": "ROR: -Mandrith",
         "color": "#FFFF0000",
         "itemIds": [
             21129,
@@ -1424,7 +1424,7 @@
     },
     {
         "id": 23144,
-        "text": "RESP: -resource n",
+        "text": "ROR: -resource n",
         "color": "#FFFF0000",
         "itemIds": [
             21129,
@@ -1529,7 +1529,7 @@
     },
     {
         "id": 25498,
-        "text": "RESP: portal w dig",
+        "text": "ROR: portal w dig",
         "color": "#FFB7FF00",
         "itemIds": [
             21129,
