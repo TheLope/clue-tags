@@ -37,7 +37,7 @@
     },
     {
         "id": 12075,
-        "text": "REV: -nw stash",
+        "text": "REV 1: -nw stash",
         "color": "#FFFF0000",
         "itemIds": [
             21802,
@@ -1442,12 +1442,17 @@
     },
     {
         "id": 23146,
-        "text": "OBEL 3: e dig",
+        "text": "REV 2: w dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342,
+            21389,
+            21802,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39125049
+            }
         ]
     },
     {

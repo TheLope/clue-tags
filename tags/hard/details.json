@@ -102,10 +102,9 @@
     },
     {
         "id": 2733,
-        "text": "REV: -s hill",
+        "text": "REV 1: -s hill",
         "color": "#FFFF0000",
         "itemIds": [
-            21389,
             21802,
             952,
             21800,
@@ -219,15 +218,17 @@
     },
     {
         "id": 2745,
-        "text": "BURN 2: ne dig",
+        "text": "REV 3: n dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            21166,
-            21169,
-            21171,
-            21173,
-            21175,
+            21389,
+            21802,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39125049
+            }
         ]
     },
     {
@@ -399,7 +400,7 @@
     },
     {
         "id": 2788,
-        "text": "REV: -ne dig",
+        "text": "REV 1: -ne dig",
         "color": "#FFFF0000",
         "itemIds": [
             21802,
@@ -795,12 +796,17 @@
     },
     {
         "id": 3556,
-        "text": "OBEL 4: s dig",
+        "text": "REV 2: s dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            21389,
+            21802,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39125049
+            }
         ]
     },
     {
@@ -1629,17 +1635,14 @@
     },
     {
         "id": 12564,
-        "text": "OBEL 2: ne n",
+        "text": "BURN 2: ne n",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342
-        ],
-        "widgetIds": [
-            {
-                "componentId": 12255235,
-                "childIndex": 1
-            }
+            21166,
+            21169,
+            21171,
+            21173,
+            21175
         ]
     },
     {
