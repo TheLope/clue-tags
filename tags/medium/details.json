@@ -526,15 +526,16 @@
     },
     {
         "id": 3599,
-        "text": "CLOAK 1: e dig",
+        "text": "DJP: w dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13124,
+            13280,
+            13342,
             952
         ],
         "widgetIds": [
             {
-                "componentId": 10747960
+                "componentId": 24969331
             }
         ]
     },
