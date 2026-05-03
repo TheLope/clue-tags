@@ -23,6 +23,7 @@ theme:
 nav:
   - Home: index.md
   - FAQ: faq.md
+  - Changelog: changelog.md
   - Clue Details:
     - Clue Details: details/index.md
     - Beginner: details/beginner.md
