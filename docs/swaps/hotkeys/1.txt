@@ -24,3 +24,5 @@ Darkfrost,Pendant of ates
 Kourend Woodland, Rada's blessing 4
 Lletya, Eternal teleport crystal
 Northern entrance,*Revenant cave teleport*
+Ver Sinhaza,Drakan's medallion
+The Pandemonium,Sailors' amulet

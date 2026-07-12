@@ -24,3 +24,5 @@ Twilight Temple,Pendant of ates
 Mount Karuulm, Rada's blessing 4
 Prif*, Eternal teleport crystal
 Middle entrance,*Revenant cave teleport*
+Darkmeyer,Drakan's medallion
+Port Roberts,Sailors' amulet
