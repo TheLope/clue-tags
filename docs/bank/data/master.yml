@@ -6,7 +6,7 @@ master:
     ammo: Holy blessing
     ammo2: ~
     weapon: Dragon claws
-    torso: Oathplate chest
+    torso: Inquisitor's hauberk
     legs: Torva platelegs
     shield: ~
     gloves: Ferocious gloves
@@ -17,7 +17,7 @@ master:
   - [Spade, Max cape, Music cape(t), Master scroll book]
   - [Strange device, Enchanted lyre(i), Eternal teleport crystal, Xeric's talisman]
   - [Kandarin headgear 4, Morytania legs 4, Combat bracelet, Drakan's medallion]
-  - [Blade of saeldor (c), Divine super combat potion(4), Divine rune pouch, Blood rune]
+  - [Inquisitor's mace, Divine super combat potion(4), Divine rune pouch, Blood rune]
   - [Ghommal's avernic defender 6, ~, Amulet of eternal glory, Aether rune]
   - [~, ~, ~, Death rune]
   spellbook:

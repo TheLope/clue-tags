@@ -8,9 +8,9 @@ icon: clue/master
 ## Notes
 - Degear and suicide all wildy steps
 - For Hot Cold wildy steps, use the [Hot Cold Helper](https://runelite.net/plugin-hub/show/hot-cold-helper) plugin
-- **Blade of saeldor** > Inquisitor's mace > Ghrazi rapier > Abyssal tentacle
+- **Inquisitor's mace** > (Use  Oathplate chest if no  mace) Blade of saeldor > Ghrazi rapier > Abyssal tentacle
 - **Hilt**: If you do not have Master or Grandmaster CAs, take a hilt in your inventory
-- **Blessing**: Holy blessing taken with Oathplate, otherwise take Unholy
+- **Blessing**: Holy blessing taken with Zammy affiliated armor, otherwise take Unholy
     - If no Zammy item in setup, bank for one for the *outside K'ril Tsutsaroth's chamber* step
 - To reduce inventory space, remove items as needed:
     - **Amulet of eternal glory**: Used for 3 steps, should always be banked when withdrawing for falo, sherlock etc.
@@ -34,7 +34,7 @@ icon: clue/master
     | Shilo Village          | 26    | 1     | Karamja gloves                                                           | 571             |
     | Entrana                | 33    | 0     | Spirit tree                                                              | 548             |
     | Rogues Den             | 31    | 1     | Games necklace. 0 slots if travel from Ghommal                           | 556             |
-    | Mage of Zamorak        | 32    | 0     | Diary cape. Oathplate/Inq mace/blessing                                  | 575             |
+    | Mage of Zamorak        | 32    | 0     | Diary cape. Oathplate/Inquisitor's mace/blessing                         | 575             |
     | Prifddinas             | 34    | 0     | Eternal teleport crystal                                                 | 555             |
     | Biblia                 | 33    | 0     | Arceuus library teleport (tablet)                                        | 551             |
     | Viggora                | 33    | 2     | Slayer ring. Only if slayer tower. Morytania legs 4 and Ring of Shadows  | 550             |
