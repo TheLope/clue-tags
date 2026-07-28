@@ -1325,17 +1325,12 @@
     },
     {
         "id": 12033,
-        "text": "FELDIP: se dig",
+        "text": "MAX 6: se dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            21389,
-            12404,
+            13280,
+            13342,
             952
-        ],
-        "widgetIds": [
-            {
-                "componentId": 39125005
-            }
         ]
     },
     {
@@ -1908,16 +1903,11 @@
     },
     {
         "id": 23133,
-        "text": "FELDIP: s Madame",
+        "text": "MAX 6: s Madame",
         "color": "#FF4BB7FF",
         "itemIds": [
-            21389,
-            12404
-        ],
-        "widgetIds": [
-            {
-                "componentId": 39125005
-            }
+            13280,
+            13342
         ]
     },
     {

@@ -2073,18 +2073,13 @@
     },
     {
         "id": 665,
-        "text": "FELDIP: se dig",
+        "text": "MAX 6: se dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
             952,
-            21389,
-            12404
-        ],
-        "widgetIds": [
-            {
-                "componentId": 39125005
-            }
+            13280,
+            13342
         ]
     },
     {
