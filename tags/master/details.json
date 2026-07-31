@@ -294,7 +294,7 @@
     },
     {
         "id": 527,
-        "text": "FENK: ship dig",
+        "text": "3 FENK: ship dig",
         "color": "#FFFF5A00",
         "itemIds": [
             952
@@ -305,6 +305,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             },
             {
                 "componentId": 14287012
@@ -321,7 +325,7 @@
     },
     {
         "id": 529,
-        "text": "APE ATOLL: lumdo dig",
+        "text": "3 APE ATOLL: lumdo dig",
         "color": "#FFFF5A00",
         "itemIds": [
             952
@@ -332,6 +336,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             },
             {
                 "componentId": 14287018
@@ -554,7 +562,7 @@
     },
     {
         "id": 544,
-        "text": "ARDY: +Wizard",
+        "text": "1 ARDY: +Wizard",
         "color": "#FFFF5A00",
         "widgetIds": [
             {
@@ -562,6 +570,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             },
             {
                 "componentId": 14286892
@@ -629,7 +641,7 @@
     },
     {
         "id": 551,
-        "text": "A LIB: Biblia",
+        "text": "3 A LIB: Biblia",
         "color": "#FFFF5A00",
         "widgetIds": [
             {
@@ -637,6 +649,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             },
             {
                 "componentId": 14287003
@@ -825,7 +841,7 @@
     },
     {
         "id": 569,
-        "text": "A LIB: Logosia",
+        "text": "3 A LIB: Logosia",
         "color": "#FFFF5A00",
         "itemIds": [
             19613
@@ -836,6 +852,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             },
             {
                 "componentId": 14287003
@@ -895,7 +915,7 @@
     },
     {
         "id": 574,
-        "text": "VARR: museum",
+        "text": "1 VARR: museum",
         "color": "#FFFF5A00",
         "widgetIds": [
             {
@@ -903,6 +923,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             },
             {
                 "componentId": 14286874
@@ -1067,7 +1091,7 @@
     },
     {
         "id": 585,
-        "text": "BARRO: stash",
+        "text": "3 BARRO: stash",
         "color": "#FFFF5A00",
         "widgetIds": [
             {
@@ -1075,6 +1099,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             },
             {
                 "componentId": 14287017
@@ -1179,7 +1207,7 @@
     },
     {
         "id": 592,
-        "text": "VARR: +ZGS",
+        "text": "1 VARR: +ZGS",
         "color": "#FFFF5A00",
         "itemIds": [
             11808,
@@ -1191,6 +1219,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             },
             {
                 "componentId": 14286874
@@ -1246,7 +1278,7 @@
     },
     {
         "id": 596,
-        "text": "WATCH: stash",
+        "text": "1 WATCH: stash",
         "color": "#FFFF5A00",
         "widgetIds": [
             {
@@ -1254,6 +1286,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             },
             {
                 "componentId": 14286898
@@ -1697,7 +1733,7 @@
     },
     {
         "id": 635,
-        "text": "ARC HT: +reanimate",
+        "text": "3 ARC HT: +reanimate",
         "color": "#FFFF5A00",
         "itemIds": [
             13507,
@@ -1709,6 +1745,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             },
             {
                 "componentId": 14287001
@@ -1787,7 +1827,7 @@
     },
     {
         "id": 643,
-        "text": "ARDY: gem",
+        "text": "1 ARDY: gem",
         "color": "#FFFF5A00",
         "itemIds": [
             13124
@@ -1798,6 +1838,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             },
             {
                 "componentId": 14286892
@@ -1925,7 +1969,7 @@
     },
     {
         "id": 654,
-        "text": "TROL: arena dig",
+        "text": "1 TROL: arena dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
@@ -1937,6 +1981,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             },
             {
                 "componentId": 14286905
@@ -2441,7 +2489,7 @@
     },
     {
         "id": 690,
-        "text": "SEER: dig",
+        "text": "1 SEER: dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
@@ -2453,6 +2501,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             },
             {
                 "componentId": 14286885
@@ -2594,7 +2646,7 @@
     },
     {
         "id": 699,
-        "text": "W ARDY: ne dig",
+        "text": "3 W ARDY: ne dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
@@ -2606,6 +2658,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             },
             {
                 "componentId": 14287013
@@ -2748,7 +2804,7 @@
     },
     {
         "id": 710,
-        "text": "APE ATOLL: Lumdo e",
+        "text": "3 APE ATOLL: Lumdo e",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
@@ -2760,6 +2816,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             },
             {
                 "componentId": 14287018
@@ -2924,7 +2984,7 @@
     },
     {
         "id": 723,
-        "text": "FENK: w dig",
+        "text": "3 FENK: w dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
@@ -2936,6 +2996,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             },
             {
                 "componentId": 14287012
@@ -3028,7 +3092,7 @@
     },
     {
         "id": 729,
-        "text": "CIV: dig",
+        "text": "1 CIV: dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
@@ -3037,6 +3101,13 @@
         "widgetIds": [
             {
                 "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             },
             {
                 "componentId": 14286894
@@ -3523,7 +3594,7 @@
     },
     {
         "id": 764,
-        "text": "A LIB: w dig",
+        "text": "3 A LIB: w dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
@@ -3536,6 +3607,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             },
             {
                 "componentId": 14287003
@@ -3554,7 +3629,7 @@
     },
     {
         "id": 766,
-        "text": "ARC HT: altar dig",
+        "text": "3 ARC HT: altar dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
@@ -3562,7 +3637,14 @@
         ],
         "widgetIds": [
             {
+                "componentId": 10747962
+            },
+            {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             },
             {
                 "componentId": 14287001
@@ -3581,14 +3663,21 @@
     },
     {
         "id": 769,
-        "text": "ARC HT: mine ne dig",
+        "text": "3 ARC HT: mine ne dig",
         "color": "#FFFF5A00",
         "itemIds": [
             952
         ],
         "widgetIds": [
             {
+                "componentId": 10747962
+            },
+            {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             },
             {
                 "componentId": 14287001
@@ -3681,7 +3770,7 @@
     },
     {
         "id": 776,
-        "text": "BATTL: sw dig",
+        "text": "3 BATTL: sw dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
@@ -3689,17 +3778,17 @@
         ],
         "widgetIds": [
             {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
                 "componentId": 14352385,
                 "childIndex": 3
             },
             {
                 "componentId": 14287019
-            },
-            {
-                "componentId": 10747962
-            },
-            {
-                "componentId": 14286997
             }
         ]
     },

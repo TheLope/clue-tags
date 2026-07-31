@@ -12,6 +12,13 @@ If you're uncertain about a hint's meaning, click the clue to get additional inf
 
 Here are explanations for otherwise unclear hints
 
+### Spellbook Swap
+A teleport name preceded by a number indicates the spellbook associated with the teleport.
+
+- e.g. `1 ARDY: guard` means Spellbook Swap to the Standard spellbook and teleport to Ardougne.
+
+See [Custom Swaps](./swaps/index.md) for hotkeys.
+
 ### General shorthand
 
 | Shorthand | Explanation                                                |

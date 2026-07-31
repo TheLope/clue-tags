@@ -200,7 +200,7 @@
     },
     {
         "id": 2835,
-        "text": "ARDY: guard",
+        "text": "1 ARDY: guard",
         "color": "#FF4BB7FF",
         "widgetIds": [
             {
@@ -208,6 +208,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             },
             {
                 "componentId": 14286892
@@ -234,7 +238,7 @@
     },
     {
         "id": 2839,
-        "text": "YANIL: man",
+        "text": "1 YANIL: man",
         "color": "#FF4BB7FF",
         "widgetIds": [
             {
@@ -242,6 +246,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             },
             {
                 "componentId": 14286898
@@ -265,7 +273,7 @@
     },
     {
         "id": 2843,
-        "text": "LUMB: Cook",
+        "text": "1 LUMB: Cook",
         "color": "#FF4BB7FF",
         "widgetIds": [
             {
@@ -273,6 +281,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             },
             {
                 "componentId": 14286877
@@ -331,7 +343,7 @@
     },
     {
         "id": 2851,
-        "text": "LASS: Oracle",
+        "text": "2 LASS: Oracle",
         "color": "#FF4BB7FF",
         "widgetIds": [
             {
@@ -339,6 +351,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 2
             },
             {
                 "componentId": 14286951
@@ -668,7 +684,7 @@
     },
     {
         "id": 3614,
-        "text": "SALVE: Ulizius",
+        "text": "3 SALVE: Ulizius",
         "color": "#FF4BB7FF",
         "widgetIds": [
             {
@@ -676,6 +692,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             },
             {
                 "componentId": 14287011
@@ -750,7 +770,7 @@
     },
     {
         "id": 7278,
-        "text": "W ARDY: Jethick",
+        "text": "3 W ARDY: Jethick",
         "color": "#FF4BB7FF",
         "widgetIds": [
             {
@@ -758,6 +778,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             },
             {
                 "componentId": 14287013
@@ -968,7 +992,7 @@
     },
     {
         "id": 7311,
-        "text": "LASS: dig",
+        "text": "2 LASS: dig",
         "color": "#FF4BB7FF",
         "itemIds": [
             952
@@ -979,6 +1003,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 2
             },
             {
                 "componentId": 14286951
@@ -1032,7 +1060,7 @@
     },
     {
         "id": 10256,
-        "text": "FENK: cave",
+        "text": "3 FENK: cave",
         "color": "#FF4BB7FF",
         "widgetIds": [
             {
@@ -1040,6 +1068,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             },
             {
                 "componentId": 14287012
@@ -1131,7 +1163,7 @@
     },
     {
         "id": 10268,
-        "text": "YANIL: e stash",
+        "text": "1 YANIL: e stash",
         "color": "#FF4BB7FF",
         "widgetIds": [
             {
@@ -1139,6 +1171,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             },
             {
                 "componentId": 14286898
@@ -1260,7 +1296,7 @@
     },
     {
         "id": 12025,
-        "text": "SEER: stash",
+        "text": "1 SEER: stash",
         "color": "#FF4BB7FF",
         "widgetIds": [
             {
@@ -1268,6 +1304,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             },
             {
                 "componentId": 14286885
@@ -1348,7 +1388,7 @@
     },
     {
         "id": 12037,
-        "text": "FENK: n dig",
+        "text": "3 FENK: n dig",
         "color": "#FF4BB7FF",
         "itemIds": [
             952
@@ -1359,6 +1399,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             },
             {
                 "componentId": 14287012
@@ -1525,7 +1569,7 @@
     },
     {
         "id": 12065,
-        "text": "FALLY: Kaylee",
+        "text": "1 FALLY: Kaylee",
         "color": "#FF4BB7FF",
         "widgetIds": [
             {
@@ -1533,6 +1577,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             },
             {
                 "componentId": 14286880
@@ -1554,7 +1602,7 @@
     },
     {
         "id": 12069,
-        "text": "CAMELOT: Sir Kay",
+        "text": "1 CAMELOT: Sir Kay",
         "color": "#FF4BB7FF",
         "widgetIds": [
             {
@@ -1562,6 +1610,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             },
             {
                 "componentId": 14286885
@@ -1599,7 +1651,7 @@
     },
     {
         "id": 19736,
-        "text": "YANIL: Dominic",
+        "text": "1 YANIL: Dominic",
         "color": "#FF4BB7FF",
         "widgetIds": [
             {
@@ -1607,6 +1659,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             },
             {
                 "componentId": 14286898
@@ -1636,7 +1692,7 @@
     },
     {
         "id": 19742,
-        "text": "A LIB: Horphis",
+        "text": "3 A LIB: Horphis",
         "color": "#FF4BB7FF",
         "widgetIds": [
             {
@@ -1644,6 +1700,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             },
             {
                 "componentId": 14287003
@@ -1741,7 +1801,7 @@
     },
     {
         "id": 19762,
-        "text": "A LIB: Grackle",
+        "text": "3 A LIB: Grackle",
         "color": "#FF4BB7FF",
         "widgetIds": [
             {
@@ -1749,6 +1809,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             },
             {
                 "componentId": 14287003
@@ -1839,7 +1903,7 @@
     },
     {
         "id": 19778,
-        "text": "A LIB: stash",
+        "text": "3 A LIB: stash",
         "color": "#FF4BB7FF",
         "widgetIds": [
             {
@@ -1847,6 +1911,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             },
             {
                 "componentId": 14287003
@@ -2102,7 +2170,7 @@
     },
     {
         "id": 28909,
-        "text": "CIV: sw dig",
+        "text": "1 CIV: sw dig",
         "color": "#FF4BB7FF",
         "itemIds": [
             952
@@ -2113,6 +2181,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             },
             {
                 "componentId": 14286894
@@ -2431,7 +2503,7 @@
     },
     {
         "id": 2838,
-        "text": "SEER: w",
+        "text": "1 SEER: w",
         "color": "#FF4BB7FF",
         "widgetIds": [
             {
@@ -2439,6 +2511,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
             },
             {
                 "componentId": 14286885
@@ -2462,7 +2538,7 @@
     },
     {
         "id": 7297,
-        "text": "SENN: e",
+        "text": "2 SENN: e",
         "color": "#FF4BB7FF",
         "widgetIds": [
             {
@@ -2470,6 +2546,10 @@
             },
             {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 2
             },
             {
                 "componentId": 14286949

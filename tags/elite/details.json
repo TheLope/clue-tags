@@ -1,7 +1,7 @@
 [
     {
         "id": 12073,
-        "text": "W ARDY: stash",
+        "text": "3 W ARDY: stash",
         "color": "#FFB7FF00",
         "widgetIds": [
             {
@@ -11,14 +11,14 @@
                 "componentId": 14286997
             },
             {
+                "componentId": 14352385,
+                "childIndex": 3
+            },
+            {
                 "componentId": 14287013
             },
             {
                 "componentId": 10747946
-            },
-            {
-                "componentId": 14352385,
-                "childIndex": 3
             }
         ]
     },
@@ -131,7 +131,7 @@
     },
     {
         "id": 12081,
-        "text": "TROL: stash",
+        "text": "1 TROL: stash",
         "color": "#FFB7FF00",
         "widgetIds": [
             {
@@ -141,14 +141,14 @@
                 "componentId": 14286997
             },
             {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
                 "componentId": 14286905
             },
             {
                 "componentId": 10747946
-            },
-            {
-                "componentId": 14352385,
-                "childIndex": 1
             }
         ]
     },
@@ -316,7 +316,7 @@
     },
     {
         "id": 12096,
-        "text": "APE ATOLL: w",
+        "text": "3 APE ATOLL: w",
         "color": "#FFB7FF00",
         "itemIds": [
             952
@@ -329,11 +329,11 @@
                 "componentId": 14286997
             },
             {
-                "componentId": 14287018
-            },
-            {
                 "componentId": 14352385,
                 "childIndex": 3
+            },
+            {
+                "componentId": 14287018
             }
         ]
     },
@@ -454,7 +454,7 @@
     },
     {
         "id": 12106,
-        "text": "APE ATOLL: Lumdo e",
+        "text": "3 APE ATOLL: Lumdo e",
         "color": "#FFB7FF00",
         "widgetIds": [
             {
@@ -464,11 +464,11 @@
                 "componentId": 14286997
             },
             {
-                "componentId": 14287018
-            },
-            {
                 "componentId": 14352385,
                 "childIndex": 3
+            },
+            {
+                "componentId": 14287018
             }
         ]
     },
@@ -805,7 +805,7 @@
     },
     {
         "id": 12145,
-        "text": "SEER: agi crate",
+        "text": "1 SEER: agi crate",
         "color": "#FFB7FF00",
         "widgetIds": [
             {
@@ -815,11 +815,11 @@
                 "componentId": 14286997
             },
             {
-                "componentId": 14286885
-            },
-            {
                 "componentId": 14352385,
                 "childIndex": 1
+            },
+            {
+                "componentId": 14286885
             }
         ]
     },
@@ -858,7 +858,7 @@
     },
     {
         "id": 12149,
-        "text": "VARR: Aris",
+        "text": "1 VARR: Aris",
         "color": "#FFB7FF00",
         "widgetIds": [
             {
@@ -868,11 +868,11 @@
                 "componentId": 14286997
             },
             {
-                "componentId": 14286874
-            },
-            {
                 "componentId": 14352385,
                 "childIndex": 1
+            },
+            {
+                "componentId": 14286874
             }
         ]
     },
@@ -925,7 +925,7 @@
     },
     {
         "id": 12154,
-        "text": "ARDY: Horacio",
+        "text": "1 ARDY: Horacio",
         "color": "#FFB7FF00",
         "itemIds": [
             13124
@@ -938,17 +938,17 @@
                 "componentId": 14286997
             },
             {
-                "componentId": 14286892
-            },
-            {
                 "componentId": 14352385,
                 "childIndex": 1
+            },
+            {
+                "componentId": 14286892
             }
         ]
     },
     {
         "id": 12155,
-        "text": "KHAR: Barker",
+        "text": "2 KHAR: Barker",
         "color": "#FFB7FF00",
         "widgetIds": [
             {
@@ -958,11 +958,11 @@
                 "componentId": 14286997
             },
             {
-                "componentId": 14286950
-            },
-            {
                 "componentId": 14352385,
                 "childIndex": 2
+            },
+            {
+                "componentId": 14286950
             }
         ]
     },
@@ -1072,7 +1072,7 @@
     },
     {
         "id": 19786,
-        "text": "APE ATOLL: w crate",
+        "text": "3 APE ATOLL: w crate",
         "color": "#FFB7FF00",
         "widgetIds": [
             {
@@ -1082,11 +1082,11 @@
                 "componentId": 14286997
             },
             {
-                "componentId": 14287018
-            },
-            {
                 "componentId": 14352385,
                 "childIndex": 3
+            },
+            {
+                "componentId": 14287018
             }
         ]
     },
@@ -1139,7 +1139,7 @@
     },
     {
         "id": 19790,
-        "text": "ARDY: stash",
+        "text": "1 ARDY: stash",
         "color": "#FFB7FF00",
         "itemIds": [
             13124
@@ -1152,14 +1152,14 @@
                 "componentId": 14286997
             },
             {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
                 "componentId": 14286892
             },
             {
                 "componentId": 10747946
-            },
-            {
-                "componentId": 14352385,
-                "childIndex": 1
             }
         ]
     },
@@ -1529,13 +1529,15 @@
     },
     {
         "id": 25498,
-        "text": "ROR: portal w dig",
+        "text": "3 RESP: portal w dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            21129,
             952
         ],
         "widgetIds": [
+            {
+                "componentId": 10747962
+            },
             {
                 "componentId": 14286997
             },
@@ -1615,7 +1617,7 @@
     },
     {
         "id": 28910,
-        "text": "CIV: temple stash",
+        "text": "1 CIV: temple stash",
         "color": "#FFB7FF00",
         "widgetIds": [
             {
@@ -1625,14 +1627,14 @@
                 "componentId": 14286997
             },
             {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
                 "componentId": 14286894
             },
             {
                 "componentId": 10747946
-            },
-            {
-                "componentId": 14352385,
-                "childIndex": 1
             }
         ]
     },
