@@ -21,3 +21,4 @@ Ralos' Rise,Pendant of ates
 Southern entrance,*Revenant cave teleport*
 Slepe,Drakan's medallion
 Red Rock,Sailors' amulet
+Arceuus,Spellbook Swap

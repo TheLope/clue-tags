@@ -26,3 +26,4 @@ Lletya, Eternal teleport crystal
 Northern entrance,*Revenant cave teleport*
 Ver Sinhaza,Drakan's medallion
 The Pandemonium,Sailors' amulet
+Standard,Spellbook Swap
