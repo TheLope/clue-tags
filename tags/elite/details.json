@@ -408,17 +408,12 @@
     },
     {
         "id": 12103,
-        "text": "MORT: +gp tomb",
+        "text": "BKR: tomb dig",
         "color": "#FFB7FF00",
         "itemIds": [
-            21389,
-            12406,
-            995
-        ],
-        "widgetIds": [
-            {
-                "componentId": 39125013
-            }
+            13280,
+            13342,
+            952
         ]
     },
     {
