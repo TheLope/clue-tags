@@ -49,3 +49,19 @@ See [Custom Swaps](./swaps/index.md) for hotkeys.
 
 ## 3. Suicide Steps
 When using the Enchanted symbol to suicide in the wildy, kill two of the MA2 bosses and hand in the hearts. This allows you to spam click and damage yourself without delay.
+
+## 4. Boats
+Recommended prioritization of boats with greater teleport focus. Related tier tags assume use of all 4 boats as shown here.
+
+### Non-master boats
+1. Tear of the Soul (Hard)
+2. Wintumber Island (Elite)
+3. Lledrith Island (Elite)/Port Tyras (Hard)
+4. Buccaneers' Haven (Elite)
+
+### Master boats
+1. Brittle Isle
+2. Drumstick Isle
+3. Buccaneers' Heaven
+4. Ynysdail
+5. *Optional*: Witchhaven

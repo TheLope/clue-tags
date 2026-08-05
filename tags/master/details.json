@@ -419,25 +419,12 @@
     },
     {
         "id": 535,
-        "text": "BOAT Buccaneers: row",
+        "text": "MAX K: Buccaneers: row",
         "color": "#FFFF5A00",
         "itemIds": [
+            13280,
+            13342,
             952
-        ],
-        "widgetIds": [
-            {
-                "componentId": 10747962
-            },
-            {
-                "componentId": 14286997
-            },
-            {
-                "componentId": 14352385,
-                "childIndex": 1
-            },
-            {
-                "componentId": 14286931
-            }
         ]
     },
     {
@@ -944,21 +931,15 @@
     },
     {
         "id": 576,
-        "text": "BOAT Ynysdail: row w stash",
+        "text": "MAX K: Ynysdail: row w stash",
         "color": "#FFFF5A00",
+        "itemIds": [
+            13280,
+            13342
+        ],
         "widgetIds": [
             {
-                "componentId": 10747962
-            },
-            {
-                "componentId": 14286997
-            },
-            {
-                "componentId": 14352385,
-                "childIndex": 1
-            },
-            {
-                "componentId": 14286931
+                "componentId": 10747946
             }
         ]
     },
@@ -2348,26 +2329,13 @@
     },
     {
         "id": 682,
-        "text": "BOAT Buccaneers: row",
+        "text": "MAX K: Buccaneers: row",
         "color": "#FFFF5A00",
         "itemIds": [
+            13280,
+            13342,
             19939,
             952
-        ],
-        "widgetIds": [
-            {
-                "componentId": 10747962
-            },
-            {
-                "componentId": 14286997
-            },
-            {
-                "componentId": 14352385,
-                "childIndex": 1
-            },
-            {
-                "componentId": 14286931
-            }
         ]
     },
     {
@@ -3805,21 +3773,15 @@
     },
     {
         "id": 778,
-        "text": "BOAT Brittle: stash",
+        "text": "MAX K: Brittle: stash",
         "color": "#FFFF5A00",
+        "itemIds": [
+            13280,
+            13342
+        ],
         "widgetIds": [
             {
-                "componentId": 10747962
-            },
-            {
-                "componentId": 14286997
-            },
-            {
-                "componentId": 14352385,
-                "childIndex": 1
-            },
-            {
-                "componentId": 14286931
+                "componentId": 10747946
             }
         ]
     },
@@ -3843,71 +3805,32 @@
     },
     {
         "id": 781,
-        "text": "Unobtainable: BOAT Serpents",
+        "text": "Unobtainable: MAX K: Serpents",
         "color": "#FFFF5A00",
         "itemIds": [
+            13280,
+            13342,
             952
-        ],
-        "widgetIds": [
-            {
-                "componentId": 10747962
-            },
-            {
-                "componentId": 14286997
-            },
-            {
-                "componentId": 14352385,
-                "childIndex": 1
-            },
-            {
-                "componentId": 14286931
-            }
         ]
     },
     {
         "id": 782,
-        "text": "BOAT Drumstick: dig",
+        "text": "MAX K: Drumstick: dig",
         "color": "#FFFF5A00",
         "itemIds": [
+            13280,
+            13342,
             952
-        ],
-        "widgetIds": [
-            {
-                "componentId": 10747962
-            },
-            {
-                "componentId": 14286997
-            },
-            {
-                "componentId": 14352385,
-                "childIndex": 1
-            },
-            {
-                "componentId": 14286931
-            }
         ]
     },
     {
         "id": 783,
-        "text": "BOAT Buccaneers: dig",
+        "text": "MAX K: Buccaneers: dig",
         "color": "#FFFF5A00",
         "itemIds": [
+            13280,
+            13342,
             952
-        ],
-        "widgetIds": [
-            {
-                "componentId": 10747962
-            },
-            {
-                "componentId": 14286997
-            },
-            {
-                "componentId": 14352385,
-                "childIndex": 1
-            },
-            {
-                "componentId": 14286931
-            }
         ]
     }
 ]

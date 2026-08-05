@@ -667,26 +667,15 @@
     },
     {
         "id": 3538,
-        "text": "BOAT Tyras: +gp 7 dig",
+        "text": "MAX K: Tyras: +gp 7 dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13280,
+            13342,
             952,
             995
         ],
         "widgetIds": [
-            {
-                "componentId": 10747962
-            },
-            {
-                "componentId": 14286997
-            },
-            {
-                "componentId": 14352385,
-                "childIndex": 1
-            },
-            {
-                "componentId": 14286931
-            },
             {
                 "componentId": 57999364,
                 "childIndex": 16
@@ -826,25 +815,12 @@
     },
     {
         "id": 3560,
-        "text": "BOAT Tyras: dig",
+        "text": "MAX K: Tyras: dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13280,
+            13342,
             952
-        ],
-        "widgetIds": [
-            {
-                "componentId": 10747962
-            },
-            {
-                "componentId": 14286997
-            },
-            {
-                "componentId": 14352385,
-                "childIndex": 1
-            },
-            {
-                "componentId": 14286931
-            }
         ]
     },
     {
@@ -864,22 +840,11 @@
     },
     {
         "id": 3564,
-        "text": "BOAT Tyras: General",
+        "text": "MAX K: Tyras: General",
         "color": "#FFC15FFF",
-        "widgetIds": [
-            {
-                "componentId": 10747962
-            },
-            {
-                "componentId": 14286997
-            },
-            {
-                "componentId": 14352385,
-                "childIndex": 1
-            },
-            {
-                "componentId": 14286931
-            }
+        "itemIds": [
+            13280,
+            13342
         ]
     },
     {
@@ -2654,25 +2619,12 @@
     },
     {
         "id": 31272,
-        "text": "BOAT Tear: dig",
+        "text": "MAX K: Tear: dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            13280,
+            13342,
             952
-        ],
-        "widgetIds": [
-            {
-                "componentId": 10747962
-            },
-            {
-                "componentId": 14286997
-            },
-            {
-                "componentId": 14352385,
-                "childIndex": 1
-            },
-            {
-                "componentId": 14286931
-            }
         ]
     },
     {

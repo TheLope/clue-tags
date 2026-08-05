@@ -426,25 +426,12 @@
     },
     {
         "id": 12105,
-        "text": "BOAT Buccaneers: row",
+        "text": "MAX K: Buccaneers: row",
         "color": "#FFB7FF00",
         "itemIds": [
+            13280,
+            13342,
             952
-        ],
-        "widgetIds": [
-            {
-                "componentId": 10747962
-            },
-            {
-                "componentId": 14286997
-            },
-            {
-                "componentId": 14352385,
-                "childIndex": 1
-            },
-            {
-                "componentId": 14286931
-            }
         ]
     },
     {
@@ -1683,25 +1670,17 @@
     },
     {
         "id": 31269,
-        "text": "BOAT Wintumber: stash crab",
+        "text": "MAX K: Wintumber: stash crab",
         "color": "#FFB7FF00",
         "itemIds": [
+            13280,
+            13342,
             7539,
             7537
         ],
         "widgetIds": [
             {
-                "componentId": 10747962
-            },
-            {
-                "componentId": 14286997
-            },
-            {
-                "componentId": 14352385,
-                "childIndex": 1
-            },
-            {
-                "componentId": 14286931
+                "componentId": 10747946
             }
         ]
     },
@@ -1717,25 +1696,12 @@
     },
     {
         "id": 31271,
-        "text": "BOAT Lledrith: dig",
+        "text": "MAX K: Lledrith: dig",
         "color": "#FFB7FF00",
         "itemIds": [
+            13280,
+            13342,
             952
-        ],
-        "widgetIds": [
-            {
-                "componentId": 10747962
-            },
-            {
-                "componentId": 14286997
-            },
-            {
-                "componentId": 14352385,
-                "childIndex": 1
-            },
-            {
-                "componentId": 14286931
-            }
         ]
     },
     {
