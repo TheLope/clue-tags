@@ -925,6 +925,7 @@
         "text": "MAX D: camp",
         "color": "#FF4BB7FF",
         "itemIds": [
+            4446,
             13280,
             13342
         ]
