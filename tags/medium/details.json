@@ -1061,7 +1061,7 @@
     },
     {
         "id": 10256,
-        "text": "3 FENK: cave",
+        "text": "3 FENK: bridge",
         "color": "#FF4BB7FF",
         "widgetIds": [
             {
@@ -1981,15 +1981,11 @@
     },
     {
         "id": 23135,
-        "text": "SKIL 6 : dig",
+        "text": "MAX 4: dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            11968,
-            11970,
-            11105,
-            11107,
-            11109,
-            11111,
+            13280,
+            13342,
             952
         ]
     },
