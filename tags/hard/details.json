@@ -670,7 +670,7 @@
     },
     {
         "id": 3538,
-        "text": "MAX K: Tyras: +gp 7 dig",
+        "text": "MAX K Tyras: +gp 7 dig",
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
@@ -818,7 +818,7 @@
     },
     {
         "id": 3560,
-        "text": "MAX K: Tyras: dig",
+        "text": "MAX K Tyras: dig",
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
@@ -843,7 +843,7 @@
     },
     {
         "id": 3564,
-        "text": "MAX K: Tyras: General",
+        "text": "MAX K Tyras: General",
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
@@ -2635,7 +2635,7 @@
     },
     {
         "id": 31272,
-        "text": "MAX K: Tear: dig",
+        "text": "MAX K Tear: dig",
         "color": "#FFC15FFF",
         "itemIds": [
             13280,

@@ -426,7 +426,7 @@
     },
     {
         "id": 12105,
-        "text": "MAX K: Buccaneers: row",
+        "text": "MAX K Buccaneers: row",
         "color": "#FFB7FF00",
         "itemIds": [
             13280,
@@ -1225,7 +1225,7 @@
     {
         "id": 19799,
         "text": "REV 1: -dragon",
-        "color": "#FFB7FF00",
+        "color": "#FFFF0000",
         "itemIds": [
             21802,
             27652,
@@ -1289,14 +1289,16 @@
     {
         "id": 19805,
         "text": "CEME: -ankou",
-        "color": "#FFB7FF00",
+        "color": "#FFFF0000",
         "itemIds": [
             19627,
             27652,
             21800,
             952,
             23742,
-            21820
+            21820,
+            13280,
+            13342
         ]
     },
     {
@@ -1321,7 +1323,10 @@
             21169,
             21171,
             21173,
-            21175
+            21175,
+            13280,
+            13342,
+            19812
         ]
     },
     {
@@ -1424,11 +1429,6 @@
             13280,
             13342,
             952
-        ],
-        "widgetIds": [
-            {
-                "componentId": 24969351
-            }
         ]
     },
     {
@@ -1670,7 +1670,7 @@
     },
     {
         "id": 31269,
-        "text": "MAX K: Wintumber: stash crab",
+        "text": "MAX K Wintumber: stash crab",
         "color": "#FFB7FF00",
         "itemIds": [
             13280,
@@ -1696,7 +1696,7 @@
     },
     {
         "id": 31271,
-        "text": "MAX K: Lledrith: dig",
+        "text": "MAX K Lledrith: dig",
         "color": "#FFB7FF00",
         "itemIds": [
             13280,

@@ -419,7 +419,7 @@
     },
     {
         "id": 535,
-        "text": "MAX K: Buccaneers: row",
+        "text": "MAX K Buccaneers: row",
         "color": "#FFFF5A00",
         "itemIds": [
             13280,
@@ -931,7 +931,7 @@
     },
     {
         "id": 576,
-        "text": "MAX K: Ynysdail: row w stash",
+        "text": "MAX K Ynysdail: row w stash",
         "color": "#FFFF5A00",
         "itemIds": [
             13280,
@@ -2329,7 +2329,7 @@
     },
     {
         "id": 682,
-        "text": "MAX K: Buccaneers: row",
+        "text": "MAX K Buccaneers: row",
         "color": "#FFFF5A00",
         "itemIds": [
             13280,
@@ -3773,7 +3773,7 @@
     },
     {
         "id": 778,
-        "text": "MAX K: Brittle: stash",
+        "text": "MAX K Brittle: stash",
         "color": "#FFFF5A00",
         "itemIds": [
             13280,
@@ -3805,7 +3805,7 @@
     },
     {
         "id": 781,
-        "text": "Unobtainable: MAX K: Serpents",
+        "text": "Unobtainable: MAX K Serpents",
         "color": "#FFFF5A00",
         "itemIds": [
             13280,
@@ -3815,7 +3815,7 @@
     },
     {
         "id": 782,
-        "text": "MAX K: Drumstick: dig",
+        "text": "MAX K Drumstick: dig",
         "color": "#FFFF5A00",
         "itemIds": [
             13280,
@@ -3825,7 +3825,7 @@
     },
     {
         "id": 783,
-        "text": "MAX K: Buccaneers: dig",
+        "text": "MAX K Buccaneers: dig",
         "color": "#FFFF5A00",
         "itemIds": [
             13280,
