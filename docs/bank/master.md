@@ -32,9 +32,9 @@ icon: clue/master
     | Juna                   | 15    | 2     | Games necklace. Staff of balance as melee weapon, guthix blessing & book | 560             |
     | Lovada                 | 24    | 0     | Xerics amulet                                                            | 568             |
     | Shilo Village          | 26    | 1     | Karamja gloves                                                           | 571             |
+    | Mage of Zamorak        | 32    | 0     | Diary cape. Full Inquisitor's                                            | 575             |
     | Entrana                | 33    | 0     | Spirit tree                                                              | 548             |
     | Rogues Den             | 31    | 1     | Games necklace. 0 slots if travel from Ghommal                           | 556             |
-    | Mage of Zamorak        | 32    | 0     | Diary cape. Oathplate/Inquisitor's mace/blessing                         | 575             |
     | Prifddinas             | 34    | 0     | Eternal teleport crystal                                                 | 555             |
     | Biblia                 | 33    | 0     | Arceuus library teleport (tablet)                                        | 551             |
     | Viggora                | 33    | 2     | Slayer ring. Only if slayer tower. Morytania legs 4 and Ring of Shadows  | 550             |
