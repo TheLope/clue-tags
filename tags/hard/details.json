@@ -1910,22 +1910,15 @@
     },
     {
         "id": 19860,
-        "text": "GF: e dig",
+        "text": "PASS 3: w up dig",
         "color": "#FFC15FFF",
         "itemIds": [
+            21146,
+            21149,
+            21151,
+            21153,
+            21155,
             952
-        ],
-        "widgetIds": [
-            {
-                "componentId": 10747942
-            },
-            {
-                "componentId": 46333957
-            },
-            {
-                "componentId": 4980758,
-                "childIndex": 8
-            }
         ]
     },
     {

@@ -145,10 +145,16 @@
     },
     {
         "id": 2825,
-        "text": "GLORY 3: cows",
+        "text": "COMB 4: cow dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            19707
+            11972,
+            11974,
+            11118,
+            11120,
+            11122,
+            11124,
+            952
         ],
         "widgetIds": [
             {

@@ -34,6 +34,7 @@ See [Custom Swaps](./swaps/index.md) for hotkeys.
 | GVS       | Goblin village sphere                                      |
 | RESP      | Respawn: set to Edgeville                                  |
 | SOUL      | Soul Wars minigame teleport                                |
+| TB        | Trouble Brewing minigame teleport                          |
 
 ### Ancient Magicks
 

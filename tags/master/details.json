@@ -2007,12 +2007,14 @@
     },
     {
         "id": 657,
-        "text": "+CAMU 2: Menaphos dig",
+        "text": "+PHAR 1: river dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
             952,
-            6707
+            9044,
+            26948,
+            26950
         ]
     },
     {
