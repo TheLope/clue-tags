@@ -261,10 +261,10 @@
     },
     {
         "id": 12091,
-        "text": "LEGS: boat 1",
+        "text": "+DRAK 1: w wall",
         "color": "#FFB7FF00",
         "itemIds": [
-            13115
+            22400
         ]
     },
     {
