@@ -8,7 +8,8 @@ icon: clue/master
 ## Notes
 - Degear and suicide all wildy steps
 - For Hot Cold wildy steps, use the [Hot Cold Helper](https://runelite.net/plugin-hub/show/hot-cold-helper) plugin
-- **Inquisitor's mace** > (Use  Oathplate chest if no  mace) Blade of saeldor > Ghrazi rapier > Abyssal tentacle
+- **Inquisitor's mace** > (Use Oathplate chest, Torva helm and legs  if no mace) Blade of saeldor > Ghrazi rapier > Abyssal tentacle
+- **Crimson kisten** > (Use Oathplate chest, Torva helm and legs  if no kisten) Dragon claws
 - **Hilt**: If you do not have Master or Grandmaster CAs, take a hilt in your inventory
 - **Blessing**: Holy blessing taken with Zammy affiliated armor, otherwise take Unholy
     - If no Zammy item in setup, bank for one for the *outside K'ril Tsutsaroth's chamber* step
