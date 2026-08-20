@@ -14,6 +14,6 @@ Jaltevas,Pharaoh's sceptre
 Lassar undercity,Ring of shadows
 Jatiszo,Enchanted lyre*
 Jewellery of*,Book of the Dead
-North Aldarin,Pendant of ates
+North Aldarin,Pendant of Ates
 Castle Drakan,Drakan's medallion
 Deepfin Point,Sailors' amulet
