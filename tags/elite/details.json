@@ -205,10 +205,6 @@
         ],
         "widgetIds": [
             {
-                "componentId": 10747998,
-                "childIndex": 2
-            },
-            {
                 "componentId": 4980758,
                 "childIndex": 28
             }
