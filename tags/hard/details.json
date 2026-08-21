@@ -875,17 +875,23 @@
     },
     {
         "id": 3568,
-        "text": "DUEL 1: ne Hamid",
+        "text": "MTA: se Hamid",
         "color": "#FFC15FFF",
         "itemIds": [
-            2552,
             2554,
             2556,
             2558,
             2560,
             2562,
             2564,
-            2566
+            2566,
+            3569
+        ],
+        "widgetIds": [
+            {
+                "componentId": 4980758,
+                "childIndex": 13
+            }
         ]
     },
     {
@@ -959,7 +965,7 @@
     },
     {
         "id": 3579,
-        "text": "CRAFT: entrana",
+        "text": "CRAFT: -entrana",
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
@@ -1535,12 +1541,6 @@
             23387
         ],
         "widgetIds": [
-            {
-                "componentId": 39125053
-            },
-            {
-                "componentId": 10747946
-            },
             {
                 "componentId": 39125050
             }
@@ -2123,10 +2123,6 @@
         ],
         "widgetIds": [
             {
-                "componentId": 10747998,
-                "childIndex": 2
-            },
-            {
                 "componentId": 10747942
             },
             {
@@ -2159,7 +2155,8 @@
         "itemIds": [
             25936,
             25934,
-            25932
+            25932,
+            19895
         ]
     },
     {
@@ -2249,11 +2246,6 @@
         "itemIds": [
             13280,
             13342
-        ],
-        "widgetIds": [
-            {
-                "componentId": 24969355
-            }
         ]
     },
     {
@@ -2526,7 +2518,8 @@
         "color": "#FFC15FFF",
         "itemIds": [
             13280,
-            13342
+            13342,
+            28917
         ]
     },
     {
