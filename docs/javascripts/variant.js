@@ -26,8 +26,23 @@ function updateVariantToggle() {
     }
 }
 
+function initVariantToggle() {
+    const toggle = document.querySelector('.variant')
+
+    if (!toggle) return
+
+    updateVariantToggle()
+
+    // the hash may change after load (table of contents, scroll tracking),
+    // so refresh the targets right before the toggle is used
+    toggle.addEventListener('pointerdown', updateVariantToggle)
+    toggle.addEventListener('focusin', updateVariantToggle)
+}
+
+window.addEventListener('hashchange', updateVariantToggle)
+
 if (typeof document$ !== 'undefined') {
-    document$.subscribe(updateVariantToggle)
+    document$.subscribe(initVariantToggle)
 } else {
-    document.addEventListener('DOMContentLoaded', updateVariantToggle)
+    document.addEventListener('DOMContentLoaded', initVariantToggle)
 }
