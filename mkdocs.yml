@@ -94,3 +94,4 @@ extra_javascript:
   - javascripts/banktags.js
   - javascripts/convert.js
   - javascripts/widgetConverter.js
+  - javascripts/variant.js
