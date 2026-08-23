@@ -308,7 +308,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286886
+                "componentId": 14286885
             }
         ]
     },
@@ -321,7 +321,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286893
+                "componentId": 14286892
             }
         ]
     },
@@ -334,7 +334,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286893
+                "componentId": 14286892
             }
         ]
     },
@@ -347,7 +347,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286893
+                "componentId": 14286892
             }
         ]
     },
@@ -373,7 +373,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286875
+                "componentId": 14286874
             }
         ]
     },
@@ -386,7 +386,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286875
+                "componentId": 14286874
             }
         ]
     },
@@ -408,7 +408,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286893
+                "componentId": 14286892
             }
         ]
     },
@@ -490,7 +490,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286899
+                "componentId": 14286898
             }
         ]
     },
@@ -633,7 +633,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286893
+                "componentId": 14286892
             }
         ]
     },
@@ -672,7 +672,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286886
+                "componentId": 14286885
             }
         ]
     },
@@ -685,7 +685,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286886
+                "componentId": 14286885
             }
         ]
     },
@@ -745,7 +745,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286875
+                "componentId": 14286874
             }
         ]
     },
@@ -793,7 +793,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286881
+                "componentId": 14286880
             }
         ]
     },
@@ -874,6 +874,9 @@
             9813
         ],
         "widgetIds": [
+            {
+                "componentId": 10747960
+            },
             {
                 "componentId": 10747946
             }
@@ -992,7 +995,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286875
+                "componentId": 14286874
             },
             {
                 "componentId": 10747946
@@ -1230,7 +1233,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286875
+                "componentId": 14286874
             },
             {
                 "componentId": 10747946
@@ -1246,7 +1249,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286881
+                "componentId": 14286880
             },
             {
                 "componentId": 10747946
@@ -1375,7 +1378,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286875
+                "componentId": 14286874
             }
         ]
     },
@@ -1433,7 +1436,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286881
+                "componentId": 14286880
             }
         ]
     },
@@ -1455,7 +1458,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286881
+                "componentId": 14286880
             }
         ]
     },
@@ -1504,7 +1507,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286881
+                "componentId": 14286880
             }
         ]
     },
@@ -1575,7 +1578,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286878
+                "componentId": 14286877
             }
         ]
     },
@@ -1596,7 +1599,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286875
+                "componentId": 14286874
             }
         ]
     },
@@ -1617,7 +1620,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286881
+                "componentId": 14286880
             }
         ]
     },
@@ -1690,11 +1693,15 @@
     },
     {
         "id": 19828,
-        "text": "DIA F: se up Ermin",
+        "text": "SLAY 1: e up Ermin",
         "color": "#FF4CCA27",
         "itemIds": [
-            13069,
-            19476
+            21268
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -1728,7 +1735,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286875
+                "componentId": 14286874
             },
             {
                 "componentId": 10747946
@@ -1815,7 +1822,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286881
+                "componentId": 14286880
             }
         ]
     },
@@ -1833,10 +1840,6 @@
         "widgetIds": [
             {
                 "componentId": 10747947
-            },
-            {
-                "componentId": 15663110,
-                "childIndex": 672
             }
         ]
     },
@@ -1854,10 +1857,6 @@
         "widgetIds": [
             {
                 "componentId": 10747947
-            },
-            {
-                "componentId": 15663110,
-                "childIndex": 215
             }
         ]
     },
@@ -1875,10 +1874,6 @@
         "widgetIds": [
             {
                 "componentId": 10747947
-            },
-            {
-                "componentId": 15663110,
-                "childIndex": 619
             }
         ]
     },
@@ -1896,10 +1891,6 @@
         "widgetIds": [
             {
                 "componentId": 10747947
-            },
-            {
-                "componentId": 15663110,
-                "childIndex": 489
             }
         ]
     },
@@ -1917,10 +1908,6 @@
         "widgetIds": [
             {
                 "componentId": 10747947
-            },
-            {
-                "componentId": 15663110,
-                "childIndex": 439
             }
         ]
     },
@@ -1938,10 +1925,6 @@
         "widgetIds": [
             {
                 "componentId": 10747947
-            },
-            {
-                "componentId": 15663110,
-                "childIndex": 7
             }
         ]
     },
@@ -2059,7 +2042,7 @@
                 "componentId": 10747962
             },
             {
-                "componentId": 14286895
+                "componentId": 14286894
             },
             {
                 "componentId": 10747946
@@ -2102,6 +2085,14 @@
                 "componentId": 57278476,
                 "childIndex": 12
             }
+        ]
+    },
+    {
+        "id": 31268,
+        "text": "+SAIL 1: stash jig",
+        "color": "#FF4CCA27",
+        "itemIds": [
+            32399
         ]
     }
 ]

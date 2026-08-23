@@ -12,6 +12,13 @@ If you're uncertain about a hint's meaning, click the clue to get additional inf
 
 Here are explanations for otherwise unclear hints
 
+### Spellbook Swap
+A teleport name preceded by a number indicates the spellbook associated with the teleport.
+
+- e.g. `1 ARDY: guard` means Spellbook Swap to the Standard spellbook and teleport to Ardougne.
+
+See [Custom Swaps](./swaps/index.md) for hotkeys.
+
 ### General shorthand
 
 | Shorthand | Explanation                                                |
@@ -27,6 +34,7 @@ Here are explanations for otherwise unclear hints
 | GVS       | Goblin village sphere                                      |
 | RESP      | Respawn: set to Edgeville                                  |
 | SOUL      | Soul Wars minigame teleport                                |
+| TB        | Trouble Brewing minigame teleport                          |
 
 ### Ancient Magicks
 
@@ -42,3 +50,19 @@ Here are explanations for otherwise unclear hints
 
 ## 3. Suicide Steps
 When using the Enchanted symbol to suicide in the wildy, kill two of the MA2 bosses and hand in the hearts. This allows you to spam click and damage yourself without delay.
+
+## 4. Boats
+Recommended prioritization of boats with greater teleport focus. Related tier tags assume use of all 4 boats as shown here.
+
+### Non-master boats
+1. Tear of the Soul (Hard)
+2. Wintumber Island (Elite)
+3. Lledrith Island (Elite)/Port Tyras (Hard)
+4. Buccaneers' Haven (Elite)
+
+### Master boats
+1. Brittle Isle
+2. Drumstick Isle
+3. Buccaneers' Heaven
+4. Ynysdail
+5. *Optional*: Witchhaven
