@@ -235,11 +235,6 @@
         "color": "#FF4CCA27",
         "itemIds": [
             13128
-        ],
-        "widgetIds": [
-            {
-                "componentId": 10747960
-            }
         ]
     },
     {
@@ -884,6 +879,9 @@
         ],
         "widgetIds": [
             {
+                "componentId": 10747960
+            },
+            {
                 "componentId": 10747946
             }
         ]
@@ -1502,11 +1500,6 @@
         "color": "#FF4CCA27",
         "itemIds": [
             13128
-        ],
-        "widgetIds": [
-            {
-                "componentId": 10747960
-            }
         ]
     },
     {
@@ -1528,11 +1521,6 @@
         "color": "#FF4CCA27",
         "itemIds": [
             13128
-        ],
-        "widgetIds": [
-            {
-                "componentId": 10747960
-            }
         ]
     },
     {
@@ -1708,11 +1696,15 @@
     },
     {
         "id": 19828,
-        "text": "DIA F: se up Ermin",
+        "text": "SLAY 1: e up Ermin",
         "color": "#FF4CCA27",
         "itemIds": [
-            13069,
-            19476
+            21268
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
