@@ -1707,9 +1707,290 @@
         ]
     },
     {
-        "id": 12128,
-        "text": "Challenge: Sherlock",
-        "color": "#FF00FF00"
+        "id": 400,
+        "text": "CRAFT: D scim",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            13280,
+            13342,
+            4587
+        ]
+    },
+    {
+        "id": 401,
+        "text": "CRAFT: enchant dstone",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            13280,
+            13342,
+            555,
+            557,
+            564,
+            1645
+        ]
+    },
+    {
+        "id": 402,
+        "text": "DIA 7: +nature",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            13069,
+            19476,
+            1462,
+            7936
+        ]
+    },
+    {
+        "id": 403,
+        "text": "DJR: mottled eel",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            2162
+        ]
+    },
+    {
+        "id": 404,
+        "text": "DLS: +skullball",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            6465
+        ]
+    },
+    {
+        "id": 405,
+        "text": "NEX MARIM: +agility",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            19525
+        ]
+    },
+    {
+        "id": 406,
+        "text": "CRAFT: super defence",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            13280,
+            13342,
+            107,
+            239
+        ]
+    },
+    {
+        "id": 407,
+        "text": "TREE 3: castle chest",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            13280,
+            13342
+        ]
+    },
+    {
+        "id": 408,
+        "text": "CRAFT: green dhide body",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            13280,
+            13342,
+            29920,
+            1745
+        ]
+    },
+    {
+        "id": 409,
+        "text": "CRAFT: yew longbow",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            13280,
+            13342,
+            1777,
+            66
+        ]
+    },
+    {
+        "id": 410,
+        "text": "DIA A: Dust Devil",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            13069,
+            19476
+        ]
+    },
+    {
+        "id": 411,
+        "text": "FELDIP: black warlock",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            21389,
+            12404
+        ]
+    },
+    {
+        "id": 412,
+        "text": "FELDIP: +chin",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            21389,
+            12404,
+            10008
+        ]
+    },
+    {
+        "id": 413,
+        "text": "KHAZ: +mithril ore",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            23680
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286976
+            }
+        ]
+    },
+    {
+        "id": 414,
+        "text": "+SAIL 4: +mith 2h",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            32399,
+            2347,
+            2359
+        ],
+        "widgetIds": [
+            {
+                "componentId": 20447245
+            }
+        ]
+    },
+    {
+        "id": 415,
+        "text": "MAX 2: raw shark",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            13280,
+            13342
+        ]
+    },
+    {
+        "id": 416,
+        "text": "MAX B: +yew log",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            13280,
+            13342,
+            28220
+        ]
+    },
+    {
+        "id": 417,
+        "text": "+DORG: magical lamp",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            10972,
+            10973
+        ]
+    },
+    {
+        "id": 418,
+        "text": "CRAFT: burn yew",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            13280,
+            13342,
+            590,
+            1515
+        ]
+    },
+    {
+        "id": 419,
+        "text": "DIA G: +swordfish",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            13069,
+            19476,
+            371
+        ]
+    },
+    {
+        "id": 420,
+        "text": "DIA E: +abyss cosmic",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            13069,
+            19476,
+            11095,
+            1454,
+            7936
+        ]
+    },
+    {
+        "id": 421,
+        "text": "MAX 4: +watermelon",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            13280,
+            13342,
+            5321
+        ]
+    },
+    {
+        "id": 422,
+        "text": "Chivalry",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747961
+            }
+        ]
+    },
+    {
+        "id": 423,
+        "text": "+SAIL 4: +Shayzien platebody",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            32399,
+            2347,
+            13354
+        ]
+    },
+    {
+        "id": 424,
+        "text": "+SAIL 4: +nickel",
+        "color": "#FF00FF00",
+        "itemIds": [
+            13140,
+            32399,
+            23680
+        ]
     },
     {
         "id": 12139,
