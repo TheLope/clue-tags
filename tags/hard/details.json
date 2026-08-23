@@ -27,8 +27,8 @@
             21800,
             27652,
             21820,
-            13280,
-            13342,
+            19476,
+            13069,
             23742
         ]
     },
@@ -42,8 +42,8 @@
             21800,
             27652,
             21820,
-            13280,
-            13342,
+            19476,
+            13069,
             23742
         ]
     },
@@ -56,8 +56,8 @@
             21800,
             27652,
             21820,
-            13280,
-            13342,
+            19476,
+            13069,
             23742,
             13111,
             952
@@ -72,8 +72,8 @@
             21800,
             27652,
             21820,
-            13280,
-            13342,
+            19476,
+            13069,
             23742,
             13111,
             952
@@ -89,8 +89,8 @@
             21800,
             27652,
             21820,
-            13280,
-            13342,
+            19476,
+            13069,
             23742
         ],
         "widgetIds": [
@@ -110,8 +110,8 @@
             21800,
             27652,
             21820,
-            13280,
-            13342,
+            19476,
+            13069,
             23742
         ]
     },
@@ -128,8 +128,8 @@
             21800,
             27652,
             21820,
-            13280,
-            13342,
+            19476,
+            13069,
             23742,
             952
         ]
@@ -148,8 +148,8 @@
             21800,
             27652,
             21820,
-            13280,
-            13342,
+            19476,
+            13069,
             23742
         ]
     },
@@ -163,8 +163,8 @@
             21800,
             27652,
             21820,
-            13280,
-            13342,
+            19476,
+            13069,
             23742
         ]
     },
@@ -241,8 +241,8 @@
             21800,
             27652,
             21820,
-            13280,
-            13342,
+            19476,
+            13069,
             23742
         ]
     },
@@ -311,11 +311,10 @@
     },
     {
         "id": 2778,
-        "text": "MAX B: e Gerrant",
+        "text": "CON 2: e Gerrant",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ]
     },
     {
@@ -405,8 +404,8 @@
             21802,
             952,
             21800,
-            13280,
-            13342
+            19476,
+            13069
         ]
     },
     {
@@ -611,8 +610,7 @@
         "text": "NEX TROLL: e dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ]
     },
@@ -670,15 +668,26 @@
     },
     {
         "id": 3538,
-        "text": "MAX K Tyras: +gp 7 dig",
+        "text": "BOAT Tyras: +gp 7 dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
             952,
             995
         ],
         "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286931
+            },
             {
                 "componentId": 57999364,
                 "childIndex": 16
@@ -704,8 +713,7 @@
         "text": "BIP: grotto",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -718,8 +726,7 @@
         "text": "BKR: sw dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -730,11 +737,10 @@
     },
     {
         "id": 3546,
-        "text": "MAX I: Gu\u0027T",
+        "text": "CON 9: Gu\u0027T",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ]
     },
     {
@@ -760,8 +766,7 @@
         "text": "BIQ: sw dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -805,25 +810,37 @@
         "text": "OBEL 6: -nw dig",
         "color": "#FFFF0000",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952,
             21800,
             27652,
             21820,
-            13280,
-            13342,
+            19476,
+            13069,
             23742
         ]
     },
     {
         "id": 3560,
-        "text": "MAX K Tyras: dig",
+        "text": "BOAT Tyras: dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286931
+            }
         ]
     },
     {
@@ -843,11 +860,22 @@
     },
     {
         "id": 3564,
-        "text": "MAX K Tyras: General",
+        "text": "BOAT Tyras: General",
         "color": "#FFC15FFF",
-        "itemIds": [
-            13280,
-            13342
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286931
+            }
         ]
     },
     {
@@ -918,11 +946,10 @@
     },
     {
         "id": 3573,
-        "text": "MAX 5: house up",
+        "text": "BOX 6: house up",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ]
     },
     {
@@ -965,11 +992,15 @@
     },
     {
         "id": 3579,
-        "text": "CRAFT: -entrana",
+        "text": "GLORY 2: -entrana",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342
+            11978,
+            11976,
+            1712,
+            1710,
+            1708,
+            1706
         ],
         "widgetIds": [
             {
@@ -1001,8 +1032,7 @@
         "text": "BLR: sw dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -1016,8 +1046,7 @@
         "text": "TREE 8: nw dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -1240,8 +1269,7 @@
         "text": "DKS: w dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -1264,8 +1292,7 @@
         "text": "TREE 1: up Bolkoy",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -1288,8 +1315,7 @@
         "text": "OBEL 2: stash",
         "color": "#FFFF00AF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -1299,12 +1325,8 @@
     },
     {
         "id": 10236,
-        "text": "MAX 2: stash",
+        "text": "FISH: stash",
         "color": "#FFFF00AF",
-        "itemIds": [
-            13280,
-            13342
-        ],
         "widgetIds": [
             {
                 "componentId": 10747946
@@ -1316,8 +1338,7 @@
         "text": "ALP: stash",
         "color": "#FFFF00AF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -1333,8 +1354,7 @@
         "text": "ALQ: naked",
         "color": "#FFFF00AF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -1400,8 +1420,7 @@
         "text": "AJR: n stash",
         "color": "#FFFF00AF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -1482,13 +1501,12 @@
         "text": "OBEL 6: -stash",
         "color": "#FFFF0000",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             21800,
             27652,
             21820,
-            13280,
-            13342,
+            19476,
+            13069,
             23742
         ],
         "widgetIds": [
@@ -1551,8 +1569,7 @@
         "text": "CLP: dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -1566,8 +1583,7 @@
         "text": "AJS: dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -1581,8 +1597,7 @@
         "text": "AIR: n dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -1704,11 +1719,10 @@
     },
     {
         "id": 12578,
-        "text": "MAX H: Saniboch",
+        "text": "CON 8: Saniboch",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ]
     },
     {
@@ -1760,8 +1774,7 @@
         "text": "DJR: ne dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -1775,8 +1788,7 @@
         "text": "XER 3: sw dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ]
     },
@@ -1898,8 +1910,7 @@
         "text": "TREE 1: Tree",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -1926,8 +1937,7 @@
         "text": "AIQ: dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -1941,8 +1951,7 @@
         "text": "AIR: s dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -1956,8 +1965,7 @@
         "text": "ALP: dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -1971,8 +1979,7 @@
         "text": "BIP: dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -1986,8 +1993,7 @@
         "text": "BJR: dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -2011,8 +2017,7 @@
         "text": "CKP: dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -2026,8 +2031,7 @@
         "text": "DIP: dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -2041,8 +2045,7 @@
         "text": "DKS: e dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -2056,8 +2059,7 @@
         "text": "CIS: w dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -2084,8 +2086,7 @@
         "text": "NEX MARIM: Awowo",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ]
     },
     {
@@ -2164,8 +2165,7 @@
         "text": "TREE A: Lammy",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             19897
         ],
         "widgetIds": [
@@ -2177,20 +2177,18 @@
     },
     {
         "id": 19898,
-        "text": "MAX J: sw Eluned",
+        "text": "CON A: sw Eluned",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ]
     },
     {
         "id": 19900,
-        "text": "MAX 5: Otto",
+        "text": "+FISH: Otto",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342
+            9799
         ]
     },
     {
@@ -2207,8 +2205,7 @@
         "text": "BIQ: nw Weird",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -2221,8 +2218,7 @@
         "text": "BJR: King",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -2235,8 +2231,7 @@
         "text": "ZANA: Godf",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ]
     },
     {
@@ -2244,8 +2239,7 @@
         "text": "HIDEOUT: Queen",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ]
     },
     {
@@ -2262,8 +2256,7 @@
         "text": "DIGS 2: zip",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -2274,12 +2267,15 @@
     },
     {
         "id": 23045,
-        "text": "MAX 4: sw far",
+        "text": "SKIL 6: sw far",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
-            952
+            11968,
+            11970,
+            11105,
+            11107,
+            11109,
+            11111
         ]
     },
     {
@@ -2293,12 +2289,18 @@
     },
     {
         "id": 23168,
-        "text": "MAX 7: dig",
-        "color": "#FFC15FFF",
+        "text": "REV: -chin dig",
+        "color": "#FFFF0000",
         "itemIds": [
-            13280,
-            13342,
-            952
+            21389,
+            21802,
+            952,
+            21800,
+            27652,
+            21820,
+            19476,
+            13069,
+            23742
         ]
     },
     {
@@ -2311,8 +2313,8 @@
             21800,
             27652,
             21820,
-            13280,
-            13342,
+            19476,
+            13069,
             23742
         ]
     },
@@ -2460,8 +2462,7 @@
         "text": "TREE A: dungeon",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -2487,8 +2488,7 @@
         "text": "BLQ: dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -2502,8 +2502,7 @@
         "text": "AJP: dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -2514,12 +2513,10 @@
     },
     {
         "id": 28916,
-        "text": "MAX 8: Soar Lead",
+        "text": "+QUET: Soar Lead",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
-            28917
+            29275
         ]
     },
     {
@@ -2549,7 +2546,7 @@
     },
     {
         "id": 30929,
-        "text": "QUET Kasto: Sulisal",
+        "text": "+QUET Kasto: Sulisal",
         "color": "#FFC15FFF",
         "itemIds": [
             29275
@@ -2572,12 +2569,25 @@
     },
     {
         "id": 31272,
-        "text": "MAX K Tear: dig",
+        "text": "BOAT Tear: dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286931
+            }
         ]
     },
     {
@@ -2585,8 +2595,7 @@
         "text": "TREE E: sw dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [

@@ -17,8 +17,7 @@
         "text": "CLS: n dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -29,11 +28,10 @@
     },
     {
         "id": 2805,
-        "text": "MAX H: isle dig",
+        "text": "CON 8: isle dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ]
     },
@@ -55,8 +53,7 @@
         "text": "CIQ: nw dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -67,11 +64,17 @@
     },
     {
         "id": 2811,
-        "text": "MAX 5: rope",
+        "text": "GAME 2: rope",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342,
+            3853,
+            3855,
+            3857,
+            3859,
+            3861,
+            3863,
+            3865,
+            3867,
             954
         ]
     },
@@ -195,8 +198,7 @@
         "text": "ALS: dog",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -324,8 +326,7 @@
         "text": "TREE 9: Hajedy",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -402,8 +403,7 @@
         "text": "TREE 1: King",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -444,8 +444,7 @@
         "text": "BKR: sw dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -486,11 +485,10 @@
     },
     {
         "id": 3590,
-        "text": "MAX H: sw dig",
+        "text": "CON 8: sw dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ]
     },
@@ -537,8 +535,7 @@
         "text": "ALS: crate",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -551,8 +548,7 @@
         "text": "DJP: w dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -566,8 +562,7 @@
         "text": "TREE 3: se crate",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -578,11 +573,10 @@
     },
     {
         "id": 3602,
-        "text": "MAX B: chem dig",
+        "text": "CON 2: chem dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ]
     },
@@ -738,8 +732,7 @@
         "text": "AKS: ne Fycie",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -928,12 +921,10 @@
     },
     {
         "id": 7303,
-        "text": "MAX D: camp",
+        "text": "CON 4: camp",
         "color": "#FF4BB7FF",
         "itemIds": [
-            4446,
-            13280,
-            13342
+            9790
         ]
     },
     {
@@ -972,8 +963,7 @@
         "text": "AKS: n dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -987,8 +977,7 @@
         "text": "DKP: dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -1372,12 +1361,17 @@
     },
     {
         "id": 12033,
-        "text": "MAX 6: se dig",
+        "text": "FELDIP: se dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342,
+            21389,
+            12404,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39125005
+            }
         ]
     },
     {
@@ -1418,11 +1412,10 @@
     },
     {
         "id": 12039,
-        "text": "MAX G: potato",
+        "text": "CON 7: potato",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ]
     },
     {
@@ -1430,8 +1423,7 @@
         "text": "TREE D: s dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
@@ -1527,11 +1519,10 @@
     },
     {
         "id": 12055,
-        "text": "MAX 5: Otto",
+        "text": "+FISH: Otto",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342
+            9799
         ]
     },
     {
@@ -1558,20 +1549,18 @@
     },
     {
         "id": 12061,
-        "text": "MAX B: e Tobias",
+        "text": "CON 2: e Tobias",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ]
     },
     {
         "id": 12063,
-        "text": "MAX B: w Taria",
+        "text": "CON 2: w Taria",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ]
     },
     {
@@ -1647,8 +1636,7 @@
         "text": "DJR: e Captain",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -1853,11 +1841,10 @@
     },
     {
         "id": 19768,
-        "text": "MAX D: Kebab",
+        "text": "CON 4: Kebab",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ]
     },
     {
@@ -1978,20 +1965,29 @@
     },
     {
         "id": 23133,
-        "text": "MAX 6: s Madame",
+        "text": "FELDIP: s Madame",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342
+            21389,
+            12404
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39125005
+            }
         ]
     },
     {
         "id": 23135,
-        "text": "MAX 4: dig",
+        "text": "SKIL 6 : dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342,
+            11968,
+            11970,
+            11105,
+            11107,
+            11109,
+            11111,
             952
         ]
     },
@@ -2009,8 +2005,7 @@
         "text": "DIGS 2: zip",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {
@@ -2217,8 +2212,7 @@
         "text": "CJQ: Torgan",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ]
     },
     {
@@ -2226,8 +2220,7 @@
         "text": "CJQ: ne dig",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ]
     },
@@ -2534,8 +2527,7 @@
         "text": "ALP: up",
         "color": "#FF4BB7FF",
         "itemIds": [
-            13280,
-            13342
+            9790
         ],
         "widgetIds": [
             {

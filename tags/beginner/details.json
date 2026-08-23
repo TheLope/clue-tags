@@ -30,11 +30,10 @@
     },
     {
         "id": 3,
-        "text": "MAX C: e Doric",
+        "text": "CON 3: e Doric",
         "color": "#FFC8C8C8",
         "itemIds": [
-            13280,
-            13342
+            9790
         ]
     },
     {
@@ -288,8 +287,7 @@
         "text": "DIS: dig",
         "color": "#FFC8C8C8",
         "itemIds": [
-            13280,
-            13342,
+            9790,
             952
         ],
         "widgetIds": [
