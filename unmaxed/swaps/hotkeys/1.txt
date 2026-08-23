@@ -16,10 +16,14 @@ Enakhra's temple,Camulet
 Jalsavrah,Pharaoh's sceptre
 The Ancient Vault,Ring of shadows
 Rellekka,Enchanted lyre*
-Lunch by*,Book of the dead
+Lunch by*,Book of the Dead
 Surface,Camulet
 Bryophyta*,Giantsoul amulet
-Darkfrost,Pendant of ates
+Darkfrost,Pendant of Ates
 *Monastery*,Ardougne cloak 4
 Kourend Woodland, Rada's blessing 4
 Lletya, Eternal teleport crystal
+Northern entrance,*Revenant cave teleport*
+Ver Sinhaza,Drakan's medallion
+The Pandemonium,Sailors' amulet
+Standard,Spellbook Swap
