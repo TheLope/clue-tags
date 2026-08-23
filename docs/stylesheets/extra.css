@@ -327,3 +327,34 @@ table {
 .wilderness-color {
     color: #FF0000
 }
+
+.variant {
+    display: flex;
+    align-items: center;
+    margin-right: .2rem;
+    padding: .1rem;
+    border: .05rem solid var(--md-default-fg-color--lighter);
+    border-radius: 1rem;
+    font-size: .6rem;
+    white-space: nowrap
+}
+
+.variant__option {
+    padding: .15rem .5rem;
+    border-radius: 1rem;
+    color: var(--md-default-fg-color--light);
+    text-decoration: none
+}
+
+.variant__option:hover {
+    color: var(--md-primary-bg-color)
+}
+
+.variant__option--active {
+    background-color: var(--md-primary-bg-color);
+    color: var(--md-primary-fg-color)
+}
+
+.variant__option--active:hover {
+    color: var(--md-primary-fg-color)
+}
