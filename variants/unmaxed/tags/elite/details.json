@@ -1,0 +1,1732 @@
+[
+    {
+        "id": 12073,
+        "text": "3 W ARDY: stash",
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
+            },
+            {
+                "componentId": 14287013
+            },
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 12074,
+        "text": "LYRE 3: rune stash",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            23458
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 12075,
+        "text": "REV 1: -nw stash",
+        "color": "#FFFF0000",
+        "itemIds": [
+            21802,
+            19476,
+            13069,
+            21800
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 12076,
+        "text": "FISH: +shadow",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            4657,
+            28327
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286984
+            },
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 12077,
+        "text": "STR: stash",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9751
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 12078,
+        "text": "BOX C: stash up",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            },
+            {
+                "componentId": 38666244,
+                "childIndex": 7
+            }
+        ]
+    },
+    {
+        "id": 12079,
+        "text": "QPC: Jeb stash",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13068,
+            9813
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 12080,
+        "text": "SLAY 2: top stash",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            21268
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 12081,
+        "text": "1 TROL: stash",
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286905
+            },
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 12082,
+        "text": "CON 3: hero stash",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 12083,
+        "text": "BOX 6: cave stash",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 12085,
+        "text": "CON 6: +gp 6 dtooth",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790,
+            995
+        ],
+        "widgetIds": [
+            {
+                "componentId": 57999364,
+                "childIndex": 12
+            }
+        ]
+    },
+    {
+        "id": 12086,
+        "text": "TB: island",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 4980758,
+                "childIndex": 28
+            }
+        ]
+    },
+    {
+        "id": 12087,
+        "text": "DKS: nw dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790,
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 24969345
+            }
+        ]
+    },
+    {
+        "id": 12088,
+        "text": "NEX HARM: e dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790,
+            952
+        ]
+    },
+    {
+        "id": 12089,
+        "text": "ETC 1: se dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            23946,
+            952
+        ]
+    },
+    {
+        "id": 12090,
+        "text": "HILT: w gate dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            25936,
+            25934,
+            25932,
+            952
+        ]
+    },
+    {
+        "id": 12091,
+        "text": "+DRAK 1: w wall",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            22400
+        ]
+    },
+    {
+        "id": 12092,
+        "text": "MOON: w around",
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286964
+            }
+        ]
+    },
+    {
+        "id": 12093,
+        "text": "OBEL 6: -volcano",
+        "color": "#FFFF0000",
+        "itemIds": [
+            9790,
+            27652,
+            21800,
+            952,
+            23742,
+            21820
+        ]
+    },
+    {
+        "id": 12094,
+        "text": "LYRE 3: e dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            23458,
+            952
+        ]
+    },
+    {
+        "id": 12095,
+        "text": "ROR: -resource s",
+        "color": "#FFFF0000",
+        "itemIds": [
+            21129,
+            19476,
+            13069,
+            27652,
+            21800,
+            952,
+            23742,
+            21820,
+            13111
+        ]
+    },
+    {
+        "id": 12096,
+        "text": "3 APE ATOLL: w",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
+            },
+            {
+                "componentId": 14287018
+            }
+        ]
+    },
+    {
+        "id": 12097,
+        "text": "ICE: -pirate",
+        "color": "#FFFF0000",
+        "itemIds": [
+            24963,
+            19476,
+            13069,
+            27652,
+            21800,
+            952,
+            23742,
+            21820
+        ]
+    },
+    {
+        "id": 12098,
+        "text": "AKS: nw dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790,
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 24969249
+            }
+        ]
+    },
+    {
+        "id": 12099,
+        "text": "PHAR 1: river dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9044,
+            26948,
+            26950,
+            952
+        ]
+    },
+    {
+        "id": 12100,
+        "text": "CON 4: w dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790,
+            952
+        ]
+    },
+    {
+        "id": 12101,
+        "text": "SWORD: -dig",
+        "color": "#FFFF0000",
+        "itemIds": [
+            13111,
+            952,
+            19476,
+            13069,
+            27652,
+            21800,
+            21820,
+            23742
+        ]
+    },
+    {
+        "id": 12102,
+        "text": "QPC: in dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13068,
+            9813,
+            952
+        ]
+    },
+    {
+        "id": 12103,
+        "text": "BKR: tomb dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790,
+            952
+        ]
+    },
+    {
+        "id": 12104,
+        "text": "SLAY 3: camp",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            21268
+        ]
+    },
+    {
+        "id": 12105,
+        "text": "BOAT Buccaneers: row",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286931
+            }
+        ]
+    },
+    {
+        "id": 12106,
+        "text": "3 APE ATOLL: Lumdo e",
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
+            },
+            {
+                "componentId": 14287018
+            }
+        ]
+    },
+    {
+        "id": 12107,
+        "text": "DIA 7: down dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13069,
+            19476,
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 12255235,
+                "childIndex": 6
+            }
+        ]
+    },
+    {
+        "id": 12108,
+        "text": "ALQ: ship",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790
+        ],
+        "widgetIds": [
+            {
+                "componentId": 24969253
+            }
+        ]
+    },
+    {
+        "id": 12109,
+        "text": "ANNA: -lava dig",
+        "color": "#FFFF0000",
+        "itemIds": [
+            12775,
+            952,
+            19476,
+            13069,
+            27652,
+            21800,
+            23742,
+            21820
+        ]
+    },
+    {
+        "id": 12110,
+        "text": "TAI BWO: ne",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            21389,
+            12409
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39125025
+            }
+        ]
+    },
+    {
+        "id": 12111,
+        "text": "IORW: nw",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            21389,
+            12410
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39125029
+            }
+        ]
+    },
+    {
+        "id": 12113,
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13140
+        ]
+    },
+    {
+        "id": 12114,
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13140
+        ]
+    },
+    {
+        "id": 12115,
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13140
+        ]
+    },
+    {
+        "id": 12116,
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13140
+        ]
+    },
+    {
+        "id": 12117,
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13140
+        ]
+    },
+    {
+        "id": 12118,
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13140
+        ]
+    },
+    {
+        "id": 12119,
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13140
+        ]
+    },
+    {
+        "id": 12120,
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13140
+        ]
+    },
+    {
+        "id": 12121,
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13140
+        ]
+    },
+    {
+        "id": 12122,
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13140
+        ]
+    },
+    {
+        "id": 12123,
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13140
+        ]
+    },
+    {
+        "id": 12124,
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13140
+        ]
+    },
+    {
+        "id": 12125,
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13140
+        ]
+    },
+    {
+        "id": 12126,
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13140
+        ]
+    },
+    {
+        "id": 12127,
+        "text": "HEAD: Sherlock",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13140
+        ]
+    },
+    {
+        "id": 12130,
+        "text": "CIQ: w dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790,
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 24969293
+            }
+        ]
+    },
+    {
+        "id": 12132,
+        "text": "MOON: Oneiro",
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286964
+            }
+        ]
+    },
+    {
+        "id": 12133,
+        "text": "+DORG: Ambassador",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            10972
+        ]
+    },
+    {
+        "id": 12134,
+        "text": "ROR: -Mandrith",
+        "color": "#FFFF0000",
+        "itemIds": [
+            21129,
+            19476,
+            13069,
+            21800,
+            13111
+        ]
+    },
+    {
+        "id": 12135,
+        "text": "ETC 1: Oronwen",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            23946
+        ]
+    },
+    {
+        "id": 12136,
+        "text": "BOX 1: Cam",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790
+        ],
+        "widgetIds": [
+            {
+                "componentId": 38666242,
+                "childIndex": 5
+            }
+        ]
+    },
+    {
+        "id": 12137,
+        "text": "LYRE 1: Sigli",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            23458
+        ]
+    },
+    {
+        "id": 12138,
+        "text": "SLAY 2: Crone",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            21268
+        ]
+    },
+    {
+        "id": 12140,
+        "text": "ETC 1: Mawrth",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            23946
+        ]
+    },
+    {
+        "id": 12141,
+        "text": "HILT: +sled dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            25936,
+            25934,
+            25932,
+            4083,
+            952
+        ]
+    },
+    {
+        "id": 12142,
+        "text": "W BIRTH: w dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286968
+            }
+        ]
+    },
+    {
+        "id": 12143,
+        "text": "+BANN: furnace",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13144
+        ]
+    },
+    {
+        "id": 12144,
+        "text": "STR: top Kam",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9751
+        ]
+    },
+    {
+        "id": 12145,
+        "text": "1 SEER: agi crate",
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286885
+            }
+        ]
+    },
+    {
+        "id": 12146,
+        "text": "BIP: dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790,
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 24969259
+            }
+        ]
+    },
+    {
+        "id": 12147,
+        "text": "+GSA 1: Vannaka",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            30638
+        ]
+    },
+    {
+        "id": 12148,
+        "text": "STR: dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9751,
+            952
+        ]
+    },
+    {
+        "id": 12149,
+        "text": "1 VARR: Aris",
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286874
+            }
+        ]
+    },
+    {
+        "id": 12150,
+        "text": "DIA E: +abyss law",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13069,
+            19476,
+            11095
+        ]
+    },
+    {
+        "id": 12151,
+        "text": "DIA B: Father",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13069,
+            19476
+        ]
+    },
+    {
+        "id": 12152,
+        "text": "CATH: Candle",
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286987
+            }
+        ]
+    },
+    {
+        "id": 12153,
+        "text": "NARDAH: +rope",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            21389,
+            12402,
+            954
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39124997
+            }
+        ]
+    },
+    {
+        "id": 12154,
+        "text": "1 ARDY: Horacio",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13124
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286892
+            }
+        ]
+    },
+    {
+        "id": 12155,
+        "text": "2 KHAR: Barker",
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 2
+            },
+            {
+                "componentId": 14286950
+            }
+        ]
+    },
+    {
+        "id": 12156,
+        "text": "CON 3: stones",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790
+        ]
+    },
+    {
+        "id": 12157,
+        "text": "NMZ: Dominic",
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 4980758,
+                "childIndex": 15
+            },
+            {
+                "componentId": 46333957
+            },
+            {
+                "componentId": 10747942
+            }
+        ]
+    },
+    {
+        "id": 12158,
+        "text": "D AMU Cave: in",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13136
+        ]
+    },
+    {
+        "id": 12159,
+        "text": "ROW 3: Wyson",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            11980,
+            11982,
+            11984,
+            11986,
+            11988
+        ]
+    },
+    {
+        "id": 19782,
+        "text": "KHAZ: +dive",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            7534,
+            7535,
+            11854
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286976
+            }
+        ]
+    },
+    {
+        "id": 19783,
+        "text": "ZUL: ne dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            21389,
+            12938,
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39125041
+            }
+        ]
+    },
+    {
+        "id": 19784,
+        "text": "DIA E: +abyss soul",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13069,
+            19476,
+            11095
+        ],
+        "widgetIds": [
+            {
+                "componentId": 12255235,
+                "childIndex": 13
+            }
+        ]
+    },
+    {
+        "id": 19785,
+        "text": "LEGS: se dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13115,
+            952
+        ]
+    },
+    {
+        "id": 19786,
+        "text": "3 APE ATOLL: w crate",
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
+            },
+            {
+                "componentId": 14287018
+            }
+        ]
+    },
+    {
+        "id": 19787,
+        "text": "HILT: +sled stash",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            25936,
+            25934,
+            25932,
+            4083
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 19788,
+        "text": "DJR: se stash",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790
+        ],
+        "widgetIds": [
+            {
+                "componentId": 24969335
+            },
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 19789,
+        "text": "QPC: stash",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13068,
+            9813
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 19790,
+        "text": "1 ARDY: stash",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13124
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286892
+            },
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 19791,
+        "text": "CON 9: climb stash",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 19792,
+        "text": "SLAY 1: bank Guard",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            21268
+        ]
+    },
+    {
+        "id": 19793,
+        "text": "BOTD 5: se Regath",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            25818
+        ]
+    },
+    {
+        "id": 19794,
+        "text": "BOTD 3: ne Nurse",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            25818
+        ]
+    },
+    {
+        "id": 19795,
+        "text": "LYRE 3: Lisse",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            23458
+        ]
+    },
+    {
+        "id": 19796,
+        "text": "W BIRTH: crab",
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286969
+            }
+        ]
+    },
+    {
+        "id": 19797,
+        "text": "DIA A: hellhound",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13069,
+            19476
+        ]
+    },
+    {
+        "id": 19798,
+        "text": "CON A: waterfiend",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790
+        ]
+    },
+    {
+        "id": 19799,
+        "text": "REV 1: -dragon",
+        "color": "#FFFF0000",
+        "itemIds": [
+            21802,
+            19476,
+            13069,
+            27652,
+            21800,
+            952,
+            23742,
+            21820
+        ]
+    },
+    {
+        "id": 19800,
+        "text": "SLAY 3: +basilisk",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            24266,
+            21268,
+            24265
+        ]
+    },
+    {
+        "id": 19801,
+        "text": "DIA A: bloodveld",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13069,
+            19476
+        ]
+    },
+    {
+        "id": 19802,
+        "text": "SLAY 2: +helm",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            21268
+        ]
+    },
+    {
+        "id": 19803,
+        "text": "HILT: aviansie",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            25936,
+            25934,
+            25932
+        ]
+    },
+    {
+        "id": 19804,
+        "text": "PHAR 1: croc",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9044,
+            26948,
+            26950
+        ]
+    },
+    {
+        "id": 19805,
+        "text": "CEME: -ankou",
+        "color": "#FFFF0000",
+        "itemIds": [
+            19627,
+            27652,
+            21800,
+            952,
+            23742,
+            21820,
+            19476,
+            13069
+        ]
+    },
+    {
+        "id": 19806,
+        "text": "+FISH: mangled",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9799,
+            11337,
+            1515,
+            28220,
+            590
+        ]
+    },
+    {
+        "id": 19807,
+        "text": "BURN 3: -KBD",
+        "color": "#FFFF0000",
+        "itemIds": [
+            21166,
+            21169,
+            21171,
+            21173,
+            21175,
+            19476,
+            13069,
+            19812
+        ]
+    },
+    {
+        "id": 19808,
+        "text": "NEX MARIM: Daga",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790
+        ]
+    },
+    {
+        "id": 19809,
+        "text": "W BIRTH: dks",
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286968
+            }
+        ]
+    },
+    {
+        "id": 19810,
+        "text": "LEGS: batta",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            13115
+        ]
+    },
+    {
+        "id": 19811,
+        "text": "PEST: Veteran",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            21389
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39125017
+            }
+        ]
+    },
+    {
+        "id": 19813,
+        "text": "CON 5: e dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790,
+            952
+        ]
+    },
+    {
+        "id": 21524,
+        "text": "DIGS 2: 4 Jardric",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790
+        ]
+    },
+    {
+        "id": 21525,
+        "text": "+VM: dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            21541,
+            952
+        ]
+    },
+    {
+        "id": 22000,
+        "text": "DIGS 3: up",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790
+        ]
+    },
+    {
+        "id": 23144,
+        "text": "ROR: -resource n",
+        "color": "#FFFF0000",
+        "itemIds": [
+            21129,
+            19476,
+            13069,
+            21800,
+            952,
+            13111
+        ]
+    },
+    {
+        "id": 23145,
+        "text": "DLR: se dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790,
+            952
+        ]
+    },
+    {
+        "id": 23146,
+        "text": "REV 2: w dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            21389,
+            21802,
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 39125049
+            }
+        ]
+    },
+    {
+        "id": 23147,
+        "text": "NEX WEISS: e dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790,
+            28327,
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
+        ]
+    },
+    {
+        "id": 23148,
+        "text": "LYRE 3: w dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            23458,
+            952
+        ]
+    },
+    {
+        "id": 23770,
+        "text": "CON A: ne dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790,
+            952
+        ]
+    },
+    {
+        "id": 24253,
+        "text": "W BIRTH: stone",
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286968
+            }
+        ]
+    },
+    {
+        "id": 24773,
+        "text": "ROW 3: song",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            11980,
+            11982,
+            11984,
+            11986,
+            11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947
+            }
+        ]
+    },
+    {
+        "id": 25498,
+        "text": "3 RESP: portal w dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
+            },
+            {
+                "componentId": 14287010
+            }
+        ]
+    },
+    {
+        "id": 25499,
+        "text": "BJP: e dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790,
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 24969267
+            }
+        ]
+    },
+    {
+        "id": 25786,
+        "text": "CON 5: sw stash",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9790
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 25787,
+        "text": "BOTD 3: sw dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            25818,
+            952
+        ]
+    },
+    {
+        "id": 26943,
+        "text": "ROW 3: song",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            11980,
+            11982,
+            11984,
+            11986,
+            11988
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747947
+            }
+        ]
+    },
+    {
+        "id": 26944,
+        "text": "PHAR 4: s dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            9044,
+            26948,
+            26950,
+            952
+        ]
+    },
+    {
+        "id": 28910,
+        "text": "1 CIV: temple stash",
+        "color": "#FFB7FF00",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286894
+            },
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 28911,
+        "text": "+MOTH: n Funbo",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            29090
+        ]
+    },
+    {
+        "id": 28912,
+        "text": "+QUET Gorge: se dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            29275,
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 57278476,
+                "childIndex": 9
+            }
+        ]
+    },
+    {
+        "id": 29855,
+        "text": "ATES 2: summit dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            29893,
+            952
+        ]
+    },
+    {
+        "id": 29856,
+        "text": "ATES 2: nagua",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            29893
+        ]
+    },
+    {
+        "id": 30932,
+        "text": "ATES 5: nagua",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            29893
+        ]
+    },
+    {
+        "id": 31269,
+        "text": "BOAT Wintumber: stash crab",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            7539,
+            7537
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286931
+            }
+        ]
+    },
+    {
+        "id": 31270,
+        "text": "CJQ: +shield n",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            97902,
+            31398
+        ]
+    },
+    {
+        "id": 31271,
+        "text": "BOAT Lledrith: dig",
+        "color": "#FFB7FF00",
+        "itemIds": [
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 1
+            },
+            {
+                "componentId": 14286931
+            }
+        ]
+    },
+    {
+        "id": 12128,
+        "text": "Challenge: Sherlock",
+        "color": "#FF00FF00"
+    },
+    {
+        "id": 12139,
+        "text": "Challenge",
+        "color": "#FF00FF00"
+    }
+]

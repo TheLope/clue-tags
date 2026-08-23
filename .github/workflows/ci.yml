@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - master
-      - unmaxed
   workflow_dispatch:
 
 permissions:
@@ -20,70 +19,40 @@ jobs:
           ref: master
           fetch-depth: 0
 
-      # 2. Checkout Unmaxed branch into a subfolder
-      - name: Checkout Unmaxed
-        uses: actions/checkout@v4
-        with:
-          ref: unmaxed
-          path: unmaxed-source
-          fetch-depth: 0
-
-      # 3. Install plugins
+      # 2. Install plugins
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
 
       - run: pip install mkdocs-material mkdocs-macros-plugin
 
-      # 4. Generate Changelogs
-      - name: Generate Changelogs
+      # 3. Generate Changelog
+      - name: Generate Changelog
         run: |
           REPO_URL="https://github.com/${{ github.repository }}/commit"
 
-          # 1. Define the logic once
-          create_changelog() {
-            local target_dir=$1
-            echo "Processing changelog for: $target_dir"
+          # Initialize file
+          echo "---" > docs/changelog.md
+          echo "icon: material/clock" >> docs/changelog.md
+          echo "---" >> docs/changelog.md
+          echo "" >> docs/changelog.md
+          echo "# Changelog" >> docs/changelog.md
+          echo "" >> docs/changelog.md
 
-            # Navigate to the target directory
-            # Using (cd ...) in parentheses keeps the "move" temporary
-            (
-              cd "$target_dir"
+          # Generate the commits
+          git log --pretty=format:"%H|%h|%ad|%s" --date=short | while IFS="|" read -r full_hash short_hash date subject; do
+            echo "### $subject" >> docs/changelog.md
+            echo "> **Committed on** $date  " >> docs/changelog.md
+            echo "> [\`$short_hash\`]($REPO_URL/$full_hash)" >> docs/changelog.md
+            echo "" >> docs/changelog.md
+            echo "---" >> docs/changelog.md
+          done
 
-              # Initialize file
-              echo "---" > docs/changelog.md
-              echo "icon: material/clock" >> docs/changelog.md
-              echo "---" >> docs/changelog.md
-              echo "" >> docs/changelog.md
-              echo "# Changelog" >> docs/changelog.md
-              echo "" >> docs/changelog.md
-
-              # Generate the commits
-              git log --pretty=format:"%H|%h|%ad|%s" --date=short | while IFS="|" read -r full_hash short_hash date subject; do
-                echo "### $subject" >> docs/changelog.md
-                echo "> **Committed on** $date  " >> docs/changelog.md
-                echo "> [\`$short_hash\`]($REPO_URL/$full_hash)" >> docs/changelog.md
-                echo "" >> docs/changelog.md
-                echo "---" >> docs/changelog.md
-              done
-            )
-          }
-
-          # 2. Call the logic for both locations
-          create_changelog "."               # Root (Master)
-          create_changelog "unmaxed-source"  # Unmaxed Path
-
-      # 5. Build Sites
+      # 4. Build the maxed site plus every variant in variants/
       - name: Build All Sites
-        run: |
-          # Build Master
-          mkdocs build --site-dir site_final
+        run: scripts/build.sh site_final
 
-          # Build Unmaxed into the subfolder of the Master build
-          cd unmaxed-source
-          mkdocs build --site-dir ../site_final/unmaxed
-
-      # 6. Deploy site_final to gh-pages
+      # 5. Deploy site_final to gh-pages
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:

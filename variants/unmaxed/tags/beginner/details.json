@@ -1,0 +1,418 @@
+[
+    {
+        "id": 0,
+        "text": "GLORY 4: Ranael",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            19707
+        ]
+    },
+    {
+        "id": 1,
+        "text": "PASS 1: down Sedridor",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            21146,
+            21149,
+            21151,
+            21153,
+            21155
+        ]
+    },
+    {
+        "id": 2,
+        "text": "DIA D: Apothecary",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            13069,
+            19476
+        ]
+    },
+    {
+        "id": 3,
+        "text": "CON 3: e Doric",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            9790
+        ]
+    },
+    {
+        "id": 4,
+        "text": "ROTE 1: se Brian",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            26818
+        ]
+    },
+    {
+        "id": 5,
+        "text": "MANOR: Veronica",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            19615
+        ]
+    },
+    {
+        "id": 6,
+        "text": "SKIL 4: Gertrude",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            11968,
+            11970,
+            11105,
+            11107,
+            11109,
+            11111
+        ]
+    },
+    {
+        "id": 7,
+        "text": "FALLY: w Hairdress",
+        "color": "#FFC8C8C8",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286880
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "GLORY 3: Fortunato",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            19707
+        ]
+    },
+    {
+        "id": 9,
+        "text": "LUMB: Hans",
+        "color": "#FFC8C8C8",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286877
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "HOTNCOLD",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            23183
+        ]
+    },
+    {
+        "id": 11,
+        "text": "LUMB: Cook",
+        "color": "#FFC8C8C8",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286877
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "text": "SKULL: Hunding",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            21276
+        ]
+    },
+    {
+        "id": 13,
+        "text": "DIA D: Charlie",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            13069,
+            19476
+        ]
+    },
+    {
+        "id": 14,
+        "text": "DIA 2: Shantay",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            13069,
+            19476
+        ]
+    },
+    {
+        "id": 15,
+        "text": "VARR: Aris stash",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            1635
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286874
+            },
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "text": "GE: Bow",
+        "color": "#FFC8C8C8",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286874
+            },
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "text": "VARR: Iffie stash",
+        "color": "#FFC8C8C8",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286874
+            },
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "text": "DIA B: s stash",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            13069,
+            19476
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "text": "ROTE 4: mine stash",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            26818
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "text": "FALLY: mace Spin",
+        "color": "#FFC8C8C8",
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286880
+            },
+            {
+                "componentId": 10747946
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "text": "COMB 2: w dig",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            11972,
+            11974,
+            11118,
+            11120,
+            11122,
+            11124,
+            952
+        ]
+    },
+    {
+        "id": 22,
+        "text": "SENN: gate n dig",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            12782,
+            952
+        ]
+    },
+    {
+        "id": 23,
+        "text": "DIA G: dig",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            13069,
+            19476,
+            952
+        ]
+    },
+    {
+        "id": 24,
+        "text": "SKULL: stone r dig",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            21276,
+            952
+        ]
+    },
+    {
+        "id": 25,
+        "text": "DIS: dig",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            9790,
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 24969329
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "text": "trout: Charlie",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            333
+        ]
+    },
+    {
+        "id": 27,
+        "text": "pike: Charlie",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            351
+        ]
+    },
+    {
+        "id": 28,
+        "text": "herring: Charlie",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            345
+        ]
+    },
+    {
+        "id": 29,
+        "text": "raw trout: Charlie",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            335
+        ]
+    },
+    {
+        "id": 30,
+        "text": "ore: Charlie",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            440
+        ]
+    },
+    {
+        "id": 31,
+        "text": "dagger: Charlie",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            1203
+        ]
+    },
+    {
+        "id": 32,
+        "text": "body: Charlie",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            1129
+        ]
+    },
+    {
+        "id": 33,
+        "text": "chaps: Charlie",
+        "color": "#FFC8C8C8",
+        "itemIds": [
+            1095
+        ]
+    },
+    {
+        "id": 34,
+        "text": "MANOR: nw dig",
+        "color": "#FFFF5A00",
+        "itemIds": [
+            23183,
+            952,
+            19615
+        ]
+    },
+    {
+        "id": 35,
+        "text": "GLORY 3: wheat dig",
+        "color": "#FFFF5A00",
+        "itemIds": [
+            23183,
+            952,
+            19707
+        ]
+    },
+    {
+        "id": 36,
+        "text": "LASS: dig",
+        "color": "#FFFF5A00",
+        "itemIds": [
+            23183,
+            952,
+            12780
+        ]
+    },
+    {
+        "id": 37,
+        "text": "COMB 4: cow dig",
+        "color": "#FFFF5A00",
+        "itemIds": [
+            23183,
+            11972,
+            11974,
+            11118,
+            11120,
+            11122,
+            11124,
+            952
+        ]
+    },
+    {
+        "id": 38,
+        "text": "ROTE 4: mine ne dig",
+        "color": "#FFFF5A00",
+        "itemIds": [
+            23183,
+            952,
+            26818
+        ]
+    }
+]
