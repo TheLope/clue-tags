@@ -2,14 +2,14 @@
  * Renders the RuneLite "Copy Banktag Loadout" string (already emitted into the
  * page by the `banktags()` macro in main.py) as a visual bank-interface grid.
  *
- * The grid starts hidden by default and is built lazily the first time it's
- * revealed, so a page view that never opens it never costs a mapping fetch
- * or DOM build. "Revealed" means either clicking the "Show Bank Grid" button
- * (id="bank-grid-toggle"), or - if it was left open on a previous page view
- * anywhere on the site - automatically on load, via a localStorage flag the
- * toggle keeps up to date. That's what makes the open/closed state survive
- * switching the maxed/unmaxed toggle: that's just a normal navigation to a
- * different path on the same origin.
+ * The bank view starts hidden by default and is built lazily the first time
+ * it's revealed, so a page view that never opens it never costs a mapping
+ * fetch or DOM build. "Revealed" means either clicking the "Show Bank View"
+ * button (id="bank-view-toggle"), or - if it was left open on a previous page
+ * view anywhere on the site - automatically on load, via a localStorage flag
+ * the toggle keeps up to date. That's what makes the open/closed state
+ * survive switching the maxed/unmaxed toggle: that's just a normal
+ * navigation to a different path on the same origin.
  *
  * The loadout string only carries item IDs, not names, so this pulls from a
  * couple of small same-origin files generated at build time by main.py
@@ -41,12 +41,12 @@
  * Cells have no per-slot background of their own - the real OSRS bank
  * interface doesn't box in individual slots the way the equipment/inventory
  * widgets do, it's just items sitting on the plain wood panel background
- * (see .equipment in stylesheets/extra.css, applied to the whole grid via
- * the wrapper's class list in main.py).
+ * (see .equipment in stylesheets/extra.css, applied to the whole bank view
+ * via the wrapper's class list in main.py).
  *
  * Works generically on any bank tag page: it looks for
- *   <div class="bank-grid" data-source="ID_OF_HIDDEN_TEXTAREA" hidden></div>
- * paired with a #bank-grid-toggle button, and reads the loadout string out
+ *   <div class="bank-view" data-source="ID_OF_HIDDEN_TEXTAREA" hidden></div>
+ * paired with a #bank-view-toggle button, and reads the loadout string out
  * of that textarea. No per-tier JS needed.
  */
 (function () {
@@ -109,17 +109,17 @@
     const maxSlot = loadout.slots.size ? Math.max(...loadout.slots.keys()) : -1;
     const rows = Math.max(4, Math.ceil((maxSlot + 1) / COLS));
     const grid = document.createElement("div");
-    grid.className = "bank-grid__grid";
+    grid.className = "bank-view__grid";
 
     for (let i = 0; i < rows * COLS; i++) {
       const cell = document.createElement("div");
-      cell.className = "bank-grid__cell";
+      cell.className = "bank-view__cell";
       const rawId = loadout.slots.get(i);
 
       if (rawId !== undefined) {
         const placeholder = rawId < 0;
         const id = Math.abs(rawId);
-        if (placeholder) cell.classList.add("bank-grid__cell--placeholder");
+        if (placeholder) cell.classList.add("bank-view__cell--placeholder");
 
         // The sprite is keyed by ID, so it renders regardless of whether the
         // name lookup below succeeds (untradeable items aren't in the price
@@ -156,9 +156,9 @@
   function renderInto(container, loadouts, itemMap) {
     container.innerHTML = "";
     const tabs = document.createElement("div");
-    tabs.className = "bank-grid__tabs";
+    tabs.className = "bank-view__tabs";
     const body = document.createElement("div");
-    body.className = "bank-grid__body";
+    body.className = "bank-view__body";
     container.appendChild(tabs);
     container.appendChild(body);
 
@@ -166,7 +166,7 @@
       body.innerHTML = "";
       body.appendChild(buildGrid(loadouts[idx], itemMap));
       [...tabs.children].forEach((t, i) =>
-        t.classList.toggle("bank-grid__tab--active", i === idx)
+        t.classList.toggle("bank-view__tab--active", i === idx)
       );
     }
 
@@ -175,7 +175,7 @@
       loadouts.forEach((l, idx) => {
         const tab = document.createElement("button");
         tab.type = "button";
-        tab.className = "bank-grid__tab";
+        tab.className = "bank-view__tab";
         tab.textContent = l.name;
         tab.addEventListener("click", () => show(idx));
         tabs.appendChild(tab);
@@ -186,13 +186,13 @@
     show(0);
   }
 
-  // Remembers whether the grid was left open, so it comes back open on the
-  // next page view - including switching the maxed/unmaxed toggle, which is
-  // just a normal navigation to a different path on the same origin, so
+  // Remembers whether the bank view was left open, so it comes back open on
+  // the next page view - including switching the maxed/unmaxed toggle, which
+  // is just a normal navigation to a different path on the same origin, so
   // localStorage carries across it for free. Wrapped in try/catch: storage
   // can throw in private browsing / with site data blocked, and this is a
-  // nice-to-have, not something that should ever break the grid itself.
-  const OPEN_STORAGE_KEY = "bank-grid-open";
+  // nice-to-have, not something that should ever break the bank view itself.
+  const OPEN_STORAGE_KEY = "bank-view-open";
   function getStoredOpenState() {
     try {
       return localStorage.getItem(OPEN_STORAGE_KEY) === "true";
@@ -208,11 +208,11 @@
     }
   }
 
-  // The grid starts hidden (main.py renders it with the `hidden` attribute)
-  // and is only built the first time it's revealed, so a page view that
-  // never opens it never pays for the mapping fetch or the DOM build.
+  // The bank view starts hidden (main.py renders it with the `hidden`
+  // attribute) and is only built the first time it's revealed, so a page
+  // view that never opens it never pays for the mapping fetch or DOM build.
   function wireToggle(container) {
-    const toggle = document.getElementById("bank-grid-toggle");
+    const toggle = document.getElementById("bank-view-toggle");
     if (!toggle) return;
 
     let rendered = false;
@@ -227,12 +227,12 @@
         }
       }
       container.hidden = false;
-      toggle.textContent = "Hide Bank Grid";
+      toggle.textContent = "Hide Bank View";
     }
 
     function hide() {
       container.hidden = true;
-      toggle.textContent = "Show Bank Grid";
+      toggle.textContent = "Show Bank View";
     }
 
     toggle.addEventListener("click", () => {
@@ -246,7 +246,7 @@
   }
 
   function init() {
-    document.querySelectorAll(".bank-grid[data-source]").forEach(wireToggle);
+    document.querySelectorAll(".bank-view[data-source]").forEach(wireToggle);
   }
 
   // mkdocs-material's instant-navigation feature swaps page content without a
@@ -254,7 +254,7 @@
   // so when it's present it's the only listener wired up - subscribing to it
   // *and* DOMContentLoaded would double-init on first load, attaching two
   // click listeners to the same toggle button and making it a no-op (each
-  // click flips the grid open then immediately shut again).
+  // click flips the bank view open then immediately shut again).
   if (typeof document$ !== "undefined") {
     document$.subscribe(init);
   } else if (document.readyState === "loading") {

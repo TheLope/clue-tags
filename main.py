@@ -25,7 +25,7 @@ def collect_bank_item_ids():
 
 def generate_bank_item_names(ids):
     """
-    The bank-grid feature (docs/javascripts/bank-grid.js) needs item names
+    The bank-view feature (docs/javascripts/bank-view.js) needs item names
     for the ~265 item IDs referenced across all tags/*/bank.txt files, but
     the OSRS Wiki's price-mapping API returns all ~4,650 tradeable items
     (a few hundred KB). Fetching that in full from every visitor's browser
@@ -59,13 +59,13 @@ def generate_bank_item_names(ids):
     try:
         request = urllib.request.Request(
             'https://prices.runescape.wiki/api/v1/osrs/mapping',
-            headers={'User-Agent': 'clue-tags bank-grid item name cache (https://github.com/TheLope/clue-tags)'},
+            headers={'User-Agent': 'clue-tags bank-view item name cache (https://github.com/TheLope/clue-tags)'},
         )
         with urllib.request.urlopen(request, timeout=15) as response:
             mapping = json.loads(response.read())
         names = {str(item['id']): item['name'] for item in mapping if item['id'] in ids}
     except Exception as e:
-        print(f'[bank-grid] warning: could not refresh item names ({e})')
+        print(f'[bank-view] warning: could not refresh item names ({e})')
         if existing is not None:
             return  # keep the previously generated file rather than clobbering it
         names = {}
@@ -94,14 +94,14 @@ def generate_bank_item_icons(ids):
     a much heavier, more repeated ask of chisel than the single-request name
     lookup. Already-downloaded icons are left in place, so a normal build
     (nothing new added to any bank.txt) hits chisel zero times; only newly
-    referenced item IDs get fetched. bank-grid.js falls back to the live
+    referenced item IDs get fetched. bank-view.js falls back to the live
     sprite URL client-side if a specific icon is still missing locally, so a
     partial/failed fetch here degrades gracefully rather than breaking that
     item's icon.
     """
     out_dir = 'docs/bank/data/icons'
     os.makedirs(out_dir, exist_ok=True)
-    headers = {'User-Agent': 'clue-tags bank-grid icon cache (https://github.com/TheLope/clue-tags)'}
+    headers = {'User-Agent': 'clue-tags bank-view icon cache (https://github.com/TheLope/clue-tags)'}
     fetched, skipped, failed = 0, 0, 0
 
     for item_id in sorted(ids):
@@ -119,11 +119,11 @@ def generate_bank_item_icons(ids):
                     f.write(response.read())
             fetched += 1
         except Exception as e:
-            print(f'[bank-grid] warning: could not fetch icon for item {item_id} ({e})')
+            print(f'[bank-view] warning: could not fetch icon for item {item_id} ({e})')
             failed += 1
 
     if fetched or failed:
-        print(f'[bank-grid] icons: {fetched} fetched, {skipped} already cached, {failed} failed')
+        print(f'[bank-view] icons: {fetched} fetched, {skipped} already cached, {failed} failed')
 
 
 def define_env(env):
@@ -270,8 +270,8 @@ def define_env(env):
             Copy Banktag Loadout
         </button>
     </div>
-    <button id="bank-grid-toggle" type="button" class="equipment">Show Bank Grid</button>
-    <div class="bank-grid equipment" data-source="banktags" hidden></div>
+    <button id="bank-view-toggle" type="button" class="equipment">Show Bank View</button>
+    <div class="bank-view equipment" data-source="banktags" hidden></div>
 </td>
 """
 

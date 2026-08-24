@@ -79,7 +79,7 @@ extra:
     property: G-7XSDV8ZS27
 extra_css:
   - stylesheets/extra.css
-  - stylesheets/bank-grid.css
+  - stylesheets/bank-view.css
 plugins:
   - search
   - macros:
@@ -96,4 +96,4 @@ extra_javascript:
   - javascripts/convert.js
   - javascripts/widgetConverter.js
   - javascripts/variant.js
-  - javascripts/bank-grid.js
+  - javascripts/bank-view.js

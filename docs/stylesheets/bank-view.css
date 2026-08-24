@@ -1,7 +1,7 @@
 /*
- * Bank tag loadout grid.
+ * Bank tag loadout view.
  *
- * The wrapper carries class="bank-grid equipment" in main.py, so the wood
+ * The wrapper carries class="bank-view equipment" in main.py, so the wood
  * interface border/background and the pixelated-icon media query already
  * defined for .equipment in extra.css apply here for free. Cells deliberately
  * have no per-slot background of their own - the real OSRS bank interface is
@@ -9,28 +9,28 @@
  * equipment/inventory widgets - so items just sit on that same wood panel.
  *
  * Hidden by default (main.py renders it with the `hidden` attribute) and
- * revealed under the "Copy Banktag Loadout"/"Show Bank Grid" buttons by
- * bank-grid.js on click.
+ * revealed under the "Copy Banktag Loadout"/"Show Bank View" buttons by
+ * bank-view.js on click.
  */
 
-.bank-grid {
+.bank-view {
     display: block;
     width: fit-content;
     margin: 7px auto 0
 }
 
-.bank-grid[hidden] {
+.bank-view[hidden] {
     display: none
 }
 
-.bank-grid__tabs {
+.bank-view__tabs {
     display: flex;
     flex-wrap: wrap;
     gap: .3rem;
     margin-bottom: 7px
 }
 
-.bank-grid__tab {
+.bank-view__tab {
     background: none;
     border: .05rem solid var(--md-default-fg-color--lighter);
     border-radius: 1rem;
@@ -41,23 +41,23 @@
     cursor: pointer
 }
 
-.bank-grid__tab:hover {
+.bank-view__tab:hover {
     color: var(--md-primary-bg-color)
 }
 
-.bank-grid__tab--active {
+.bank-view__tab--active {
     background-color: var(--md-primary-bg-color);
     border-color: var(--md-primary-bg-color);
     color: var(--md-primary-fg-color)
 }
 
-.bank-grid__grid {
+.bank-view__grid {
     display: grid;
     grid-template-columns: repeat(8, 36px);
     gap: 2px
 }
 
-.bank-grid__cell {
+.bank-view__cell {
     width: 36px;
     height: 36px;
     display: flex;
@@ -68,7 +68,7 @@
     text-align: center
 }
 
-.bank-grid__cell a {
+.bank-view__cell a {
     display: flex;
     width: 100%;
     height: 100%;
@@ -76,7 +76,7 @@
     justify-content: center
 }
 
-.bank-grid__cell--placeholder img {
+.bank-view__cell--placeholder img {
     opacity: .35;
     filter: grayscale(1)
 }
