@@ -405,17 +405,27 @@ def generate_diagram_item_ids(names, infobox_items):
     hand-typed and doesn't always match the wiki's own capitalization
     exactly (found "Scythe of vitur" vs. the wiki's "Scythe of Vitur" while
     building this - a real, pre-existing bug the old naive guess never
-    caught either, since the URL it built was wrong too). Two more
-    fallbacks handle cases an exact match still misses:
-      - Our name carries a qualifier the wiki's item_name doesn't, e.g. our
-        "Catherby teleport (tablet)" vs. the wiki's "Catherby teleport" (the
-        "(tablet)" only appears in the page title, not the item name) -
-        strip a trailing "(...)" and retry.
-      - No unqualified entry exists at all, only charge-count variants (our
-        "Burning amulet" has no bare infobox entry, only "Burning
-        amulet(1)" through "(5)") - use the highest charge count as the
-        stand-in for "the item" generically, same idea as preferring the
-        biggest pile icon for stackable currencies elsewhere in this file.
+    caught either, since the URL it built was wrong too). Three more rules
+    handle cases an exact match still gets wrong or misses entirely:
+      - A bare name (no parenthetical qualifier of our own) with a
+        charge-count series prefers the *highest* charge over the bare
+        infobox entry, even when that bare entry technically matches by
+        name - it can otherwise represent the *uncharged* state (Combat
+        bracelet, Ring of wealth, and Skills necklace's own bare rows all
+        do), which isn't what a plain "Combat bracelet" display should
+        show. Some names (Burning amulet, Necklace of passage, ...) have
+        no bare entry at all, only numbered variants, so this also
+        resolves those.
+      - An explicit qualifier we typed ourselves is respected exactly
+        rather than overridden by the rule above: "Pharaoh's sceptre
+        (uncharged)" has its own exact infobox entry (and its base name
+        also happens to have a charge-count series) - since our name
+        itself carries a parenthetical, the charge-count preference is
+        skipped entirely and the exact match wins.
+      - Failing an exact match, our name may carry a qualifier the wiki's
+        item_name doesn't - e.g. our "Catherby teleport (tablet)" vs. the
+        wiki's "Catherby teleport" (the "(tablet)" only disambiguates the
+        page title, not the item) - strip a trailing "(...)" and retry.
     Names with no infobox match by any of these keep the old live-hotlink
     fallback in item_render(), so this can only fix an icon, never break
     one that already worked - verification is implicit here, since
@@ -451,14 +461,35 @@ def generate_diagram_item_ids(names, infobox_items):
 
         def resolve(name):
             key = name.lower()
+
+            # A name with no parenthetical qualifier of its own: prefer a
+            # genuine charge-count series over the bare infobox entry, if
+            # one exists, even when that bare entry technically matches by
+            # name. Confirmed in practice: Combat bracelet/Ring of wealth/
+            # Skills necklace's own bare row shows the *uncharged* look;
+            # Burning amulet/Necklace of passage/Games necklace/Ring of
+            # dueling have no bare row at all. Either way, the highest
+            # charge count is what a plain "the item" name should show.
+            if '(' not in name:
+                variants = by_charge_base.get(key)
+                if variants:
+                    return max(variants, key=lambda v: v[0])[1]
+
             if key in by_name:
                 return by_name[key][0]
+
+            # Our name may carry a qualifier the wiki's item_name doesn't
+            # (e.g. our "Catherby teleport (tablet)" vs. the wiki's
+            # "Catherby teleport" - "(tablet)" only disambiguates the page
+            # title, not the item). Deliberately doesn't fall through to
+            # the charge-count preference above: an explicit qualifier we
+            # typed ourselves, like "(uncharged)" on Pharaoh's sceptre,
+            # should be honored exactly when it matches, not silently
+            # swapped for a differently-charged variant.
             stripped = re.sub(r'\s*\([^)]*\)\s*$', '', name).strip().lower()
             if stripped and stripped != key and stripped in by_name:
                 return by_name[stripped][0]
-            variants = by_charge_base.get(key) or (by_charge_base.get(stripped) if stripped else None)
-            if variants:
-                return max(variants, key=lambda v: v[0])[1]
+
             return None
 
         item_ids = {}
