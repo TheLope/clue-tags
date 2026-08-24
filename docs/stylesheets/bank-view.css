@@ -13,6 +13,9 @@
  * is sized for its thin repeating border, not for framing a block of
  * content the way .inventorytable's is, and this widget is closer in shape
  * to the inventory grid than to the equipment diagram or the Copy button.
+ * Cells are sized 43x36 to match .inventorytable td too: the icons are
+ * narrower than that, same as in the inventory view, so the cell (not the
+ * icon) is what's actually setting the horizontal rhythm of the grid.
  *
  * Hidden by default (main.py renders it with the `hidden` attribute) and
  * revealed under the "Copy Banktag Loadout"/"Show Bank View" buttons by
@@ -60,12 +63,12 @@
 
 .bank-view__grid {
     display: grid;
-    grid-template-columns: repeat(8, 36px);
+    grid-template-columns: repeat(8, 43px);
     gap: 2px
 }
 
 .bank-view__cell {
-    width: 36px;
+    width: 43px;
     height: 36px;
     display: flex;
     align-items: center;
