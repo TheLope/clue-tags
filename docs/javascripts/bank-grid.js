@@ -59,7 +59,7 @@
     if (!mappingPromise) {
       mappingPromise = fetch(NAMES_URL)
         .then((r) => r.json())
-        .then((obj) => new Map(Object.entries(obj).map(([id, name]) => [Number(id), name])))
+        .then((obj) => new Map(Object.entries(obj.names || {}).map(([id, name]) => [Number(id), name])))
         .catch(() => new Map());
     }
     return mappingPromise;

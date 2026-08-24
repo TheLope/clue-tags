@@ -32,8 +32,30 @@ def generate_bank_item_names(ids):
     on every page view is wasteful for a community-hosted API, so resolve
     just the IDs we actually use once here at build time instead, and let
     the client fetch this small same-origin file.
+
+    Skips re-fetching (and rewriting the file) entirely unless the actual
+    set of item IDs has changed since the last time this ran. Without that
+    check, every `mkdocs serve` rebuild - including ones triggered by
+    editing unrelated markdown - would re-fetch the wiki's mapping and
+    rewrite item-names.json. Since that file lives under docs/, which the
+    dev server watches for live-reload, rewriting it on every rebuild would
+    itself trigger another rebuild: an infinite reload loop, slowing down
+    (and spamming reloads on) every local dev session.
     """
     out_path = 'docs/bank/data/item-names.json'
+    ids_key = sorted(ids)
+
+    existing = None
+    if os.path.exists(out_path):
+        try:
+            with open(out_path) as f:
+                existing = json.load(f)
+        except (json.JSONDecodeError, OSError):
+            existing = None
+
+    if existing is not None and existing.get('ids') == ids_key:
+        return
+
     try:
         request = urllib.request.Request(
             'https://prices.runescape.wiki/api/v1/osrs/mapping',
@@ -44,13 +66,13 @@ def generate_bank_item_names(ids):
         names = {str(item['id']): item['name'] for item in mapping if item['id'] in ids}
     except Exception as e:
         print(f'[bank-grid] warning: could not refresh item names ({e})')
-        if os.path.exists(out_path):
+        if existing is not None:
             return  # keep the previously generated file rather than clobbering it
         names = {}
 
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     with open(out_path, 'w') as f:
-        json.dump(names, f)
+        json.dump({'ids': ids_key, 'names': names}, f)
 
 
 def generate_bank_item_icons(ids):
