@@ -80,3 +80,10 @@
     opacity: .35;
     filter: grayscale(1)
 }
+
+.bank-view__loading {
+    padding: 8px;
+    font-size: .7rem;
+    color: var(--md-default-fg-color--light);
+    text-align: center
+}

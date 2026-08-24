@@ -44,6 +44,13 @@
  * (see .equipment in stylesheets/extra.css, applied to the whole bank view
  * via the wrapper's class list in main.py).
  *
+ * The toggle button keeps aria-expanded in sync, empty cells are marked
+ * aria-hidden, and when a tier has more than one saved loadout the tab strip
+ * uses the standard tablist/tab/tabpanel ARIA roles. A brief "Loading…"
+ * placeholder covers the gap between clicking the toggle and the mapping
+ * fetch resolving, so the panel doesn't sit looking inert on a slow
+ * connection.
+ *
  * Works generically on any bank tag page: it looks for
  *   <div class="bank-view" data-source="ID_OF_HIDDEN_TEXTAREA" hidden></div>
  * paired with a #bank-view-toggle button, and reads the loadout string out
@@ -116,7 +123,9 @@
       cell.className = "bank-view__cell";
       const rawId = loadout.slots.get(i);
 
-      if (rawId !== undefined) {
+      if (rawId === undefined) {
+        cell.setAttribute("aria-hidden", "true");
+      } else {
         const placeholder = rawId < 0;
         const id = Math.abs(rawId);
         if (placeholder) cell.classList.add("bank-view__cell--placeholder");
@@ -159,24 +168,33 @@
     tabs.className = "bank-view__tabs";
     const body = document.createElement("div");
     body.className = "bank-view__body";
+    body.id = "bank-view-panel";
     container.appendChild(tabs);
     container.appendChild(body);
 
     function show(idx) {
       body.innerHTML = "";
       body.appendChild(buildGrid(loadouts[idx], itemMap));
-      [...tabs.children].forEach((t, i) =>
-        t.classList.toggle("bank-view__tab--active", i === idx)
-      );
+      [...tabs.children].forEach((t, i) => {
+        const active = i === idx;
+        t.classList.toggle("bank-view__tab--active", active);
+        t.setAttribute("aria-selected", active ? "true" : "false");
+        if (active) body.setAttribute("aria-labelledby", t.id);
+      });
     }
 
     // Only show tabs when a bank.txt has more than one banktags,... line.
     if (loadouts.length > 1) {
+      tabs.setAttribute("role", "tablist");
+      body.setAttribute("role", "tabpanel");
       loadouts.forEach((l, idx) => {
         const tab = document.createElement("button");
         tab.type = "button";
+        tab.id = `bank-view-tab-${idx}`;
         tab.className = "bank-view__tab";
         tab.textContent = l.name;
+        tab.setAttribute("role", "tab");
+        tab.setAttribute("aria-controls", body.id);
         tab.addEventListener("click", () => show(idx));
         tabs.appendChild(tab);
       });
@@ -223,16 +241,23 @@
         const source = document.getElementById(container.dataset.source);
         const loadouts = source ? parseLoadouts(source.value || source.textContent || "") : [];
         if (loadouts.length) {
+          // renderInto() clears this once the mapping's ready; on a slow
+          // connection the mapping fetch (and, once rendered, the icon
+          // loads) can take a moment, so show something immediately rather
+          // than leaving the panel looking unresponsive after the click.
+          container.innerHTML = '<div class="bank-view__loading">Loading…</div>';
           loadMapping().then((itemMap) => renderInto(container, loadouts, itemMap));
         }
       }
       container.hidden = false;
       toggle.textContent = "Hide Bank View";
+      toggle.setAttribute("aria-expanded", "true");
     }
 
     function hide() {
       container.hidden = true;
       toggle.textContent = "Show Bank View";
+      toggle.setAttribute("aria-expanded", "false");
     }
 
     toggle.addEventListener("click", () => {
