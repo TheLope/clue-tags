@@ -4,6 +4,13 @@ on:
     branches:
       - master
   workflow_dispatch:
+  schedule:
+    # Refreshes bank-view item names/wiki links even if nobody pushes for a
+    # while - docs/bank/data/item-names.json isn't committed, so every build
+    # (including this one) resolves item names fresh from the wiki; without
+    # a periodic trigger the deployed site would only pick up upstream name
+    # changes (a renamed item, say) whenever someone next happened to push.
+    - cron: "0 0 1 * *" # 00:00 UTC on the 1st of each month
 
 permissions:
   contents: write

@@ -2,7 +2,11 @@ import glob
 import json
 import os
 import re
+import time
+import urllib.parse
 import urllib.request
+
+NAMES_STALE_AFTER_SECONDS = 30 * 24 * 60 * 60  # 30 days
 
 
 def collect_bank_item_ids():
@@ -23,24 +27,86 @@ def collect_bank_item_ids():
     return ids
 
 
+def fetch_infobox_item_names():
+    """
+    Crawls the OSRS Wiki's Bucket API (action=bucket, the infobox_item
+    bucket) for item_id -> item_name, paginated 500 rows at a time (~28
+    requests for the current catalogue). The query language has no IN/array
+    filter to look up just our ~265 known IDs server-side (array literals
+    aren't supported by its grammar at all), so a full crawl filtered
+    locally is actually fewer total requests than one query per ID would be.
+
+    Unlike the OSRS Wiki's price-mapping API (GE-tradeable items only, ~4,650
+    of them), infobox data covers untradeable items too - quest rewards,
+    currencies like Coins, cosmetic overrides - which is most of what's left
+    unresolved after generate_bank_item_names() checks the price mapping.
+    The category exclusions below mirror the ones
+    github.com/JZomDev/BankLayoutViewer's own generation script uses to skip
+    interface elements, unobtainable/beta/discontinued content, and the like.
+    """
+    names = {}
+    offset = 0
+    while True:
+        query = (
+            "bucket('infobox_item').select('item_id','item_name')"
+            ".where('Category:Items')"
+            ".where('item_id', '!=', bucket.Null())"
+            ".where('item_name', '!=', bucket.Null())"
+            ".where(bucket.Not('Category:Interface items'))"
+            ".where(bucket.Not('Category:Unobtainable items'))"
+            ".where(bucket.Not('Category:Pages using information from game APIs or cache'))"
+            ".where(bucket.Not('Category:Discontinued content'))"
+            ".where(bucket.Not('Category:Beta items'))"
+            f".limit(500).offset({offset}).run()"
+        )
+        params = urllib.parse.urlencode({'action': 'bucket', 'format': 'json', 'query': query})
+        request = urllib.request.Request(
+            f'https://oldschool.runescape.wiki/api.php?{params}',
+            headers={'User-Agent': 'clue-tags bank-view item name cache (https://github.com/TheLope/clue-tags)'},
+        )
+        with urllib.request.urlopen(request, timeout=20) as response:
+            data = json.loads(response.read())
+        if 'error' in data:
+            raise RuntimeError(f'bucket query error: {data["error"]}')
+
+        rows = data.get('bucket', [])
+        for row in rows:
+            item_ids = row.get('item_id')
+            item_name = row.get('item_name')
+            if not item_ids or not item_name:
+                continue
+            try:
+                names[int(item_ids[0])] = item_name
+            except (ValueError, TypeError):
+                continue
+
+        if len(rows) < 500:
+            break
+        offset += 500
+
+    return names
+
+
 def generate_bank_item_names(ids):
     """
     The bank-view feature (docs/javascripts/bank-view.js) needs item names
-    for the ~265 item IDs referenced across all tags/*/bank.txt files, but
-    the OSRS Wiki's price-mapping API returns all ~4,650 tradeable items
-    (a few hundred KB). Fetching that in full from every visitor's browser
-    on every page view is wasteful for a community-hosted API, so resolve
-    just the IDs we actually use once here at build time instead, and let
-    the client fetch this small same-origin file.
+    for the ~265 item IDs referenced across all tags/*/bank.txt files. Rather
+    than have every visitor's browser fetch wiki data live, resolve just the
+    IDs we actually use once here at build time (via fetch_infobox_item_names()
+    above) and let the client fetch this small same-origin file.
 
-    Skips re-fetching (and rewriting the file) entirely unless the actual
-    set of item IDs has changed since the last time this ran. Without that
-    check, every `mkdocs serve` rebuild - including ones triggered by
-    editing unrelated markdown - would re-fetch the wiki's mapping and
-    rewrite item-names.json. Since that file lives under docs/, which the
-    dev server watches for live-reload, rewriting it on every rebuild would
-    itself trigger another rebuild: an infinite reload loop, slowing down
-    (and spamming reloads on) every local dev session.
+    Skips re-fetching (and rewriting the file) unless the actual set of item
+    IDs has changed since the last time this ran, or the existing data is
+    more than NAMES_STALE_AFTER_SECONDS old. The ID-set check handles the
+    common case (nothing added to any bank.txt) cheaply; without it, every
+    `mkdocs serve` rebuild - including ones triggered by editing unrelated
+    markdown - would rewrite item-names.json, and since that file lives
+    under docs/, which the dev server watches for live-reload, that would
+    itself trigger another rebuild: an infinite reload loop. The staleness
+    check on top of that covers the case an already-tracked item gets
+    renamed or reclassified upstream without its ID changing - rare, but
+    with no expiry it would never get picked up until someone happened to
+    touch a bank.txt for an unrelated reason.
     """
     out_path = 'docs/bank/data/item-names.json'
     ids_key = sorted(ids)
@@ -54,16 +120,13 @@ def generate_bank_item_names(ids):
             existing = None
 
     if existing is not None and existing.get('ids') == ids_key:
-        return
+        age = time.time() - existing.get('generated_at', 0)
+        if age < NAMES_STALE_AFTER_SECONDS:
+            return
 
     try:
-        request = urllib.request.Request(
-            'https://prices.runescape.wiki/api/v1/osrs/mapping',
-            headers={'User-Agent': 'clue-tags bank-view item name cache (https://github.com/TheLope/clue-tags)'},
-        )
-        with urllib.request.urlopen(request, timeout=15) as response:
-            mapping = json.loads(response.read())
-        names = {str(item['id']): item['name'] for item in mapping if item['id'] in ids}
+        all_names = fetch_infobox_item_names()
+        names = {str(i): all_names[i] for i in ids if i in all_names}
     except Exception as e:
         print(f'[bank-view] warning: could not refresh item names ({e})')
         if existing is not None:
@@ -72,7 +135,7 @@ def generate_bank_item_names(ids):
 
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     with open(out_path, 'w') as f:
-        json.dump({'ids': ids_key, 'names': names}, f)
+        json.dump({'ids': ids_key, 'names': names, 'generated_at': time.time()}, f)
 
 
 def generate_bank_item_icons(ids):
@@ -270,8 +333,8 @@ def define_env(env):
             Copy Banktag Loadout
         </button>
     </div>
-    <button id="bank-view-toggle" type="button" class="equipment">Show Bank View</button>
-    <div class="bank-view equipment" data-source="banktags" hidden></div>
+    <button id="bank-view-toggle" type="button" class="equipment" aria-expanded="false" aria-controls="bank-view">Show Bank View</button>
+    <div id="bank-view" class="bank-view equipment" data-source="banktags" hidden></div>
 </td>
 """
 
