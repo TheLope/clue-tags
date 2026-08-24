@@ -1,5 +1,6 @@
 tags/*/filtered
 docs/bank/data/item-names.json
+docs/bank/data/diagram-icons.json
 __pycache__/main.cpython-310.pyc
 site/
 .variant-build/
