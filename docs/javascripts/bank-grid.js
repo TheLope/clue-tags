@@ -20,9 +20,13 @@
  *    Weird Gloop org as the wiki/prices API, sourced from the game's own
  *    item cache) sidesteps all of that and also covers untradeable items the
  *    price API doesn't know about at all.
- *  - Names (for the hover title and the click-through link) still come from
- *    the OSRS Wiki's public price-mapping endpoint, since that's only used
- *    for tradeable items and isn't as failure-prone for that purpose.
+ *  - Names (for the hover title) still come from the OSRS Wiki's public
+ *    price-mapping endpoint, since that's only used for tradeable items and
+ *    isn't as failure-prone for that purpose. Click-through links always
+ *    point at the wiki (matching item_render() elsewhere on the site): when
+ *    a name resolves, straight to its page; otherwise to the wiki's own
+ *    Special:Lookup?type=item&id=<id>, which redirects to the right page for
+ *    any item, tradeable or not, without needing a name at all.
  *
  * Each cell reuses the site's existing .equipment-blank slot art (see
  * stylesheets/extra.css) so the grid matches the equipment/inventory widgets
@@ -37,7 +41,6 @@
   const WIKI = "https://oldschool.runescape.wiki";
   const MAPPING_URL = "https://prices.runescape.wiki/api/v1/osrs/mapping";
   const SPRITE_URL = "https://chisel.weirdgloop.org/static/img/osrs-sprite";
-  const LOOKUP_URL = "https://chisel.weirdgloop.org/moid/item_id.html";
   const COLS = 8;
 
   let mappingPromise = null;
@@ -58,7 +61,7 @@
     return `${WIKI}/w/${name.replace(/ /g, "_")}`;
   }
   function lookupUrl(id) {
-    return `${LOOKUP_URL}#${id}`;
+    return `${WIKI}/w/Special:Lookup?type=item&id=${id}`;
   }
 
   // One or more "banktags,1,NAME,item,item,...,layout,slot,id,slot,id,..." lines.
