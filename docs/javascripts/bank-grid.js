@@ -2,11 +2,23 @@
  * Renders the RuneLite "Copy Banktag Loadout" string (already emitted into the
  * page by the `banktags()` macro in main.py) as a visual bank-interface grid.
  *
- * Item icons are resolved the same way item_render() in main.py does:
- *   https://oldschool.runescape.wiki/images/<Item_Name_With_Underscores>.png
- * The loadout string only carries item IDs, so we resolve id -> name once per
- * page load via the OSRS Wiki's public price-mapping endpoint, then build the
- * URL with that same convention.
+ * The loadout string only carries item IDs, not names, so two lookups happen
+ * once per page load:
+ *  - Icons come straight from chisel.weirdgloop.org's sprite server, keyed by
+ *    item ID (https://chisel.weirdgloop.org/static/img/osrs-sprite/<id>.png).
+ *    That's deliberate, not a shortcut: building the URL from an item's
+ *    *name* the way item_render() does in main.py (oldschool.runescape.wiki
+ *    /images/<Name>.png) 404s for a meaningful slice of real bank items -
+ *    charge-count variants like "Necklace of passage(5)" whose icon file
+ *    doesn't share the base item's name, stackable currencies like "Revenant
+ *    ether" that only have pile-size icons ("Revenant_ether_1.png"), and
+ *    items the wiki has since renamed. The ID-keyed sprite endpoint (same
+ *    Weird Gloop org as the wiki/prices API, sourced from the game's own
+ *    item cache) sidesteps all of that and also covers untradeable items the
+ *    price API doesn't know about at all.
+ *  - Names (for the hover title and the click-through link) still come from
+ *    the OSRS Wiki's public price-mapping endpoint, since that's only used
+ *    for tradeable items and isn't as failure-prone for that purpose.
  *
  * Each cell reuses the site's existing .equipment-blank slot art (see
  * stylesheets/extra.css) so the grid matches the equipment/inventory widgets
@@ -19,6 +31,8 @@
 (function () {
   const WIKI = "https://oldschool.runescape.wiki";
   const MAPPING_URL = "https://prices.runescape.wiki/api/v1/osrs/mapping";
+  const SPRITE_URL = "https://chisel.weirdgloop.org/static/img/osrs-sprite";
+  const LOOKUP_URL = "https://chisel.weirdgloop.org/moid/item_id.html";
   const COLS = 8;
 
   let mappingPromise = null;
@@ -32,14 +46,14 @@
     return mappingPromise;
   }
 
-  function wikiName(name) {
-    return name.replace(/ /g, "_");
-  }
-  function iconUrl(name) {
-    return `${WIKI}/images/${wikiName(name)}.png`;
+  function iconUrl(id) {
+    return `${SPRITE_URL}/${id}.png`;
   }
   function pageUrl(name) {
-    return `${WIKI}/w/${wikiName(name)}`;
+    return `${WIKI}/w/${name.replace(/ /g, "_")}`;
+  }
+  function lookupUrl(id) {
+    return `${LOOKUP_URL}#${id}`;
   }
 
   // One or more "banktags,1,NAME,item,item,...,layout,slot,id,slot,id,..." lines.
@@ -83,27 +97,26 @@
         const id = Math.abs(rawId);
         if (placeholder) cell.classList.add("bank-grid__cell--placeholder");
 
+        // The sprite is keyed by ID, so it renders regardless of whether the
+        // name lookup below succeeds (untradeable items aren't in the price
+        // API's mapping, but still have a real icon).
         const name = itemMap.get(id);
-        if (name) {
-          const a = document.createElement("a");
-          a.href = pageUrl(name);
-          a.title = name;
-          a.target = "_blank";
-          a.rel = "noopener";
-          const img = document.createElement("img");
-          img.loading = "lazy";
-          img.src = iconUrl(name);
-          img.alt = name;
-          img.onerror = () => {
-            img.remove();
-            cell.textContent = id;
-          };
-          a.appendChild(img);
-          cell.appendChild(a);
-        } else {
+        const a = document.createElement("a");
+        a.href = name ? pageUrl(name) : lookupUrl(id);
+        a.title = name || "Item #" + id;
+        a.target = "_blank";
+        a.rel = "noopener";
+        const img = document.createElement("img");
+        img.loading = "lazy";
+        img.src = iconUrl(id);
+        img.alt = name || "Item #" + id;
+        img.onerror = () => {
+          a.remove();
           cell.textContent = id;
           cell.title = "Item #" + id;
-        }
+        };
+        a.appendChild(img);
+        cell.appendChild(a);
       }
       grid.appendChild(cell);
     }
