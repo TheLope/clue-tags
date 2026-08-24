@@ -405,12 +405,23 @@ def generate_diagram_item_ids(names, infobox_items):
     hand-typed and doesn't always match the wiki's own capitalization
     exactly (found "Scythe of vitur" vs. the wiki's "Scythe of Vitur" while
     building this - a real, pre-existing bug the old naive guess never
-    caught either, since the URL it built was wrong too). Names with no
-    infobox match keep the old live-hotlink fallback in item_render(), so
-    this can only fix an icon, never break one that already worked -
-    verification is implicit here, since whatever ID gets resolved still
-    has to actually download successfully in generate_bank_item_icons()
-    (which has its own chisel fallback) for the self-hosted file to exist.
+    caught either, since the URL it built was wrong too). Two more
+    fallbacks handle cases an exact match still misses:
+      - Our name carries a qualifier the wiki's item_name doesn't, e.g. our
+        "Catherby teleport (tablet)" vs. the wiki's "Catherby teleport" (the
+        "(tablet)" only appears in the page title, not the item name) -
+        strip a trailing "(...)" and retry.
+      - No unqualified entry exists at all, only charge-count variants (our
+        "Burning amulet" has no bare infobox entry, only "Burning
+        amulet(1)" through "(5)") - use the highest charge count as the
+        stand-in for "the item" generically, same idea as preferring the
+        biggest pile icon for stackable currencies elsewhere in this file.
+    Names with no infobox match by any of these keep the old live-hotlink
+    fallback in item_render(), so this can only fix an icon, never break
+    one that already worked - verification is implicit here, since
+    whatever ID gets resolved still has to actually download successfully
+    in generate_bank_item_icons() (which has its own chisel fallback) for
+    the self-hosted file to exist.
     """
     out_path = 'docs/bank/data/diagram-icons.json'
     names_key = sorted(names)
@@ -421,6 +432,8 @@ def generate_diagram_item_ids(names, infobox_items):
 
     if infobox_items:
         by_name = {}  # lowercase name -> (item_id, image)
+        by_charge_base = {}  # lowercase base name -> [(charge_num, item_id)]
+        charge_pattern = re.compile(r'^(.*?)\s*\((\d+)\)$')
         for item_id, item in infobox_items.items():
             if not item['image']:
                 continue
@@ -431,7 +444,28 @@ def generate_diagram_item_ids(names, infobox_items):
             if current is None or (is_default and not current_is_default):
                 by_name[key] = (item_id, item['image'])
 
-        item_ids = {name: by_name[name.lower()][0] for name in names if name.lower() in by_name}
+            charge_match = charge_pattern.match(item['name'])
+            if charge_match:
+                base_key = charge_match.group(1).lower()
+                by_charge_base.setdefault(base_key, []).append((int(charge_match.group(2)), item_id))
+
+        def resolve(name):
+            key = name.lower()
+            if key in by_name:
+                return by_name[key][0]
+            stripped = re.sub(r'\s*\([^)]*\)\s*$', '', name).strip().lower()
+            if stripped and stripped != key and stripped in by_name:
+                return by_name[stripped][0]
+            variants = by_charge_base.get(key) or (by_charge_base.get(stripped) if stripped else None)
+            if variants:
+                return max(variants, key=lambda v: v[0])[1]
+            return None
+
+        item_ids = {}
+        for name in names:
+            item_id = resolve(name)
+            if item_id is not None:
+                item_ids[name] = item_id
     elif existing is not None:
         return  # crawl failed or wasn't needed for this reason - keep the previous file
     else:
