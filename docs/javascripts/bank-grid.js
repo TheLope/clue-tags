@@ -6,32 +6,32 @@
  * Grid" button (id="bank-grid-toggle") is clicked, so viewing the page never
  * costs a mapping fetch or DOM build unless someone actually opens it.
  *
- * The loadout string only carries item IDs, not names, so two lookups happen
- * the first time the grid is revealed:
- *  - Icons come straight from chisel.weirdgloop.org's sprite server, keyed by
- *    item ID (https://chisel.weirdgloop.org/static/img/osrs-sprite/<id>.png).
- *    That's deliberate, not a shortcut: building the URL from an item's
- *    *name* the way item_render() does in main.py (oldschool.runescape.wiki
- *    /images/<Name>.png) 404s for a meaningful slice of real bank items -
- *    charge-count variants like "Necklace of passage(5)" whose icon file
- *    doesn't share the base item's name, stackable currencies like "Revenant
- *    ether" that only have pile-size icons ("Revenant_ether_1.png"), and
- *    items the wiki has since renamed. The ID-keyed sprite endpoint (same
- *    Weird Gloop org as the wiki/prices API, sourced from the game's own
- *    item cache) sidesteps all of that and also covers untradeable items the
- *    price API doesn't know about at all.
- *  - Names (for the hover title) come from data/item-names.json, a small
- *    same-origin file generated at build time by generate_bank_item_names()
- *    in main.py. That function resolves just the ~265 item IDs actually used
- *    across every tags/<tier>/bank.txt against the OSRS Wiki's price-mapping API
- *    once, at build time - the full mapping is ~850KB for ~4,650 items, and
- *    fetching that from every visitor's browser on every page view would be
- *    a poor use of a community-hosted API for data we mostly throw away.
- *    Click-through links always point at the wiki (matching item_render()
- *    elsewhere on the site): when a name resolves, straight to its page;
- *    otherwise to the wiki's own Special:Lookup?type=item&id=<id>, which
- *    redirects to the right page for any item, tradeable or not, without
- *    needing a name at all.
+ * The loadout string only carries item IDs, not names, so this pulls from a
+ * couple of small same-origin files generated at build time by main.py
+ * (generate_bank_item_names() / generate_bank_item_icons()) instead of
+ * hitting third-party OSRS Wiki / Weird Gloop infrastructure from every
+ * visitor's browser on every page view - see those functions for the "why".
+ * In short: this site only ever needs the ~265 item IDs actually used across
+ * our fixed set of curated tiers, so it isn't worth every visitor's browser
+ * fetching the OSRS Wiki's full ~4,650-item price mapping (for names) or
+ * hotlinking chisel.weirdgloop.org's sprite server per icon on every view
+ * when that data barely changes and can just be resolved once, ahead of
+ * time (the same approach github.com/JZomDev/BankLayoutViewer takes for its
+ * whole item catalogue).
+ *  - Icons: data/icons/<id>.png, falling back to chisel's live sprite URL if
+ *    the local one 404s (e.g. an item added to a bank.txt since the last
+ *    build). Both are keyed by ID rather than item name - building the icon
+ *    URL from a name the way item_render() does in main.py 404s for a real
+ *    slice of items (charge-count variants like "Necklace of passage(5)"
+ *    whose icon file doesn't share the base item's name, stackable
+ *    currencies that only have pile-size icons, renamed items) and misses
+ *    untradeable items entirely; the ID-keyed sprite endpoint sidesteps all
+ *    of that.
+ *  - Names (for the hover title): data/item-names.json. Click-through links
+ *    always point at the wiki (matching item_render() elsewhere on the
+ *    site): when a name resolves, straight to its page; otherwise to the
+ *    wiki's own Special:Lookup?type=item&id=<id>, which redirects to the
+ *    right page for any item, tradeable or not, without needing a name.
  *
  * Each cell reuses the site's existing .equipment-blank slot art (see
  * stylesheets/extra.css) so the grid matches the equipment/inventory widgets
@@ -44,11 +44,12 @@
  */
 (function () {
   const WIKI = "https://oldschool.runescape.wiki";
-  // Relative, not absolute: this only ever fetches from a /bank/<tier>/ page
-  // (see data-source usage below), so it always resolves to <site-root>/bank
-  // /data/item-names.json regardless of where the site itself is hosted.
+  // Relative, not absolute: these only ever get used from a /bank/<tier>/
+  // page (see data-source usage below), so they always resolve to
+  // <site-root>/bank/data/... regardless of where the site itself is hosted.
   const NAMES_URL = "../data/item-names.json";
-  const SPRITE_URL = "https://chisel.weirdgloop.org/static/img/osrs-sprite";
+  const ICONS_URL = "../data/icons";
+  const LIVE_SPRITE_URL = "https://chisel.weirdgloop.org/static/img/osrs-sprite";
   const COLS = 8;
 
   let mappingPromise = null;
@@ -63,7 +64,10 @@
   }
 
   function iconUrl(id) {
-    return `${SPRITE_URL}/${id}.png`;
+    return `${ICONS_URL}/${id}.png`;
+  }
+  function liveIconUrl(id) {
+    return `${LIVE_SPRITE_URL}/${id}.png`;
   }
   function pageUrl(name) {
     return `${WIKI}/w/${name.replace(/ /g, "_")}`;
@@ -127,9 +131,15 @@
         img.src = iconUrl(id);
         img.alt = name || "Item #" + id;
         img.onerror = () => {
-          a.remove();
-          cell.textContent = id;
-          cell.title = "Item #" + id;
+          // Local icon missing (e.g. an item added to a bank.txt since the
+          // last build baked docs/bank/data/icons/) - try the live sprite
+          // once before giving up on showing an image at all.
+          img.onerror = () => {
+            a.remove();
+            cell.textContent = id;
+            cell.title = "Item #" + id;
+          };
+          img.src = liveIconUrl(id);
         };
         a.appendChild(img);
         cell.appendChild(a);

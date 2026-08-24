@@ -5,16 +5,7 @@ import re
 import urllib.request
 
 
-def generate_bank_item_names():
-    """
-    The bank-grid feature (docs/javascripts/bank-grid.js) needs item names
-    for the ~265 item IDs referenced across all tags/*/bank.txt files, but
-    the OSRS Wiki's price-mapping API returns all ~4,650 tradeable items
-    (a few hundred KB). Fetching that in full from every visitor's browser
-    on every page view is wasteful for a community-hosted API, so resolve
-    just the IDs we actually use once here at build time instead, and let
-    the client fetch this small same-origin file.
-    """
+def collect_bank_item_ids():
     ids = set()
     for path in glob.glob('tags/*/bank.txt'):
         with open(path) as f:
@@ -29,7 +20,19 @@ def generate_bank_item_names():
                     ids.add(abs(int(parts[i + 1])))
                 except ValueError:
                     continue
+    return ids
 
+
+def generate_bank_item_names(ids):
+    """
+    The bank-grid feature (docs/javascripts/bank-grid.js) needs item names
+    for the ~265 item IDs referenced across all tags/*/bank.txt files, but
+    the OSRS Wiki's price-mapping API returns all ~4,650 tradeable items
+    (a few hundred KB). Fetching that in full from every visitor's browser
+    on every page view is wasteful for a community-hosted API, so resolve
+    just the IDs we actually use once here at build time instead, and let
+    the client fetch this small same-origin file.
+    """
     out_path = 'docs/bank/data/item-names.json'
     try:
         request = urllib.request.Request(
@@ -50,12 +53,65 @@ def generate_bank_item_names():
         json.dump(names, f)
 
 
+def generate_bank_item_icons(ids):
+    """
+    Self-hosts one small icon per item ID instead of hotlinking
+    chisel.weirdgloop.org's sprite server from every visitor's browser -
+    same idea as generate_bank_item_names() above, applied to icons too.
+
+    Inspired by github.com/JZomDev/BankLayoutViewer, which does this for its
+    *entire* item catalogue (~12,600 items, ~33MB) because it accepts
+    arbitrary user-pasted loadouts and can't know ahead of time which items
+    it'll need. We don't have that problem - this site only ever needs the
+    ~265 IDs actually used across our fixed set of curated tiers - so this
+    stays a few dozen KB instead of tens of megabytes.
+
+    Unlike item-names.json, docs/bank/data/icons/ is committed to the repo
+    rather than regenerated fresh every build: icons rarely change, and with
+    ~265 individual files, re-fetching them all on every CI deploy would be
+    a much heavier, more repeated ask of chisel than the single-request name
+    lookup. Already-downloaded icons are left in place, so a normal build
+    (nothing new added to any bank.txt) hits chisel zero times; only newly
+    referenced item IDs get fetched. bank-grid.js falls back to the live
+    sprite URL client-side if a specific icon is still missing locally, so a
+    partial/failed fetch here degrades gracefully rather than breaking that
+    item's icon.
+    """
+    out_dir = 'docs/bank/data/icons'
+    os.makedirs(out_dir, exist_ok=True)
+    headers = {'User-Agent': 'clue-tags bank-grid icon cache (https://github.com/TheLope/clue-tags)'}
+    fetched, skipped, failed = 0, 0, 0
+
+    for item_id in sorted(ids):
+        out_path = f'{out_dir}/{item_id}.png'
+        if os.path.exists(out_path):
+            skipped += 1
+            continue
+        try:
+            request = urllib.request.Request(
+                f'https://chisel.weirdgloop.org/static/img/osrs-sprite/{item_id}.png',
+                headers=headers,
+            )
+            with urllib.request.urlopen(request, timeout=10) as response:
+                with open(out_path, 'wb') as f:
+                    f.write(response.read())
+            fetched += 1
+        except Exception as e:
+            print(f'[bank-grid] warning: could not fetch icon for item {item_id} ({e})')
+            failed += 1
+
+    if fetched or failed:
+        print(f'[bank-grid] icons: {fetched} fetched, {skipped} already cached, {failed} failed')
+
+
 def define_env(env):
     """
     Hook function
     """
 
-    generate_bank_item_names()
+    bank_item_ids = collect_bank_item_ids()
+    generate_bank_item_names(bank_item_ids)
+    generate_bank_item_icons(bank_item_ids)
 
     wiki_url = 'https://oldschool.runescape.wiki'
 
