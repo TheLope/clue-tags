@@ -1,12 +1,61 @@
+import glob
 import json
 import os
 import re
+import urllib.request
+
+
+def generate_bank_item_names():
+    """
+    The bank-grid feature (docs/javascripts/bank-grid.js) needs item names
+    for the ~265 item IDs referenced across all tags/*/bank.txt files, but
+    the OSRS Wiki's price-mapping API returns all ~4,650 tradeable items
+    (a few hundred KB). Fetching that in full from every visitor's browser
+    on every page view is wasteful for a community-hosted API, so resolve
+    just the IDs we actually use once here at build time instead, and let
+    the client fetch this small same-origin file.
+    """
+    ids = set()
+    for path in glob.glob('tags/*/bank.txt'):
+        with open(path) as f:
+            raw = f.read()
+        for line in raw.splitlines():
+            parts = line.strip().split(',')
+            if not parts or parts[0] != 'banktags' or 'layout' not in parts:
+                continue
+            layout_idx = parts.index('layout')
+            for i in range(layout_idx + 1, len(parts) - 1, 2):
+                try:
+                    ids.add(abs(int(parts[i + 1])))
+                except ValueError:
+                    continue
+
+    out_path = 'docs/bank/data/item-names.json'
+    try:
+        request = urllib.request.Request(
+            'https://prices.runescape.wiki/api/v1/osrs/mapping',
+            headers={'User-Agent': 'clue-tags bank-grid item name cache (https://github.com/TheLope/clue-tags)'},
+        )
+        with urllib.request.urlopen(request, timeout=15) as response:
+            mapping = json.loads(response.read())
+        names = {str(item['id']): item['name'] for item in mapping if item['id'] in ids}
+    except Exception as e:
+        print(f'[bank-grid] warning: could not refresh item names ({e})')
+        if os.path.exists(out_path):
+            return  # keep the previously generated file rather than clobbering it
+        names = {}
+
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    with open(out_path, 'w') as f:
+        json.dump(names, f)
 
 
 def define_env(env):
     """
     Hook function
     """
+
+    generate_bank_item_names()
 
     wiki_url = 'https://oldschool.runescape.wiki'
 
@@ -138,12 +187,12 @@ def define_env(env):
         { tags }
     </textarea>
     <div class="tooltip">
-        <button id="copy" class="equipment">
+        <button id="copy" type="button" class="equipment">
             <span id="copyTooltip" class="tooltiptext">Copy to clipboard</span>
             Copy Banktag Loadout
         </button>
     </div>
-    <button id="bank-grid-toggle" class="equipment">Show Bank Grid</button>
+    <button id="bank-grid-toggle" type="button" class="equipment">Show Bank Grid</button>
     <div class="bank-grid equipment" data-source="banktags" hidden></div>
 </td>
 """

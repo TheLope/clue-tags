@@ -20,13 +20,18 @@
  *    Weird Gloop org as the wiki/prices API, sourced from the game's own
  *    item cache) sidesteps all of that and also covers untradeable items the
  *    price API doesn't know about at all.
- *  - Names (for the hover title) still come from the OSRS Wiki's public
- *    price-mapping endpoint, since that's only used for tradeable items and
- *    isn't as failure-prone for that purpose. Click-through links always
- *    point at the wiki (matching item_render() elsewhere on the site): when
- *    a name resolves, straight to its page; otherwise to the wiki's own
- *    Special:Lookup?type=item&id=<id>, which redirects to the right page for
- *    any item, tradeable or not, without needing a name at all.
+ *  - Names (for the hover title) come from data/item-names.json, a small
+ *    same-origin file generated at build time by generate_bank_item_names()
+ *    in main.py. That function resolves just the ~265 item IDs actually used
+ *    across every tags/<tier>/bank.txt against the OSRS Wiki's price-mapping API
+ *    once, at build time - the full mapping is ~850KB for ~4,650 items, and
+ *    fetching that from every visitor's browser on every page view would be
+ *    a poor use of a community-hosted API for data we mostly throw away.
+ *    Click-through links always point at the wiki (matching item_render()
+ *    elsewhere on the site): when a name resolves, straight to its page;
+ *    otherwise to the wiki's own Special:Lookup?type=item&id=<id>, which
+ *    redirects to the right page for any item, tradeable or not, without
+ *    needing a name at all.
  *
  * Each cell reuses the site's existing .equipment-blank slot art (see
  * stylesheets/extra.css) so the grid matches the equipment/inventory widgets
@@ -39,16 +44,19 @@
  */
 (function () {
   const WIKI = "https://oldschool.runescape.wiki";
-  const MAPPING_URL = "https://prices.runescape.wiki/api/v1/osrs/mapping";
+  // Relative, not absolute: this only ever fetches from a /bank/<tier>/ page
+  // (see data-source usage below), so it always resolves to <site-root>/bank
+  // /data/item-names.json regardless of where the site itself is hosted.
+  const NAMES_URL = "../data/item-names.json";
   const SPRITE_URL = "https://chisel.weirdgloop.org/static/img/osrs-sprite";
   const COLS = 8;
 
   let mappingPromise = null;
   function loadMapping() {
     if (!mappingPromise) {
-      mappingPromise = fetch(MAPPING_URL)
+      mappingPromise = fetch(NAMES_URL)
         .then((r) => r.json())
-        .then((list) => new Map(list.map((i) => [i.id, i.name])))
+        .then((obj) => new Map(Object.entries(obj).map(([id, name]) => [Number(id), name])))
         .catch(() => new Map());
     }
     return mappingPromise;
