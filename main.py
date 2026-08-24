@@ -17,23 +17,27 @@ What gets generated, and where:
                                        changes, or the existing file is more
                                        than NAMES_STALE_AFTER_SECONDS old.
 
-  docs/bank/data/icons/<id>.png       One small icon per bank-view item ID.
+  docs/bank/data/icons/<id>.png       One small icon per item ID referenced
+                                       by either bank-view or a diagram.
                                        Committed to the repo, unlike the
-                                       above: re-fetching ~265 individual
-                                       files on every build would be a much
-                                       heavier ask than the shared name
-                                       lookup. Only missing IDs get fetched.
+                                       other two: re-fetching hundreds of
+                                       individual files on every build would
+                                       be a much heavier ask than the shared
+                                       name lookup. Only missing IDs get
+                                       fetched.
 
-  docs/bank/data/diagram-icons.json   name -> preferred image filename, for
-                                       the equipment/inventory/rune-pouch/
-                                       spellbook diagrams. Gitignored, same
-                                       staleness rule as item-names.json.
+  docs/bank/data/diagram-icons.json   name -> item ID, for the equipment/
+                                       inventory/rune-pouch/spellbook
+                                       diagrams (item_render() uses the ID
+                                       to point at the same icons/ files
+                                       above). Gitignored, same staleness
+                                       rule as item-names.json.
 
 All three share a single crawl of the OSRS Wiki's Bucket API
 (fetch_infobox_items()) when needs_infobox_crawl() says it's actually
 needed, rather than each fetching independently - see that function and
 generate_bank_item_names() / generate_bank_item_icons() /
-generate_diagram_icon_overrides() for how each uses the shared result.
+generate_diagram_item_ids() for how each uses the shared result.
 
 To force a full refresh locally: delete docs/bank/data/item-names.json,
 docs/bank/data/diagram-icons.json, and/or specific files under
@@ -246,7 +250,7 @@ def generate_bank_item_names(ids, infobox_items):
     this small same-origin file. `infobox_items` comes from
     fetch_infobox_items() - see needs_infobox_crawl() for when that actually
     runs, since it's shared with generate_bank_item_icons() and
-    generate_diagram_icon_overrides() below rather than crawled separately
+    generate_diagram_item_ids() below rather than crawled separately
     by each.
 
     Skips rewriting the file unless the actual set of item IDs has changed
@@ -293,14 +297,18 @@ def generate_bank_item_icons(ids, infobox_items):
     """
     Self-hosts one small icon per item ID instead of hotlinking a live sprite
     server from every visitor's browser - same idea as
-    generate_bank_item_names() above, applied to icons too.
+    generate_bank_item_names() above, applied to icons too. Shared by
+    bank-view and the equipment/inventory/rune-pouch/spellbook diagrams:
+    define_env() calls this with the union of bank-view's item IDs and the
+    IDs generate_diagram_item_ids() resolves for the diagrams, so an item
+    referenced by both only gets downloaded once, into the same directory.
 
     Inspired by github.com/JZomDev/BankLayoutViewer, which does this for its
     *entire* item catalogue (~12,600 items, ~33MB) because it accepts
     arbitrary user-pasted loadouts and can't know ahead of time which items
     it'll need. We don't have that problem - this site only ever needs the
-    ~265 IDs actually used across our fixed set of curated tiers - so this
-    stays a few dozen KB instead of tens of megabytes.
+    IDs actually used across our fixed set of curated tiers/diagrams - so
+    this stays well under a megabyte instead of tens of them.
 
     Prefers the wiki's own image for each item (infobox_items[id]['image'],
     from fetch_infobox_items() - the biggest pile icon for stackable
@@ -308,21 +316,23 @@ def generate_bank_item_icons(ids, infobox_items):
     Special:Filepath, which resolves renames/redirects robustly the same
     way github.com/JZomDev/BankLayoutViewer's own downloader uses it. Falls
     back to chisel.weirdgloop.org's sprite server, keyed by ID, when no
-    infobox image is available (crawl failed, or this ID isn't in scope for
-    that crawl for some reason) - see bank-view.js's docstring for why an
-    ID-keyed fallback matters (name-based OSRS Wiki URLs 404 for a
-    meaningful slice of real bank items).
+    infobox image is available (crawl failed, this ID isn't in scope for
+    that crawl for some reason, or - seen in practice - the infobox's own
+    image reference doesn't actually resolve to a real file) - see
+    bank-view.js's docstring for why an ID-keyed fallback matters
+    (name-based OSRS Wiki URLs 404 for a meaningful slice of real items).
 
     Unlike item-names.json, docs/bank/data/icons/ is committed to the repo
-    rather than regenerated fresh every build: icons rarely change, and with
-    ~265 individual files, re-fetching them all on every CI deploy would be
-    a much heavier, more repeated ask than the shared name/image lookup.
+    rather than regenerated fresh every build: icons rarely change, and
+    re-fetching hundreds of individual files on every CI deploy would be a
+    much heavier, more repeated ask than the shared name/image lookup.
     Already-downloaded icons are left in place, so a normal build (nothing
-    new added to any bank.txt) fetches nothing; only newly referenced item
-    IDs get fetched. bank-view.js falls back to the live sprite URL
-    client-side if a specific icon is still missing locally, so a
-    partial/failed fetch here degrades gracefully rather than breaking that
-    item's icon.
+    new added to any bank.txt or docs/bank/data/*.yml) fetches nothing; only
+    newly referenced item IDs get fetched. bank-view.js falls back to the
+    live sprite URL client-side if a specific icon is still missing locally
+    (item_render() has its own inline fallback for the same reason - see
+    below), so a partial/failed fetch here degrades gracefully rather than
+    breaking that item's icon.
     """
     out_dir = 'docs/bank/data/icons'
     os.makedirs(out_dir, exist_ok=True)
@@ -364,20 +374,22 @@ def generate_bank_item_icons(ids, infobox_items):
         print(f'[bank-view] icons: {fetched} fetched, {skipped} already cached, {failed} failed')
 
 
-def generate_diagram_icon_overrides(names, infobox_items):
+def generate_diagram_item_ids(names, infobox_items):
     """
     item_render() (used for the equipment/inventory/rune-pouch/spellbook
-    diagrams on bank tag pages, driven by docs/bank/data/*.yml) builds its
+    diagrams on bank tag pages, driven by docs/bank/data/*.yml) built its
     icon URL from the item's *display* name the same naive way bank-view's
     icon logic originally did (oldschool.runescape.wiki/images/<Name>.png) -
     which 404s or shows a misleading icon for the same classes of item
-    generate_bank_item_icons() above has to work around: charge-count
-    variants, stackable pile icons, renamed items. None of the ~123 names
-    currently referenced happen to hit that today, but rather than wait for
-    a future addition to silently break, resolve a preferred image filename
-    per name here too - from the same infobox crawl shared with
+    generate_bank_item_icons() has to work around. Resolve each name to an
+    item ID here instead - from the same infobox crawl shared with
     generate_bank_item_names()/generate_bank_item_icons(), so this adds no
-    extra requests when it runs alongside those (see needs_infobox_crawl()).
+    extra requests when it runs alongside those (see needs_infobox_crawl())
+    - so item_render() can point at the same self-hosted
+    docs/bank/data/icons/<id>.png files bank-view already downloads.
+    define_env() calls generate_bank_item_icons() with the *union* of
+    bank-view's IDs and these, so an item referenced by both only gets
+    downloaded once.
 
     A single name can have more than one infobox row behind it: several
     items share a display name with a minigame-specific variant that's a
@@ -389,14 +401,16 @@ def generate_diagram_icon_overrides(names, infobox_items):
     whichever row the crawl happened to reach first would be arbitrary and
     could just as easily grab the minigame-specific one.
 
-    Unlike bank-view's icons, this doesn't self-host the image bytes - the
-    equipment/inventory/rune-pouch/spellbook diagrams are a much wider, less
-    curated set of pages than the fixed bank-tag tiers, so it stays a live
-    oldschool.runescape.wiki hotlink (matching how item_render() already
-    worked), just pointed at the *correct* filename instead of a guessed
-    one. Names with no infobox match keep the old behavior via item_render()
-    falling back to the name itself, so this can only fix icons, never
-    break one that already worked.
+    The matching itself is case-insensitive: docs/bank/data/*.yml is
+    hand-typed and doesn't always match the wiki's own capitalization
+    exactly (found "Scythe of vitur" vs. the wiki's "Scythe of Vitur" while
+    building this - a real, pre-existing bug the old naive guess never
+    caught either, since the URL it built was wrong too). Names with no
+    infobox match keep the old live-hotlink fallback in item_render(), so
+    this can only fix an icon, never break one that already worked -
+    verification is implicit here, since whatever ID gets resolved still
+    has to actually download successfully in generate_bank_item_icons()
+    (which has its own chisel fallback) for the self-hosted file to exist.
     """
     out_path = 'docs/bank/data/diagram-icons.json'
     names_key = sorted(names)
@@ -406,67 +420,34 @@ def generate_diagram_icon_overrides(names, infobox_items):
         return
 
     if infobox_items:
-        # Keyed by lowercase name: docs/bank/data/*.yml is hand-typed and
-        # doesn't always match the wiki's own capitalization exactly (found
-        # "Scythe of vitur" vs. the wiki's "Scythe of Vitur" while building
-        # this - a real, pre-existing 404 neither the old naive guess nor a
-        # case-sensitive match here would have caught).
-        by_name = {}
-        for item in infobox_items.values():
+        by_name = {}  # lowercase name -> (item_id, image)
+        for item_id, item in infobox_items.items():
             if not item['image']:
                 continue
             key = item['name'].lower()
             is_default = item['image'].lower() == f"{item['name']}.png".lower()
             current = by_name.get(key)
-            current_is_default = current is not None and current.lower() == f"{item['name']}.png".lower()
+            current_is_default = current is not None and current[1].lower() == f"{item['name']}.png".lower()
             if current is None or (is_default and not current_is_default):
-                by_name[key] = item['image']
+                by_name[key] = (item_id, item['image'])
 
-        # Infobox image references can point at files that don't actually
-        # exist - a wiki data-quality issue we hit in practice (an item's
-        # infobox row claiming an image that 404s), not something we
-        # control. Only names where the resolved image differs from the
-        # naive replace(' ', '_') guess item_render() already falls back to
-        # are worth a live check: identical ones change nothing either way,
-        # and this keeps the check count to a handful rather than all ~123.
-        # This comparison is deliberately case-*sensitive* even though the
-        # lookup above isn't: wiki URLs are case-sensitive in practice (a
-        # capitalization-only difference, like "Scythe of vitur" vs. the
-        # wiki's "Scythe of Vitur", is exactly the kind of naive-guess
-        # mismatch this whole function exists to catch and fix).
-        headers = {'User-Agent': 'clue-tags bank-view item data cache (https://github.com/TheLope/clue-tags)'}
-        overrides = {}
-        for name in names:
-            image = by_name.get(name.lower())
-            if not image or image == f'{name}.png':
-                continue
-            url = f'https://oldschool.runescape.wiki/images/{image.replace(" ", "_")}'
-            try:
-                request = urllib.request.Request(url, headers=headers, method='HEAD')
-                with urllib.request.urlopen(request, timeout=10) as response:
-                    if response.status == 200:
-                        # item_render() appends its own ".png" (same as it
-                        # does for the plain-name fallback), so strip it
-                        # here rather than storing it twice.
-                        overrides[name] = image[:-4] if image.lower().endswith('.png') else image
-            except Exception:
-                pass  # leave item_render() to its existing fallback behavior
+        item_ids = {name: by_name[name.lower()][0] for name in names if name.lower() in by_name}
     elif existing is not None:
         return  # crawl failed or wasn't needed for this reason - keep the previous file
     else:
-        overrides = {}
+        item_ids = {}
 
-    if existing is not None and _coverage_regressed(len(existing.get('overrides', {})), len(overrides)):
+    if existing is not None and _coverage_regressed(len(existing.get('item_ids', {})), len(item_ids)):
         print(
-            f'[bank-view] warning: diagram icon coverage dropped from {len(existing["overrides"])} '
-            f'to {len(overrides)} resolved - keeping previous diagram-icons.json '
+            f'[bank-view] warning: diagram icon coverage dropped from {len(existing["item_ids"])} '
+            f'to {len(item_ids)} resolved - keeping previous diagram-icons.json '
             '(possible wiki API change?)'
         )
         return
 
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     with open(out_path, 'w') as f:
-        json.dump({'keys': names_key, 'overrides': overrides, 'generated_at': time.time()}, f)
+        json.dump({'keys': names_key, 'item_ids': item_ids, 'generated_at': time.time()}, f)
 
 
 def needs_infobox_crawl(bank_ids, diagram_names):
@@ -500,9 +481,12 @@ def define_env(env):
         except Exception as e:
             print(f'[bank-view] warning: could not crawl wiki infobox data ({e})')
     generate_bank_item_names(bank_item_ids, infobox_items)
-    generate_bank_item_icons(bank_item_ids, infobox_items)
-    generate_diagram_icon_overrides(diagram_item_names, infobox_items)
-    diagram_icon_overrides = (_read_json('docs/bank/data/diagram-icons.json') or {}).get('overrides', {})
+    generate_diagram_item_ids(diagram_item_names, infobox_items)
+    diagram_item_ids = (_read_json('docs/bank/data/diagram-icons.json') or {}).get('item_ids', {})
+    # Shared icon store: an item referenced by both bank-view and a diagram
+    # (there's real overlap - e.g. "Aether rune" appears in both) only gets
+    # downloaded once.
+    generate_bank_item_icons(bank_item_ids | set(diagram_item_ids.values()), infobox_items)
 
     wiki_url = 'https://oldschool.runescape.wiki'
 
@@ -520,15 +504,29 @@ def define_env(env):
                 """
 
     def item_render(item):
-        # Prefer the wiki's own image filename when we have one (see
-        # generate_diagram_icon_overrides()) - falls back to the item's own
-        # name, matching the site's original behavior, when we don't.
-        image = diagram_icon_overrides.get(item, item)
+        # Prefer the self-hosted icon (see generate_diagram_item_ids() /
+        # generate_bank_item_icons()) when we resolved one for this name, so
+        # these diagrams stop hitting oldschool.runescape.wiki live on every
+        # page view. An inline onerror falls back to the old live hotlink if
+        # the local file is somehow missing (e.g. a name added to
+        # docs/bank/data/*.yml since the last build, not yet baked) rather
+        # than showing a broken image; names we never resolved an ID for at
+        # all just use that same live hotlink directly, matching the site's
+        # original behavior.
+        item_id = diagram_item_ids.get(item)
+        live_url = f"{ wiki_url }/images/{ item.replace(' ', '_') }.png"
+
+        if item_id is not None:
+            src = f"../data/icons/{ item_id }.png"
+            onerror = f" onerror=\"this.onerror=null;this.src='{ live_url }'\""
+        else:
+            src = live_url
+            onerror = ""
 
         return f"""
                 <a href="{ wiki_url }/w/{ item.replace(' ', '_') }"
                     title="{ item }">
-                    <img src="{ wiki_url }/images/{ image.replace(' ', '_') }.png">
+                    <img src="{ src }"{ onerror }>
                 </a>
                 """
 
