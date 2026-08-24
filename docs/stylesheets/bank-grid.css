@@ -3,10 +3,10 @@
  *
  * The wrapper carries class="bank-grid equipment" in main.py, so the wood
  * interface border/background and the pixelated-icon media query already
- * defined for .equipment in extra.css apply here for free. Each cell carries
- * class="equipment-blank" (see bank-grid.js), reusing the site's existing
- * slot art instead of drawing new artwork. Only the grid/tab layout that
- * doesn't already exist elsewhere on the site is defined below.
+ * defined for .equipment in extra.css apply here for free. Cells deliberately
+ * have no per-slot background of their own - the real OSRS bank interface is
+ * a plain background behind the items, not individually boxed slots like the
+ * equipment/inventory widgets - so items just sit on that same wood panel.
  *
  * Hidden by default (main.py renders it with the `hidden` attribute) and
  * revealed under the "Copy Banktag Loadout"/"Show Bank Grid" buttons by
@@ -58,6 +58,8 @@
 }
 
 .bank-grid__cell {
+    width: 36px;
+    height: 36px;
     display: flex;
     align-items: center;
     justify-content: center;

@@ -33,9 +33,11 @@
  *    wiki's own Special:Lookup?type=item&id=<id>, which redirects to the
  *    right page for any item, tradeable or not, without needing a name.
  *
- * Each cell reuses the site's existing .equipment-blank slot art (see
- * stylesheets/extra.css) so the grid matches the equipment/inventory widgets
- * instead of introducing new slot artwork.
+ * Cells have no per-slot background of their own - the real OSRS bank
+ * interface doesn't box in individual slots the way the equipment/inventory
+ * widgets do, it's just items sitting on the plain wood panel background
+ * (see .equipment in stylesheets/extra.css, applied to the whole grid via
+ * the wrapper's class list in main.py).
  *
  * Works generically on any bank tag page: it looks for
  *   <div class="bank-grid" data-source="ID_OF_HIDDEN_TEXTAREA" hidden></div>
@@ -105,11 +107,8 @@
     grid.className = "bank-grid__grid";
 
     for (let i = 0; i < rows * COLS; i++) {
-      // .equipment-blank supplies the site's standard slot art/size; every
-      // cell gets it, matching how a bank interface always shows a slot
-      // outline whether or not it holds an item.
       const cell = document.createElement("div");
-      cell.className = "bank-grid__cell equipment-blank";
+      cell.className = "bank-grid__cell";
       const rawId = loadout.slots.get(i);
 
       if (rawId !== undefined) {
