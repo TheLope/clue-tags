@@ -7,10 +7,20 @@
  * class="equipment-blank" (see bank-grid.js), reusing the site's existing
  * slot art instead of drawing new artwork. Only the grid/tab layout that
  * doesn't already exist elsewhere on the site is defined below.
+ *
+ * Hidden by default (main.py renders it with the `hidden` attribute) and
+ * revealed under the "Copy Banktag Loadout"/"Show Bank Grid" buttons by
+ * bank-grid.js on click.
  */
 
 .bank-grid {
-    display: inline-block
+    display: block;
+    width: fit-content;
+    margin: 7px auto 0
+}
+
+.bank-grid[hidden] {
+    display: none
 }
 
 .bank-grid__tabs {

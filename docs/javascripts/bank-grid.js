@@ -2,8 +2,12 @@
  * Renders the RuneLite "Copy Banktag Loadout" string (already emitted into the
  * page by the `banktags()` macro in main.py) as a visual bank-interface grid.
  *
+ * The grid starts hidden and is built lazily the first time the "Show Bank
+ * Grid" button (id="bank-grid-toggle") is clicked, so viewing the page never
+ * costs a mapping fetch or DOM build unless someone actually opens it.
+ *
  * The loadout string only carries item IDs, not names, so two lookups happen
- * once per page load:
+ * the first time the grid is revealed:
  *  - Icons come straight from chisel.weirdgloop.org's sprite server, keyed by
  *    item ID (https://chisel.weirdgloop.org/static/img/osrs-sprite/<id>.png).
  *    That's deliberate, not a shortcut: building the URL from an item's
@@ -25,8 +29,9 @@
  * instead of introducing new slot artwork.
  *
  * Works generically on any bank tag page: it looks for
- *   <div class="bank-grid" data-source="ID_OF_HIDDEN_TEXTAREA"></div>
- * and reads the loadout string out of that textarea. No per-tier JS needed.
+ *   <div class="bank-grid" data-source="ID_OF_HIDDEN_TEXTAREA" hidden></div>
+ * paired with a #bank-grid-toggle button, and reads the loadout string out
+ * of that textarea. No per-tier JS needed.
  */
 (function () {
   const WIKI = "https://oldschool.runescape.wiki";
@@ -156,19 +161,34 @@
     show(0);
   }
 
-  function init() {
-    const containers = document.querySelectorAll(".bank-grid[data-source]");
-    if (!containers.length) return;
+  // The grid starts hidden (main.py renders it with the `hidden` attribute)
+  // and is only built the first time it's revealed, so a page view that
+  // never opens it never pays for the mapping fetch or the DOM build.
+  function wireToggle(container) {
+    const toggle = document.getElementById("bank-grid-toggle");
+    if (!toggle) return;
 
-    loadMapping().then((itemMap) => {
-      containers.forEach((container) => {
+    let rendered = false;
+
+    toggle.addEventListener("click", () => {
+      const willShow = container.hidden;
+
+      if (willShow && !rendered) {
+        rendered = true;
         const source = document.getElementById(container.dataset.source);
-        if (!source) return;
-        const loadouts = parseLoadouts(source.value || source.textContent || "");
-        if (!loadouts.length) return;
-        renderInto(container, loadouts, itemMap);
-      });
+        const loadouts = source ? parseLoadouts(source.value || source.textContent || "") : [];
+        if (loadouts.length) {
+          loadMapping().then((itemMap) => renderInto(container, loadouts, itemMap));
+        }
+      }
+
+      container.hidden = !willShow;
+      toggle.textContent = willShow ? "Hide Bank Grid" : "Show Bank Grid";
     });
+  }
+
+  function init() {
+    document.querySelectorAll(".bank-grid[data-source]").forEach(wireToggle);
   }
 
   if (document.readyState === "loading") {

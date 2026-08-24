@@ -143,7 +143,8 @@ def define_env(env):
             Copy Banktag Loadout
         </button>
     </div>
-    <div class="bank-grid equipment" data-source="banktags"></div>
+    <button id="bank-grid-toggle" class="equipment">Show Bank Grid</button>
+    <div class="bank-grid equipment" data-source="banktags" hidden></div>
 </td>
 """
 
