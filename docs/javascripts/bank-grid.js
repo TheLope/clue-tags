@@ -191,16 +191,17 @@
     document.querySelectorAll(".bank-grid[data-source]").forEach(wireToggle);
   }
 
-  if (document.readyState === "loading") {
+  // mkdocs-material's instant-navigation feature swaps page content without a
+  // full reload; document$ fires on every page render (including the first),
+  // so when it's present it's the only listener wired up - subscribing to it
+  // *and* DOMContentLoaded would double-init on first load, attaching two
+  // click listeners to the same toggle button and making it a no-op (each
+  // click flips the grid open then immediately shut again).
+  if (typeof document$ !== "undefined") {
+    document$.subscribe(init);
+  } else if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", init);
   } else {
     init();
-  }
-
-  // mkdocs-material's instant-navigation feature swaps page content without a
-  // full reload; document$ fires on every page render so the grid still shows
-  // up when navigating between tiers via the nav sidebar.
-  if (typeof document$ !== "undefined") {
-    document$.subscribe(init);
   }
 })();
