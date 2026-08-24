@@ -50,6 +50,7 @@ import glob
 import json
 import os
 import re
+import shutil
 import time
 import urllib.parse
 import urllib.request
@@ -241,6 +242,55 @@ def _coverage_regressed(old_count, new_count):
     return old_count > 0 and new_count < old_count * 0.9
 
 
+def resolve_placeholder_ids(ids):
+    """
+    Some IDs stored in tags/*/bank.txt aren't real, nameable items at all -
+    they're the game's own dedicated "placeholder" cache entry for a real
+    item. Contrary to this file's earlier assumption (and the convention
+    RuneLite's *internal* layout config storage uses - see LayoutManager.java
+    upstream), the actual "Copy Banktag Loadout" clipboard format doesn't
+    mark placeholders with a negative sign at all: OSRS gives every item its
+    own separate placeholder ID (e.g. Max cape is 13280; its placeholder is
+    a distinct 14281, with configName "placeholder_skillcape_max"), and
+    that's what shows up directly, unsigned, in a bank.txt layout. Found
+    this investigating a report of a bank-view item showing as a bare
+    "Item #<id>" - confirmed *all* items that were hitting that were exactly
+    this, not corrupted data or unrelated obscure items.
+
+    The OSRS Wiki's Bucket API doesn't document placeholder items at all
+    (they're a game-engine implementation detail, not real content, so
+    fetch_infobox_items() never resolves one) - resolving them needs a
+    different, heavier source: chisel.weirdgloop.org's full item cache dump
+    (every item in the game, ~11MB, not just obtainable/tradeable ones).
+    Only called when there's at least one ID left unresolved after the
+    normal infobox crawl, and even then only fetched once per
+    generate_bank_item_names() run - which on a typical build won't happen
+    at all, since it only matters the first time a given placeholder ID
+    shows up.
+
+    Returns {placeholder_id: real_item_id} for whichever of `ids` turn out
+    to be placeholders; IDs that aren't are silently omitted.
+    """
+    request = urllib.request.Request(
+        'https://chisel.weirdgloop.org/moid/data_files/itemsmin.js',
+        headers={'User-Agent': 'clue-tags bank-view placeholder item cache (https://github.com/TheLope/clue-tags)'},
+    )
+    with urllib.request.urlopen(request, timeout=60) as response:
+        content = response.read().decode('utf-8')
+    data = json.loads(content[content.index('['):])
+
+    wanted = set(ids)
+    placeholders = {}
+    for item in data:
+        item_id = item.get('id')
+        if item_id not in wanted:
+            continue
+        real_id = item.get('placeholderId')
+        if (item.get('configName') or '').startswith('placeholder_') and isinstance(real_id, int) and real_id >= 0:
+            placeholders[item_id] = real_id
+    return placeholders
+
+
 def generate_bank_item_names(ids, infobox_items):
     """
     The bank-view feature (docs/javascripts/bank-view.js) needs item names
@@ -265,6 +315,13 @@ def generate_bank_item_names(ids, infobox_items):
     gets renamed or reclassified upstream without its ID changing - rare,
     but with no expiry it would never get picked up until someone happened
     to touch a bank.txt for an unrelated reason.
+
+    IDs the infobox crawl couldn't name at all get one more attempt via
+    resolve_placeholder_ids() (see there for why) - their entry in `names`
+    becomes the *real* item's name, and the mapping is also stored under
+    "placeholders" so bank-view.js can mark them as placeholders (they carry
+    no sign of their own to indicate that) and generate_bank_item_icons()'s
+    caller can give them the real item's icon under their own filename.
     """
     out_path = 'docs/bank/data/item-names.json'
     ids_key = sorted(ids)
@@ -280,6 +337,26 @@ def generate_bank_item_names(ids, infobox_items):
     else:
         names = {}
 
+    placeholders = {}
+    still_missing = {i for i in ids if str(i) not in names}
+    if still_missing:
+        try:
+            resolved = resolve_placeholder_ids(still_missing)
+        except Exception as e:
+            print(f'[bank-view] warning: could not resolve placeholder items ({e})')
+            resolved = {}
+        for placeholder_id, real_id in resolved.items():
+            real_name = (infobox_items.get(real_id) or {}).get('name')
+            if real_name:
+                names[str(placeholder_id)] = real_name
+                placeholders[str(placeholder_id)] = real_id
+
+    # Compared after placeholder resolution, not before: `existing`'s count
+    # already includes any placeholders resolved last time, so comparing it
+    # against the infobox-crawl-only count (before placeholder resolution
+    # has had a chance to run) would be an apples-to-oranges comparison and
+    # trip this guard on every build, never actually reaching the code that
+    # would restore that same coverage.
     if existing is not None and _coverage_regressed(len(existing.get('names', {})), len(names)):
         print(
             f'[bank-view] warning: item name coverage dropped from {len(existing["names"])} '
@@ -290,7 +367,7 @@ def generate_bank_item_names(ids, infobox_items):
 
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     with open(out_path, 'w') as f:
-        json.dump({'keys': ids_key, 'names': names, 'generated_at': time.time()}, f)
+        json.dump({'keys': ids_key, 'names': names, 'placeholders': placeholders, 'generated_at': time.time()}, f)
 
 
 def generate_bank_item_icons(ids, infobox_items):
@@ -548,10 +625,34 @@ def define_env(env):
     generate_bank_item_names(bank_item_ids, infobox_items)
     generate_diagram_item_ids(diagram_item_names, infobox_items)
     diagram_item_ids = (_read_json('docs/bank/data/diagram-icons.json') or {}).get('item_ids', {})
-    # Shared icon store: an item referenced by both bank-view and a diagram
-    # (there's real overlap - e.g. "Aether rune" appears in both) only gets
-    # downloaded once.
-    generate_bank_item_icons(bank_item_ids | set(diagram_item_ids.values()), infobox_items)
+    placeholder_real_ids = {
+        int(k): v for k, v in (_read_json('docs/bank/data/item-names.json') or {}).get('placeholders', {}).items()
+    }
+
+    # Shared icon store: an item referenced by bank-view, a diagram, or as
+    # the *real* item behind a placeholder ID (there's real overlap between
+    # all three - e.g. "Aether rune" appears in both bank-view and a
+    # diagram) only gets downloaded once.
+    generate_bank_item_icons(
+        bank_item_ids | set(diagram_item_ids.values()) | set(placeholder_real_ids.values()), infobox_items
+    )
+
+    # Placeholder IDs reuse the real item's already-downloaded icon under
+    # their own filename too, so bank-view.js's existing ID-keyed icon
+    # lookup (../data/icons/<id>.png) works for them unmodified. Always
+    # overwrites rather than skipping when the destination already exists:
+    # before placeholder resolution existed, generate_bank_item_icons()
+    # would have fetched *some* icon directly for the placeholder ID itself
+    # (its own live chisel sprite fallback, since placeholders have no
+    # infobox image) - checked in practice, and for 13 of our 33 current
+    # placeholders that doesn't actually match the real item's look. This
+    # copy is just a local file write either way, so there's no cost to
+    # always doing it and no reason to trust a possibly-stale existing file.
+    for placeholder_id, real_id in placeholder_real_ids.items():
+        src = f'docs/bank/data/icons/{real_id}.png'
+        dst = f'docs/bank/data/icons/{placeholder_id}.png'
+        if os.path.exists(src):
+            shutil.copyfile(src, dst)
 
     wiki_url = 'https://oldschool.runescape.wiki'
 

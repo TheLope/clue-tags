@@ -71,8 +71,18 @@
     if (!mappingPromise) {
       mappingPromise = fetch(NAMES_URL)
         .then((r) => r.json())
-        .then((obj) => new Map(Object.entries(obj.names || {}).map(([id, name]) => [Number(id), name])))
-        .catch(() => new Map());
+        .then((obj) => ({
+          names: new Map(Object.entries(obj.names || {}).map(([id, name]) => [Number(id), name])),
+          // IDs stored directly in a bank.txt layout that are actually the
+          // game's own dedicated "placeholder" cache entry for a real item,
+          // not the item itself (e.g. Max cape's placeholder is a distinct
+          // ID, not -13280) - RuneLite's own internal layout storage uses a
+          // negative sign for this, but the clipboard export format these
+          // pages read doesn't, so a placeholder can't be recognized just
+          // from the number's sign the way it's checked below.
+          placeholderIds: new Set(Object.keys(obj.placeholders || {}).map(Number)),
+        }))
+        .catch(() => ({ names: new Map(), placeholderIds: new Set() }));
     }
     return mappingPromise;
   }
@@ -100,7 +110,11 @@
         const parts = line.split(",");
         const name = parts[2];
         const layoutIdx = parts.indexOf("layout");
-        const slots = new Map(); // slotIndex -> itemId (negative = placeholder)
+        // slotIndex -> itemId. A negative ID is a placeholder (this format
+        // never seems to actually emit one in practice - see loadMapping()
+        // for the ID that does turn up: a dedicated, unsigned placeholder
+        // item ID, distinct from the real item's own ID).
+        const slots = new Map();
         if (layoutIdx !== -1) {
           for (let i = layoutIdx + 1; i < parts.length; i += 2) {
             const slot = parseInt(parts[i], 10);
@@ -112,7 +126,7 @@
       });
   }
 
-  function buildGrid(loadout, itemMap) {
+  function buildGrid(loadout, data) {
     const maxSlot = loadout.slots.size ? Math.max(...loadout.slots.keys()) : -1;
     const rows = Math.max(4, Math.ceil((maxSlot + 1) / COLS));
     const grid = document.createElement("div");
@@ -126,14 +140,14 @@
       if (rawId === undefined) {
         cell.setAttribute("aria-hidden", "true");
       } else {
-        const placeholder = rawId < 0;
         const id = Math.abs(rawId);
+        const placeholder = rawId < 0 || data.placeholderIds.has(id);
         if (placeholder) cell.classList.add("bank-view__cell--placeholder");
 
         // The sprite is keyed by ID, so it renders regardless of whether the
         // name lookup below succeeds (untradeable items aren't in the price
         // API's mapping, but still have a real icon).
-        const name = itemMap.get(id);
+        const name = data.names.get(id);
         const a = document.createElement("a");
         a.href = name ? pageUrl(name) : lookupUrl(id);
         a.title = name || "Item #" + id;
@@ -162,7 +176,7 @@
     return grid;
   }
 
-  function renderInto(container, loadouts, itemMap) {
+  function renderInto(container, loadouts, data) {
     container.innerHTML = "";
     const tabs = document.createElement("div");
     tabs.className = "bank-view__tabs";
@@ -174,7 +188,7 @@
 
     function show(idx) {
       body.innerHTML = "";
-      body.appendChild(buildGrid(loadouts[idx], itemMap));
+      body.appendChild(buildGrid(loadouts[idx], data));
       [...tabs.children].forEach((t, i) => {
         const active = i === idx;
         t.classList.toggle("bank-view__tab--active", active);
@@ -246,7 +260,7 @@
           // loads) can take a moment, so show something immediately rather
           // than leaving the panel looking unresponsive after the click.
           container.innerHTML = '<div class="bank-view__loading">Loading…</div>';
-          loadMapping().then((itemMap) => renderInto(container, loadouts, itemMap));
+          loadMapping().then((data) => renderInto(container, loadouts, data));
         }
       }
       container.hidden = false;
