@@ -47,3 +47,18 @@ Recommended gear setups with Bank Tags for all tiers
 [Mimic](tags/mimic/bank.txt)
 
 ## [FAQ](docs/faq.md)
+
+## Site Variants
+
+The maxed site is built from this branch as-is, and every directory in `variants/` is built as an
+overlay on top of it, published under that name (`variants/unmaxed` becomes `/clue-tags/unmaxed/`).
+
+An overlay holds full copies of only the files that differ, at their normal repository paths, so
+`variants/unmaxed/tags/hard/details.json` replaces `tags/hard/details.json` for that build. Anything
+not present in the overlay is shared, and edits to it apply everywhere at once.
+
+Build the whole site locally with:
+
+```
+scripts/build.sh
+```
