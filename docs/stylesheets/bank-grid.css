@@ -1,0 +1,70 @@
+/*
+ * Bank tag loadout grid.
+ *
+ * The wrapper carries class="bank-grid equipment" in main.py, so the wood
+ * interface border/background and the pixelated-icon media query already
+ * defined for .equipment in extra.css apply here for free. Each cell carries
+ * class="equipment-blank" (see bank-grid.js), reusing the site's existing
+ * slot art instead of drawing new artwork. Only the grid/tab layout that
+ * doesn't already exist elsewhere on the site is defined below.
+ */
+
+.bank-grid {
+    display: inline-block
+}
+
+.bank-grid__tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .3rem;
+    margin-bottom: 7px
+}
+
+.bank-grid__tab {
+    background: none;
+    border: .05rem solid var(--md-default-fg-color--lighter);
+    border-radius: 1rem;
+    padding: .15rem .5rem;
+    font: inherit;
+    font-size: .7rem;
+    color: var(--md-default-fg-color--light);
+    cursor: pointer
+}
+
+.bank-grid__tab:hover {
+    color: var(--md-primary-bg-color)
+}
+
+.bank-grid__tab--active {
+    background-color: var(--md-primary-bg-color);
+    border-color: var(--md-primary-bg-color);
+    color: var(--md-primary-fg-color)
+}
+
+.bank-grid__grid {
+    display: grid;
+    grid-template-columns: repeat(8, 36px);
+    gap: 2px
+}
+
+.bank-grid__cell {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    font-size: .5rem;
+    text-align: center
+}
+
+.bank-grid__cell a {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center
+}
+
+.bank-grid__cell--placeholder img {
+    opacity: .35;
+    filter: grayscale(1)
+}
