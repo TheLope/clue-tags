@@ -8,6 +8,12 @@
  * a plain background behind the items, not individually boxed slots like the
  * equipment/inventory widgets - so items just sit on that same wood panel.
  *
+ * Margin/padding intentionally match .inventorytable (also in extra.css)
+ * rather than .equipment's own (much tighter) values - .equipment's padding
+ * is sized for its thin repeating border, not for framing a block of
+ * content the way .inventorytable's is, and this widget is closer in shape
+ * to the inventory grid than to the equipment diagram or the Copy button.
+ *
  * Hidden by default (main.py renders it with the `hidden` attribute) and
  * revealed under the "Copy Banktag Loadout"/"Show Bank View" buttons by
  * bank-view.js on click.
@@ -16,7 +22,8 @@
 .bank-view {
     display: block;
     width: fit-content;
-    margin: 7px auto 0
+    margin: 7px auto;
+    padding: 13px 16px 10px
 }
 
 .bank-view[hidden] {
