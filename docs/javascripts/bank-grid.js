@@ -2,9 +2,14 @@
  * Renders the RuneLite "Copy Banktag Loadout" string (already emitted into the
  * page by the `banktags()` macro in main.py) as a visual bank-interface grid.
  *
- * The grid starts hidden and is built lazily the first time the "Show Bank
- * Grid" button (id="bank-grid-toggle") is clicked, so viewing the page never
- * costs a mapping fetch or DOM build unless someone actually opens it.
+ * The grid starts hidden by default and is built lazily the first time it's
+ * revealed, so a page view that never opens it never costs a mapping fetch
+ * or DOM build. "Revealed" means either clicking the "Show Bank Grid" button
+ * (id="bank-grid-toggle"), or - if it was left open on a previous page view
+ * anywhere on the site - automatically on load, via a localStorage flag the
+ * toggle keeps up to date. That's what makes the open/closed state survive
+ * switching the maxed/unmaxed toggle: that's just a normal navigation to a
+ * different path on the same origin.
  *
  * The loadout string only carries item IDs, not names, so this pulls from a
  * couple of small same-origin files generated at build time by main.py
@@ -181,6 +186,28 @@
     show(0);
   }
 
+  // Remembers whether the grid was left open, so it comes back open on the
+  // next page view - including switching the maxed/unmaxed toggle, which is
+  // just a normal navigation to a different path on the same origin, so
+  // localStorage carries across it for free. Wrapped in try/catch: storage
+  // can throw in private browsing / with site data blocked, and this is a
+  // nice-to-have, not something that should ever break the grid itself.
+  const OPEN_STORAGE_KEY = "bank-grid-open";
+  function getStoredOpenState() {
+    try {
+      return localStorage.getItem(OPEN_STORAGE_KEY) === "true";
+    } catch (e) {
+      return false;
+    }
+  }
+  function setStoredOpenState(open) {
+    try {
+      localStorage.setItem(OPEN_STORAGE_KEY, open ? "true" : "false");
+    } catch (e) {
+      // ignore
+    }
+  }
+
   // The grid starts hidden (main.py renders it with the `hidden` attribute)
   // and is only built the first time it's revealed, so a page view that
   // never opens it never pays for the mapping fetch or the DOM build.
@@ -190,10 +217,8 @@
 
     let rendered = false;
 
-    toggle.addEventListener("click", () => {
-      const willShow = container.hidden;
-
-      if (willShow && !rendered) {
+    function reveal() {
+      if (!rendered) {
         rendered = true;
         const source = document.getElementById(container.dataset.source);
         const loadouts = source ? parseLoadouts(source.value || source.textContent || "") : [];
@@ -201,10 +226,23 @@
           loadMapping().then((itemMap) => renderInto(container, loadouts, itemMap));
         }
       }
+      container.hidden = false;
+      toggle.textContent = "Hide Bank Grid";
+    }
 
-      container.hidden = !willShow;
-      toggle.textContent = willShow ? "Hide Bank Grid" : "Show Bank Grid";
+    function hide() {
+      container.hidden = true;
+      toggle.textContent = "Show Bank Grid";
+    }
+
+    toggle.addEventListener("click", () => {
+      const willShow = container.hidden;
+      if (willShow) reveal();
+      else hide();
+      setStoredOpenState(willShow);
     });
+
+    if (getStoredOpenState()) reveal();
   }
 
   function init() {
