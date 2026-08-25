@@ -1,25 +1,16 @@
 /*
  * Bank tag loadout view.
  *
- * The wrapper carries class="bank-view equipment" in main.py, so the wood
- * interface border/background and the pixelated-icon media query already
- * defined for .equipment in extra.css apply here for free. Cells deliberately
- * have no per-slot background of their own - the real OSRS bank interface is
- * a plain background behind the items, not individually boxed slots like the
- * equipment/inventory widgets - so items just sit on that same wood panel.
+ * Wrapper carries class="bank-view equipment" (main.py), reusing
+ * .equipment's wood border/background and pixelated-icon media query.
+ * Cells have no per-slot background of their own - matches the real bank
+ * interface, items just sit on the wood panel.
  *
- * Margin/padding intentionally match .inventorytable (also in extra.css)
- * rather than .equipment's own (much tighter) values - .equipment's padding
- * is sized for its thin repeating border, not for framing a block of
- * content the way .inventorytable's is, and this widget is closer in shape
- * to the inventory grid than to the equipment diagram or the Copy button.
- * Cells are sized 43x36 to match .inventorytable td too: the icons are
- * narrower than that, same as in the inventory view, so the cell (not the
- * icon) is what's actually setting the horizontal rhythm of the grid.
+ * Margin/padding/cell size match .inventorytable (extra.css), not
+ * .equipment - this widget is closer in shape to the inventory grid, and
+ * .equipment's padding is sized for its thin border, not for framing content.
  *
- * Hidden by default (main.py renders it with the `hidden` attribute) and
- * revealed under the "Copy Banktag Loadout"/"Show Bank View" buttons by
- * bank-view.js on click.
+ * Hidden by default; revealed by bank-view.js on toggle click.
  */
 
 .bank-view {
