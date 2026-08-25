@@ -1,0 +1,90 @@
+/*
+ * Bank tag loadout view.
+ *
+ * Wrapper carries class="bank-view equipment" (main.py), reusing
+ * .equipment's wood border/background and pixelated-icon media query.
+ * Cells have no per-slot background of their own - matches the real bank
+ * interface, items just sit on the wood panel.
+ *
+ * Margin/padding/cell size match .inventorytable (extra.css), not
+ * .equipment - this widget is closer in shape to the inventory grid, and
+ * .equipment's padding is sized for its thin border, not for framing content.
+ *
+ * Hidden by default; revealed by bank-view.js on toggle click.
+ */
+
+.bank-view {
+    display: block;
+    width: fit-content;
+    margin: 7px auto;
+    padding: 13px 16px 10px
+}
+
+.bank-view[hidden] {
+    display: none
+}
+
+.bank-view__tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .3rem;
+    margin-bottom: 7px
+}
+
+.bank-view__tab {
+    background: none;
+    border: .05rem solid var(--md-default-fg-color--lighter);
+    border-radius: 1rem;
+    padding: .15rem .5rem;
+    font: inherit;
+    font-size: .7rem;
+    color: var(--md-default-fg-color--light);
+    cursor: pointer
+}
+
+.bank-view__tab:hover {
+    color: var(--md-primary-bg-color)
+}
+
+.bank-view__tab--active {
+    background-color: var(--md-primary-bg-color);
+    border-color: var(--md-primary-bg-color);
+    color: var(--md-primary-fg-color)
+}
+
+.bank-view__grid {
+    display: grid;
+    grid-template-columns: repeat(8, 43px);
+    gap: 2px
+}
+
+.bank-view__cell {
+    width: 43px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    font-size: .5rem;
+    text-align: center
+}
+
+.bank-view__cell a {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center
+}
+
+.bank-view__cell--placeholder img {
+    opacity: .35;
+    filter: grayscale(1)
+}
+
+.bank-view__loading {
+    padding: 8px;
+    font-size: .7rem;
+    color: var(--md-default-fg-color--light);
+    text-align: center
+}
