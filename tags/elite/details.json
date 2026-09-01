@@ -182,12 +182,12 @@
     },
     {
         "id": 12085,
-        "text": "MAX F: +gp 6 dtooth",
+        "text": "+SAIL 4: gp 6 dtooth",
         "color": "#FFB7FF00",
         "itemIds": [
-            13280,
-            13342,
-            995
+            32399,
+            995,
+            952
         ],
         "widgetIds": [
             {

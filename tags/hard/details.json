@@ -670,12 +670,11 @@
     },
     {
         "id": 3538,
-        "text": "MAX K Tyras: +gp 7 dig",
+        "text": "+SAIL 4: gp 7 dig",
         "color": "#FFC15FFF",
         "itemIds": [
-            13280,
-            13342,
             952,
+            32399,
             995
         ],
         "widgetIds": [

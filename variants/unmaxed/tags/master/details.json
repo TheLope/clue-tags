@@ -3007,12 +3007,12 @@
     },
     {
         "id": 726,
-        "text": "CON 6: +gp 6 dtooth n",
+        "text": "+SAIL 4: gp 6 dtooth n",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
             952,
-            9790,
+            32399,
             995
         ],
         "widgetIds": [
@@ -3024,12 +3024,12 @@
     },
     {
         "id": 727,
-        "text": "CON 6: +gp 6 dtooth s",
+        "text": "+SAIL 4: gp 6 dtooth s",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
             952,
-            9790,
+            32399,
             995
         ],
         "widgetIds": [
@@ -3225,12 +3225,12 @@
     },
     {
         "id": 741,
-        "text": "CON 6: +gp 8 dig",
+        "text": "+SAIL 4: gp 8 dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
             952,
-            9790,
+            32399,
             995
         ],
         "widgetIds": [

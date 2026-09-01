@@ -3011,13 +3011,12 @@
     },
     {
         "id": 726,
-        "text": "MAX F: +gp 6 dtooth n",
+        "text": "+SAIL 4: gp 6 dtooth n",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
             952,
-            13280,
-            13342,
+            32399,
             995
         ],
         "widgetIds": [
@@ -3029,13 +3028,12 @@
     },
     {
         "id": 727,
-        "text": "MAX F: +gp 6 dtooth s",
+        "text": "+SAIL 4: gp 6 dtooth s",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
             952,
-            13280,
-            13342,
+            32399,
             995
         ],
         "widgetIds": [
@@ -3235,13 +3233,12 @@
     },
     {
         "id": 741,
-        "text": "MAX F: +gp 8 dig",
+        "text": "+SAIL 4: gp 8 dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
             952,
-            13280,
-            13342,
+            32399,
             995
         ],
         "widgetIds": [

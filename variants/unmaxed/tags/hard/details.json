@@ -668,26 +668,14 @@
     },
     {
         "id": 3538,
-        "text": "BOAT Tyras: +gp 7 dig",
+        "text": "+SAIL 4: gp 7 dig",
         "color": "#FFC15FFF",
         "itemIds": [
             952,
+            32399,
             995
         ],
         "widgetIds": [
-            {
-                "componentId": 10747962
-            },
-            {
-                "componentId": 14286997
-            },
-            {
-                "componentId": 14352385,
-                "childIndex": 1
-            },
-            {
-                "componentId": 14286931
-            },
             {
                 "componentId": 57999364,
                 "childIndex": 16
