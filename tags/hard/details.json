@@ -1107,7 +1107,7 @@
     },
     {
         "id": 7252,
-        "text": "1 WATCH: dungeon",
+        "text": "1 YANIL: dungeon",
         "color": "#FFC15FFF",
         "widgetIds": [
             {
@@ -1346,7 +1346,7 @@
     },
     {
         "id": 10242,
-        "text": "+PHAR 1: stash",
+        "text": "PHAR 1: stash",
         "color": "#FFFF00AF",
         "itemIds": [
             9044,
@@ -1518,7 +1518,7 @@
     },
     {
         "id": 12550,
-        "text": "+PHAR 2: stash",
+        "text": "PHAR 2: stash",
         "color": "#FFFF00AF",
         "itemIds": [
             9044,
@@ -1737,7 +1737,7 @@
     },
     {
         "id": 12587,
-        "text": "+PHAR 1: Mummy",
+        "text": "PHAR 1: Mummy",
         "color": "#FFC15FFF",
         "itemIds": [
             9044,
@@ -2249,7 +2249,7 @@
     },
     {
         "id": 21526,
-        "text": "VM: w dig",
+        "text": "+VM: w dig",
         "color": "#FFC15FFF",
         "itemIds": [
             21541,
