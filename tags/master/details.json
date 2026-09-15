@@ -429,14 +429,21 @@
     },
     {
         "id": 536,
-        "text": "ARC HT: mine dig",
+        "text": "3 ARC HT: mine dig",
         "color": "#FFFF5A00",
         "itemIds": [
             952
         ],
         "widgetIds": [
             {
+                "componentId": 10747962
+            },
+            {
                 "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
             },
             {
                 "componentId": 14287001
