@@ -1290,6 +1290,7 @@
     {
         "id": 597,
         "text": "SPID: castle stash",
+        "color": "#FFFF5A00",
         "itemIds": [
             21389,
             29782
