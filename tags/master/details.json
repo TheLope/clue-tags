@@ -1573,12 +1573,15 @@
     },
     {
         "id": 623,
-        "text": "+ATES 3: tecu Cam",
+        "text": "+QUET: Cam tecu",
         "color": "#FFFF5A00",
         "itemIds": [
-            29893
+            29275
         ],
         "widgetIds": [
+            {
+                "componentId": 10747946
+            },
             {
                 "componentId": 57278476,
                 "childIndex": 4
