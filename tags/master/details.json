@@ -1117,7 +1117,7 @@
     },
     {
         "id": 587,
-        "text": "+QUET: Cam stash",
+        "text": "QUET Cam: stash",
         "color": "#FFFF5A00",
         "itemIds": [
             29275
@@ -1179,10 +1179,11 @@
     },
     {
         "id": 591,
-        "text": "GLORY 3: stash",
+        "text": "BOX Q: stash",
         "color": "#FFFF5A00",
         "itemIds": [
-            19707
+            13280,
+            13342
         ],
         "widgetIds": [
             {
@@ -1323,7 +1324,7 @@
     },
     {
         "id": 599,
-        "text": "+QUET: Over stash",
+        "text": "QUET Over: stash",
         "color": "#FFFF5A00",
         "itemIds": [
             29275
@@ -1576,7 +1577,7 @@
     },
     {
         "id": 623,
-        "text": "+QUET: Cam tecu",
+        "text": "QUET Cam: tecu",
         "color": "#FFFF5A00",
         "itemIds": [
             29275
@@ -2733,12 +2734,19 @@
     },
     {
         "id": 704,
-        "text": "GLORY 2: s dig",
+        "text": "BOX P: s dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
             952,
-            19707
+            13280,
+            13342
+        ],
+        "widgetIds": [
+            {
+                "componentId": 38666247,
+                "childIndex": 6
+            }
         ]
     },
     {
@@ -2859,12 +2867,13 @@
     },
     {
         "id": 713,
-        "text": "GLORY 3: mill pond dig",
+        "text": "DIA G: mill pond dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
             952,
-            19707
+            13069,
+            19476
         ]
     },
     {
@@ -3148,7 +3157,7 @@
     },
     {
         "id": 732,
-        "text": "+QUET Sunset: w dig",
+        "text": "QUET Sunset: w dig",
         "color": "#FFFF5A00",
         "itemIds": [
             19939,
