@@ -206,16 +206,15 @@
     },
     {
         "id": 519,
-        "text": "MOS LE: island dig",
+        "text": "TB: island dig",
         "color": "#FFFF5A00",
         "itemIds": [
-            21389,
-            12411,
             952
         ],
         "widgetIds": [
             {
-                "componentId": 39125033
+                "componentId": 4980758,
+                "childIndex": 28
             }
         ]
     },
@@ -241,12 +240,11 @@
     },
     {
         "id": 522,
-        "text": "DRAK 1: +mines dig",
+        "text": "DRAK 1: mines dig",
         "color": "#FFFF5A00",
         "itemIds": [
             22400,
-            952,
-            23680
+            952
         ]
     },
     {
@@ -1109,12 +1107,18 @@
     },
     {
         "id": 586,
-        "text": "DIA E: +death",
-        "color": "#FFFF5A00",
+        "text": "DIA E: -death",
+        "color": "#FFFF0000",
         "itemIds": [
             13069,
             19476,
-            11095
+            11095,
+            1273,
+            27652,
+            21820,
+            13280,
+            13342,
+            23742
         ],
         "widgetIds": [
             {
@@ -1244,12 +1248,18 @@
     },
     {
         "id": 594,
-        "text": "DIA E: +soul",
-        "color": "#FFFF5A00",
+        "text": "DIA E: -soul",
+        "color": "#FFFF0000",
         "itemIds": [
             13069,
             19476,
-            11095
+            11095,
+            1273,
+            27652,
+            21820,
+            13280,
+            13342,
+            23742
         ],
         "widgetIds": [
             {
@@ -1666,6 +1676,7 @@
         "itemIds": [
             21389,
             12406,
+            590,
             3448,
             3404
         ],
@@ -1816,8 +1827,7 @@
         "text": "+SLAY 2: nechryael",
         "color": "#FFFF5A00",
         "itemIds": [
-            21268,
-            3024
+            21268
         ]
     },
     {
