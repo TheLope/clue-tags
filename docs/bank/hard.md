@@ -12,6 +12,7 @@ icon: clue/hard
     - **Significant items lost in the event of a PK death**:
         - **Master scroll book**: Only keep a small amount of teleport scrolls inside you're comfortable risking (30-50 ea)
 - For increased max hit of 89 and **additional risk**, substitute Ferocious gloves and Obsidian platelegs
+- **Crimson kisten** (with Zeal) > Dragon claws
 - Depends on Special Attack for fights
     - Restore prior to fights to meet the following:
         - 100% Special Attack for Saradomin wizard/Double agent
