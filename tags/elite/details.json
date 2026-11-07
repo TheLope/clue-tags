@@ -871,13 +871,18 @@
     },
     {
         "id": 12150,
-        "text": "DIA E: +abyss law",
-        "color": "#FFB7FF00",
+        "text": "DIA E: -abyss law",
+        "color": "#FFFF0000",
         "itemIds": [
             13069,
             19476,
             11095,
-            1273
+            1273,
+            27652,
+            21820,
+            13280,
+            13342,
+            23742
         ]
     },
     {
@@ -1035,13 +1040,18 @@
     },
     {
         "id": 19784,
-        "text": "DIA E: +abyss soul",
-        "color": "#FFB7FF00",
+        "text": "DIA E: -abyss soul",
+        "color": "#FFFF0000",
         "itemIds": [
             13069,
             19476,
             11095,
-            1273
+            1273,
+            27652,
+            21820,
+            13280,
+            13342,
+            23742
         ],
         "widgetIds": [
             {
@@ -1948,14 +1958,18 @@
     },
     {
         "id": 420,
-        "text": "DIA E: +abyss cosmic",
-        "color": "#FF00FF00",
+        "text": "DIA E: -abyss cosmic",
+        "color": "#FFFF0000",
         "itemIds": [
-            13140,
             13069,
             19476,
             11095,
             1273,
+            27652,
+            21820,
+            13280,
+            13342,
+            23742,
             1454,
             7936
         ]
