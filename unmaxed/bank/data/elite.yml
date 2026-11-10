@@ -1,25 +1,25 @@
 elite:
   equipment:
-    head: Torva full helm
-    cape: Infernal cape
-    neck: Amulet of rancour
-    ammo: Rada's blessing 4
+    head: Ancestral hat
+    cape: Imbued Saradomin cape
+    neck: Occult necklace
+    ammo: ~
     ammo2: ~
-    weapon: Crimson kisten
-    torso: Inquisitor's hauberk
-    legs: Torva platelegs
-    shield: ~
-    gloves: Ferocious gloves
+    weapon: Western banner 4
+    torso: Ancestral robe top
+    legs: Morytania legs 4
+    shield: Book of the Dead
+    gloves: Confliction gauntlets
     boots: Avernic treads (max)
-    ring: Ultor ring
+    ring: Ring of shadows
   inventory:
-  - [Clue scroll (elite), Achievement diary cape (t), Quest point cape (t), Book of the Dead]
+  - [Clue scroll (elite), Achievement diary cape (t), Quest point cape (t), Pharaoh's sceptre]
   - [Spade, Construct. cape(t), Strength cape(t), Master scroll book]
-  - [Kandarin headgear 4, Enchanted lyre(i), Eternal teleport crystal, Pharaoh's sceptre]
-  - [Slayer ring (eternal), Ring of wealth, Ghommal's hilt 6, Pendant of Ates]
-  - [Divine super combat potion(4), Ring of shadows, Divine rune pouch, Blood rune]
-  - [Crystal halberd, ~, Desert amulet 4, Aether rune]
-  - [~, ~, ~, Morytania legs 4]
+  - [Kandarin headgear 4, Enchanted lyre(i), Eternal teleport crystal, Desert amulet 4]
+  - [Slayer ring (eternal), Ring of wealth, Ghommal's hilt 6, Drakan's medallion]
+  - [Zorya's tome, Saturated heart, Divine rune pouch, Blood rune]
+  - [~, ~, Perfected quetzal whistle(i), Aether rune]
+  - [~, ~, Sled, Pendant of Ates]
   spellbook:
   - Lunar spellbook
   - Spellbook Swap
