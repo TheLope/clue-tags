@@ -91,7 +91,13 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13280,
-            13342
+            13342,
+            11972,
+            11974,
+            11118,
+            11120,
+            11122,
+            11124
         ],
         "widgetIds": [
             {
@@ -199,16 +205,11 @@
     },
     {
         "id": 12086,
-        "text": "TB: island",
+        "text": "RUM: island",
         "color": "#FFB7FF00",
         "itemIds": [
+            8941,
             952
-        ],
-        "widgetIds": [
-            {
-                "componentId": 4980758,
-                "childIndex": 28
-            }
         ]
     },
     {
@@ -233,6 +234,7 @@
         "itemIds": [
             13280,
             13342,
+            561,
             952
         ]
     },
@@ -258,7 +260,7 @@
     },
     {
         "id": 12091,
-        "text": "+DRAK 1: w wall",
+        "text": "DRAK 1: w wall",
         "color": "#FFB7FF00",
         "itemIds": [
             22400
@@ -382,7 +384,7 @@
     },
     {
         "id": 12100,
-        "text": "MAX D: w dig",
+        "text": "MAX D: climb dig",
         "color": "#FFB7FF00",
         "itemIds": [
             13280,
@@ -781,7 +783,7 @@
     },
     {
         "id": 12143,
-        "text": "+BANN: furnace",
+        "text": "BANN: furnace",
         "color": "#FFB7FF00",
         "itemIds": [
             13144
@@ -833,7 +835,7 @@
     },
     {
         "id": 12147,
-        "text": "+GSA 1: Vannaka",
+        "text": "GSA 1: Vannaka",
         "color": "#FFB7FF00",
         "itemIds": [
             30638
@@ -1013,13 +1015,11 @@
     },
     {
         "id": 19782,
-        "text": "-KHAZ: dive",
+        "text": "+KHAZ: dive",
         "color": "#FFB7FF00",
         "itemIds": [
             24957,
             32386,
-            13280,
-            13342,
             952
         ]
     },
@@ -1067,6 +1067,11 @@
         "itemIds": [
             13115,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -1259,10 +1264,9 @@
         "text": "SLAY 3: +basilisk",
         "color": "#FFB7FF00",
         "itemIds": [
-            24266,
             21268,
-            24265,
-            27690
+            24266,
+            31113
         ]
     },
     {
@@ -1351,7 +1355,8 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13280,
-            13342
+            13342,
+            1963
         ]
     },
     {
@@ -1372,7 +1377,13 @@
         "text": "LEGS: batta",
         "color": "#FFB7FF00",
         "itemIds": [
-            13115
+            13115,
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -1404,7 +1415,12 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13280,
-            13342
+            13342,
+            11194,
+            11193,
+            11192,
+            11191,
+            11190
         ]
     },
     {
@@ -1422,7 +1438,12 @@
         "color": "#FFB7FF00",
         "itemIds": [
             13280,
-            13342
+            13342,
+            11194,
+            11193,
+            11192,
+            11191,
+            11190
         ]
     },
     {
@@ -1622,8 +1643,11 @@
     },
     {
         "id": 28910,
-        "text": "1 CIV: temple stash",
+        "text": "1 CIV: +sunfire stash",
         "color": "#FFB7FF00",
+        "itemIds": [
+            28933
+        ],
         "widgetIds": [
             {
                 "componentId": 10747962
@@ -1653,7 +1677,7 @@
     },
     {
         "id": 28912,
-        "text": "+QUET Gorge: se dig",
+        "text": "QUET Gorge: se dig",
         "color": "#FFB7FF00",
         "itemIds": [
             29275,
@@ -1715,7 +1739,7 @@
             13280,
             13342,
             31398,
-            22325
+            27275
         ]
     },
     {
@@ -1785,11 +1809,24 @@
     },
     {
         "id": 405,
-        "text": "NEX MARIM: +agility",
+        "text": "+3 MARIM: agility",
         "color": "#FF00FF00",
         "itemIds": [
             13140,
+            1963,
             19525
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
+            }
         ]
     },
     {

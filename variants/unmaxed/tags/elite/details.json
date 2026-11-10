@@ -89,7 +89,13 @@
         "text": "BOX C: stash up",
         "color": "#FFB7FF00",
         "itemIds": [
-            9790
+            9790,
+            11972,
+            11974,
+            11118,
+            11120,
+            11122,
+            11124
         ],
         "widgetIds": [
             {
@@ -195,16 +201,11 @@
     },
     {
         "id": 12086,
-        "text": "TB: island",
+        "text": "RUM: island",
         "color": "#FFB7FF00",
         "itemIds": [
+            8941,
             952
-        ],
-        "widgetIds": [
-            {
-                "componentId": 4980758,
-                "childIndex": 28
-            }
         ]
     },
     {
@@ -227,6 +228,7 @@
         "color": "#FFB7FF00",
         "itemIds": [
             9790,
+            561,
             952
         ]
     },
@@ -252,7 +254,7 @@
     },
     {
         "id": 12091,
-        "text": "+DRAK 1: w wall",
+        "text": "DRAK 1: w wall",
         "color": "#FFB7FF00",
         "itemIds": [
             22400
@@ -374,7 +376,7 @@
     },
     {
         "id": 12100,
-        "text": "CON 4: w dig",
+        "text": "CON 4: climb dig",
         "color": "#FFB7FF00",
         "itemIds": [
             9790,
@@ -753,7 +755,7 @@
     },
     {
         "id": 12141,
-        "text": "HILT: +sled dig",
+        "text": "HILT: sled dig",
         "color": "#FFB7FF00",
         "itemIds": [
             25936,
@@ -781,7 +783,7 @@
     },
     {
         "id": 12143,
-        "text": "+BANN: furnace",
+        "text": "BANN: furnace",
         "color": "#FFB7FF00",
         "itemIds": [
             13144
@@ -1007,7 +1009,7 @@
     },
     {
         "id": 19782,
-        "text": "-KHAZ: dive",
+        "text": "+KHAZ: dive",
         "color": "#FFB7FF00",
         "itemIds": [
             24957,
@@ -1058,6 +1060,11 @@
         "itemIds": [
             13115,
             952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -1082,7 +1089,7 @@
     },
     {
         "id": 19787,
-        "text": "HILT: +sled stash",
+        "text": "HILT: sled stash",
         "color": "#FFB7FF00",
         "itemIds": [
             25936,
@@ -1247,10 +1254,9 @@
         "text": "SLAY 3: +basilisk",
         "color": "#FFB7FF00",
         "itemIds": [
-            24266,
             21268,
-            24265,
-            27690
+            24266,
+            31113
         ]
     },
     {
@@ -1338,7 +1344,8 @@
         "text": "NEX MARIM: Daga",
         "color": "#FFB7FF00",
         "itemIds": [
-            9790
+            9790,
+            1963
         ]
     },
     {
@@ -1359,7 +1366,13 @@
         "text": "LEGS: batta",
         "color": "#FFB7FF00",
         "itemIds": [
-            13115
+            13115,
+            952
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747960
+            }
         ]
     },
     {
@@ -1389,7 +1402,12 @@
         "text": "DIGS 2: 4 Jardric",
         "color": "#FFB7FF00",
         "itemIds": [
-            9790
+            9790,
+            11194,
+            11193,
+            11192,
+            11191,
+            11190
         ]
     },
     {
@@ -1406,7 +1424,12 @@
         "text": "DIGS 3: up",
         "color": "#FFB7FF00",
         "itemIds": [
-            9790
+            9790,
+            11194,
+            11193,
+            11192,
+            11191,
+            11190
         ]
     },
     {
@@ -1453,7 +1476,7 @@
     },
     {
         "id": 23147,
-        "text": "+ROS 2: up dig",
+        "text": "ROS 2: up dig",
         "color": "#FFB7FF00",
         "itemIds": [
             9790,
@@ -1603,8 +1626,11 @@
     },
     {
         "id": 28910,
-        "text": "1 CIV: temple stash",
+        "text": "1 CIV: +sunfire stash",
         "color": "#FFB7FF00",
+        "itemIds": [
+            28933
+        ],
         "widgetIds": [
             {
                 "componentId": 10747962
@@ -1634,7 +1660,7 @@
     },
     {
         "id": 28912,
-        "text": "+QUET Gorge: se dig",
+        "text": "QUET Gorge: se dig",
         "color": "#FFB7FF00",
         "itemIds": [
             29275,
@@ -1703,7 +1729,7 @@
         "itemIds": [
             97902,
             31398,
-            22325
+            27275
         ]
     },
     {
@@ -1784,11 +1810,24 @@
     },
     {
         "id": 405,
-        "text": "NEX MARIM: +agility",
+        "text": "+3 MARIM: agility",
         "color": "#FF00FF00",
         "itemIds": [
             13140,
+            1963,
             19525
+        ],
+        "widgetIds": [
+            {
+                "componentId": 10747962
+            },
+            {
+                "componentId": 14286997
+            },
+            {
+                "componentId": 14352385,
+                "childIndex": 3
+            }
         ]
     },
     {
