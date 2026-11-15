@@ -13,9 +13,9 @@ mimic:
     boots: Avernic treads (max)
     ring: Magus ring
   inventory:
-  - [Mimic, Desert amulet 4, Crafting cape(t), Watson teleport]
+  - [Tumeken's shadow, Desert amulet 4, Crafting cape(t), Watson teleport]
   - [Saturated heart, Anglerfish, Anglerfish, Anglerfish]
-  - [Anglerfish, Anglerfish, ~, ~]
+  - [Mimic, Anglerfish, Anglerfish, Anglerfish]
   - [~, ~, ~, ~]
   - [~, ~, ~, ~]
   - [~, ~, ~, ~]
