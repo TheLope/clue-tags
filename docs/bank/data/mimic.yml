@@ -1,20 +1,20 @@
 mimic:
   equipment:
-    head: Oathplate helm
-    cape: Infernal cape
-    neck: Amulet of rancour
+    head: Ancestral hat
+    cape: Imbued Saradomin cape
+    neck: Occult necklace
     ammo: ~
     ammo2: ~
-    weapon: Dragon claws
-    torso: Oathplate chest
-    legs: Oathplate legs
+    weapon: Zorya's tome
+    torso: Ancestral robe top
+    legs: Ancestral robe bottom
     shield: ~
-    gloves: Ferocious gloves
+    gloves: Confliction gauntlets
     boots: Avernic treads (max)
-    ring: Bellator ring
+    ring: Magus ring
   inventory:
-  - [Scythe of vitur, Desert amulet 4, Crafting cape(t), Watson teleport]
-  - [Divine super combat potion(1), Anglerfish, Anglerfish, Anglerfish]
+  - [Tumeken's shadow, Desert amulet 4, Crafting cape(t), Watson teleport]
+  - [Saturated heart, Anglerfish, Anglerfish, Anglerfish]
   - [Mimic, Anglerfish, Anglerfish, Anglerfish]
   - [~, ~, ~, ~]
   - [~, ~, ~, ~]
