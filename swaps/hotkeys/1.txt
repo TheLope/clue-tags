@@ -20,8 +20,8 @@ Lunch by*,Book of the Dead
 Surface,Camulet
 Bryophyta*,Giantsoul amulet
 Darkfrost,Pendant of Ates
-*Monastery*,Ardougne cloak 4
-Kourend Woodland, Rada's blessing 4
+*Monastery*,Ardougne*
+Kourend Woodland, Rada's blessing*
 Lletya, Eternal teleport crystal
 Northern entrance,*Revenant cave teleport*
 Ver Sinhaza,Drakan's medallion

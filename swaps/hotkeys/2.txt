@@ -20,8 +20,8 @@ The fisher's*,Book of the Dead
 Temple,Camulet
 Obor*,Giantsoul amulet
 Twilight Temple,Pendant of Ates
-*Farm*,Ardougne cloak 4
-Mount Karuulm, Rada's blessing 4
+*Farm*,Ardougne*
+Mount Karuulm, Rada's blessing*
 Prif*, Eternal teleport crystal
 Middle entrance,*Revenant cave teleport*
 Darkmeyer,Drakan's medallion
